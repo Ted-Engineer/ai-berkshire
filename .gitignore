@@ -10,9 +10,8 @@ reports/美团/command-log.jsonl
 # 雪球爬虫登录态缓存（含 cookies，本地使用）
 /tmp/xueqiu_state.json
 
-# ===== 媒体与大文件不入库（书籍扫描、音视频等）=====
+# ===== 音视频大文件不入库 =====
 # 如确需提交某个文件，用 git add -f 显式加入
-*.pdf
 *.m4a
 *.mp3
 *.wav
