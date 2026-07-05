@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1124 780" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC',sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9" fill="none" stroke="#52514e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="arrowLoop" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9" fill="none" stroke="#b9b8b0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- 画布 -->
+  <rect x="0.5" y="0.5" width="1123" height="779" rx="14" fill="#fcfcfb" stroke="#e5e4e0"/>
+
+  <!-- 标题 -->
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">AI Berkshire · Three-Layer Architecture</text>
+  <text x="1096" y="38" font-size="12.5" fill="#52514e" text-anchor="end">The full path of one research run</text>
+
+  <!-- 入口 -->
+  <rect x="385" y="54" width="310" height="34" rx="17" fill="#ffffff" stroke="#d8d7d2"/>
+  <text x="540" y="76" font-size="13.5" fill="#0b0b0b" text-anchor="middle">One person + Claude Code / Codex</text>
+  <line x1="540" y1="88" x2="540" y2="112" stroke="#52514e" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <text x="552" y="106" font-size="11" fill="#8a897f">Pick an entry by scenario</text>
+
+  <!-- ① Skill Layer -->
+  <rect x="24" y="118" width="1032" height="186" rx="10" fill="#ffffff" stroke="#e5e4e0"/>
+  <text x="44" y="146" font-size="14.5" font-weight="700" fill="#0b0b0b">① Skill Layer</text>
+  <text x="1036" y="146" font-size="12" fill="#52514e" text-anchor="end">19 skills · one per scenario</text>
+  <line x1="44" y1="158" x2="1036" y2="158" stroke="#efeeea" stroke-width="1"/>
+
+  <!-- 五个分类列 -->
+  <g font-size="11.5" fill="#52514e">
+    <text x="44" y="182" font-size="12.5" font-weight="700" fill="#0b0b0b">Deep Research <tspan fill="#8a897f" font-weight="400">5</tspan></text>
+    <text x="44" y="204">/investment-research</text>
+    <text x="44" y="222">/investment-team</text>
+    <text x="44" y="240">/management-deep-dive</text>
+    <text x="44" y="258">/private-company-research</text>
+    <text x="44" y="276">/deep-company-series</text>
+
+    <text x="246" y="182" font-size="12.5" font-weight="700" fill="#0b0b0b">Earnings <tspan fill="#8a897f" font-weight="400">2</tspan></text>
+    <text x="246" y="204">/earnings-review</text>
+    <text x="246" y="222">/earnings-team</text>
+
+    <text x="448" y="182" font-size="12.5" font-weight="700" fill="#0b0b0b">Screening <tspan fill="#8a897f" font-weight="400">5</tspan></text>
+    <text x="448" y="204">/industry-research</text>
+    <text x="448" y="222">/industry-funnel</text>
+    <text x="448" y="240">/quality-screen</text>
+    <text x="448" y="258">/bottleneck-hunter</text>
+    <text x="448" y="276">/investment-checklist</text>
+
+    <text x="650" y="182" font-size="12.5" font-weight="700" fill="#0b0b0b">Portfolio <tspan fill="#8a897f" font-weight="400">4</tspan></text>
+    <text x="650" y="204">/portfolio-review</text>
+    <text x="650" y="222">/thesis-tracker</text>
+    <text x="650" y="240">/thesis-drift</text>
+    <text x="650" y="258">/news-pulse</text>
+
+    <text x="852" y="182" font-size="12.5" font-weight="700" fill="#0b0b0b">Thinking Tools <tspan fill="#8a897f" font-weight="400">3</tspan></text>
+    <text x="852" y="204">/dyp-ask</text>
+    <text x="852" y="222">/financial-data</text>
+    <text x="852" y="240">/wechat-article</text>
+  </g>
+
+  <line x1="540" y1="304" x2="540" y2="328" stroke="#52514e" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <text x="552" y="322" font-size="11" fill="#8a897f">Team skills · 4+1 agents in parallel</text>
+
+  <!-- 轻量 skill 旁路 -->
+  <line x1="64" y1="306" x2="64" y2="574" stroke="#b9b8b0" stroke-width="1.2" marker-end="url(#arrowLoop)"/>
+  <text x="50" y="440" font-size="10.5" fill="#8a897f" text-anchor="middle" transform="rotate(-90 50 440)">Lightweight skills call tools directly</text>
+
+  <!-- ② Multi-Agent Core -->
+  <rect x="110" y="334" width="946" height="214" rx="10" fill="#ffffff" stroke="#d8d7d2" stroke-width="1.4"/>
+  <text x="130" y="362" font-size="14.5" font-weight="700" fill="#0b0b0b">② Multi-Agent Core</text>
+  <text x="1036" y="362" font-size="12" fill="#52514e" text-anchor="end">Four masters · cross-examination</text>
+
+  <!-- Team Lead -->
+  <rect x="400" y="348" width="280" height="32" rx="16" fill="#0b0b0b"/>
+  <text x="540" y="369" font-size="13" fill="#ffffff" text-anchor="middle">Team Lead · orchestrate &amp; synthesize</text>
+
+  <!-- 派发线 -->
+  <path d="M 540 380 C 540 402, 238 408, 238 430" fill="none" stroke="#d8d7d2" stroke-width="1.2"/>
+  <path d="M 540 380 C 540 404, 468 410, 468 430" fill="none" stroke="#d8d7d2" stroke-width="1.2"/>
+  <path d="M 540 380 C 540 404, 698 410, 698 430" fill="none" stroke="#d8d7d2" stroke-width="1.2"/>
+  <path d="M 540 380 C 540 402, 928 408, 928 430" fill="none" stroke="#d8d7d2" stroke-width="1.2"/>
+
+  <!-- 四大师卡片 -->
+  <g>
+    <rect x="130" y="430" width="216" height="86" rx="8" fill="#fcfcfb" stroke="#e5e4e0"/>
+    <rect x="130" y="430" width="216" height="4" rx="2" fill="#2a78d6"/>
+    <text x="238" y="458" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle">Duan Yongping · Business Model</text>
+    <text x="238" y="480" font-size="11.5" fill="#52514e" text-anchor="middle">Is this a good business?</text>
+    <text x="238" y="500" font-size="10.5" fill="#8a897f" text-anchor="middle">Do the right thing, do it right</text>
+
+    <rect x="360" y="430" width="216" height="86" rx="8" fill="#fcfcfb" stroke="#e5e4e0"/>
+    <rect x="360" y="430" width="216" height="4" rx="2" fill="#1baf7a"/>
+    <text x="468" y="458" font-size="13.5" font-weight="700" fill="#0b0b0b" text-anchor="middle">Buffett · Valuation</text>
+    <text x="468" y="480" font-size="11.5" fill="#52514e" text-anchor="middle">Is price well below value?</text>
+    <text x="468" y="500" font-size="10.5" fill="#8a897f" text-anchor="middle">Competence · margin of safety</text>
+
+    <rect x="590" y="430" width="216" height="86" rx="8" fill="#fcfcfb" stroke="#e5e4e0"/>
+    <rect x="590" y="430" width="216" height="4" rx="2" fill="#eda100"/>
+    <text x="698" y="458" font-size="13.5" font-weight="700" fill="#0b0b0b" text-anchor="middle">Munger · Competition</text>
+    <text x="698" y="480" font-size="11.5" fill="#52514e" text-anchor="middle">Invert: how does it die?</text>
+    <text x="698" y="500" font-size="10.5" fill="#8a897f" text-anchor="middle">Mental models · inversion</text>
+
+    <rect x="820" y="430" width="216" height="86" rx="8" fill="#fcfcfb" stroke="#e5e4e0"/>
+    <rect x="820" y="430" width="216" height="4" rx="2" fill="#008300"/>
+    <text x="928" y="458" font-size="13.5" font-weight="700" fill="#0b0b0b" text-anchor="middle">Li Lu · Risk &amp; Management</text>
+    <text x="928" y="480" font-size="11.5" fill="#52514e" text-anchor="middle">How certain in ten years?</text>
+    <text x="928" y="500" font-size="10.5" fill="#8a897f" text-anchor="middle">Intellectual honesty · patience</text>
+  </g>
+  <text x="540" y="538" font-size="11.5" fill="#52514e" text-anchor="middle">Four independent views — disagreement itself is information</text>
+
+  <line x1="540" y1="548" x2="540" y2="572" stroke="#52514e" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <text x="552" y="566" font-size="11" fill="#8a897f">Key numbers go through tools — no mental math</text>
+
+  <!-- ③ Tools &amp; Data Layer -->
+  <rect x="24" y="578" width="1032" height="96" rx="10" fill="#ffffff" stroke="#e5e4e0"/>
+  <text x="44" y="604" font-size="14.5" font-weight="700" fill="#0b0b0b">③ Tools &amp; Data Layer</text>
+  <text x="1036" y="604" font-size="12" fill="#52514e" text-anchor="end">Exact math · live data · quality gate</text>
+
+  <g>
+    <rect x="44" y="616" width="243" height="42" rx="8" fill="#fcfcfb" stroke="#e5e4e0"/>
+    <text x="165" y="633" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,monospace">financial_rigor.py</text>
+    <text x="165" y="650" font-size="10.5" fill="#52514e" text-anchor="middle">Exact Decimal arithmetic, never mental math</text>
+
+    <rect x="297" y="616" width="243" height="42" rx="8" fill="#fcfcfb" stroke="#e5e4e0"/>
+    <text x="418" y="633" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,monospace">report_audit.py</text>
+    <text x="418" y="650" font-size="10.5" fill="#52514e" text-anchor="middle">15% spot audit — fail means no publish</text>
+
+    <rect x="550" y="616" width="243" height="42" rx="8" fill="#fcfcfb" stroke="#e5e4e0"/>
+    <text x="671" y="633" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,monospace">WebSearch / WebFetch</text>
+    <text x="671" y="650" font-size="10.5" fill="#52514e" text-anchor="middle">Live quotes &amp; filings search</text>
+
+    <rect x="803" y="616" width="243" height="42" rx="8" fill="#fcfcfb" stroke="#e5e4e0"/>
+    <text x="924" y="633" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,monospace">xueqiu_scraper.py</text>
+    <text x="924" y="650" font-size="10.5" fill="#52514e" text-anchor="middle">Investor opinions &amp; sentiment</text>
+  </g>
+
+  <line x1="540" y1="674" x2="540" y2="698" stroke="#52514e" stroke-width="1.4" marker-end="url(#arrow)"/>
+  <text x="552" y="692" font-size="11" fill="#8a897f">Publish only after the audit passes</text>
+
+  <!-- 输出 -->
+  <rect x="330" y="702" width="420" height="38" rx="19" fill="#0b0b0b"/>
+  <text x="540" y="726" font-size="13" fill="#ffffff" text-anchor="middle">Structured research reports · reports/{company}/*.md</text>
+
+  <!-- 追踪闭环 -->
+  <path d="M 750 721 H 1082 V 452 H 1064" fill="none" stroke="#b9b8b0" stroke-width="1.2" stroke-dasharray="4 4" marker-end="url(#arrowLoop)"/>
+  <text x="1100" y="586" font-size="10.5" fill="#8a897f" text-anchor="middle" transform="rotate(-90 1100 586)">thesis-tracker / drift · continuous loop</text>
+</svg>

@@ -161,10 +161,10 @@ Ask AI directly, and you have one context window. Four parallel Agents means 4×
 ## Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" alt="AI Berkshire Architecture" width="600" />
+  <img src="assets/architecture-en.svg" alt="AI Berkshire Architecture" width="760" />
 </p>
 
-> Source: [`assets/architecture.mmd`](assets/architecture.mmd) (editable Mermaid diagram)
+> Source: [`assets/architecture-en.svg`](assets/architecture-en.svg) (vector, text-editable; Chinese version: [`architecture.svg`](assets/architecture.svg))
 
 **Three-Layer Design Philosophy**:
 - **Skill Layer**: Abstracts "what you want to do" into 18 clear entry points — deep research, earnings analysis, industry screening, portfolio management, and thinking tools. Pick by scenario.

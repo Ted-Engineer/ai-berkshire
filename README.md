@@ -160,10 +160,10 @@ AI Berkshire 确保：**同样的输入 → 结构一致、深度一致的输出
 ## 整体架构
 
 <p align="center">
-  <img src="assets/architecture.png" alt="AI Berkshire 整体架构" width="600" />
+  <img src="assets/architecture.svg" alt="AI Berkshire 整体架构" width="760" />
 </p>
 
-> 图源：[`assets/architecture.mmd`](assets/architecture.mmd)（Mermaid 可编辑源码）
+> 图源：[`assets/architecture.svg`](assets/architecture.svg)（矢量图，文本可直接编辑；英文版见 [`architecture-en.svg`](assets/architecture-en.svg)）
 
 **三层设计哲学**：
 - **Skill 层**：把"你要做什么"抽象成 19 个明确入口——深度研究、财报分析、行业筛选、持仓管理、思维工具，按场景选用
