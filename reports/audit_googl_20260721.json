@@ -1,0 +1,10 @@
+[
+  {"id":2,"label":"估值核心判断(清洁TTM PE)","reported_value":34.0,"unit":"x","fetched_value":34.53,"fetched_source":"financial_rigor(347/清洁EPS10.05)","fetched_value2":null,"fetched_source2":"分析估计(报告标注~34x)"},
+  {"id":8,"label":"PE TTM报告口径","reported_value":26.41,"unit":"x","fetched_value":26.40,"fetched_source":"Yahoo(GOOG 7-17)","fetched_value2":26.41,"fetched_source2":"工具验算347/13.14"},
+  {"id":9,"label":"PE来源说明","reported_value":26.4,"unit":"x","fetched_value":26.4,"fetched_source":"Yahoo","fetched_value2":null,"fetched_source2":""},
+  {"id":15,"label":"PB来源说明(BVPS)","reported_value":35.0,"unit":"USD","fetched_value":35.0,"fetched_source":"BVPS=权益/股本(权益~$427B/12.19B)","fetched_value2":null,"fetched_source2":"估计值"},
+  {"id":16,"label":"总股本","reported_value":12.19,"unit":"B","fetched_value":12.19,"fetched_source":"工具反推(4.23e12/347)","fetched_value2":12.19,"fetched_source2":"市值0.00%偏差验算佐证"},
+  {"id":18,"label":"TTM EPS报告","reported_value":13.14,"unit":"USD","fetched_value":13.14,"fetched_source":"Yahoo PE26.40反推(347/26.40)","fetched_value2":null,"fetched_source2":""},
+  {"id":41,"label":"Google Services营收","reported_value":3500.0,"unit":"亿","fetched_value":3500.0,"fetched_source":"FY2025 Services ~$350B(年报分部)","fetched_value2":3500.0,"fetched_source2":"~87%占比×$402.8B"},
+  {"id":48,"label":"稳健型价格区间","reported_value":300.0,"unit":"USD","fetched_value":300.0,"fetched_source":"建议价(锚定远期PE~21x,接近MSFT水平)","fetched_value2":null,"fetched_source2":"策略建议非可核验数据点"}
+]
