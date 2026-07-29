@@ -1,0 +1,53 @@
+{
+  "report": "reports/CRCL/CRCL-investment-team-report-20260712.md",
+  "company": "CRCL (Circle Internet Group)",
+  "audit_date": "2026-07-12",
+  "tool": "tools/report_audit.py",
+  "seed": 42,
+  "ratio": 0.15,
+  "rounds": [
+    {
+      "round": "首轮（增量更新前）",
+      "total_points": 93,
+      "sampled": 14,
+      "passed": 10,
+      "warning": 1,
+      "failed": 3,
+      "verdict": "打回",
+      "failed_items": [
+        {"id": 32, "label": "USDC流通量FY2024", "reported": 37, "fetched": 41, "unit": "B", "deviation_pct": 10.81},
+        {"id": 87, "label": "Tether USDT份额", "reported": 67, "fetched": 58, "unit": "%", "deviation_pct": 13.43},
+        {"id": 82, "label": "市值核验旧价", "reported": 64, "fetched": 66.14, "unit": "USD", "deviation_pct": 3.34}
+      ]
+    },
+    {
+      "round": "复检（增量更新后）",
+      "total_points": 105,
+      "sampled": 16,
+      "passed": 15,
+      "warning": 1,
+      "failed": 0,
+      "verdict": "准出",
+      "warning_item": "TTM净利润两源偏差1.27%（GAAP时点差异）"
+    }
+  ],
+  "exact_match_highlights": [
+    "总负债 $77,108M = Q1'26财报勾稽(80537-3429)，偏差0.00%",
+    "Q1'26总收入 $694M = Circle pressroom + TIKR双源一致"
+  ],
+  "incidental_fixes": [
+    "现金单位 $1.5亿/$1.52亿 → $1.52B（约15亿），原值少一个数量级",
+    "信息丰富度 A级 → B级",
+    "新增Q1'26业绩小节(§3.5)",
+    "P/S 5.98x → 6.17x；'P/S 6x' → 'P/S 6.2x'"
+  ],
+  "market_cap_verification": {
+    "tool": "tools/financial_rigor.py verify-market-cap",
+    "price": 66.14,
+    "shares_M": 267,
+    "computed_mcap_B": 17.66,
+    "reported_mcap_B": 17.67,
+    "deviation_pct": 0.06,
+    "status": "pass"
+  }
+}

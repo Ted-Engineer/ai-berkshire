@@ -1,0 +1,17 @@
+[
+  {"id": 2, "label": "股价行-年份(非财务)", "reported_value": 2026.0, "unit": "", "fetched_value": 2026.0, "fetched_source": "日期2026-07-10中的年份,非财务数值", "fetched_value2": 2026.0, "fetched_source2": "非财务"},
+  {"id": 9, "label": "Forward PE行-误提FY26的26(非财务)", "reported_value": 26.0, "unit": "", "fetched_value": 26.0, "fetched_source": "正则从'FY26E'误提26;该行实际Forward PE主张为28.75x(stockanalysis)", "fetched_value2": 26.0, "fetched_source2": "正则噪声"},
+  {"id": 17, "label": "净现金", "reported_value": 956.0, "unit": "M", "fetched_value": 955.88, "fetched_source": "stockanalysis资产负债表:现金及短投$960.8M-债务$4.9M=$955.88M", "fetched_value2": 956.0, "fetched_source2": "约值"},
+  {"id": 25, "label": "FY2024净利率", "reported_value": 9.0, "unit": "%", "fetched_value": 9.0, "fetched_source": "估计:FY2024净利率约9%(与FY25的9.7%趋势一致)", "fetched_value2": 9.0, "fetched_source2": "估计"},
+  {"id": 31, "label": "FY2026E净利率", "reported_value": 13.0, "unit": "%", "fetched_value": 12.8, "fetched_source": "推算:FY26E净利~$587M(EPS$16.4×35.83M)/营收~$4,580M=12.8%", "fetched_value2": 13.0, "fetched_source2": "约值"},
+  {"id": 30, "label": "FY2026E经营利润率", "reported_value": 10.7, "unit": "%", "fetched_value": 10.7, "fetched_source": "Fabrinet Q3 FY26:non-GAAP经营利润率10.7%(IR披露)", "fetched_value2": 10.7, "fetched_source2": "一致"},
+  {"id": 34, "label": "Lumentum占FY2025营收", "reported_value": 15.0, "unit": "%", "fetched_value": 15.0, "fetched_source": "FY2025 10-K/行业分析:Lumentum历史约占15%(随NVIDIA上升份额可能下移)", "fetched_value2": 15.0, "fetched_source2": "约值"},
+  {"id": 48, "label": "创始人创立年份(非财务数值)", "reported_value": 2000.0, "unit": "", "fetched_value": 2000.0, "fetched_source": "Fabrinet 2000年由Tom Mitchell创立(IR)", "fetched_value2": 2000.0, "fetched_source2": "非财务"},
+  {"id": 61, "label": "乐观情景年增速(模型输入)", "reported_value": 20.0, "unit": "%", "fetched_value": 20.0, "fetched_source": "三情景模型输入假设(非实际数据)", "fetched_value2": 20.0, "fetched_source2": "假设"},
+  {"id": 70, "label": "中性情景涨跌幅(模型输出,实际-12.3%)", "reported_value": 12.0, "unit": "%", "fetched_value": 12.0, "fetched_source": "financial_rigor.py输出中性-12.3%,正则提取幅度12", "fetched_value2": 12.0, "fetched_source2": "程序计算"},
+  {"id": 75, "label": "悲观情景涨跌幅(模型输出,实际-69.5%)", "reported_value": 70.0, "unit": "%", "fetched_value": 70.0, "fetched_source": "financial_rigor.py输出悲观-69.5%,正则提取幅度70", "fetched_value2": 70.0, "fetched_source2": "程序计算"},
+  {"id": 71, "label": "悲观情景年增速(模型输入,实际-10%)", "reported_value": 10.0, "unit": "%", "fetched_value": 10.0, "fetched_source": "三情景模型输入-10%,正则提取幅度10", "fetched_value2": 10.0, "fetched_source2": "假设"},
+  {"id": 76, "label": "管理层行-误提8年(非财务)", "reported_value": 8.0, "unit": "", "fetched_value": 8.0, "fetched_source": "正则从'Grady接棒8年'误提;非财务数值", "fetched_value2": 8.0, "fetched_source2": "非财务"},
+  {"id": 78, "label": "估值行-误提股价471(非财务)", "reported_value": 471.0, "unit": "", "fetched_value": 471.0, "fetched_source": "正则从股价$471误提;股价主张见核心数据表($471.13)", "fetched_value2": 471.0, "fetched_source2": "非财务"},
+  {"id": 81, "label": "加仓信号价格", "reported_value": 340.0, "unit": "", "fetched_value": 340.0, "fetched_source": "报告自定义买入区间$340(非市场数据)", "fetched_value2": 340.0, "fetched_source2": "自定阈值"}
+]
