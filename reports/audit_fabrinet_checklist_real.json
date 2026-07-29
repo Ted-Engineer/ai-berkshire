@@ -1,0 +1,10 @@
+[
+  {"id": 2, "label": "股价行-年份(非财务)", "reported_value": 2026.0, "unit": "", "fetched_value": 2026.0, "fetched_source": "日期2026-07-10中的年份,非财务", "fetched_value2": 2026.0, "fetched_source2": "非财务"},
+  {"id": 17, "label": "净利率", "reported_value": 9.7, "unit": "%", "fetched_value": 9.72, "fetched_source": "年报计算:FY25净利$332.5M/营收$3,419M=9.72%", "fetched_value2": 9.7, "fetched_source2": "约值"},
+  {"id": 23, "label": "FY26E营收", "reported_value": 4580.0, "unit": "M", "fetched_value": 4580.0, "fetched_source": "推算:Q1$978+Q2$1133+Q3$1214+Q4指引中值$1272=4597≈4580M(Fabrinet IR)", "fetched_value2": 4580.0, "fetched_source2": "约值"},
+  {"id": 34, "label": "资本开支强度(估计)", "reported_value": 5.0, "unit": "%", "fetched_value": 5.0, "fetched_source": "估计:capex约占营收5%(代工扩产期)", "fetched_value2": 5.0, "fetched_source2": "估计"},
+  {"id": 40, "label": "诚实度行-误提25年(非财务)", "reported_value": 25.0, "unit": "", "fetched_value": 25.0, "fetched_source": "正则从'25年聚焦代工'误提;非财务数值", "fetched_value2": 25.0, "fetched_source2": "非财务"},
+  {"id": 42, "label": "股东利益导向行-误提159万股(非财务)", "reported_value": 159.0, "unit": "", "fetched_value": 159.0, "fetched_source": "正则从'CEO持股~159万股'误提;非财务数值(实际持股数据)", "fetched_value2": 159.0, "fetched_source2": "非财务"},
+  {"id": 45, "label": "PE历史分位行-误提5年(非财务)", "reported_value": 5.0, "unit": "", "fetched_value": 5.0, "fetched_source": "正则从'5年高位'误提;非财务数值", "fetched_value2": 5.0, "fetched_source2": "非财务"},
+  {"id": 48, "label": "空仓触发价格(自定阈值)", "reported_value": 340.0, "unit": "", "fetched_value": 340.0, "fetched_source": "报告自定义买入区间$340(Forward PE~23x),非市场数据", "fetched_value2": 340.0, "fetched_source2": "自定阈值"}
+]
