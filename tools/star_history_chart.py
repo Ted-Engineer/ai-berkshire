@@ -30,7 +30,7 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-REPO = "xbtlin/ai-berkshire"
+REPO = "Ted-Engineer/ai-berkshire"
 API = "https://api.github.com"
 MAX_SAMPLE_PAGES = 36  # 采样页数上限，曲线平滑度足够且请求量可控
 

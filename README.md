@@ -279,7 +279,7 @@ Claude Code 用户安装（macOS / Linux）：
 
 ```bash
 # 克隆仓库
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
 
 # 复制 skills 到 Claude Code 全局 commands 目录
 cd ai-berkshire
@@ -289,7 +289,7 @@ cd ai-berkshire
 Claude Code 用户安装（Windows PowerShell / Command Prompt）：
 
 ```bat
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
 cd ai-berkshire
 .\scripts\install-claude-commands.bat
 ```
@@ -298,7 +298,7 @@ Codex 用户安装（macOS / Linux）：
 
 ```bash
 # 克隆仓库
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
 
 # 生成并安装 Codex skills 到 ~/.codex/skills
 cd ai-berkshire
@@ -312,7 +312,7 @@ cd ai-berkshire
 Codex 用户安装（Windows PowerShell / Command Prompt）：
 
 ```bat
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
 cd ai-berkshire
 .\scripts\install-codex-skills.bat
 
@@ -711,7 +711,7 @@ MIT License
 
 如果这个项目对你有帮助，请给一个 Star 支持！精选公司研究与个人判断首发于微信公众号「**复利炼丹炉**」（二维码见[文首](#精选研究首发于公众号)）。
 
-<a href="https://github.com/xbtlin/ai-berkshire/stargazers">
+<a href="https://github.com/Ted-Engineer/ai-berkshire/stargazers">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/star-history-dark.svg">
     <img alt="Star History Chart" src="assets/star-history.svg">

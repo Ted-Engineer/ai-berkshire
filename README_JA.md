@@ -271,7 +271,7 @@ Claude CodeユーザーでmacOS / Linuxの場合：
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
 
 # skillをClaude Codeグローバルコマンドディレクトリにコピー
 cd ai-berkshire
@@ -281,7 +281,7 @@ cd ai-berkshire
 Claude CodeユーザーでWindows PowerShell / コマンドプロンプトの場合：
 
 ```bat
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
 cd ai-berkshire
 .\scripts\install-claude-commands.bat
 ```
@@ -290,7 +290,7 @@ CodexユーザーでmacOS / Linuxの場合：
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
 
 # Codex skillsを生成して ~/.codex/skills にインストール
 cd ai-berkshire
@@ -304,7 +304,7 @@ cd ai-berkshire
 CodexユーザーでWindows PowerShell / コマンドプロンプトの場合：
 
 ```bat
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
 cd ai-berkshire
 .\scripts\install-codex-skills.bat
 
@@ -704,7 +704,7 @@ MIT License
 
 このプロジェクトが役に立った方は、ぜひStarをお願いします！
 
-<a href="https://github.com/xbtlin/ai-berkshire/stargazers">
+<a href="https://github.com/Ted-Engineer/ai-berkshire/stargazers">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/star-history-dark.svg">
     <img alt="Star History Chart" src="assets/star-history.svg">
