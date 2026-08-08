@@ -3,7 +3,7 @@
 ## 项目概述
 
 基于 Claude Code 的价值投资研究 Skill 合集。四大师框架：巴菲特、芒格、段永平、李录。
-GitHub: xbtlin/ai-berkshire
+GitHub: Ted-Engineer/ai-berkshire
 
 ## 项目结构
 
@@ -87,7 +87,7 @@ reports/{公司名}/
 ## GitHub 操作
 
 - 本地克隆路径：`~/ai-berkshire/`
-- 远程仓库：`https://github.com/xbtlin/ai-berkshire.git`
+- 远程仓库：`https://github.com/Ted-Engineer/ai-berkshire.git`
 - 推送前先 `git pull --rebase origin main`（远程经常有新提交）
 - commit message 用中文，描述清楚改了什么
 - 不要推送中间过程文件（如 data_collection.md），只推最终报告
