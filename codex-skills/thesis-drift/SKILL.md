@@ -9,7 +9,7 @@ This skill is generated from `skills/thesis-drift.md` so Claude Code and Codex u
 
 - Treat `$ARGUMENTS` as the user's request in the current Codex thread.
 - When the source mentions Claude-only surfaces such as Task, Agent, WebSearch, Bash, Read, or Write, use the closest Codex capability available in this session: subagents when available, web search when needed, shell commands for local tools, and normal file edits for workspace files.
-- Use shared project tools from `tools/` in this repository. Prefer running commands from the repository root with paths like `python3 tools/financial_rigor.py ...`; if the current thread starts outside the repo, locate the actual checkout path first instead of assuming a fixed home-directory path.
+- Use shared project tools from `tools/` in this repository. Prefer running commands from the repository root with paths like `python tools/financial_rigor.py ...`; if the current thread starts outside the repo, locate the actual checkout path first instead of assuming a fixed home-directory path.
 - Before starting research, run the `date` command to confirm today's date; treat it as the baseline for "latest" data and state the data cutoff date in the report header. Never assume the current date from training data.
 - Preserve the research quality rules from `AGENTS.md`: cross-check financial data, use exact arithmetic tools for valuation/math, and clearly label uncertainty and source gaps.
 
@@ -85,7 +85,7 @@ This skill is generated from `skills/thesis-drift.md` so Claude Code and Codex u
 所有数值变化必须使用 `tools/financial_rigor.py` 做精确计算，禁止 LLM 心算：
 
 ```bash
-python3 tools/financial_rigor.py verify-valuation \
+python tools/financial_rigor.py verify-valuation \
   --price {当前价格} \
   --eps {EPS} \
   --bvps {每股净资产} \
@@ -95,10 +95,10 @@ python3 tools/financial_rigor.py verify-valuation \
 如需计算市值、百分比变化、目标价差异或情景估值，使用：
 
 ```bash
-python3 tools/financial_rigor.py verify-market-cap --price {价格} --shares {股本} --reported {报告市值} --currency {币种}
-python3 tools/financial_rigor.py cross-validate --field {字段} --values '{JSON}' --unit {单位}
-python3 tools/financial_rigor.py three-scenario --price {价格} --eps {EPS} --shares {股本亿} --growth {乐观} {中性} {悲观} --pe {乐观PE} {中性PE} {悲观PE}
-python3 tools/financial_rigor.py calc --expr '{精确算式}'
+python tools/financial_rigor.py verify-market-cap --price {价格} --shares {股本} --reported {报告市值} --currency {币种}
+python tools/financial_rigor.py cross-validate --field {字段} --values '{JSON}' --unit {单位}
+python tools/financial_rigor.py three-scenario --price {价格} --eps {EPS} --shares {股本亿} --growth {乐观} {中性} {悲观} --pe {乐观PE} {中性PE} {悲观PE}
+python tools/financial_rigor.py calc --expr '{精确算式}'
 ```
 
 关键财务数据必须至少两处独立来源交叉验证。来源不足、口径不一致、无法复核的数字必须标注为"低置信度 / 待核实"。

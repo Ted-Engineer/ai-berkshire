@@ -9,7 +9,7 @@ This skill is generated from `skills/financial-data.md` so Claude Code and Codex
 
 - Treat `$ARGUMENTS` as the user's request in the current Codex thread.
 - When the source mentions Claude-only surfaces such as Task, Agent, WebSearch, Bash, Read, or Write, use the closest Codex capability available in this session: subagents when available, web search when needed, shell commands for local tools, and normal file edits for workspace files.
-- Use shared project tools from `tools/` in this repository. Prefer running commands from the repository root with paths like `python3 tools/financial_rigor.py ...`; if the current thread starts outside the repo, locate the actual checkout path first instead of assuming a fixed home-directory path.
+- Use shared project tools from `tools/` in this repository. Prefer running commands from the repository root with paths like `python tools/financial_rigor.py ...`; if the current thread starts outside the repo, locate the actual checkout path first instead of assuming a fixed home-directory path.
 - Before starting research, run the `date` command to confirm today's date; treat it as the baseline for "latest" data and state the data cutoff date in the report header. Never assume the current date from training data.
 - Preserve the research quality rules from `AGENTS.md`: cross-check financial data, use exact arithmetic tools for valuation/math, and clearly label uncertainty and source gaps.
 
@@ -55,12 +55,12 @@ This skill is generated from `skills/financial-data.md` so Claude Code and Codex
 **FinMind 取数工具**（分析台股时优先调用，输出自带市值验算）：
 
 ```bash
-python3 tools/twstock_data.py quote 2330        # 最新行情 + PER/PBR/殖利率 + 市值验算
-python3 tools/twstock_data.py valuation 2330    # 估值指标 + PER一年区间 + 52周高低
-python3 tools/twstock_data.py financials 2330   # 近5年年度核心财务（营收/毛利率/归母净利/EPS/ROE）
-python3 tools/twstock_data.py revenue 2330      # 近13个月月营收及同比
-python3 tools/twstock_data.py dividend 2330     # 近年股利政策（现金/股票股利、除息日）
-python3 tools/twstock_data.py search 台積        # 搜索股票代码（注意台股名称为繁体）
+python tools/twstock_data.py quote 2330        # 最新行情 + PER/PBR/殖利率 + 市值验算
+python tools/twstock_data.py valuation 2330    # 估值指标 + PER一年区间 + 52周高低
+python tools/twstock_data.py financials 2330   # 近5年年度核心财务（营收/毛利率/归母净利/EPS/ROE）
+python tools/twstock_data.py revenue 2330      # 近13个月月营收及同比
+python tools/twstock_data.py dividend 2330     # 近年股利政策（现金/股票股利、除息日）
+python tools/twstock_data.py search 台積        # 搜索股票代码（注意台股名称为繁体）
 ```
 
 台股特别注意：

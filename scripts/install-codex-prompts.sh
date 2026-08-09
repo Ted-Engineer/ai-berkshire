@@ -4,7 +4,7 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 DEST="${CODEX_HOME:-$HOME/.codex}/prompts"
 
-python3 "$ROOT/scripts/sync-codex-prompts.py"
+python "$ROOT/scripts/sync-codex-prompts.py"
 mkdir -p "$DEST"
 cp "$ROOT"/codex-prompts/*.md "$DEST"/
 

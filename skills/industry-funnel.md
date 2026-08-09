@@ -280,13 +280,13 @@ A = 数据充分可信；B = 部分缺失但不影响主结论；C = 缺失较�
 
 ```bash
 # Step 1 — 提取抽检清单（15% 随机抽样）
-python3 tools/report_audit.py extract \
+python tools/report_audit.py extract \
   --report <报告文件路径>
 
 # Step 2 — 对清单每项从可靠信源取数（参见 skills/financial-data.md）
 
 # Step 3 — 输出准出/打回判决
-python3 tools/report_audit.py verdict \
+python tools/report_audit.py verdict \
   --results '<填好的JSON>' \
   --report <报告文件名>
 ```
