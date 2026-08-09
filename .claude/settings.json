@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash scripts/learnings-digest.sh",
+            "shell": "bash",
+            "timeout": 10,
+            "statusMessage": "注入 .learnings/ 知识库摘要…"
+          }
+        ]
+      }
+    ]
+  }
+}

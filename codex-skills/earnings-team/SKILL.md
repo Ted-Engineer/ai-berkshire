@@ -9,7 +9,7 @@ This skill is generated from `skills/earnings-team.md` so Claude Code and Codex 
 
 - Treat `$ARGUMENTS` as the user's request in the current Codex thread.
 - When the source mentions Claude-only surfaces such as Task, Agent, WebSearch, Bash, Read, or Write, use the closest Codex capability available in this session: subagents when available, web search when needed, shell commands for local tools, and normal file edits for workspace files.
-- Use shared project tools from `tools/` in this repository. Prefer running commands from the repository root with paths like `python3 tools/financial_rigor.py ...`; if the current thread starts outside the repo, locate the actual checkout path first instead of assuming a fixed home-directory path.
+- Use shared project tools from `tools/` in this repository. Prefer running commands from the repository root with paths like `python tools/financial_rigor.py ...`; if the current thread starts outside the repo, locate the actual checkout path first instead of assuming a fixed home-directory path.
 - Before starting research, run the `date` command to confirm today's date; treat it as the baseline for "latest" data and state the data cutoff date in the report header. Never assume the current date from training data.
 - Preserve the research quality rules from `AGENTS.md`: cross-check financial data, use exact arithmetic tools for valuation/math, and clearly label uncertainty and source gaps.
 
@@ -123,7 +123,7 @@ This skill is generated from `skills/earnings-team.md` so Claude Code and Codex 
    - 关键数据至少两个来源交叉验证
 
    ```bash
-   python3 tools/financial_rigor.py cross-validate \
+   python tools/financial_rigor.py cross-validate \
      --metric "revenue" --values {值1} {值2} --sources "来源1" "来源2"
    ```
 
@@ -148,11 +148,11 @@ This skill is generated from `skills/earnings-team.md` so Claude Code and Codex 
 5. **估值与安全边际更新**
 
    ```bash
-   python3 tools/financial_rigor.py verify-market-cap \
+   python tools/financial_rigor.py verify-market-cap \
      --price {价格} --shares {股本} --reported {报告市值} --currency {币种}
-   python3 tools/financial_rigor.py verify-valuation \
+   python tools/financial_rigor.py verify-valuation \
      --price {价格} --eps {EPS} --bvps {每股净资产}
-   python3 tools/financial_rigor.py three-scenario \
+   python tools/financial_rigor.py three-scenario \
      --price {价格} --eps {EPS} --shares {股本亿} \
      --growth {乐观} {中性} {悲观} --pe {乐观PE} {中性PE} {悲观PE}
    ```
@@ -429,10 +429,10 @@ reports/{公司名}/
 对最终文章执行抽检：
 
 ```bash
-python3 tools/report_audit.py extract \
+python tools/report_audit.py extract \
   --report reports/{公司名}/{公司名}-earnings-{期间}.md
 
-python3 tools/report_audit.py verdict \
+python tools/report_audit.py verdict \
   --results '<填好的JSON>' \
   --report {报告文件名}
 ```

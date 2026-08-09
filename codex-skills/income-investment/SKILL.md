@@ -9,7 +9,7 @@ This skill is generated from `skills/income-investment.md` so Claude Code and Co
 
 - Treat `$ARGUMENTS` as the user's request in the current Codex thread.
 - When the source mentions Claude-only surfaces such as Task, Agent, WebSearch, Bash, Read, or Write, use the closest Codex capability available in this session: subagents when available, web search when needed, shell commands for local tools, and normal file edits for workspace files.
-- Use shared project tools from `tools/` in this repository. Prefer running commands from the repository root with paths like `python3 tools/financial_rigor.py ...`; if the current thread starts outside the repo, locate the actual checkout path first instead of assuming a fixed home-directory path.
+- Use shared project tools from `tools/` in this repository. Prefer running commands from the repository root with paths like `python tools/financial_rigor.py ...`; if the current thread starts outside the repo, locate the actual checkout path first instead of assuming a fixed home-directory path.
 - Before starting research, run the `date` command to confirm today's date; treat it as the baseline for "latest" data and state the data cutoff date in the report header. Never assume the current date from training data.
 - Preserve the research quality rules from `AGENTS.md`: cross-check financial data, use exact arithmetic tools for valuation/math, and clearly label uncertainty and source gaps.
 
@@ -53,7 +53,7 @@ Use or refer to existing workflows instead of reproducing them:
 2. Prefer annual and interim reports, earnings releases, investor documents, regulatory filings, official releases, and official exchange data, in that order. Use secondary sources only to fill gaps and label them as secondary.
 3. Apply `skills/financial-data.md`: verify decision-critical financial data with at least two independent sources when available and flag discrepancies above 1%.
 4. Date or period-label every time-sensitive figure. Separate every material statement as **Verified fact**, **Estimate**, **Assumption**, or **Analytical judgment**.
-5. Use `python3 tools/financial_rigor.py` for exact payout, yield, valuation, market-cap, portfolio-income, and scenario arithmetic. Never rely on mental arithmetic for a decision-sensitive result.
+5. Use `python tools/financial_rigor.py` for exact payout, yield, valuation, market-cap, portfolio-income, and scenario arithmetic. Never rely on mental arithmetic for a decision-sensitive result.
 6. After saving the report, run the `tools/report_audit.py extract` and `verdict` workflow. A report that fails audit is a draft, not publishable research.
 
 ## Execution Workflow
@@ -194,9 +194,9 @@ Save the result to `reports/{company}-income-investment-{YYYYMMDD}.md`, using a 
 ## Release Audit
 
 ```bash
-python3 tools/report_audit.py extract --report reports/{company}-income-investment-{YYYYMMDD}.md
+python tools/report_audit.py extract --report reports/{company}-income-investment-{YYYYMMDD}.md
 # Verify every extracted item against reliable sources, then:
-python3 tools/report_audit.py verdict --results '<verified JSON>' --report {company}-income-investment-{YYYYMMDD}.md
+python tools/report_audit.py verdict --results '<verified JSON>' --report {company}-income-investment-{YYYYMMDD}.md
 ```
 
 Fix failed items and repeat the audit. Clearly retain unresolved gaps and lower confidence rather than filling them with assumptions.

@@ -75,7 +75,7 @@ def codex_body(name: str, source_name: str, source_text: str) -> str:
         "workspace files.\n"
         "- Use shared project tools from `tools/` in this repository. Prefer "
         "running commands from the repository root with paths like "
-        "`python3 tools/financial_rigor.py ...`; if the current thread starts "
+        "`python tools/financial_rigor.py ...`; if the current thread starts "
         "outside the repo, locate the actual checkout path first instead of "
         "assuming a fixed home-directory path.\n"
         "- Before starting research, run the `date` command to confirm "

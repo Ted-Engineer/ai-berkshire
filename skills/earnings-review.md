@@ -79,15 +79,15 @@
 
 ```bash
 # 收入和净利润交叉验证（至少2个来源）
-python3 tools/financial_rigor.py cross-validate \
+python tools/financial_rigor.py cross-validate \
   --metric "revenue" --values 108.3e9 107.9e9 --sources "公司财报" "Yahoo Finance"
 
 # 市值校验
-python3 tools/financial_rigor.py verify-market-cap \
+python tools/financial_rigor.py verify-market-cap \
   --price 101 --shares 1.488e9 --reported 1.44e11 --currency USD
 
 # 估值指标验算
-python3 tools/financial_rigor.py verify-valuation \
+python tools/financial_rigor.py verify-valuation \
   --price 101 --eps 9.6 --bvps 26.5 --fcf-per-share 10.2
 ```
 
@@ -196,13 +196,13 @@ python3 tools/financial_rigor.py verify-valuation \
 
 ```bash
 # Step 1 — 提取抽检清单
-python3 tools/report_audit.py extract \
+python tools/report_audit.py extract \
   --report reports/{公司名}-earnings-{期间}.md
 
 # Step 2 — 对清单每项从可靠信源取数（参见 skills/financial-data.md）
 
 # Step 3 — 输出准出/打回判决
-python3 tools/report_audit.py verdict \
+python tools/report_audit.py verdict \
   --results '<填好的JSON>' \
   --report {报告文件名}
 ```
