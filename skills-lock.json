@@ -109,6 +109,12 @@
       "skillPath": "skills/personal/obsidian-vault/SKILL.md",
       "computedHash": "6c8409ce9dd8419abc38f2a665e862e2a22758fe98e1cdd42e16ecab4f562e23"
     },
+    "open-websearch": {
+      "source": "Aas-ee/open-webSearch",
+      "sourceType": "github",
+      "skillPath": "skills/open-websearch/SKILL.md",
+      "computedHash": "fb78221a8cda6eb41e2b8020ead0c920ef03453f4651ec1048d51fb33cb4a8c2"
+    },
     "prototype": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -210,6 +216,12 @@
       "sourceType": "github",
       "skillPath": "skills/engineering/wayfinder/SKILL.md",
       "computedHash": "731db837ef3b7e03d6742b296a58ab48c8a0867320d5af269611e21a80059607"
+    },
+    "wechat-claude-code": {
+      "source": "Wechat-ggGitHub/wechat-claude-code",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "de44db1cc1f4709baeb3b662a9cc1d8cd9669c620f9768defd5abbdeb2f9b39f"
     },
     "wizard": {
       "source": "mattpocock/skills",
