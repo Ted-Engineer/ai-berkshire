@@ -201,11 +201,19 @@ git push origin main
 - **呈现正反两面**：每个核心判断都必须附带反面论据（"但另一方面..."），让读者自己权衡
 - 对不确定的事情诚实说"不确定"或"数据不足"，不要用推测填充确定性
 - 所有skill（investment-team、investment-research、earnings-review等）在执行时都必须遵守以上原则
+- **价值股 vs 成长股区分评估**：FCF为负≠必然排除。对于收入增速>100%且有大量合同积压（backlog）的基建期成长股（如AI Cloud运营商），应使用"收入增速+合同积压+客户质量"框架评估，而非套用FCF红线。在报告中明确标注"价值股评估"或"成长股评估"
 
 ## 研究质量规则（必读）
 
 - **每次研究开始前**，必须执行 `date` 命令确认今天日期，作为"最新数据"的基准，并在报告头部标注数据截止日期
+- **记忆系统使用规范（必读·NBIS教训）**：
+  - MEMORY.md索引在每次会话自动注入上下文，但**索引≠内容**
+  - 执行涉及"候选筛选""新标的搜索""持仓调整"的任务时，**必须Read与任务相关的memory文件**，提取用户曾研究的具体ticker
+  - 特别关注：反复出现在多条记忆中的标的（如"next XXX搜索"系列中的XXX本身）
+  - 报告中必须列出"读取了哪些memory文件→提取了哪些候选ticker"作为执行证据
+  - ❌ 只说"已检索memory"但不展示读取了哪些文件=未执行
 - 关键财务数据**至少 2 个独立来源交叉验证**（美股：macrotrends+stockanalysis；港股：aastocks+macrotrends；A股：东方财富+巨潮资讯；台股：FinMind + Goodinfo）
+- **高成长股数据补充来源**：对于收入增速>100%的标的，macrotrends/stockanalysis数据可能滞后，须补充公司IR页面最新季度财报、管理层指引（guidance）、合同积压（backlog/RPO）数据
 - 所有估计值必须注明"估计"
 - 市值必须手算校验：股价 × 总股本 vs 报告市值（用 `financial_rigor.py verify-market-cap`）
 - 货币单位要明确（港币/人民币/美元/新台币），防止混淆
@@ -232,6 +240,8 @@ git push origin main
 
 - **`.learnings/` 知识库**（每次会话自动注入）：SessionStart hook 会把 `.learnings/LEARNINGS.md` / `ERRORS.md` / `FEATURE_REQUESTS.md` 的摘要注入每个新会话上下文（`scripts/learnings-digest.sh`，配置在 `.claude/settings.json`）。涉及其中条目时按需展开对应文件；全量复盘在 `.learnings/session-summary-2026-08-09.md`。`.learnings/` 已在 .gitignore（本地私有）
 - **WebSearch 权限预检**（关键）：用 Skill 工具启动后台 Agent 前，先确认 `.claude/settings.local.json` 含 `"WebSearch"` 白名单，否则后台 Agent 会静默退化为仅凭训练知识作答
+- **搜索词多样性**（防止价值偏见）：投研搜索不可全部使用"undervalued"关键词。高成长/高催化标的（如AI Cloud运营商、财报异动股）需要用"growth""momentum""earnings beat""contract backlog"等搜索词。至少30%的搜索使用非"undervalued"关键词
+- **异动快速反应**：执行任何投研任务时，首先WebSearch "biggest stock movers today"检查当日异动。如发现用户曾关注标的（memory中有记录）异动>10%，立即纳入评估
 - **数据时效**：所有价格/财务数据必须标注数据截止日期
 - **诚实原则**：宁可在报告中留白标注"数据不足"，也不要推测填充
 - **本项目仅供学习研究，不构成投资建议**

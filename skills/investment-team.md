@@ -76,7 +76,11 @@
   4. 资产负债表健康度：现金储备、负债率、流动性
   5. 估值分析：PE/PS/PB/EV等，与历史及同业对比
   6. 安全边际评估：内在价值 vs 当前股价
-  7. **金融严谨性验证（必须使用Bash调用工具，禁止心算）**：
+  7. **⚠️ 成长型公司判定与替代框架**：
+     - 先判定：收入增速>50% + CapEx/收入>30% + 未稳定盈利 = 成长型
+     - 成长型公司**必须额外评估**：PS vs 同业、PS/增速比、合同积压(RPO/backlog)、毛利率趋势、现金跑道（现金/烧钱率）、客户质量（头部客户是否签约）、Rule of 40（增速+利润率）
+     - 成长型公司 FCF 为负不算红旗——但须回答"盈利拐点何时到来？现金跑道够不够烧到那天？"
+  8. **金融严谨性验证（必须使用Bash调用工具，禁止心算）**：
      - 市值验算：`python tools/financial_rigor.py verify-market-cap --price {价格} --shares {股本} --reported {报告市值} --currency {币种}`
      - 估值验算：`python tools/financial_rigor.py verify-valuation --price {价格} --eps {EPS} --bvps {每股净资产}`
      - 关键数据交叉验证：`python tools/financial_rigor.py cross-validate --field {字段} --values '{JSON}' --unit {单位}`

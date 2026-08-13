@@ -8,9 +8,9 @@
 >
 > 用 AI 重新定义投资研究的深度与效率。
 
-**AI Berkshire** 是一套同时兼容 Claude Code 与 Codex 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化、结构化，通过 AI Agent 实现专业级投资研究。
+**AI Berkshire** 是一套同时兼容 Claude Code、Codex 与 TRAE 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化、结构化，通过 AI Agent 实现专业级投资研究。
 
-一个人 + Claude Code / Codex = 一个投研团队。
+一个人 + Claude Code / Codex / TRAE = 一个投研团队。
 
 > 📮 **仓库是全量框架，公众号是精选。** 真正值得深研的公司，加上报告之外我自己的判断与取舍，都在微信公众号「**复利炼丹炉**」——[扫码关注 ↓](#精选研究首发于公众号)
 
@@ -233,7 +233,7 @@ AI Berkshire 确保：**同样的输入 → 结构一致、深度一致的输出
 
 ### 1. 安装 AI 客户端
 
-本仓库保留同一套 canonical workflow，并分别提供 Claude Code commands 与 Codex skills。按你使用的客户端安装即可。
+本仓库保留同一套 canonical workflow，并分别提供 Claude Code commands、Codex skills 与 TRAE 项目级 skills。按你使用的客户端安装即可。
 
 Claude Code 用户：
 
@@ -320,7 +320,16 @@ REM 可选：安装 Codex slash prompts
 .\scripts\install-codex-prompts.bat
 ```
 
-仓库同时维护三套入口：`skills/*.md` 是 Claude Code command 源文件；`codex-skills/*/SKILL.md` 是 Codex skill 包，由 `scripts/sync-codex-skills.py` 从 `skills/*.md` 生成；`codex-prompts/*.md` 是可选的 Codex slash prompt 兼容层。
+TRAE 用户（无需安装）：
+
+```bash
+# 克隆仓库
+git clone https://github.com/Ted-Engineer/ai-berkshire.git
+```
+
+TRAE 的项目级 skills 直接放在仓库的 `.trae/skills/*/SKILL.md`，克隆后用 TRAE 打开 `ai-berkshire` 文件夹即可自动识别，无需额外安装步骤。如果 TRAE 未自动刷新，重启 TRAE 即可。
+
+仓库同时维护四套入口：`skills/*.md` 是 Claude Code command 源文件；`codex-skills/*/SKILL.md` 是 Codex skill 包，由 `scripts/sync-codex-skills.py` 从 `skills/*.md` 生成；`codex-prompts/*.md` 是可选的 Codex slash prompt 兼容层；`.trae/skills/*/SKILL.md` 是 TRAE 项目级 skill 包，由 `scripts/sync-trae-skills.py` 从 `skills/*.md` 生成。
 
 ### 3. 使用
 
@@ -372,6 +381,17 @@ REM 可选：安装 Codex slash prompts
 
 ```text
 /prompts:investment-research 腾讯
+```
+
+在 TRAE 中直接用自然语言描述任务即可（TRAE 会根据 skill 描述自动匹配），例如：
+
+```text
+用 investment-research 研究腾讯
+用 investment-team 分析美团
+用 earnings-review 精读 PDD 2025年报
+用 industry-funnel 筛选 AI算力
+用 news-pulse 快速归因腾讯股价异动
+用 dyp-ask 讨论拼多多的护城河
 ```
 
 ---
