@@ -10,6 +10,23 @@
 3. **投资期限**：1-6个月
 4. **禁止复用任何旧评分/旧研究**：但凡不是本次实时搜索的就是旧的，必须全部从零重跑
 5. **行业分布必须符合顶层设计**（见下方），偏离>5%必须修正
+6. **WebSearch MCP fallback链**（配额用尽禁止放弃，必须换下一个）：
+   - 第一优先：`WebSearch`（内置，有200次/会话配额限制）
+   - 第二优先：`mcp__web-search__search`（多引擎：DuckDuckGo/Bing/Brave，无配额限制）
+   - 第三优先：`mcp__kepler__web_search`（Bing/Google/Baidu，无配额限制）
+   - 第四优先：`mcp__web-search-prime__web_search_prime`（Z.ai引擎）
+   - 第五优先：`mcp__kepler__web_reader`（直接读取网页URL提取内容）
+   - ❌ 禁止以"WebSearch配额用尽"为由跳过任何搜索步骤
+   - ❌ 禁止以"搜索工具不可用"为由放弃研究
+   - ✅ 正确做法：WebSearch用尽→立即切换mcp__web-search__search→再切mcp__kepler__web_search→依此类推
+   - ⚠️ **`mcp__web-search__search` 必须至少使用一次**（hook会检查标记文件）
+7. **异动快速反应协议**（防止隔夜大涨来不及反应）：
+   - 执行prompt时，**首先**WebSearch "biggest stock movers today" / "stocks surge earnings beat today" 检查当日重大异动
+   - 如发现用户关注过的标的（memory中有记录）异动>10%，**立即**纳入候选并评估
+   - 如发现持仓标的的供应商/客户/合作伙伴异动>15%，评估对持仓的影响
+8. **来源F（用户历史）和来源G（持仓生态链）为必选**：不可跳过、不可走过场
+   - 来源F执行证据：必须展示"Read了哪些memory文件→提取了哪些ticker"
+   - 来源G执行证据：必须展示"对哪些持仓搜索了供应商/客户"
 
 ---
 
@@ -24,7 +41,7 @@
 |------|---------|--------|------|-----------|
 | **AI平台** | **20-25%** | 30% | 自建AI基础设施+大规模AI投入的平台公司 | META, MSFT, GOOGL, AMZN |
 | **AI软件** | **15-20%** | 25% | 以AI驱动的企业/消费软件，不自建AI基础设施 | ADBE, CRM, INTU, NOW |
-| **AI硬件** | **15-20%** | 30% | 半导体/芯片/数据中心硬件/电力基础设施 | TSM, NVDA, AVGO, GEV |
+| **AI硬件** | **15-20%** | 30% | 半导体/芯片/数据中心硬件/电力基础设施/AI Cloud运营商 | TSM, NVDA, AVGO, GEV, NBIS |
 | **非AI价值** | **25-35%** | 45% | 见"非AI价值细分"下方 | 见下 |
 | **现金** | **10-20%** | 30% | 战略储备 | — |
 
@@ -125,6 +142,11 @@
    - 调仓前分布 vs 调仓后分布 vs 目标分布
    - 说明每项操作对分布的影响
    - 如果调仓后仍有>10%偏差，必须解释原因和后续修正计划
+6. **分布表数字生成规则（防错·必读）**：
+   - 所有百分比必须由**脚本计算生成并打印**（Python/financial_rigor.py），禁止手写或心算百分比——2026-08-13教训：心算 66247.5/295102 得 22.5%，实际 22.449% 应为 22.4%，把正确数字改错
+   - 脚本必须输出**合计校验行**：五个互斥主类别（AI平台/AI软件/AI硬件/非AI价值/现金）精确合计=100.0%，校验不过禁止写报告
+   - 小计行（AI总暴露）和子项行（中国敞口）**不参与求和**，必须在表格中视觉区分（斜体/缩进/注明"小计"），禁止与主类别行混排同格式
+   - 用户质疑任何数字时：**先跑工具再回答**，禁止用口头心算回应数字质疑
 
 ---
 
@@ -139,6 +161,56 @@
 
 **执行原则：如果你无法展示这一步在本次prompt执行中真实发生的证据，就等于没做。**
 
+## Skill执行铁律（最高优先级，不可变通）
+
+❌ **直接用WebSearch分析股票=未执行。必须通过Skill工具调用。**
+❌ **不得以"WebSearch配额用尽"为由跳过skill执行——必须切换到MCP搜索工具（见核心约束#6）**
+❌ **持仓分析必须启动/investment-team Agent（4个并行Agent），不得用WebSearch替代**
+❌ **候选标的必须过/investment-checklist + /investment-team双重验证，缺一不可**
+❌ **/industry-funnel和/bottleneck-hunter必须正式调用skill，不得用"已扫描数据"替代**
+❌ **每一步skill执行必须展示真实证据：Agent ID、skill输出、financial_rigor.py结果**
+
+**判断标准**：
+- ✅ "我调用了/investment-checklist BR，Agent ID: xxx，六关全过" = 已执行
+- ❌ "我用WebSearch搜索了BR的财务数据" = 未执行
+- ❌ "基于之前的扫描数据，BR看起来不错" = 未执行
+- ❌ "WebSearch配额用尽所以跳过了漏斗扫描" = 未执行（必须换MCP工具）
+
+**执行原则：Skill调用是硬性要求，不是建议。无法展示skill调用证据=步骤未完成=报告无效。**
+
+## 推荐准入铁律（最高优先级，不可变通）
+
+❌ **任何在最终方案中推荐"买入/新建/换仓"的新标的，必须先通过 /investment-checklist 验证**
+❌ **对比研究（如"A vs B谁更好"）≠ checklist验证。对比是筛选，checklist是准入——两步不可合并**
+❌ **Deep Research的结论不能直接作为推荐——Deep Research推荐的标的必须再过checklist才能进最终方案**
+❌ **加仓已有持仓（如META 80→95股）不需要新checklist，但换仓/新建必须跑**
+
+### 推荐验证矩阵（最终报告必须包含）
+
+在最终方案的执行清单前，必须输出此矩阵：
+
+| 推荐标的 | 推荐类型 | checklist结果 | investment-team评分 | .done标记文件 | 可推荐？ |
+|---------|---------|-------------|-------------------|--------------|---------|
+| AVGO | 新建 | 4/6 PASS | ★★★★☆ | investment-checklist-AVGO-*.done | ✅ |
+| PDD | 换仓 | 3/6 GRAY | 未执行 | ❌ 无 | ❌ 不可推荐 |
+| TSM | 加仓 | 豁免（已有持仓） | — | — | ✅ |
+
+**判断标准**：矩阵中任何一行标记 ❌ 不可推荐 = 该标的不得出现在执行清单中。
+
+### 推荐清单文件（hook会检查）
+
+最终方案输出前，必须创建 `.claude/.workflow/recommended-buys.txt`：
+- 每行一个ticker，列出所有**新建/换仓**的标的（加仓已有持仓不需列入）
+- 如无新买入推荐，写入 `# no new buys`
+- hook验证：每个ticker必须有对应的 `investment-checklist-{TICKER}-*.done` 文件
+- ❌ recommended-buys.txt中的ticker没有对应checklist .done = hook阻止结束
+
+**PDD教训记录（2026-08-13）**：
+本次执行中，Deep Research对比BABA vs PDD后直接推荐换仓PDD，但PDD未跑checklist。
+用户发现后追问"你有深度研究PDD吗？"——补跑checklist后发现PDD是灰色地带（3/6通过，
+净利润连续5季度下降+Temu核心模式被全球de minimis规则拆解），修正推荐为保留BABA。
+**根因：对比研究的结论不能跳过准入验证。这条铁律就是为防止此类失误而设。**
+
 ## 执行流程
 
 ### 第一步：核实当前持仓（必须逐项确认）
@@ -146,6 +218,7 @@
 - **若用户提供了持仓清单，以用户数据为准**
 - **写入任何文件前，必须逐项向用户确认**：股数、成本价、现金余额
 - ❌ 绝不基于假设写持仓文件
+- ⚠️ **提取"待执行/观察/计划买入"项**：持仓文件中所有标记为"待执行""计划""观察"但尚未执行的标的，必须在第三步作为候选来源A纳入筛选——这些是用户已有意图的标的，不可遗漏
 
 ### 第二步：持仓股分析（全部从零研究，禁止复用）
 - **每只持仓股都必须在本次执行中重新启动Agent** 进行实时研究
@@ -170,10 +243,189 @@
 
 ### 第三步：新候选股筛选（必须在本次执行中真实运行）
 
-#### 完整筛选（不得跳过，不得引用旧结果）
-1. **必须在此步骤中实际调用** `/industry-funnel`（展示调用证据）
-2. **必须在此步骤中实际调用** `/bottleneck-hunter`（展示调用证据）
-3. 从两个skill的**本次输出**中提取Top 50候选
+#### 候选累积追踪（必须执行，hook会检查）
+
+搜索过程中必须维护 `.claude/.workflow/candidates.csv` 文件：
+- 格式：`ticker,company,gics_sector,source`（第一行为header）
+- 每次搜索发现的新候选**立即追加**（同一ticker不重复添加）
+- **下限200只**，理想250只唯一候选
+- 覆盖验证：25个GICS组每组至少4只，7维搜索每维至少5只
+- ❌ 候选不足200只时，Stop hook会阻止结束并要求继续搜索
+
+#### 候选来源（6路并行，缺一不可，覆盖全美股）
+
+| # | 来源 | 做什么 | 为什么 |
+|---|------|--------|--------|
+| A | **portfolio-latest.md 待执行项** | Read持仓文件，提取"待执行""观察""计划买入"等所有未完成项 | 用户已有研究结论的标的最可能成交，**不可遗漏** |
+| B | **全市场多维搜索** | GICS 25二级行业组全覆盖 + 5维交叉搜索（量化/主题/事件/技术面/聪明钱） | 确保不因搜索方向偏窄而漏掉任何赛道的机会。**枚举+正交双保险** |
+| C | **/industry-funnel** | 按行业漏斗逐层精选 | 系统性覆盖行业内的候选 |
+| D | **/bottleneck-hunter** | 供应链瓶颈套利扫描 | 发现非传统视角的标的 |
+| E | **行业分布缺口反向映射** | 根据第二步半的偏差，**反向映射**到GICS行业清单，对每个缺口行业搜索候选 | 确保分布偏差被定向修正 |
+| F | **用户历史关注（必选·执行步骤强制）** | **三步执行**：(1) Read MEMORY.md索引；(2) 对每条与研究标的相关的记忆文件，Read完整内容提取ticker；(3) 特别关注曾被反复研究但未执行的标的（如"next XXX搜索"系列中的XXX本身）。输出提取的ticker清单作为候选 | 用户偏好驱动的机会，**用户花最多时间研究的标的最可能成交**。NBIS教训：记忆索引里有4条NBIS相关条目但未读取=零执行 |
+| G | **持仓生态链反向搜索（必选）** | 对每只当前持仓，搜索其**核心供应商/客户/合作伙伴**作为候选。例：META的AI算力供应商→NBIS；TSM的核心设备供应商→ASML；MSFT的AI合作伙伴→OpenAI | 持仓的生态链标的具有**已验证的商业关系**，是最自然的扩展方向。NBIS是META和MSFT的算力供应商——如果执行了此来源，NBIS必然被发现 |
+
+#### 全市场扫描覆盖范围（来源B必须覆盖）
+
+**必须搜索全部11个GICS一级行业，不可只搜"防御价值"或"AI"**：
+
+| GICS行业 | 代表性搜索词 | 为什么不能跳过 |
+|---------|------------|--------------|
+| 信息技术 | "undervalued software semiconductor stocks 2026" | AI软件/硬件候选 |
+| 金融 | "undervalued fintech bank insurance payment processing stocks 2026" | **BR这类金融基建** |
+| 医疗保健 | "undervalued healthcare pharma medical device stocks 2026" | 医疗候选 |
+| 消费者必需 | "undervalued consumer staples FMCG stocks 2026" | 防御候选 |
+| 消费者可选 | "undervalued consumer discretionary retail ecommerce stocks 2026" | 周期候选 |
+| 工业 | "undervalued industrial aerospace defense manufacturing stocks 2026" | 工业/国防候选 |
+| 能源 | "undervalued energy oil gas pipeline stocks 2026" | 能源候选 |
+| 公用事业 | "undervalued utility power water stocks 2026" | 防御候选 |
+| 材料 | "undervalued materials chemical metals mining stocks 2026" | 资源候选 |
+| 房地产 | "undervalued REIT real estate stocks 2026" | 收益候选 |
+| 通信服务 | "undervalued telecom media streaming stocks 2026" | 通信候选 |
+
+#### GICS 3级细分搜索（必须执行，覆盖全部25个二级行业组）
+
+**1级行业太粗（11个），2级行业组才25个，3级行业~74个。必须至少搜索到2级，对有前景的方向下钻到3级。**
+
+以下为全美股GICS 2级行业组搜索清单（每个2级组一个搜索词，不得跳过）：
+
+| 1级行业 | 2级行业组 | 搜索词 | 3级下钻方向（如2级有发现则深入） |
+|---------|----------|--------|-------------------------------|
+| **能源** | Energy | "undervalued energy oil gas pipeline midstream stocks 2026" | 综合油气/勘探/设备/管道/炼化 |
+| **材料** | Materials | "undervalued chemical metals mining specialty materials stocks 2026" | 化工/金属/采矿/特种材料/容器包装 |
+| **工业** | Capital Goods | "undervalued industrial machinery defense aerospace manufacturing stocks 2026" | 国防/航空航天/机械/电气设备 |
+| | Commercial & Professional Services | "undervalued business services waste environmental printing stocks 2026" | **BR这类金融基建**/专业服务/环境服务 |
+| | Transportation | "undervalued airline railroad trucking logistics shipping stocks 2026" | 航空/铁路/海运/物流 |
+| **消费者可选** | Automobiles & Components | "undervalued auto EV auto parts dealer stocks 2026" | 整车/EV/零部件/经销商 |
+| | Consumer Durables & Apparel | "undervalued consumer electronics household appliance luxury apparel stocks 2026" | 家电/电子/奢侈品/服装 |
+| | Consumer Services | "undervalued restaurant hotel casino cruise travel stocks 2026" | 餐饮/酒店/赌场/旅游 |
+| | Retailing | "undervalued ecommerce grocery discount retail department store stocks 2026" | 电商/超市/折扣/百货 |
+| **通信服务** | Telecommunication Services | "undervalued telecom wireless tower stocks 2026" | 运营商/基站/宽带 |
+| | Media & Entertainment | "undervalued streaming media gaming advertising publishing stocks 2026" | 流媒体/游戏/广告/出版 |
+| **消费者必需** | Staples Distribution & Retail | "undervalued grocery food retail drug store distribution stocks 2026" | 超市/药店/批发 |
+| | Food, Beverage & Tobacco | "undervalued food beverage tobacco alcohol stocks 2026" | 食品/饮料/烟草/酒精 |
+| | Household & Personal Products | "undervalued household personal care beauty products stocks 2026" | 日用品/个护/美妆 |
+| **医疗保健** | Health Care Equipment & Services | "undervalued medical device hospital health IT services stocks 2026" | 医疗器械/医院/医疗IT/实验室 |
+| | Pharma, Biotech & Life Sciences | "undervalued pharma biotech drug manufacturing life science tools stocks 2026" | 制药/生物/CRO/生命科学工具 |
+| **金融** | Banks | "undervalued bank regional bank money center bank stocks 2026" | 大型银行/区域银行/社区银行 |
+| | Diversified Financials | "undervalued fintech payment processing asset manager exchange data stocks 2026" | **支付/金融科技/交易所/资管/数据** |
+| | Insurance | "undervalued insurance P&C life reinsurance broker stocks 2026" | 财险/寿险/再保/经纪 |
+| **信息技术** | Software & Services | "undervalued software SaaS enterprise cloud cybersecurity AI software stocks 2026" | 企业软件/云/SaaS/安全/AI软件 |
+| | Technology Hardware & Equipment | "undervalued tech hardware server storage networking equipment stocks 2026" | 服务器/**存储/HBM**/网络设备/消费电子 |
+| | Semiconductors & Semiconductor Equipment | "undervalued semiconductor design foundry memory equipment materials stocks 2026" | 芯片设计/代工/**存储(MU)**/设备(AMAT/KLAC)/材料 |
+| **公用事业** | Utilities | "undervalued utility electric power gas water nuclear renewable stocks 2026" | 电力/燃气/水务/核电/可再生 |
+| **房地产** | Real Estate | "undervalued REIT industrial office residential retail data center healthcare REIT stocks 2026" | 工业REIT/办公/住宅/零售/**数据中心REIT**/医疗REIT |
+
+**执行要求**：
+- 以上25个2级行业组**全部搜索，每组至少2次WebSearch：价值型1次 + 成长/事件型1次**（两列搜索词都用），合计≥50次
+- **⚠️ 搜索词多样性要求（防止系统性偏差）**：25组**全部**搭配不含"undervalued"的第二视角搜索词（见下表），确保高成长/高估值标的（如NBIS/CoreWeave类）不被系统性排除
+- 对返回结果中有潜力的方向，**下钻到3级**（如2级"Semiconductors"→3级"Memory/HBM"单独搜）
+- 如果某个2级组返回的候选明显与持仓重复或无投资价值，可快速跳过但必须标注"已扫描，无候选"
+- 在报告中输出**25组扫描覆盖矩阵**（✅有候选/⚪无候选/❌跳过+理由），标注每组两列搜索词各自使用的原文
+
+#### GICS各组第二视角搜索词库（成长/事件型，每组必用1条，可自行变化）
+
+| 2级行业组 | 成长/事件型搜索词 |
+|-----------|------------------------------------------------|
+| Energy | "energy stocks earnings beat guidance raised 2026" / "natural gas pipeline LNG capacity expansion stocks" |
+| Materials | "lithium uranium copper miners production growth 2026" / "specialty materials supply shortage stocks" |
+| Capital Goods | "defense stocks record backlog order growth 2026" / "electrical equipment grid capex beneficiary stocks" |
+| Commercial & Professional Services | "business services stocks high ROIC insider buying 2026" / "staffing payroll stocks hiring recovery" |
+| Transportation | "shipping railroad stocks earnings recovery momentum 2026" / "airline stocks capacity discipline margin" |
+| Automobiles & Components | "EV stocks deliveries growth 2026" / "auto supplier content per vehicle increase stocks" |
+| Consumer Durables & Apparel | "luxury brand pricing power revenue growth 2026" / "appliance housing recovery stocks" |
+| Consumer Services | "travel leisure cruise stocks earnings beat 2026" / "restaurant same store sales growth stocks" |
+| Retailing | "retail stocks same store sales margin expansion 2026" / "off-price discount retail traffic growth" |
+| Telecommunication Services | "telecom stocks FCF dividend growth 5G monetization 2026" / "fiber broadband penetration growth stocks" |
+| Media & Entertainment | "streaming gaming stocks subscriber growth profitability 2026" / "advertising stocks digital shift share gains" |
+| Staples Distribution & Retail | "grocery drugstore stocks defensive recession stable earnings" / "food distribution volume recovery stocks" |
+| Food, Beverage & Tobacco | "food beverage dividend aristocrats pricing power 2026" / "alcohol tobacco volume recovery stocks" |
+| Household & Personal Products | "consumer staples quality moat margin stability 2026" / "beauty personal care emerging market growth stocks" |
+| Health Care Equipment & Services | "medical device new product cycle FDA approvals 2026" / "hospital health services volume growth stocks" |
+| Pharma, Biotech & Life Sciences | "biotech pipeline catalysts FDA approvals 2026" / "life science tools CRO backlog growth stocks" |
+| Banks | "bank stocks NIM expansion earnings growth 2026" / "regional bank merger acquisition targets 2026" |
+| Diversified Financials | "fintech transaction volume TPV growth 2026" / "exchange market data stocks moat pricing power" |
+| Insurance | "insurance hard market combined ratio improvement 2026" / "specialty niche insurer high ROE 2026" |
+| Software & Services | "SaaS NRR 120% net revenue retention 2026" / "AI agent software ARR growth triple digit 2026" |
+| Technology Hardware & Equipment | "server storage networking AI demand revenue surge 2026" / "hardware margin expansion turnaround stocks" |
+| Semiconductors & Semi Equipment | "semiconductor revenue growth 50% AI 2026" / "HBM memory shortage beneficiary stocks" |
+| Utilities | "utility data center power demand growth 2026" / "nuclear renewable capacity expansion IPP stocks" |
+| Real Estate | "data center REIT FFO growth 2026" / "REIT dividend yield discount to NAV stocks" |
+
+#### 新兴赛道必搜清单·AI侧（GICS无法覆盖的新业态，15个赛道全部搜索）
+
+**GICS分类基于传统行业逻辑，无法捕捉2024年后涌现的新业态。AI产业链远不止"AI软件+AI硬件"两块，以下15个赛道必须独立搜索，每个至少2条不同视角搜索词（视角A=运营商/公司本身，视角B=供应商/瓶颈，视角C=催化剂/事件，任选其二）：**
+
+| # | AI赛道 | 搜索词（多视角，每赛道至少用2条） | 代表标的方向 | 为什么GICS抓不到 |
+|---|--------|--------------------------------|-------------|-----------------|
+| 1 | **AI Cloud / Neocloud运营商** | A:"AI cloud GPU rental neocloud providers 2026" B:"neocloud contract backlog billion deal wins" C:"coreweave nebius earnings revenue growth" | NBIS, CRWV, Lambda, Crusoe | "买GPU出租算力"新业态，不属传统半导体/软件 |
+| 2 | **AI定制芯片ASIC/推理芯片** | A:"custom AI ASIC accelerator design win stocks 2026" B:"broadcom marvell XPU customer pipeline" C:"AI inference chip vs training shift beneficiaries" | AVGO, MRVL, ALAB | 半导体分类不区分通用GPU/定制ASIC |
+| 3 | **AI网络/光模块/交换** | A:"800G 1.6T optical module demand growth 2026" B:"AI cluster networking switch CPO stocks" C:"co-packaged optics breakthrough suppliers" | ANET, CIEN, COHR, LITE, CRDO | 光通信横跨硬件+半导体+工业 |
+| 4 | **HBM/存储** | A:"HBM4 capacity sold out memory stocks 2026" B:"DRAM NAND supply tightness beneficiary" C:"micron SK hynix HBM revenue growth" | MU, WDC, STX | 存储的周期反转逻辑GICS不反映 |
+| 5 | **先进封装/CoWoS链** | A:"advanced packaging CoWoS capacity expansion 2026" B:"OSAT packaging substrate ABF shortage stocks" C:"chiplet hybrid bonding equipment suppliers" | TSM, AMKR, KYEC | 封装是代工子环节，2级行业无此分类 |
+| 6 | **半导体设备/材料** | A:"WFE wafer fab equipment spending record 2026" B:"semiconductor materials shortage suppliers" C:"ASML AMAT KLAC backlog book-to-bill" | AMAT, LRCX, KLA, ASML | 设备商的AI驱动资本开支周期 |
+| 7 | **AI电力：燃气IPP/核电/铀** | A:"data center power gigawatt pipeline IPP stocks 2026" B:"nuclear SMR fuel uranium enrichment demand" C:"power purchase agreement AI hyperscaler signed" | VST, CEG, TLN, NRG, CCJ, LEU | 跨公用+工业+能源三行业 |
+| 8 | **电网设备/变压器** | A:"transformer lead time shortage grid equipment stocks 2026" B:"transmission substation capex beneficiary" C:"electrification switchgear demand surge" | GEV, HIT(日立), ETD, PWR | 电网瓶颈是AI衍生需求，GICS分散 |
+| 9 | **AI散热/液冷** | A:"liquid cooling rack power density AI stocks 2026" B:"CDU cold plate immersion cooling suppliers" C:"Vertiv earnings AI backlog growth" | VRT, MODV, SMCI, nVent | 散热分散在工业设备+硬件 |
+| 10 | **数据中心REIT/代建/E&C** | A:"data center REIT FFO growth leasing 2026" B:"data center construction E&C backlog stocks" C:"hyperscaler capex guidance data center buildout" | EQIX, DLR, JCI, EME | GICS归地产/工程，本质AI基建 |
+| 11 | **AI Agent/应用软件** | A:"AI agent enterprise deployment ARR growth 2026" B:"agentic workflow software adoption metrics" C:"Salesforce ServiceNow Palantir AI revenue disclosure" | CRM, NOW, PLTR, SOUN | AI应用收入是软件子集，GICS无标记 |
+| 12 | **AI模型/基础模型生态** | A:"foundation model API token revenue growth 2026" B:"LLM training compute contract suppliers" C:"OpenAI Anthropic valuation revenue multiple" | MSFT, GOOGL, META + 供应商 | 模型层嵌套在大厂内，独立标的在生态链 |
+| 13 | **物理AI/人形机器人** | A:"humanoid robot production ramp 2026 stocks" B:"robot actuator reducer sensor suppliers" C:"Tesla Optimus Figure commercial timeline" | TSLA, 供应商群 | GICS无机器人分类，分散在工业+汽车 |
+| 14 | **自动驾驶/Robotaxi** | A:"robotaxi commercial fleet expansion 2026" B:"AV lidar compute supplier stocks" C:"autonomous driving regulatory approval milestone" | TSLA, AUR, GOOGL生态 | 跨汽车+软件+硬件 |
+| 15 | **加密矿企转AI算力** | A:"bitcoin miner AI pivot HPC hosting 2026" B:"crypto mining data center conversion capacity" C:"Hut 8 Bit Digital AI contract revenue" | BTBT, CLSK, HUT, IREN | GICS归金融但正转型AI基建 |
+
+**AI侧执行要求**：15个赛道**全部搜索**，每个≥2条不同视角词（合计≥30次）。任何赛道"无候选"必须标注扫描词原文。在报告中输出15赛道×视角覆盖矩阵。
+
+#### 新兴赛道必搜清单·非AI侧（GICS正交主题，至少8个各≥1次）
+
+**防止全报告被AI单一叙事绑架：以下非AI主题与AI赛道平行搜索，确保组合候选池两侧均衡（用户历史上多次要求纠正"只看AI"偏差）：**
+
+| # | 非AI主题 | 搜索词示例 | 代表方向 |
+|---|---------|-----------|---------|
+| 1 | **老龄化/银发经济** | "aging population healthcare demand stocks 2026" / "senior living home healthcare volume growth" | 医疗服务、养老、慢病管理 |
+| 2 | **国防现代化** | "defense stocks record backlog NATO rearmament 2026" / "defense electronics ammunition capacity" | LMT/NOC/HWM/欧洲军火 |
+| 3 | **能源转型/电网升级** | "grid modernization capex beneficiary stocks 2026" / "energy storage battery demand growth" | 电网、储能、输配电 |
+| 4 | **美国制造回岸/自动化** | "reshoring US manufacturing factory automation stocks 2026" / "industrial robot machine tool demand" | 自动化、机床、工业软件 |
+| 5 | **利率长期下行受益者** | "rate cut beneficiaries stocks 2026 duration assets" / "REIT utilities relative value falling rates" | REIT、公用、长久期成长 |
+| 6 | **GLP-1/减肥药生态** | "GLP-1 supply chain contract manufacturing 2026" / "obesity drug volume growth suppliers" | CDMO、给药装置、原料药 |
+| 7 | **水务/基建老化更新** | "water infrastructure replacement cycle stocks 2026" / "pipe valve pump municipal capex" | 水务设备、工程 |
+| 8 | **农业科技/粮食安全** | "agriculture technology precision farming stocks 2026" / "fertilizer crop protection supply" | 农化、农机、种子 |
+| 9 | **体育博彩/iGaming** | "sports betting iGaming legalization expansion 2026" / "online gambling volume growth stocks" | 博彩运营、平台 |
+| 10 | **宠物经济** | "pet economy spending growth stocks 2026" / "veterinary pet food premiumization" | 宠物食品、兽医链 |
+| 11 | **奢侈品/品牌护城河** | "luxury brand pricing power heritage moat 2026" / "premium consumer resilience stocks" | LVMH系、高端消费 |
+| 12 | **保险硬市场周期** | "insurance hard market pricing cycle 2026" / "P&C reinsurance underwriting margin stocks" | 财险、再保、经纪 |
+
+**非AI侧执行要求**：至少**8个主题各≥1次**搜索（合计≥8次），产生候选不足时如实标注。报告输出主题覆盖矩阵。
+
+#### 多维交叉搜索（必须执行，与GICS行业搜索互补）
+
+**GICS枚举的局限**：任何分类系统都是"按过去的方式组织行业"，无法捕捉跨行业的新兴机会。比如数据中心REIT在GICS是"房地产"，但本质是AI基础设施；BR在GICS是"商业服务"，但本质是金融基建。
+
+**解决方案：用7个正交维度搜索，让不同维度的交集自然浮现枚举会遗漏的标的**：
+
+| 维度 | 逻辑 | 搜索方式（示例） | 为什么GICS枚举抓不到 |
+|------|------|----------------|---------------------|
+| **D1. 量化筛选** | 用财务指标横切全市场，不分行业 | WebSearch "stocks forward PE under 15 ROE above 20 FCF yield above 8 2026"；用finviz/stockanalysis筛选器 | 量化条件不预设行业，自然跨所有GICS分类 |
+| **D2. 主题/趋势** | 按投资主题横切，不分行业 | **直接引用上方两份清单**：AI侧15赛道（每赛道≥2视角词）+ 非AI侧12主题（至少8个）。禁止只搜泛化的"AI infrastructure beneficiaries"这类笼统词 | 一个主题横跨多个GICS行业（AI横跨IT+工业+地产+公用事业）。**NBIS教训：D2只搜了泛化的"AI infrastructure beneficiaries"导致结果全是VRT/GEV等组件商，漏掉了NBIS这类运营商** |
+| **D3. 事件驱动** | 按催化剂事件搜索 | "recent spin-off stocks 2026"、"activist investor targets 2026"、"rejected acquisition target stocks"、"earnings beat guidance raised 2026" | Spin-off/activist/M&A等事件与GICS分类无关 |
+| **D4. 技术面/资金面** | 按价格行为搜索 | "stocks near 52 week low strong fundamentals 2026"、"oversold stocks institutional buying"、"insider buying cluster 2026" | 技术信号不分行业 |
+| **D5. 聪明钱跟踪** | 看顶级投资者在买什么 | "best value investor holdings changes 2026 Q2"、"Berkshire Hathaway portfolio changes"、"top hedge fund new positions 13F" | 顶级投资者的选股不受GICS约束 |
+| **D6. 财报催化（必做）** | 搜索最近1周内发布财报且有重大异动的标的 | "stocks earnings beat guidance raise 2026 August"、"biggest earnings movers this week"、"revenue growth over 200% stocks 2026"、"contract backlog billion dollars AI stocks" | **NBIS教训：454%收入增速+$40B合同积压→单日涨34%。财报是最强催化剂，必须有专项搜索**。搜索词不可带"undervalued"——高成长股不会出现在价值筛选器中 |
+| **D7. 持仓生态链（必做·与来源G互补）** | 对每只持仓搜索其核心供应商/客户 | 对每只持仓WebSearch "{持仓公司} supplier vendor partner"、"who provides AI compute to {持仓公司}" | NBIS是META和MSFT的算力供应商——如果执行了此维度，NBIS必然被发现 |
+
+**执行要求**：
+- 以上7个维度**每个至少1次WebSearch**（D6、D7为必做）
+- D1量化筛选至少执行**3组不同条件**：价值型（fPE<15）、成长型（收入增速>50%）、收益型（FCF yield>5%）**各一组**——不可全是价值型
+- D2主题搜索至少执行**12个不同主题：AI侧≥8个 + 非AI侧≥4个**（从上方两份清单选取，与新兴赛道小节可复用同一搜索但不重复计数）
+- **D6财报催化必须搜索"高增长"而非"低估"**——搜索词如"revenue growth over 200%"、"biggest contract backlog"
+- **搜索总量硬指标（Stop hook自动校验）**：全程MCP/WebSearch搜索**合计≥80次**（每次调用自动追加记录到 `.claude/.workflow/search-log.txt`）。构成：GICS 25组×2=50 + AI赛道≥30 + 非AI主题≥8 + 7维补充 ≈ 90+，留冗余
+- **候选池两侧均衡**：AI相关候选（来源含AI 15赛道/软件/半导体/硬件）**占比不得超过65%**，非AI候选至少35%。candidates.csv 的 source 列必须标注所属清单（AI赛道#n/非AI主题#n/GICS/D1-D7/F-memory/G-生态链），报告末尾输出两侧占比统计
+- 各维度的候选汇总后与GICS 25组+新兴赛道候选**去重合并**
+- 在报告中标注每个候选的**发现维度**（如"D1量化"或"D6财报催化"或"G-持仓生态链"）
+
+#### 完整筛选流程（不得跳过，不得引用旧结果）
+1. **并行执行7路候选来源**（A-G），汇总所有候选名称
+2. **去重+分类**：按行业分布缺口优先级排序
+3. **从汇总池中提取Top 10-15候选**
 4. 对Top候选逐一执行**双重验证**：
    - `/investment-checklist {股票名}` → 巴菲特六关准入测试
    - `/investment-team {股票名}` → 四大师全面评估
@@ -182,11 +434,15 @@
 
 ❌ **绝对禁止**：以"本会话/本轮/之前已执行过漏斗和瓶颈扫描"为由跳过此步骤
 ❌ **绝对禁止**：引用之前任何会话或轮次的漏斗/瓶颈结果
+❌ **绝对禁止**：只搜索2-3个行业就声称"全市场扫描完成"
+❌ **绝对禁止**：跳过来源A（portfolio-latest.md待执行项）或来源F（用户历史记忆）或来源G（持仓生态链）
+❌ **绝对禁止**：所有搜索词全部带"undervalued"——系统性排斥成长股是设计缺陷
 
 **⚠️ 候选筛选必须考虑行业分布修正需求**：
 - 如果第二步半评估发现AI硬件低配>5%，优先筛选AI硬件候选
-- 如果非AI价值低配>5%，优先筛选非AI价值候选
+- 如果非AI价值低配>5%，优先在非AI的**全部子行业**（金融/医疗/消费/工业/能源/公用事业/REITs）中搜索
 - 候选的行业类别必须在报告中标注
+- **分布缺口是方向提示，不是搜索限制**——即使某行业缺口最大，也必须同时扫描其他行业
 
 ### 第四步：冒泡排序终选
 对所有候选进行两两比较：
@@ -221,7 +477,8 @@
 | AI硬件 | 15-20% | 30% | XX% | XX% | ±X% | ✅/⚠️/🔴 |
 | 非AI价值 | 25-35% | 45% | XX% | XX% | ±X% | ✅/⚠️/🔴 |
 | 现金 | 10-20% | 30% | XX% | XX% | ±X% | ✅/⚠️/🔴 |
-| **AI总暴露** | 50-65% | 70% | XX% | XX% | ±X% | ✅/⚠️/🔴 |
+| **五类合计（校验行）** | — | — | 100.0% | **100.0%** | — | 脚本计算 |
+| *AI总暴露（小计·不参与求和）* | 50-65% | 70% | XX% | XX% | ±X% | ✅/⚠️/🔴 |
 
 **非AI价值细分**（如适用）：
 | 子类别 | 建议 | 实际 | 状态 |
@@ -264,13 +521,20 @@
 
 ### 必须做到
 ✅ 每只股票明确操作（清/买/持有/加仓/减仓）
-✅ FCF负数=清仓红线；FCF同比-30%以上=警告需深究
-✅ 买入前必须通过checklist+investment-team双重验证
+✅ **FCF分类处理**：长期持仓（>6个月）FCF为负=清仓红线；短期交易（1-6个月）FCF为负但收入增速>100%+大额合同积压=允许纳入但标注"基建期成长股"且仓位≤5%
+✅ 买入前必须通过checklist+investment-team双重验证（成长股可用调整后的checklist，FCF关改为"收入增速+合同积压"评估）
 ✅ 所有评分标注框架来源（/investment-team或/checklist）
 ✅ 数据标注来源，关键数据用financial_rigor.py验证
 ✅ 写文件前逐项确认用户实际持仓
 ✅ 所有研究必须实时搜索，不复用任何旧文件
 ✅ **行业分布评估必须执行，偏差>10%必须修正**
+✅ **第三步候选扫描必须覆盖全部25个GICS二级行业组** + **至少5个新兴赛道**（不可只搜传统分类），对有潜力的方向下钻到三级行业
+✅ **必须执行7维交叉搜索**（量化/主题/事件/技术面/聪明钱/财报催化/持仓生态链），其中D6财报催化和D7持仓生态链为必做
+✅ **报告中输出候选发现来源矩阵**：每个候选标注是从哪个维度/行业/来源被发现的
+✅ **必须提取portfolio-latest.md中的待执行项作为候选**
+✅ **候选来源≥5路**（A-G中至少执行5路，其中A、B、F为必选）
+✅ **来源F执行证据**：报告中必须列出"Read了哪些memory文件→提取了哪些ticker"，不可只说"已检索"
+✅ **搜索词多样性证据**：报告中必须展示至少10组不含"undervalued"的搜索词，防止价值偏见
 
 ### 禁止事项
 ❌ 模糊建议（"可以考虑""建议关注"）
@@ -278,10 +542,15 @@
 ❌ **复用任何旧评分/旧研究/旧报告——但凡不是本次实时搜索的就是旧的**
 ❌ 以"本会话已执行过"为由跳过任何步骤
 ❌ 批量分析多只股票在1个skill调用中
+❌ **只搜索与分布缺口"匹配"的行业就声称全市场扫描完成**（必须覆盖25个2级行业组+新兴赛道）
+❌ **忽略portfolio-latest.md中已有的"待执行/计划"标的**
 ❌ 基于假设写portfolio-latest.md
 ❌ 混用不同框架的分数不标注
 ❌ 仅用checklist就决定买入（必须同时有investment-team）
 ❌ **跳过行业分布评估或忽略>10%的偏差**
+❌ **所有搜索词全部带"undervalued"**——这是系统性价值偏见，至少10组搜索使用成长/催化/主题型搜索词
+❌ **来源F走过场**——只说"已检索memory"但不展示读取了哪些文件、提取了哪些ticker
+❌ **忽略持仓生态链**——不搜索当前持仓的核心供应商/客户/合作伙伴
 
 ## 输出语言
 全部用中文。
