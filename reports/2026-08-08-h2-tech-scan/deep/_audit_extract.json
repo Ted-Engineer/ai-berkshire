@@ -1,0 +1,409 @@
+﻿======================================================================
+报告数据抽检清单
+文件：reports\2026-08-08-h2-tech-scan\deep\storage-compare.md
+总提取数据点：147  |  抽样比例：25%  |  抽检数量：30
+随机种子：42（可用于复现同一批样本）
+======================================================================
+
+ ID     行号  数据标签                                          报告值  单位
+───  ─────  ───────────────────────────────────  ────────────  ──────
+  1     15  信息丰富度评级 · 评估                                 3.00  
+  7     25  YTD 涨幅 · SNDK                              420.00  %
+  9     25  YTD 涨幅 · STX                               193.00  %
+  8     25  YTD 涨幅 · WDC                               151.00  %
+ 21     39  GAAP 净利 · 数值                                69.00  亿
+ 23     40  Non-GAAP EPS · 数值                           39.25  
+ 24     40  Non-GAAP EPS · 对比                           33.30  
+ 27     41  Non-GAAP 毛利率 · 对比                            6.20  
+ 29     43  FY26 全年营收 · 数值                             202.50  亿
+ 36     54  Non-GAAP EPS · 市场预期                         50.00  
+146     71  背景时间线（解释为何波动极端）                              6.00  
+ 51     90  近期催化剂 · 事实                                2026.00  
+ 56    102  Non-GAAP EPS · 数值                            3.56  
+ 57    102  Non-GAAP EPS · 对比                            3.29  
+ 58    103  GAAP EPS · 数值                                8.21  
+ 60    104  经营现金流/FCF · 数值                              13.90  亿
+ 63    106  Cloud 业务 · 数值                               33.00  亿
+ 71    133  售罄 · 内容                                   2026.00  
+ 76    136  FQ4'26 电话会重申 · 时点/来源                         8.00  
+ 90    160  FY26 全年营收 · 数值                             122.00  亿
+ 98    170  长期目标 · 含义                                    3.00  
+104    190  TTM（FY26 non-GAAP） · 对应 PE（@$806）           56.00  x
+108    192  FY28（次次年口径） · 对应 PE（@$806）                  14.00  
+109    205  H2'26 价格环境 · SNDK                            3.00  
+112    206  管理层指引姿态 · WDC                               12.00  %
+124    216  距高点回撤 · STX                                -26.00  %
+130    226  盈利波动性 · NAND（三星/SK海力士/美光/铠侠-SanDisk         26.00  %
+140    250  ⑥仓位与决策纪律（FOMO 检测） · STX                      1.00  
+143    251  六关结论 · STX                                   4.00  
+142    251  六关结论 · WDC                                   3.00  
+
+↑ 请对上述每个数据点，从以下信源取数，填入 fetched_value：
+  美股：macrotrends.net（主）+ stockanalysis.com（副）
+  港股：aastocks.com（主）+ macrotrends ADR（副）
+  A股： eastmoney.com（主）+ cninfo.com.cn（副）
+
+抽检清单 JSON（填入 fetched_value 后，传给 verdict 命令）：
+
+[
+  {
+    "id": 1,
+    "label": "信息丰富度评级 · 评估",
+    "reported_value": 3.0,
+    "unit": "",
+    "line_number": 15,
+    "raw_text": "| 信息丰富度评级 | **A 级 × 3**（均为高关注度美股，数据充足）|",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 7,
+    "label": "YTD 涨幅 · SNDK",
+    "reported_value": 420.0,
+    "unit": "%",
+    "line_number": 25,
+    "raw_text": "| YTD 涨幅 | +420% | +151% | +193% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "label": "YTD 涨幅 · STX",
+    "reported_value": 193.0,
+    "unit": "%",
+    "line_number": 25,
+    "raw_text": "| YTD 涨幅 | +420% | +151% | +193% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "label": "YTD 涨幅 · WDC",
+    "reported_value": 151.0,
+    "unit": "%",
+    "line_number": 25,
+    "raw_text": "| YTD 涨幅 | +420% | +151% | +193% |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 21,
+    "label": "GAAP 净利 · 数值",
+    "reported_value": 69.0,
+    "unit": "亿",
+    "line_number": 39,
+    "raw_text": "| GAAP 净利 | $69.0亿（摊薄 EPS $43.97） | 单季占全年 GAAP 净利 60% —— **含大额一次性项目（疑为税务类，未见公司明细，标注待核）** | 公司新闻稿 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "Non-GAAP EPS · 数值",
+    "reported_value": 39.25,
+    "unit": "",
+    "line_number": 40,
+    "raw_text": "| **Non-GAAP EPS** | **$39.25** | 高于共识 ~$33.3（+17%）；也高于公司原指引 $30-33 | 公司新闻稿/Seeking Alpha 8/6 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "label": "Non-GAAP EPS · 对比",
+    "reported_value": 33.3,
+    "unit": "",
+    "line_number": 40,
+    "raw_text": "| **Non-GAAP EPS** | **$39.25** | 高于共识 ~$33.3（+17%）；也高于公司原指引 $30-33 | 公司新闻稿/Seeking Alpha 8/6 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "label": "Non-GAAP 毛利率 · 对比",
+    "reported_value": 6.2,
+    "unit": "",
+    "line_number": 41,
+    "raw_text": "| **Non-GAAP 毛利率** | **84.6%**（历史新高） | +6.2pct QoQ；高于指引 79%-81%；上一财年同期仅 26.2% | 公司新闻稿（via Biggo/moomoo） |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "label": "FY26 全年营收 · 数值",
+    "reported_value": 202.5,
+    "unit": "亿",
+    "line_number": 43,
+    "raw_text": "| FY26 全年营收 | $202.5亿，+175% YoY | — | 公司新闻稿（via Quartz） |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "label": "Non-GAAP EPS · 市场预期",
+    "reported_value": 50.0,
+    "unit": "",
+    "line_number": 54,
+    "raw_text": "| Non-GAAP EPS | $44-46 | 买方 bar 更高（部分多头分析师原给 $50+，媒体转述，估计） | 未达乐观预期 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 146,
+    "label": "背景时间线（解释为何波动极端）",
+    "reported_value": 6.0,
+    "unit": "",
+    "line_number": 71,
+    "raw_text": "背景时间线（解释为何波动极端）：6/23-24 全球存储股大跌（SNDK 单日 -14%）→ 7/10 SK 海力士美股上市（募资 $265亿，年内全球最大 IPO）→ 7/15 SNDK 收 $1,615（-8.1%）→ 7/27 长鑫存",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "label": "近期催化剂 · 事实",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 90,
+    "raw_text": "| 近期催化剂 | **2026/8/13（下周三）投资者日**——可能披露长期产能/资本回报规划 | 公司新闻稿 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "label": "Non-GAAP EPS · 数值",
+    "reported_value": 3.56,
+    "unit": "",
+    "line_number": 102,
+    "raw_text": "| **Non-GAAP EPS** | **$3.56**（+109% YoY） | 高于共识 $3.29 | 公司新闻稿 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "label": "Non-GAAP EPS · 对比",
+    "reported_value": 3.29,
+    "unit": "",
+    "line_number": 102,
+    "raw_text": "| **Non-GAAP EPS** | **$3.56**（+109% YoY） | 高于共识 $3.29 | 公司新闻稿 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "label": "GAAP EPS · 数值",
+    "reported_value": 8.21,
+    "unit": "",
+    "line_number": 103,
+    "raw_text": "| GAAP EPS | $8.21（GAAP 净利 $32.5亿） | **含大额一次性项目；FY26 全年 GAAP EPS $24.28 vs non-GAAP $10.22 —— GAAP 口径不可用于估值** | 公司新闻稿（vi",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "label": "经营现金流/FCF · 数值",
+    "reported_value": 13.9,
+    "unit": "亿",
+    "line_number": 104,
+    "raw_text": "| 经营现金流/FCF | $13.9亿 / $12.8亿 | 历史新高 | 公司新闻稿 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "label": "Cloud 业务 · 数值",
+    "reported_value": 33.0,
+    "unit": "亿",
+    "line_number": 106,
+    "raw_text": "| Cloud 业务 | $33亿，+43% YoY，占总营收 89% | nearline 为核心驱动 | 公司新闻稿（via Biggo） |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "label": "售罄 · 内容",
+    "reported_value": 2026.0,
+    "unit": "",
+    "line_number": 133,
+    "raw_text": "| 售罄 | \"nearline 在日历年 2026 已**全部售罄**\" | CEO Irving Tan，2026/2（FQ2'26 电话会） |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "label": "FQ4'26 电话会重申 · 时点/来源",
+    "reported_value": 8.0,
+    "unit": "",
+    "line_number": 136,
+    "raw_text": "| FQ4'26 电话会重申 | \"以更高的需求可见性与信心进入 FY27\" | Irving Tan，8/5 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 90,
+    "label": "FY26 全年营收 · 数值",
+    "reported_value": 122.0,
+    "unit": "亿",
+    "line_number": 160,
+    "raw_text": "| FY26 全年营收 | ~$122亿（2.63+2.83+3.11+3.63 各季相加，推算） | — | 推算 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 98,
+    "label": "长期目标 · 含义",
+    "reported_value": 3.0,
+    "unit": "",
+    "line_number": 170,
+    "raw_text": "| 长期目标 | 2026/4 将长期增长目标上调至 **20%**；nearline 产能已分配至 CY2027 末，**build-to-order 合同锁定至 FY27 年底（明确配置与价格）** | Q3'26 电话会（Blocks",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 104,
+    "label": "TTM（FY26 non-GAAP） · 对应 PE（@$806）",
+    "reported_value": 56.0,
+    "unit": "x",
+    "line_number": 190,
+    "raw_text": "| TTM（FY26 non-GAAP） | ~$14.4（1.55+3.11+4.10+5.71，Q1 为推算） | **~56x**（GuruFocus PE ex-NRI 55.2、Public.com 59.9，与用户\"58x\"一致",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "label": "FY28（次次年口径） · 对应 PE（@$806）",
+    "reported_value": 14.0,
+    "unit": "",
+    "line_number": 192,
+    "raw_text": "| **FY28（次次年口径）** | **~$52-58** | **~14-15.5x** | **用户提供的 fPE 13.99 对应的是这个口径**（隐含 EPS ≈ $57.6） |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "label": "H2'26 价格环境 · SNDK",
+    "reported_value": 3.0,
+    "unit": "",
+    "line_number": 205,
+    "raw_text": "| H2'26 价格环境 | Q3 合约价 +35～40%（已确认）；Q4 官方预测 N/A，趋势未破 | 供给紧张至 2028（MS）；成本端 +50%（媒体） | 同 WDC，且锁价合同更多 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 112,
+    "label": "管理层指引姿态 · WDC",
+    "reported_value": 12.0,
+    "unit": "%",
+    "line_number": 206,
+    "raw_text": "| 管理层指引姿态 | 指引环比 +18%，但毛利率指引偏软（BiCS8 爬坡+开工率） | 指引 +12%，GM 55-56%，保守 | 指引 +28%，承诺全年逐季改善，最激进 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 124,
+    "label": "距高点回撤 · STX",
+    "reported_value": -26.0,
+    "unit": "%",
+    "line_number": 216,
+    "raw_text": "| 距高点回撤 | -43%（6 月高点 ~$2,167） | ~-26%（7 月高点 ~$307+ 后继续冲高至 ~$527，口径：8/4） | -26%（6 月高点 ~$1,090+） |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "label": "盈利波动性 · NAND（三星/SK海力士/美光/铠侠-SanDisk/长江存储）",
+    "reported_value": 26.0,
+    "unit": "%",
+    "line_number": 226,
+    "raw_text": "| 盈利波动性 | GM 从 ~30% 修复到 52-55%，波动相对可控 | GM 26% → 85% →（历史规律）回落，波动极端 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 140,
+    "label": "⑥仓位与决策纪律（FOMO 检测） · STX",
+    "reported_value": 1.0,
+    "unit": "",
+    "line_number": 250,
+    "raw_text": "| ⑥仓位与决策纪律（FOMO 检测） | ❌ 1 年 +2,933%、\"别人都在买\"的典型 FOMO 标的 | ⚠️ AI 存储共识交易，拥挤度高 | ❌ 1 年 +650%，动量驱动明显 |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 143,
+    "label": "六关结论 · STX",
+    "reported_value": 4.0,
+    "unit": "",
+    "line_number": 251,
+    "raw_text": "| **六关结论** | **❌ 未通过（1/6）** | **⚠️ 灰色地带（3✅+3⚠️）** | **⚠️ 灰色地带偏未通过（4✅+2❌，卡在⑤⑥两道硬关）** |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 142,
+    "label": "六关结论 · WDC",
+    "reported_value": 3.0,
+    "unit": "",
+    "line_number": 251,
+    "raw_text": "| **六关结论** | **❌ 未通过（1/6）** | **⚠️ 灰色地带（3✅+3⚠️）** | **⚠️ 灰色地带偏未通过（4✅+2❌，卡在⑤⑥两道硬关）** |",
+    "fetched_value": null,
+    "fetched_source": "",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

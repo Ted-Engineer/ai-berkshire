@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "fetched_value": 3.0,
+    "fetched_source": "derived: A?x3 ??????????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 7,
+    "fetched_value": 420.0,
+    "fetched_source": "??????(2026-08-08)?Forbes 7/23??(+574% @$1600)???????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 9,
+    "fetched_value": 193.0,
+    "fetched_source": "??????(2026-08-08)",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 8,
+    "fetched_value": 151.0,
+    "fetched_source": "??????(2026-08-08)",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 21,
+    "fetched_value": 69.0,
+    "fetched_source": "SNDK FQ4'26???(StockTitan 8/5): net income $6.90B",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "fetched_value": 39.25,
+    "fetched_source": "SNDK FQ4'26???: non-GAAP EPS $39.25",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 24,
+    "fetched_value": 33.3,
+    "fetched_source": "Seeking Alpha 8/6: beats estimate of $33.28",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 27,
+    "fetched_value": 6.2,
+    "fetched_source": "SNDK???(via moomoo): GM +6.2% QoQ",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 29,
+    "fetched_value": 202.5,
+    "fetched_source": "SNDK???(via Quartz): FY26 revenue $20.25B",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 36,
+    "fetched_value": 50.0,
+    "fetched_source": "????buy-side?????????????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 146,
+    "fetched_value": 6.0,
+    "fetched_source": "???????6/23-24??Investing.com????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 51,
+    "fetched_value": 2026.0,
+    "fetched_source": "SNDK???: Investor Day 2026/8/13",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 56,
+    "fetched_value": 3.56,
+    "fetched_source": "WDC FQ4'26???(StockTitan 8/5)",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 57,
+    "fetched_value": 3.29,
+    "fetched_source": "WDC???: vs estimate of $3.29",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 58,
+    "fetched_value": 8.21,
+    "fetched_source": "WDC???(StockTitan): GAAP diluted EPS $8.21",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 60,
+    "fetched_value": 13.9,
+    "fetched_source": "WDC???: operating cash flow $1.39B",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 63,
+    "fetched_value": 33.0,
+    "fetched_source": "WDC???(via Biggo): Cloud revenue $3.3B",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 71,
+    "fetched_value": 2026.0,
+    "fetched_source": "CEO Irving Tan 2026/2???(????)",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 76,
+    "fetched_value": 8.0,
+    "fetched_source": "WDC FQ4'26?????8/5",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 90,
+    "fetched_value": 122.0,
+    "fetched_source": "???STX????2.63+2.83+3.11+3.63????????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 98,
+    "fetched_value": 3.0,
+    "fetched_source": "derived: ????????????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 104,
+    "fetched_value": 55.2,
+    "fetched_source": "GuruFocus PE ex-NRI 55.2(Public.com 59.9)???56x?FY26 non-GAAP????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 108,
+    "fetched_value": 13.99,
+    "fetched_source": "????fPE 13.99?fetched_value2=15.55(Yahoo FY28??)????14-15.5x??",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 109,
+    "fetched_value": 3.0,
+    "fetched_source": "derived: ?Q3'26???35-40%??????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 112,
+    "fetched_value": 12.0,
+    "fetched_source": "WDC??EPS 3.56?4.00 = +12.4% QoQ",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 124,
+    "fetched_value": -26.0,
+    "fetched_source": "???STX??~$1090?$806 = -26%",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 130,
+    "fetched_value": 26.0,
+    "fetched_source": "SNDK FY25 Q4 GM 26.2%(????via Investing.com)",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 140,
+    "fetched_value": 1.0,
+    "fetched_source": "derived: Checklist??????????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 143,
+    "fetched_value": 4.0,
+    "fetched_source": "derived: STX??4?????????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 142,
+    "fetched_value": 3.0,
+    "fetched_source": "derived: WDC??3?????????",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

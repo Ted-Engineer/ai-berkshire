@@ -1,0 +1,323 @@
+{
+ "date": "2026-08-09",
+ "candidates_count": 23,
+ "comparisons_count": 253,
+ "all_scores": {
+  "ACLS": {
+   "composite": 4.0,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 3,
+   "mcap_b": null
+  },
+  "ALL": {
+   "composite": 4.25,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 5,
+   "mcap_b": null
+  },
+  "BWXT": {
+   "composite": 4.3,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 6,
+   "mcap_b": null
+  },
+  "CCJ": {
+   "composite": 3.5,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 3,
+   "mcap_b": 41.86
+  },
+  "CMCSA": {
+   "composite": 4.5,
+   "dyp": 2.5,
+   "buffett": 3.5,
+   "munger": 3.0,
+   "lilu": 2.5,
+   "checklist_passed": 4,
+   "mcap_b": 89.77
+  },
+  "COHR": {
+   "composite": 2.75,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 6,
+   "mcap_b": 74.17
+  },
+  "CRDO": {
+   "composite": 4.0,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 5,
+   "mcap_b": 300.0
+  },
+  "ENS": {
+   "composite": 3.5,
+   "dyp": 3.0,
+   "buffett": 3.5,
+   "munger": 3.0,
+   "lilu": 2.5,
+   "checklist_passed": 6,
+   "mcap_b": null
+  },
+  "EXEL": {
+   "composite": 5.0,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 6,
+   "mcap_b": null
+  },
+  "FICO": {
+   "composite": 4.0,
+   "dyp": 4.0,
+   "buffett": 3.5,
+   "munger": 3.5,
+   "lilu": 3.5,
+   "checklist_passed": 5,
+   "mcap_b": null
+  },
+  "FIS": {
+   "composite": 2.5,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 4,
+   "mcap_b": 22.0
+  },
+  "HIG": {
+   "composite": 4.6,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": 4.6,
+   "checklist_passed": 6,
+   "mcap_b": null
+  },
+  "HRMY": {
+   "composite": 4.0,
+   "dyp": 3.5,
+   "buffett": 4.0,
+   "munger": 3.5,
+   "lilu": 3.0,
+   "checklist_passed": 6,
+   "mcap_b": 2.24
+  },
+  "KLIC": {
+   "composite": 4.0,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 3,
+   "mcap_b": null
+  },
+  "LEU": {
+   "composite": 3.0,
+   "dyp": 3.0,
+   "buffett": 3.0,
+   "munger": null,
+   "lilu": 2.0,
+   "checklist_passed": 6,
+   "mcap_b": 3.82
+  },
+  "NBIX": {
+   "composite": 3.4,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 6,
+   "mcap_b": 16.0
+  },
+  "NOC": {
+   "composite": 3.0,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 4,
+   "mcap_b": null
+  },
+  "PCTY": {
+   "composite": 3.5,
+   "dyp": 3.5,
+   "buffett": 3.0,
+   "munger": 3.0,
+   "lilu": 2.5,
+   "checklist_passed": 6,
+   "mcap_b": 192.0
+  },
+  "PGR": {
+   "composite": 3.5,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 6,
+   "mcap_b": null
+  },
+  "PINS": {
+   "composite": 3.0,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 6,
+   "mcap_b": 13.43
+  },
+  "POWL": {
+   "composite": 4.0,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 5,
+   "mcap_b": 130.0
+  },
+  "UHS": {
+   "composite": 3.5,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 6,
+   "mcap_b": null
+  },
+  "VECO": {
+   "composite": 2.5,
+   "dyp": null,
+   "buffett": null,
+   "munger": null,
+   "lilu": null,
+   "checklist_passed": 6,
+   "mcap_b": 3.23
+  }
+ },
+ "win_counts": {
+  "ALL": 8,
+  "BWXT": 19,
+  "ACLS": 1,
+  "CMCSA": 6,
+  "CRDO": 5,
+  "EXEL": 22,
+  "FICO": 9,
+  "HIG": 21,
+  "HRMY": 17,
+  "POWL": 5,
+  "ENS": 9,
+  "KLIC": 1,
+  "PCTY": 8,
+  "PGR": 8,
+  "UHS": 8,
+  "COHR": 2,
+  "LEU": 4,
+  "NBIX": 6,
+  "PINS": 4,
+  "NOC": 1,
+  "VECO": 1
+ },
+ "sorted_wins": [
+  [
+   "EXEL",
+   22
+  ],
+  [
+   "HIG",
+   21
+  ],
+  [
+   "BWXT",
+   19
+  ],
+  [
+   "HRMY",
+   17
+  ],
+  [
+   "FICO",
+   9
+  ],
+  [
+   "ENS",
+   9
+  ],
+  [
+   "ALL",
+   8
+  ],
+  [
+   "PCTY",
+   8
+  ],
+  [
+   "PGR",
+   8
+  ],
+  [
+   "UHS",
+   8
+  ],
+  [
+   "CMCSA",
+   6
+  ],
+  [
+   "NBIX",
+   6
+  ],
+  [
+   "CRDO",
+   5
+  ],
+  [
+   "POWL",
+   5
+  ],
+  [
+   "LEU",
+   4
+  ],
+  [
+   "PINS",
+   4
+  ],
+  [
+   "COHR",
+   2
+  ],
+  [
+   "ACLS",
+   1
+  ],
+  [
+   "KLIC",
+   1
+  ],
+  [
+   "NOC",
+   1
+  ],
+  [
+   "VECO",
+   1
+  ]
+ ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2026-08-09",
+  "candidates_count": 15,
+  "comparisons_run": 105,
+  "final_ranking": [
+    {
+      "ticker": "HIG",
+      "file": "reports\\HIG-team-checklist-20260809.md",
+      "composite": 4.7
+    },
+    {
+      "ticker": "CMCSA",
+      "file": "reports\\CMCSA-team-checklist-20260809.md",
+      "composite": 4.5
+    },
+    {
+      "ticker": "BWXT",
+      "file": "reports\\BWXT-team-checklist-20260809.md",
+      "composite": 4.3
+    },
+    {
+      "ticker": "ALL",
+      "file": "reports\\ALL-team-checklist-20260809.md",
+      "composite": 4.25
+    },
+    {
+      "ticker": "FICO",
+      "file": "reports\\FICO-team-checklist-20260809.md",
+      "composite": 4.0
+    },
+    {
+      "ticker": "HRMY",
+      "file": "reports\\HRMY-team-checklist-20260809.md",
+      "composite": 4.0
+    },
+    {
+      "ticker": "EXEL",
+      "file": "reports\\EXEL-team-checklist-20260809.md",
+      "composite": 3.625
+    },
+    {
+      "ticker": "ENS",
+      "file": "reports\\ENS-team-checklist-20260809.md",
+      "composite": 3.5
+    },
+    {
+      "ticker": "NBIX",
+      "file": "reports\\NBIX-team-checklist-20260809.md",
+      "composite": 3.5
+    },
+    {
+      "ticker": "UHS",
+      "file": "reports\\UHS-team-checklist-20260809.md",
+      "composite": 3.5
+    },
+    {
+      "ticker": "CRDO",
+      "file": "reports\\CRDO-team-checklist-20260809.md",
+      "composite": 3.25
+    },
+    {
+      "ticker": "LEU",
+      "file": "reports\\LEU-team-checklist-20260809.md",
+      "composite": 3.0
+    },
+    {
+      "ticker": "KLIC",
+      "file": "reports\\KLIC-team-checklist-20260809.md",
+      "composite": 2.85
+    },
+    {
+      "ticker": "FIS",
+      "file": "reports\\FIS-team-checklist-20260809.md",
+      "composite": 2.5
+    },
+    {
+      "ticker": "VECO",
+      "file": "reports\\VECO-team-checklist-20260809.md",
+      "composite": 2.5
+    }
+  ]
+}
