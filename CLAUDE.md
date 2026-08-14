@@ -33,8 +33,9 @@ skills/        — 投研 Skill 定义（Markdown），通过 Skill 工具调用
 codex-skills/  — 同步生成的 Codex Skill（自动从 skills/ 生成，不手动编辑）
 codex-prompts/ — Codex slash prompt 兼容层（自动生成）
 .trae/skills/  — 同步生成的 TRAE Skill（自动从 skills/ 生成，不手动编辑）
+.dsh/skills/   — 同步生成的 DSH Skill（自动从 skills/ 生成，不手动编辑，DSH rank 100 项目级）
 tools/         — Python 数据/验证工具（financial_rigor.py / report_audit.py 等）
-scripts/       — 同步脚本（sync-codex-skills.py / sync-trae-skills.py 等）
+scripts/       — 同步脚本（sync-codex-skills.py / sync-trae-skills.py / sync-dsh-skills.py 等）
 reports/       — 投资研究报告输出（按公司建文件夹）
 assets/        — 图片等静态资源
 docs/          — 项目文档
@@ -85,9 +86,11 @@ data/          — 临时数据缓存
 ```bash
 python scripts/sync-codex-skills.py        # 同步 codex-skills/
 python scripts/sync-trae-skills.py         # 同步 .trae/skills/（TRAE 项目级 skill）
+python scripts/sync-dsh-skills.py          # 同步 .dsh/skills/（DSH 项目级 skill，rank 100）
 python scripts/sync-codex-prompts.py       # 同步 codex-prompts/（可选）
 python scripts/sync-codex-skills.py --check  # 仅检查不写入
 python scripts/sync-trae-skills.py --check   # 仅检查 TRAE skill 不写入
+python scripts/sync-dsh-skills.py --check    # 仅检查 DSH skill 不写入
 ```
 
 ---
@@ -146,8 +149,10 @@ reports/{公司名}/
 ```bash
 python scripts/sync-codex-skills.py         # 同步到 codex-skills/
 python scripts/sync-trae-skills.py          # 同步到 .trae/skills/（TRAE 项目级 skill）
+python scripts/sync-dsh-skills.py           # 同步到 .dsh/skills/（DSH 项目级 skill，rank 100）
 python scripts/sync-codex-skills.py --check # 仅检查
 python scripts/sync-trae-skills.py --check  # 仅检查 TRAE skill
+python scripts/sync-dsh-skills.py --check   # 仅检查 DSH skill
 ```
 
 ### 工具验证
@@ -231,7 +236,7 @@ git push origin main
 
 - 保留现有报告文件，除非任务明确要求修改
 - 修改范围限制在请求的 skill/tool/script/文档
-- 修改 `skills/` 任何文件后，运行 `python scripts/sync-codex-skills.py` 和 `python scripts/sync-trae-skills.py`
+- 修改 `skills/` 任何文件后，运行 `python scripts/sync-codex-skills.py`、`python scripts/sync-trae-skills.py` 和 `python scripts/sync-dsh-skills.py`
 - 完成 skill/tool 改动前，运行相关语法或生成检查
 
 ---
