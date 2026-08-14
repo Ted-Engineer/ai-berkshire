@@ -1,7 +1,8 @@
-# AI Berkshire Codex & TRAE Guide
+# AI Berkshire Codex, TRAE & DSH Guide
 
 This repository contains investment research workflows, reports, and shared
-validation tools. Keep compatibility with Claude Code, Codex, and TRAE users.
+validation tools. Keep compatibility with Claude Code, Codex, TRAE, and DSH
+(DeepSeek Harness) users.
 
 ## Project Layout
 
@@ -13,11 +14,15 @@ validation tools. Keep compatibility with Claude Code, Codex, and TRAE users.
   style entry points. These are a compatibility layer; skills remain preferred.
 - `.trae/skills/*/SKILL.md`: TRAE project-level skills. Generated from
   `skills/*.md`; do not edit manually.
-- `tools/*.py`: shared financial validation and data tools used by both systems.
+- `.dsh/skills/*/SKILL.md`: DSH (DeepSeek Harness) project-level skills.
+  Generated from `skills/*.md`; do not edit manually. DSH discovers these at
+  rank 100 (highest local priority).
+- `tools/*.py`: shared financial validation and data tools used by all systems.
 - `reports/`: research outputs. Do not rewrite unrelated reports while changing
   tooling or skills.
 - `scripts/sync-codex-skills.py`: regenerates Codex skills from `skills/*.md`.
 - `scripts/sync-trae-skills.py`: regenerates TRAE skills from `skills/*.md`.
+- `scripts/sync-dsh-skills.py`: regenerates DSH skills from `skills/*.md`.
 - `scripts/install-codex-skills.sh` / `scripts/install-codex-skills.bat`:
   installs Codex skills locally.
 - `scripts/install-codex-prompts.sh` / `scripts/install-codex-prompts.bat`:
@@ -32,11 +37,15 @@ validation tools. Keep compatibility with Claude Code, Codex, and TRAE users.
   `python3 scripts/sync-codex-skills.py`
 - To keep TRAE project-level skills in sync, also run:
   `python3 scripts/sync-trae-skills.py`
+- To keep DSH project-level skills in sync, also run:
+  `python3 scripts/sync-dsh-skills.py`
 - If slash prompt compatibility is needed, also run:
   `python3 scripts/sync-codex-prompts.py`
 - Do not manually edit generated `codex-skills/*/SKILL.md` unless also updating
   the corresponding source in `skills/`.
 - Do not manually edit generated `.trae/skills/*/SKILL.md` unless also updating
+  the corresponding source in `skills/`.
+- Do not manually edit generated `.dsh/skills/*/SKILL.md` unless also updating
   the corresponding source in `skills/`.
 - For Codex-only hand-written packages under `codex-skills/`, keep them clearly
   marked as Codex-only and do not create a same-named `skills/*.md` file unless
@@ -70,9 +79,13 @@ validation tools. Keep compatibility with Claude Code, Codex, and TRAE users.
 - Before finishing a skill/tool change, run the relevant syntax or generation
   check. For compatibility changes, run:
   `python3 scripts/sync-codex-skills.py`
+  `python3 scripts/sync-trae-skills.py`
+  `python3 scripts/sync-dsh-skills.py`
 - To verify generated Codex artifacts are current without rewriting files, run:
   `python3 scripts/sync-codex-skills.py --check`
   and, when slash prompts are relevant:
   `python3 scripts/sync-codex-prompts.py --check`
 - To verify TRAE project-level skills are current without rewriting files, run:
   `python3 scripts/sync-trae-skills.py --check`
+- To verify DSH project-level skills are current without rewriting files, run:
+  `python3 scripts/sync-dsh-skills.py --check`

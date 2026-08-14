@@ -1,0 +1,8 @@
+# search log started 2026-08-14T04:26:06Z
+[04:26:42] web_search: biggest stock movers today August 14 2026
+[04:29:57] 5x web_search (Source G ecosystem)
+[04:30:45] 5x web_search (gap-fix candidate valuation: NBIS/AMAT/LRCX/ASML/KLAC)
+[04:31:13] 10x web_search (current prices for all holdings)
+[04:32:51] 5x web_search (checklist prep: AMAT/LRCX/KLAC/ASML earnings+valuation)
+[04:33:23] 4x web_search (AMAT checklist financials: price/PE/ROE/FCF/dividend/backlog)
+[04:36:13] 5x web_search (CRITICAL price verification: META/MSFT/AVGO/TSM actual Aug 13 close)
