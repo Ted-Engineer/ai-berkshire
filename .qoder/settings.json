@@ -1,0 +1,8 @@
+{
+  "enabledPlugins": {
+    "research-copilot@qoder-marketplace": true,
+    "agent-browser@qoder-marketplace": true,
+    "context7@qoder-marketplace": true,
+    "ai-berkshire-investment": true
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "date": "2026-08-09",
+  "candidates_count": 24,
+  "comparisons_run": 276,
+  "final_ranking": [
+    {
+      "ticker": "BWXT",
+      "composite": 4.3,
+      "sector": "核燃料",
+      "thesis": "海军+SMR双独占",
+      "rating": "5-7% @ $130-145",
+      "total_score": 21.5
+    },
+    {
+      "ticker": "ALL",
+      "composite": 4.25,
+      "sector": "P&C保险",
+      "thesis": "FwdPE 5.3+ROE 46%",
+      "rating": "5-7% @ $250-270",
+      "total_score": 21.25
+    },
+    {
+      "ticker": "HIG",
+      "composite": 4.25,
+      "sector": "综合保险",
+      "thesis": "FwdPE 10.45+ROE 21.79%",
+      "rating": "6-8% @ $130-140",
+      "total_score": 21.25
+    },
+    {
+      "ticker": "FICO",
+      "composite": 3.7,
+      "sector": "金融数据",
+      "thesis": "ROIC 67.87%+准垄断",
+      "rating": "2-3% @ $850-920",
+      "total_score": 18.5
+    },
+    {
+      "ticker": "EXEL",
+      "composite": 3.625,
+      "sector": "医药",
+      "thesis": "mCRPC PDUFA催化",
+      "rating": "3% @ $48-52",
+      "total_score": 18.125
+    },
+    {
+      "ticker": "HRMY",
+      "composite": 3.5,
+      "sector": "医药",
+      "thesis": "PEG 0.44最低+Wakix独占",
+      "rating": "2-3% @ $32-38",
+      "total_score": 17.5
+    },
+    {
+      "ticker": "VRT",
+      "composite": 3.5,
+      "sector": "数据中心",
+      "thesis": "液冷+UPS双垄断",
+      "rating": "3-5% 现价可买",
+      "total_score": 17.5
+    },
+    {
+      "ticker": "PGR",
+      "composite": 3.5,
+      "sector": "P&C保险",
+      "thesis": "P&C之王+股息贵族",
+      "rating": "3% @ $210-220",
+      "total_score": 17.5
+    },
+    {
+      "ticker": "NBIX",
+      "composite": 3.4,
+      "sector": "医药",
+      "thesis": "Crenessity+Ingrezza",
+      "rating": "2-3% @ $145-165",
+      "total_score": 17.0
+    },
+    {
+      "ticker": "CRDO",
+      "composite": 3.25,
+      "sector": "半导体",
+      "thesis": "AEC DSP垄断+87%增速",
+      "rating": "3-5% @ $170-200",
+      "total_score": 16.25
+    },
+    {
+      "ticker": "POWL",
+      "composite": 3.25,
+      "sector": "电力设备",
+      "thesis": "数据中心配电",
+      "rating": "等$130-160",
+      "total_score": 16.25
+    },
+    {
+      "ticker": "ENS",
+      "composite": 3.0,
+      "sector": "工业锂电",
+      "thesis": "数据中心UPS+PE14x",
+      "rating": "1-2% 等财报",
+      "total_score": 15.0
+    },
+    {
+      "ticker": "LEU",
+      "composite": 3.0,
+      "sector": "核燃料",
+      "thesis": "HALEU垄断+DOE合同",
+      "rating": "3-5% 等$150-170",
+      "total_score": 15.0
+    },
+    {
+      "ticker": "NOC",
+      "composite": 3.0,
+      "sector": "国防",
+      "thesis": "B-21独占+Beta-0.1",
+      "rating": "3% @ $510-540",
+      "total_score": 15.0
+    },
+    {
+      "ticker": "UHS",
+      "composite": 3.0,
+      "sector": "医院",
+      "thesis": "PE 7.07最便宜",
+      "rating": "3-5% 等$140-160",
+      "total_score": 15.0
+    },
+    {
+      "ticker": "ACLS",
+      "composite": 3.0,
+      "sector": "半导体设备",
+      "thesis": "离子注入+SiC",
+      "rating": "等$110-125",
+      "total_score": 15.0
+    },
+    {
+      "ticker": "PCTY",
+      "composite": 3.0,
+      "sector": "HR SaaS",
+      "thesis": "中市场HR云",
+      "rating": "等$120-130",
+      "total_score": 15.0
+    },
+    {
+      "ticker": "CMCSA",
+      "composite": 2.9,
+      "sector": "通信",
+      "thesis": "FCF yield 22.7%最高",
+      "rating": "0.5-1% @ $22-23",
+      "total_score": 14.5
+    },
+    {
+      "ticker": "CCJ",
+      "composite": 2.9,
+      "sector": "铀矿",
+      "thesis": "好生意坏价格PE166",
+      "rating": "等$50-60",
+      "total_score": 14.5
+    },
+    {
+      "ticker": "KLIC",
+      "composite": 2.85,
+      "sector": "半导体设备",
+      "thesis": "PEG 0.08预期陷阱",
+      "rating": "等$60-70",
+      "total_score": 14.25
+    },
+    {
+      "ticker": "COHR",
+      "composite": 2.75,
+      "sector": "光通信",
+      "thesis": "光模块龙头但贵",
+      "rating": "等$250-280",
+      "total_score": 13.75
+    },
+    {
+      "ticker": "FIS",
+      "composite": 2.5,
+      "sector": "支付",
+      "thesis": "Worldpay分拆催化",
+      "rating": "3-5% @ $35-40",
+      "total_score": 12.5
+    },
+    {
+      "ticker": "VECO",
+      "composite": 2.5,
+      "sector": "半导体设备",
+      "thesis": "SiC外延设备",
+      "rating": "等$30-35",
+      "total_score": 12.5
+    },
+    {
+      "ticker": "PINS",
+      "composite": 2.25,
+      "sector": "社交",
+      "thesis": "估值便宜基本面弱",
+      "rating": "观望",
+      "total_score": 11.25
+    }
+  ]
+}

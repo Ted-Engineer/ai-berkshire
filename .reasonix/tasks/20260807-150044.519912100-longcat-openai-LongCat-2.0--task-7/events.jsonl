@@ -1,0 +1,2 @@
+{"sequence":1,"timestamp":"2026-08-07T23:06:16.347457+08:00","event_type":"state_change","task_id":"20260807-150044.519912100-longcat-openai-LongCat-2.0--task-7","session_id":"20260807-150044.519912100-longcat-openai-LongCat-2.0","state":"running","runtime_state":"alive"}
+{"sequence":2,"timestamp":"2026-08-07T23:14:26.7519999+08:00","event_type":"state_change","task_id":"20260807-150044.519912100-longcat-openai-LongCat-2.0--task-7","session_id":"20260807-150044.519912100-longcat-openai-LongCat-2.0","state":"failed","runtime_state":"exited","error_code":"job_failed"}

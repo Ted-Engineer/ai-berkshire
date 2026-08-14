@@ -1,0 +1,86 @@
+[
+  {
+    "id": 17,
+    "label": "CRM净负债",
+    "reported_value": 30.0,
+    "unit": "B",
+    "line_number": 141,
+    "raw_text": "净负债$30B暴增",
+    "fetched_value": "30.047",
+    "fetched_source": "stockanalysis.com/stocks/crm/financials/",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 21,
+    "label": "ADBE收入增速",
+    "reported_value": 11.5,
+    "unit": "%",
+    "line_number": 148,
+    "raw_text": "+11.5%",
+    "fetched_value": "11.49",
+    "fetched_source": "stockanalysis.com/stocks/adbe/financials/",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 23,
+    "label": "ADBE FCF Margin",
+    "reported_value": 40.8,
+    "unit": "%",
+    "line_number": 149,
+    "raw_text": "FCF Margin 40.8%",
+    "fetched_value": "40.80",
+    "fetched_source": "stockanalysis.com/stocks/adbe/financials/",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 26,
+    "label": "MU净现金",
+    "reported_value": 19.6,
+    "unit": "B",
+    "line_number": 151,
+    "raw_text": "+$19.6B净现金",
+    "fetched_value": "19.646",
+    "fetched_source": "stockanalysis.com/stocks/mu/financials/",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 28,
+    "label": "MU悲观情景回报",
+    "reported_value": -78.3,
+    "unit": "%",
+    "line_number": 153,
+    "raw_text": "-78.3%",
+    "fetched_value": "-78.3",
+    "fetched_source": "financial_rigor.py three-scenario",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 44,
+    "label": "仓位建议",
+    "reported_value": 3.0,
+    "unit": "%",
+    "line_number": 188,
+    "raw_text": "3%",
+    "fetched_value": "3",
+    "fetched_source": "策略建议（非财务数据）",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  },
+  {
+    "id": 45,
+    "label": "价格建议",
+    "reported_value": 750.0,
+    "unit": "",
+    "line_number": 189,
+    "raw_text": "$750-800",
+    "fetched_value": "750",
+    "fetched_source": "策略建议（非财务数据）",
+    "fetched_value2": null,
+    "fetched_source2": ""
+  }
+]

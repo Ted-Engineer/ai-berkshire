@@ -1,0 +1,26 @@
+{
+ "date": "2026-08-09",
+ "analysis": "deep_python_quantitative",
+ "results": [
+  {
+   "ticker": "ALL",
+   "quant_score": 46.6,
+   "asymmetry": 1.69
+  },
+  {
+   "ticker": "HRMY",
+   "quant_score": 40.4,
+   "asymmetry": 3.37
+  },
+  {
+   "ticker": "HIG",
+   "quant_score": 37.5,
+   "asymmetry": 1.01
+  },
+  {
+   "ticker": "PGR",
+   "quant_score": 37.5,
+   "asymmetry": 0.91
+  }
+ ]
+}

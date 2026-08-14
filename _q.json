@@ -1,0 +1,94 @@
+OK CRM: $195.47
+OK NOW: $126.835
+OK TEAM: $148.107
+OK TWLO: $251.583
+OK PLTR: $178.48
+OK NET: $305.485
+OK SNOW: $336.1
+OK PATH: $15.267
+{
+  "quotes": {
+    "CRM": {
+      "price": 195.47,
+      "prev_close": null,
+      "52w_high": 269.11,
+      "52w_low": 146.32,
+      "volume": 2391986,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "NOW": {
+      "price": 126.835,
+      "prev_close": null,
+      "52w_high": 194.726,
+      "52w_low": 81.24,
+      "volume": 6841273,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "TEAM": {
+      "price": 148.107,
+      "prev_close": null,
+      "52w_high": 184.0,
+      "52w_low": 56.01,
+      "volume": 3349776,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "TWLO": {
+      "price": 251.583,
+      "prev_close": null,
+      "52w_high": 255.55,
+      "52w_low": 91.84,
+      "volume": 1271293,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "PLTR": {
+      "price": 178.48,
+      "prev_close": null,
+      "52w_high": 207.52,
+      "52w_low": 106.37,
+      "volume": 31885431,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "NET": {
+      "price": 305.485,
+      "prev_close": null,
+      "52w_high": 324.73,
+      "52w_low": 158.83,
+      "volume": 3223211,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "SNOW": {
+      "price": 336.1,
+      "prev_close": null,
+      "52w_high": 340.5,
+      "52w_low": 118.3,
+      "volume": 2014763,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "PATH": {
+      "price": 15.267,
+      "prev_close": null,
+      "52w_high": 19.84,
+      "52w_low": 9.2,
+      "volume": 10808432,
+      "currency": "USD",
+      "exchange": "NYQ"
+    }
+  },
+  "stats": {
+    "CRM": {},
+    "NOW": {},
+    "TEAM": {},
+    "TWLO": {},
+    "PLTR": {},
+    "NET": {},
+    "SNOW": {},
+    "PATH": {}
+  }
+}

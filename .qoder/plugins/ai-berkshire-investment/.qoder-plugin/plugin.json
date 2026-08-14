@@ -1,0 +1,13 @@
+{
+  "name": "ai-berkshire-investment",
+  "displayName": "AI Berkshire Investment Skills",
+  "version": "1.0.0",
+  "description": "Value investing research skills: industry funnel, bottleneck hunter, investment team, checklist",
+  "descriptionZh": "价值投资研究技能包：行业漏斗、供应链瓶颈猎手、投研团队、买入前检查表",
+  "author": { "name": "AI Berkshire" },
+  "homepage": "https://github.com/ai-berkshire",
+  "keywords": ["qoder-plugin", "skill", "investment", "value-investing"],
+  "category": "developer-tools",
+  "tags": ["skill", "investment"],
+  "skills": "./skills/"
+}

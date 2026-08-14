@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-09",
+ "candidates_count": 23,
+ "comparisons_count": 253,
+ "all_scores": {
+  "ACLS": {
+   "composite": 3.0,
+   "dyp": 3.0,
+   "buffett": 3.0,
+   "munger": 3.0,
+   "lilu": 3.0,
+   "checklist": 3,
+   "mcap": 4.3
+  },
+  "ALL": {
+   "composite": 4.25,
+   "dyp": 4.0,
+   "buffett": 4.5,
+   "munger": 4.0,
+   "lilu": 4.0,
+   "checklist": 5,
+   "mcap": 67.5
+  },
+  "BWXT": {
+   "composite": 4.3,
+   "dyp": 4.5,
+   "buffett": 3.0,
+   "munger": 4.5,
+   "lilu": 4.0,
+   "checklist": 5,
+   "mcap": 15.6
+  },
+  "CCJ": {
+   "composite": 2.9,
+   "dyp": 3.5,
+   "buffett": 1.5,
+   "munger": 3.5,
+   "lilu": 3.0,
+   "checklist": 3,
+   "mcap": 42.4
+  },
+  "CMCSA": {
+   "composite": 2.9,
+   "dyp": 2.5,
+   "buffett": 3.5,
+   "munger": 3.0,
+   "lilu": 2.5,
+   "checklist": 4,
+   "mcap": 90.0
+  },
+  "COHR": {
+   "composite": 2.75,
+   "dyp": 3.0,
+   "buffett": 2.0,
+   "munger": 4.0,
+   "lilu": 2.0,
+   "checklist": 3,
+   "mcap": 74.2
+  },
+  "CRDO": {
+   "composite": 3.25,
+   "dyp": 4.0,
+   "buffett": 3.0,
+   "munger": 3.0,
+   "lilu": 3.0,
+   "checklist": 5,
+   "mcap": 46.6
+  },
+  "ENS": {
+   "composite": 3.0,
+   "dyp": 3.0,
+   "buffett": 3.5,
+   "munger": 3.0,
+   "lilu": 2.5,
+   "checklist": 3,
+   "mcap": 7.0
+  },
+  "EXEL": {
+   "composite": 3.625,
+   "dyp": 3.5,
+   "buffett": 4.0,
+   "munger": 3.5,
+   "lilu": 3.5,
+   "checklist": 6,
+   "mcap": 13.4
+  },
+  "FICO": {
+   "composite": 3.7,
+   "dyp": 4.0,
+   "buffett": 3.5,
+   "munger": 3.5,
+   "lilu": 3.5,
+   "checklist": 5,
+   "mcap": 22.5
+  },
+  "FIS": {
+   "composite": 2.5,
+   "dyp": 2.0,
+   "buffett": 3.0,
+   "munger": 3.0,
+   "lilu": 2.0,
+   "checklist": 4,
+   "mcap": 22.1
+  },
+  "HIG": {
+   "composite": 4.25,
+   "dyp": 4.2,
+   "buffett": 4.5,
+   "munger": 4.0,
+   "lilu": 4.3,
+   "checklist": 6,
+   "mcap": 38.8
+  },
+  "HRMY": {
+   "composite": 3.5,
+   "dyp": 3.5,
+   "buffett": 4.0,
+   "munger": 3.5,
+   "lilu": 3.0,
+   "checklist": 6,
+   "mcap": 2.2
+  },
+  "KLIC": {
+   "composite": 2.85,
+   "dyp": 3.0,
+   "buffett": 3.0,
+   "munger": 3.0,
+   "lilu": 2.0,
+   "checklist": 3,
+   "mcap": 4.8
+  },
+  "LEU": {
+   "composite": 3.0,
+   "dyp": 3.0,
+   "buffett": 3.0,
+   "munger": 4.0,
+   "lilu": 2.0,
+   "checklist": 3,
+   "mcap": 3.8
+  },
+  "NBIX": {
+   "composite": 3.4,
+   "dyp": 3.5,
+   "buffett": 3.5,
+   "munger": 3.5,
+   "lilu": 3.0,
+   "checklist": 6,
+   "mcap": 16.6
+  },
+  "NOC": {
+   "composite": 3.0,
+   "dyp": 3.5,
+   "buffett": 3.5,
+   "munger": 3.0,
+   "lilu": 3.0,
+   "checklist": 4,
+   "mcap": 81.2
+  },
+  "PCTY": {
+   "composite": 3.0,
+   "dyp": 3.5,
+   "buffett": 3.0,
+   "munger": 3.0,
+   "lilu": 2.5,
+   "checklist": 3,
+   "mcap": 8.0
+  },
+  "PGR": {
+   "composite": 3.5,
+   "dyp": 4.5,
+   "buffett": 4.0,
+   "munger": 3.0,
+   "lilu": 2.5,
+   "checklist": 5,
+   "mcap": 130.0
+  },
+  "PINS": {
+   "composite": 2.25,
+   "dyp": 2.0,
+   "buffett": 3.0,
+   "munger": 2.0,
+   "lilu": 2.0,
+   "checklist": 3,
+   "mcap": 13.4
+  },
+  "POWL": {
+   "composite": 3.25,
+   "dyp": 3.0,
+   "buffett": 4.0,
+   "munger": 3.0,
+   "lilu": 3.0,
+   "checklist": 5,
+   "mcap": 7.7
+  },
+  "UHS": {
+   "composite": 3.0,
+   "dyp": 2.5,
+   "buffett": 3.5,
+   "munger": 2.5,
+   "lilu": 2.5,
+   "checklist": 4,
+   "mcap": 10.5
+  },
+  "VECO": {
+   "composite": 2.5,
+   "dyp": 4.0,
+   "buffett": 2.0,
+   "munger": 3.0,
+   "lilu": 2.0,
+   "checklist": 2,
+   "mcap": 3.2
+  }
+ },
+ "win_counts": {
+  "BWXT": 21,
+  "HIG": 21,
+  "ALL": 20,
+  "EXEL": 18,
+  "FICO": 18,
+  "HRMY": 17,
+  "NBIX": 15,
+  "PGR": 15,
+  "CRDO": 13,
+  "POWL": 13,
+  "NOC": 12,
+  "ENS": 8,
+  "ACLS": 7,
+  "CCJ": 7,
+  "LEU": 6,
+  "PCTY": 6,
+  "UHS": 6,
+  "CMCSA": 5,
+  "KLIC": 4,
+  "COHR": 3,
+  "FIS": 2,
+  "VECO": 1,
+  "PINS": 0
+ }
+}
