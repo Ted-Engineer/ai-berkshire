@@ -1,6 +1,6 @@
 schema_version: 1
 module_path: agent_skills/coding_design_skills
-title: Claude Code 可插拔技能集合
+title: Claude Code 可插拔技能集（编码与设计）
 scope:
     - skills/
 source_files: []

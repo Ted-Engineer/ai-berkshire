@@ -1,6 +1,6 @@
 schema_version: 1
 module_path: claude_workspace
-title: 多AI编辑器统一工作区配置（Claude/ZCode/Trae/Dsh）
+title: 多AI编辑器工作区与技能共享配置
 scope:
     - .claude/
     - .dsh/
