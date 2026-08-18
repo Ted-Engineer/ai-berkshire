@@ -133,7 +133,34 @@
 | F | 用户历史关注（必选） | 三步：(1)Read MEMORY.md索引；(2)对每条相关记忆Read完整内容提取ticker；(3)特别关注反复研究但未执行的标的 | 用户花最多时间研究的标的最可能成交 |
 | G | 持仓生态链反向搜索（必选） | 对每只持仓搜索核心供应商/客户/合作伙伴（=D7） | 生态链标的有已验证的商业关系 |
 | **H** | **爆发股猎手（必选）** | 用open-websearch MCP执行4轮×≥5组关键词全网扫描；DNA 5+1画像过滤（收入≥100%/盈利拐点/市值$3-80B/赛道纯正/积压可见 + 覆盖错位） | 传统价值筛选器系统性过滤掉三位数增速股 |
-| **I** | **估值修复猎手（必选，v5.2新增）** | 搜索"好公司被恐惧打折"的标的：历史低PE+高毛利+催化剂临近；搜索词："quality stocks historically low PE 2026"、"oversold SaaS stocks strong fundamentals"、"beaten down tech stocks high margin catalyst"、"stocks 52 week low strong FCF moat"、"fear driven sellover quality companies 2026"；**加密修复专用词（v5.4新增）**："crypto stocks beaten down strong revenue 2026"、"bitcoin proxy stocks undervalued COIN MSTR"、"crypto mining stocks low valuation hashrate growth"、"stablecoin regulation catalyst stocks"、"crypto exchange stocks oversold fundamentals" | 估值修复是第二条超额收益路径（恐惧>现实→PE回归均值），与来源H互补：H找"增速被低估"，I找"风险被高估"；加密修复独立于AI修复（币价周期压制≠AI叙事压制） |
+| **I** | **估值修复猎手（必选，v5.2新增）** | 搜索"好公司被恐惧打折"的标的；搜索词见下方两组（AI修复+加密修复） | 估值修复是第二条超额收益路径，与来源H互补；加密修复独立于AI修复（币价周期≠AI叙事） |
+
+**来源I搜索词库——AI修复（≥5组）**：
+- "quality stocks historically low PE 2026"
+- "oversold SaaS stocks strong fundamentals"
+- "beaten down tech stocks high margin catalyst"
+- "stocks 52 week low strong FCF moat"
+- "fear driven sellover quality companies 2026"
+
+**来源I搜索词库——加密修复（v5.4新增，≥15组，覆盖全维度）**：
+
+| # | 子行业 | 搜索词 | 代表标的方向 |
+|---|---------|--------|-------------|
+| 1 | 交易所 | "crypto exchange stocks oversold revenue growth 2026" | COIN |
+| 2 | 稳定币 | "stablecoin issuer stocks regulation catalyst USDC" | CRCL |
+| 3 | 矿企（估值） | "bitcoin mining stocks low valuation hashrate record 2026" | CLSK, HUT, IREN, MARA, RIOT |
+| 4 | 矿企（转型） | "crypto miner AI HPC pivot data center conversion" | BTBT, HUT, IREN |
+| 5 | BTC代理 | "bitcoin proxy stocks discount NAV MSTR" | MSTR |
+| 6 | 支付/金融科技 | "crypto payment fintech stocks undervalued TPV growth" | PYPL crypto, SQ, HOOD |
+| 7 | DeFi基础设施 | "DeFi protocol revenue stocks tokenization 2026" | DeFi上市公司 |
+| 8 | RWA代币化 | "real world asset tokenization stocks blockchain 2026" | RWA概念 |
+| 9 | 区块链基础设施 | "blockchain infrastructure stocks Layer1 Layer2 revenue" | 公链/基础设施 |
+| 10 | 托管/合规 | "crypto custody compliance stocks institutional 2026" | 托管商 |
+| 11 | ETF/资金流 | "bitcoin ethereum ETF flows beneficiary stocks" | ETF受益股 |
+| 12 | 监管催化 | "crypto regulation SEC legislation stocks catalyst 2026" | 监管受益 |
+| 13 | 硬件/算力 | "crypto mining hardware ASIC stocks revenue growth" | 矿机硬件 |
+| 14 | 游戏/NFT | "blockchain gaming NFT stocks revenue recovery 2026" | 链游 |
+| 15 | 综合扫描 | "crypto stocks bear market bottom strong balance sheet" | 全行业底部扫描 |
 
 **来源F执行证据**：必须展示"Read了哪些memory文件→提取了哪些ticker"。
 **来源G执行证据**：必须展示"对哪些持仓搜索了供应商/客户"。
