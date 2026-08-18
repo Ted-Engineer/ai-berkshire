@@ -1,0 +1,22 @@
+schema_version: 1
+module_path: stock_screening_tools/report_generation
+title: 选股报告生成与校验工具集
+scope:
+    - tools/detail_table.py
+    - tools/hist_pe.py
+    - tools/hist_trend.py
+    - tools/final_conclusion.py
+    - tools/final2.py
+    - tools/fix_body.py
+    - tools/fix_conclusion.py
+    - tools/fix_crm_tag.py
+    - tools/ttm_eps_fix.py
+    - tools/ttm_rigorous.py
+    - tools/momentum_backtest.py
+    - tools/momentum_backtest_v2.py
+    - tools/log-command.sh
+    - tools/xverify.py
+source_files: []
+depends_on: []
+related_to:
+    - path: stock_screening_tools/screener_ranker

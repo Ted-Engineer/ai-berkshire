@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: agent_skills
+title: Claude Code 技能集与微信桥接
+scope:
+    - skills/
+source_files: []
+depends_on: []
+related_to: []

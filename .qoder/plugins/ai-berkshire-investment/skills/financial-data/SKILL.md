@@ -1,6 +1,6 @@
 ---
 name: financial-data
-description: "财务数据获取与交叉验证规范"
+description: "财务数据获取与交叉验证规范:定义财务数据来源优先级、双源验证规则、误差处理标准。此技能由其他投研技能自动引用,当涉及财务数据收集与验证时按本规范执行。"
 ---
 
 # 财务数据获取与交叉验证规范
@@ -45,12 +45,12 @@ description: "财务数据获取与交叉验证规范"
 **FinMind 取数工具**（分析台股时优先调用，输出自带市值验算）：
 
 ```bash
-python3 tools/twstock_data.py quote 2330        # 最新行情 + PER/PBR/殖利率 + 市值验算
-python3 tools/twstock_data.py valuation 2330    # 估值指标 + PER一年区间 + 52周高低
-python3 tools/twstock_data.py financials 2330   # 近5年年度核心财务（营收/毛利率/归母净利/EPS/ROE）
-python3 tools/twstock_data.py revenue 2330      # 近13个月月营收及同比
-python3 tools/twstock_data.py dividend 2330     # 近年股利政策（现金/股票股利、除息日）
-python3 tools/twstock_data.py search 台積        # 搜索股票代码（注意台股名称为繁体）
+python tools/twstock_data.py quote 2330        # 最新行情 + PER/PBR/殖利率 + 市值验算
+python tools/twstock_data.py valuation 2330    # 估值指标 + PER一年区间 + 52周高低
+python tools/twstock_data.py financials 2330   # 近5年年度核心财务（营收/毛利率/归母净利/EPS/ROE）
+python tools/twstock_data.py revenue 2330      # 近13个月月营收及同比
+python tools/twstock_data.py dividend 2330     # 近年股利政策（现金/股票股利、除息日）
+python tools/twstock_data.py search 台積        # 搜索股票代码（注意台股名称为繁体）
 ```
 
 台股特别注意：

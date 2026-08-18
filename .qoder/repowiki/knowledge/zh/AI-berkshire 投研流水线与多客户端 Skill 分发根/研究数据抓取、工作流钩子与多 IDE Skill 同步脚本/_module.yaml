@@ -1,0 +1,11 @@
+schema_version: 1
+module_path: research_scripts
+title: 研究数据抓取、工作流钩子与多 IDE Skill 同步脚本
+scope:
+    - scripts/
+    - tests/
+source_files: []
+depends_on: []
+related_to:
+    - path: claude_workspace
+    - path: stock_screening_tools/screener_ranker

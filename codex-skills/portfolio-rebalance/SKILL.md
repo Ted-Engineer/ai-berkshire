@@ -38,6 +38,11 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
    - 每只持仓报告写完即存 `reports/{公司名}/`，不依赖会话记忆
 4. **阶段门禁（关键——ZCode下hook不触发的替代方案）**：每完成一个阶段，运行 `bash scripts/workflow-gate-hook.sh`，把JSON输出原文贴入阶段报告。输出含 `decision:block` = 该阶段未达标，禁止进入下一阶段，按 reason 补齐。在 hook 生效的环境（Claude Code）它是 Stop 时的双重保险。
 5. 环境适配：Windows下用 `python`（无python3）；持仓研究用 Agent 工具**同一条消息多个调用并发**（subagent_type: general-purpose）；搜索回退链：WebSearch → mcp__kepler__web_search → mcp__web_reader__webReader → **Bash curl直连**（`.claude/.workflow/SEARCH-TOOLKIT.md` 有全套已验证命令：websearch.sh=Brave通用搜索、gnews.sh=Google News、curl Yahoo API=行情/榜单/新闻）。注意：内置WebSearch与webReader MCP是**同一上游配额**（2026-08-17实证同时429），前两层同时失效时直接跳到curl层，勿浪费重试（配额用尽禁止放弃、禁止以工具不可用为由跳过步骤、禁止用训练知识冒充联网结果）。
+6. **搜索正文获取铁律（v5.4新增，不可违反）**：使用open-websearch MCP或任何搜索工具时，搜索结果（标题+snippet）**不足以作为分析依据**。必须对关键结果调用 `fetchWebContent`（open-websearch MCP）或 `WebFetch`（内置）获取正文全文，然后才能用作数据点。规则：
+   - 每个用于估值/增速/合同等关键数据点的搜索结果，必须fetch正文确认具体数字
+   - 仅用于“发现候选ticker”的搜索可以只看标题（发现阶段）
+   - 用于“验证/分析/决策”的搜索必须获取正文（验证阶段）
+   - 禁止仅凭snippet中的片段数字就写入报告（snippet可能截断/过时/误读）
 
 ## 目的与原则
 
@@ -104,6 +109,13 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 - 用户关注过的标的（memory有记录）异动>10% → 立即纳入候选并评估
 - 持仓的供应商/客户/合作伙伴异动>15% → 评估对持仓的影响
 - **市场温度判定（v5.0新增，必须）**：按 `config/portfolio-targets.md` "现金动态规则"执行5个信号搜索（NDX距高点/VIX/市场广度/Fear&Greed/IPO情绪），确认当前温度档位（🔴🟠🟡🟢🔵），输出到报告头部并决定现金下限。禁止凭训练知识判断市场温度，必须实时搜索。
+- **AI子行业温度判定（v5.3新增，必须）**：按 `config/portfolio-targets.md` "AI子行业温度动态规则"执行双层判定：
+  - 第一层：AI整体水位（搜索"AI capex guidance 2026 hyperscaler"、"AI revenue growth quarterly"、"AI infrastructure bottleneck shortage"）→ 确认AI总暴露区间
+  - 第二层：AI硬件水位（搜索"CoWoS HBM supply shortage"、"TSM monthly revenue"、"IPP PPA data center contract"）+ AI软件水位（搜索"AI ARR SaaS growth"、"AI software valuation PE"、"Copilot adoption enterprise"）+ AI平台水位（搜索"META GOOGL FCF capex"、"hyperscaler buyback dilution"）
+  - 输出：AI整体水位 + 三子类水位 + 当前应配比例，写入报告头部
+- **加密市场温度判定（v5.4新增，必须）**：按 `config/portfolio-targets.md` "加密市场温度动态规则"执行：
+  - 搜索 "bitcoin price all time high distance"、"crypto fear greed index"、"bitcoin ETF flows"、"crypto regulation stablecoin" → 确认加密水位（🟢积累/🟡复苏/🟠狂热/🔴崩盘）
+  - 输出：加密水位 + 当前应配比例 + 内部路径选择（修复为主/爆发为主），写入报告头部
 
 ### 第一步：核实当前持仓（必须逐项确认）
 - 必须先 Read `reports/portfolio-latest.md`；若用户提供了持仓清单，以用户数据为准
@@ -153,19 +165,30 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 **候选累积追踪**：维护 `.claude/.workflow/candidates.csv`（ticker,company,gics_sector,source），下限300只、理想350只唯一候选；25个GICS组每组≥4只，7维每维≥5只；候选不足时gate脚本会拦截。
 
-*8路候选来源A-H并行**（缺一不可，详细执行方式见 `config/search-matrix.md` 第五节）：A=持仓文件待执行项、B=全市场多维搜索（GICS 25组×2视角+7维）、C=/industry-funnel、D=/bottleneck-hunter、E=分布缺口反向映射、F=用户历史关注（必选，须展示Read了哪些memory文件→提取了哪些ticker）、G=持仓生态链反向搜索（必选，须展示对哪些持仓搜了供应商/客户）、**H=爆发股猎手（必选，全网覆盖式扫描寻找"被灰尘掩盖的金子"）**。
+*9路候选来源A-I并行**（缺一不可，详细执行方式见 `config/search-matrix.md` 第五节）：A=持仓文件待执行项、B=全市场多维搜索（GICS 25组×2视角+7维）、C=/industry-funnel、D=/bottleneck-hunter、E=分布缺口反向映射、F=用户历史关注（必选）、G=持仓生态链反向搜索（必选）、**H=爆发股猎手（必选，找"增速被低估"的标的）**、**I=估值修复猎手（必选，找"风险被高估"的标的）**。
 
 #### 来源H：爆发股猎手（2026-08-18新增，全量模式必做）
 
 **目的**：寻找"NBIS@$70""CRCL@$50"级别的早期爆发标的——收入三位数增长、盈利拐点刚至、赛道唯一纯正、华尔街尚未充分覆盖、1-6个月有50-300%上行空间。
 
-**爆发股DNA画像（6条全满足才入池）**：
+*爆发股DNA画像（v5.1修正：5+1概率门，取代旧版6条AND门）**：
+
+> **设计修正理由（2026-08-18教训）**：旧版6条全满足在实证中近乎空转——20+次搜索仅APLD 1只通过。NBIS/CRDO爆发后立刻超标（市值>$50B+覆盖充分），说明旧规则描述的是"爆发前的完美状态"，但现实中无法在爆发前确认爆发。真正的edge是找到"5条满足+第6条正在改善"的标的，在赔率>3:1时下注。
+
+**硬条件（5条，必须全满足）**：
 1. **收入增速≥100% YoY**（最近一季，非预测）
 2. **盈利拐点**：EBITDA/净利润刚转正或即将转正（≤2个季度）
-3. **市值$3B-$50B**（太小=流动性风险；太大=弹性不足）
+3. **市值$3B-$80B**（太小=流动性风险；$50-80B为"毕业缓冲区"，见下方规则）
 4. **赛道纯正**：主业收入≥70%来自单一高增长主题（AI Cloud/AI网络/HBM/光互连/机器人等）
 5. **合同/积压可见性**：backlog≥年收入1.5x 或 大额合同公告（>$1B）
-6. **卖方覆盖不足**：分析师≤15人 或 最近3个月新增覆盖≤3家
+
+**软条件（1条，灰色可入池但须标注）**：
+6. **覆盖错位**（取代旧版"覆盖不足"）：满足以下**任意一条**即算通过：
+   - (a) 卖方分析师≤20人覆盖（放宽旧版15人上限）
+   - (b) 共识目标价 vs 按当前增速外推的12个月合理估值，存在**>30%低估**（即华尔街还没追上增速）
+   - (c) 最近3个月有≥2次目标价上调但股价仍未反映全部增速（"正在被发现"阶段）
+   - (d) 机构持股<40%（尚未被基金充分配置）
+   - **灰色判定**：若(a)-(d)均不满足但差距<20%（如分析师22人、低估幅度25%），标注"灰色-覆盖错位"仍可入池，但仓位减半（≤4%而非8%）
 
 **扫描工具（强制）**：使用 open-websearch MCP（`CallMcpTool server_name="open-websearch" tool_name="search"`）执行全网覆盖式搜索，默认duckduckgo引擎；每轮搜索≥10组不同关键词，每组返回结果逐条审查。
 
@@ -180,16 +203,21 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 **筛选流程**：
 1. 4轮搜索汇总所有出现的ticker（去重）
-2. 对每只候选用Yahoo v8 API获取现价/市值，过滤市值不在$3-50B区间的
-3. 对剩余候选逐一验证6条DNA（搜索"{ticker} revenue growth Q2 2026"确认增速）
-4. 6条全满足 → 写入candidates.csv（source列标注"H-爆发股"）
+2. 对每只候选用Yahoo v8 API获取现价/市值，过滤市值不在$3-80B区间的
+3. 对剩余候选逐一验证DNA（搜索"{ticker} revenue growth Q2 2026"确认增速）
+4. 5条硬条件全满足 + 软条件通过/灰色 → 写入candidates.csv（source列标注"H-爆发股"或"H-爆发股(灰色)"）
 5. 从H来源候选中选Top 3-5 → 进入双重验证（/investment-checklist + /investment-team）
+
+**市值毕业缓冲规则（v5.1新增）**：
+- 市值$50-80B = "毕业缓冲区"：已持仓可继续持有（不强制移出），但**新建仓受限**（须用户额外确认"$50B+仍要买入？"）
+- 市值>$80B = 强制毕业：移出爆发仓，按主规则重新归类（通常归AI核心）
+- 设计理由：NBIS从$15B→$50B仅用2个月，旧规则在爆发主升浪中强制移出=错过最大收益段
 
 **输出要求**：报告末尾输出"爆发股猎手扫描矩阵"——4轮×搜索词×结果数×入池数；标注哪些ticker通过了6条DNA、哪些被哪条拦截。
 
 **绝对禁止**：以"已搜过类似词"为由跳过H轮搜索；只看前2条搜索结果就声称扫描完成；用训练知识列举"已知爆发股"替代实时搜索（NBIS/CRWV/CRDO等已知标的仍须实时验证最新数据）。
 
-**搜索执行**：按 `config/search-matrix.md` 的词库——GICS 25组全部×2视角（≥50次）、AI 17赛道全部×≥2视角（≥34次）、非AI 14主题选≥8（主题13/14优先）、7维各≥1次（D6/D7必做）、**来源H爆发股猎手≥20次（open-websearch MCP）**；合计≥100次；AI候选≤65%；每次搜索后追加search-log.txt。
+**搜索执行**：按 `config/search-matrix.md` 的词库——GICS 25组全部×2视角（≥50次）、AI 17赛道全部×≥2视角（≥34次）、非AI 14主题选≥8（主题13/14优先）、7维各≥1次（D6/D7必做）、**来源H爆发股猎手≥20次（open-websearch MCP）**、**来源I估值修复猎手≥5次**；合计≥110次；AI候选≤65%；每次搜索后追加search-log.txt。
 
 **筛选流程**（不得跳过、不得引用旧结果）：
 1. 并行执行7路来源，汇总去重、按分布缺口优先级排序
@@ -232,7 +260,7 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 ## 质量标准
 
-**必须做到**：每只股票明确操作信号；FCF分类处理（长期持仓FCF为负=清仓红线；短期"基建期成长股"单标的≤8%、合计≤12%、强制止损）；买入前双重验证；评分标注框架来源；关键数据用financial_rigor.py验证+双源交叉；写文件前逐项确认实际持仓；全部研究实时搜索；报告输出候选发现来源矩阵；来源F/G/H执行证据；搜索词多样性证据（≥10组不含"undervalued"）；**来源H爆发股猎手必须输出4轮扫描矩阵+6条DNA验证表**。
+**必须做到**：每只股票明确操作信号；FCF分类处理（长期持仓FCF为负=清仓红线；短期"基建期成长股"单标的≤8%、合计≤12%、强制止损）；买入前双重验证；评分标注框架来源；关键数据用financial_rigor.py验证+双源交叉；写文件前逐项确认实际持仓；全部研究实时搜索；报告输出候选发现来源矩阵；来源F/G/H/I执行证据；搜索词多样性证据（≥10组不含"undervalued"）；**来源H爆发股猎手必须输出4轮扫描矩阵+DNA验证表**；**来源I估值修复猎手必须输出4条DNA验证表（好生意/估值极端/恐惧归因/催化剂）**。
 
 **禁止事项**：模糊建议；未核实持仓就给建议；复用旧评分/旧研究；以"本会话已执行"为由跳过步骤；批量分析多只股票在1个skill调用中；只搜与缺口匹配的行业就声称全市场扫描；忽略持仓文件待执行项；混用不同框架分数不标注；仅用checklist就决定买入；跳过行业分布评估或忽略硬约束>10%偏差；来源F走过场；忽略持仓生态链。
 

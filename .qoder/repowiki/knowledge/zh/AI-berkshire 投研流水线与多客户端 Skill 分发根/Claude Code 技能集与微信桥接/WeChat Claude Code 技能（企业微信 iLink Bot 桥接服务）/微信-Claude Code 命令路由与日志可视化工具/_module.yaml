@@ -1,0 +1,11 @@
+schema_version: 1
+module_path: agent_skills/wechat_claude_code/commands_tools_core
+title: 微信-Claude Code 命令路由与日志可视化工具
+scope:
+    - skills/wechat-claude-code/src/commands/
+    - skills/wechat-claude-code/src/tools/
+    - skills/wechat-claude-code/src/
+source_files: []
+depends_on: []
+related_to:
+    - path: agent_skills/wechat_claude_code/tests

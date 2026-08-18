@@ -1,8 +1,8 @@
 # AI Berkshire Investment Skills
 
-Qoder-native plugin containing 20 value investing research skills.
+Qoder-native plugin containing 22 value investing research skills.
 
-## Skills (20)
+## Skills (22)
 
 ### 筛选类
 - **industry-funnel**: 行业漏斗筛选 — 从全市场到3家的价值投资精选流程
@@ -30,9 +30,11 @@ Qoder-native plugin containing 20 value investing research skills.
 
 ### 组合管理
 - **portfolio-review**: 组合管理 — 从研究公司到管理组合
+- **portfolio-rebalance**: 组合调仓全流程 — 持仓重研+全市场候选扫描+双重准入验证
 - **income-investment**: 收入投资 — 持久和机会性分配分析
 
 ### 其他
+- **daily-brief**: 每日投研简报 — 行情+新闻+组合监控+操作信号
 - **dyp-ask**: 段永平问答 — 以他的方式思考投资问题
 - **news-pulse**: 新闻脉搏 — 快速扫描投资相关新闻
 - **private-company-research**: 未上市公司研究 — 多Agent并行深度研究框架
@@ -41,8 +43,9 @@ Qoder-native plugin containing 20 value investing research skills.
 ## Source
 
 Converted from `skills/*.md` (Claude Code slash commands) in the ai-berkshire repository.
+Sync script: `python3 scripts/sync-qoder-skills.py`.
 
 ## Validation
 
 Plugin structure validated with `.qoder-plugin/plugin.json` manifest.
-All 20 skills have proper frontmatter (name + description).
+All 22 skills have proper frontmatter (name + description).

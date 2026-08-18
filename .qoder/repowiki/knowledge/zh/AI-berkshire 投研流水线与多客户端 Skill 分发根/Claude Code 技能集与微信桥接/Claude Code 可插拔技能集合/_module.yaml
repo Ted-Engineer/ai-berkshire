@@ -1,0 +1,9 @@
+schema_version: 1
+module_path: agent_skills/coding_design_skills
+title: Claude Code 可插拔技能集合
+scope:
+    - skills/
+source_files: []
+depends_on: []
+related_to:
+    - path: agent_skills/research_investment_skills

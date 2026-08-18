@@ -1,0 +1,26 @@
+schema_version: 1
+module_path: stock_screening_tools/screener_ranker
+title: 美股选股筛与候选排序工具集
+scope:
+    - tools/stock_screener.py
+    - tools/bubble_rank.py
+    - tools/candidate_ranker.py
+    - tools/final_bubble_rank.py
+    - tools/final_bubble_rank_v2.py
+    - tools/final_bubble_v4.py
+    - tools/fresh_bubble_v5.py
+    - tools/portfolio_bubble_0810.py
+    - tools/screen5.py
+    - tools/rigorous_screen.py
+    - tools/full_market_scan.py
+    - tools/mega_scan.py
+    - tools/montecarlo_5000_screen.py
+    - tools/recheck_rank.py
+    - tools/tiebreak2.py
+source_files: []
+depends_on: []
+related_to:
+    - path: investment_data_artifacts
+    - path: research_scripts
+    - path: stock_screening_tools/data_fetch_scrape
+    - path: stock_screening_tools/report_generation

@@ -1,414 +1,77 @@
 ticker,company,gics_sector,source
-TSM,TSMC,Semiconductors,A-持仓GTC
-BRK.B,Berkshire Hathaway,Diversified Financials,A-持仓GTC
-PGR,Progressive,Insurance,A-条件预案
-GOOGL,Alphabet,Media Entertainment,A-观察
-CEG,Constellation Energy,Utilities,A-watchlist触发
-NRG,NRG Energy,Utilities,A-加仓观察
-AMAT,Applied Materials,Semi Equipment,F-watchlist
-CRDO,Credo Technology,Semiconductors,F-watchlist
-LEU,Centrus Energy,Utilities,F-watchlist
-LRCX,Lam Research,Semi Equipment,F-watchlist
-VRT,Vertiv,Capital Goods,F-watchlist
-NVDA,NVIDIA,Semiconductors,F-watchlist
-MU,Micron,Semiconductors,F-watchlist
-COHR,Coherent,Tech Hardware,F-watchlist
-GEV,GE Vernova,Utilities,F-watchlist
-NBIS,Nebius,AI Cloud,F-watchlist
-CRWV,CoreWeave,AI Cloud,F-watchlist
-MELI,MercadoLibre,Retailing,F-watchlist
-EXEL,Exelixis,Biotech,F-watchlist
-TMUS,T-Mobile,Telecom,F-watchlist
-DAL,Delta Airlines,Transportation,F-watchlist
-HUBB,Hubbell,Capital Goods,F-watchlist
-TLN,Talen Energy,Utilities,F-watchlist
-ANET,Arista Networks,Tech Hardware,F-watchlist
-AMKR,Amkor,Semiconductors,F-watchlist
-CRCL,Circle,Fintech,F-watchlist
-ON,ON Semiconductor,Semiconductors,B-GICS半导体
-VICR,Vicor Corporation,Semiconductors,B-GICS半导体
-AEHR,Aehr Test Systems,Semi Equipment,B-D6财报催化
-SKHY,SK Hynix,Semiconductors,B-HBM存储
-WDC,Western Digital,Semiconductors,B-HBM存储
-CRDO,Credo Technology,Semiconductors,B-AI网络
-PWR,Quanta Services,Capital Goods,B-电网设备
-ETD,Eaton Corporation,Capital Goods,B-电网设备
-DTE,DTE Energy,Utilities,B-电力数据中心
-FNV,Franco-Nevada,Materials,B-黄金对冲
-WPM,Wheaton Precious Metals,Materials,B-黄金对冲
-NEM,Newmont,Materials,B-黄金对冲
-KGC,Kinross Gold,Materials,B-黄金对冲
-POET,POET Technologies,Semiconductors,B-光模块
-LITE,Lumentum,Tech Hardware,B-光模块
-SMCI,Super Micro,Tech Hardware,B-AI散热
-MODV,ModivCare,Health Care,B-D1量化
+TSM,TSMC,Information Technology,A-待执行(GTC $390)
+BRK-B,Berkshire Hathaway,Financials,A-待执行(GTC $488)
+PGR,Progressive,Financials,A-条件预案(8/19月报)
+CEG,Constellation Energy,Utilities,watchlist触发$258
+AMAT,Applied Materials,Information Technology,watchlist $410-440
+GOOGL,Alphabet,Communication Services,watchlist ≤$295
+MU,Micron Technology,Information Technology,watchlist $780-850
+NVDA,NVIDIA,Information Technology,watchlist $185-210
+COHR,Coherent,Information Technology,watchlist $260-290
+CRWV,CoreWeave,Information Technology,watchlist $95-100
+NBIS,Nebius Group,Information Technology,watchlist $198
+TLN,Talen Energy,Utilities,watchlist ≤$345
+APLD,Applied Digital,Information Technology,H-爆发股(6/6 DNA通过)
+NBIS,Nebius Group,Information Technology,H-爆发股(5/6 DNA)
+CRDO,Credo Technology,Information Technology,H-爆发股(5/6 DNA)
+SMCI,Super Micro Computer,Information Technology,G-生态链/D6财报
+MRVL,Marvell Technology,Information Technology,G-生态链(ASIC)
+FN,Fabrinet,Information Technology,G-生态链(光通信)
+LITE,Lumentum,Information Technology,B-AI赛道3(光模块)
+CIEN,Ciena,Information Technology,B-AI赛道3
+ANET,Arista Networks,Information Technology,B-AI赛道3
+VRT,Vertiv Holdings,Industrials,B-AI赛道9(液冷)
+ETN,Eaton Corporation,Industrials,B-电网设备
+GEV,GE Vernova,Industrials,B-电网设备
+PWR,Quanta Services,Industrials,B-电网E&C
+LMT,Lockheed Martin,Industrials,B-国防
+RTX,RTX Corporation,Industrials,B-国防
+NOC,Northrop Grumman,Industrials,B-国防
+HWM,Howmet Aerospace,Industrials,B-国防/航空
+CCJ,Cameco,Energy,B-AI赛道7(铀)
+OKLO,Oklo Inc,Energy,B-核能SMR
+V,Visa,Financials,B-金融
+MA,Mastercard,Financials,B-金融
+NU,Nu Holdings,Financials,B-金融科技
+SOFI,SoFi Technologies,Financials,B-金融科技
+HOOD,Robinhood,Financials,B-金融科技
+ACGL,Arch Capital,Financials,B-保险
+WRB,WR Berkley,Financials,B-保险
+CB,Chubb,Financials,B-保险
+DNLI,Denali Therapeutics,Health Care,B-生物科技
+SRPT,Sarepta Therapeutics,Health Care,B-生物科技
+ISRG,Intuitive Surgical,Health Care,B-医疗器械
+BSX,Boston Scientific,Health Care,B-医疗器械
+EW,Edwards Lifesciences,Health Care,B-医疗器械
+LNG,Cheniere Energy,Energy,B-LNG
+EQT,EQT Corporation,Energy,B-天然气
+AR,Antero Resources,Energy,B-天然气
+EXE,Expand Energy,Energy,B-天然气
+FCX,Freeport-McMoRan,Materials,B-铜
+SCCO,Southern Copper,Materials,B-铜
+ALB,Albemarle,Materials,B-锂
+AEM,Agnico Eagle,Materials,B-黄金
+FNV,Franco-Nevada,Materials,B-黄金权利金
+WPM,Wheaton Precious Metals,Materials,B-黄金权利金
+NEM,Newmont,Materials,B-黄金
 EQIX,Equinix,Real Estate,B-数据中心REIT
 DLR,Digital Realty,Real Estate,B-数据中心REIT
-PLTR,Palantir,Software,B-AI Agent
-NOW,ServiceNow,Software,B-AI Agent
-CRM,Salesforce,Software,B-AI Agent
-SOUN,SoundHound AI,Software,B-AI应用
-QCOM,Qualcomm,Semiconductors,B-端侧AI
-MRVL,Marvell Technology,Semiconductors,B-定制ASIC
-ALAB,Astera Labs,Semiconductors,B-AI连接
-CCJ,Cameco,Utilities,B-核电铀
-LEU,Centrus Energy,Utilities,B-HALEU
-BTBT,Bit Digital,Software,B-加密转AI
-HUT,Hut 8,Software,B-加密转AI
-IREN,Iris Energy,Software,B-加密转AI
-LMT,Lockheed Martin,Capital Goods,B-国防
-NOC,Northrop Grumman,Capital Goods,B-国防
-HWM,Howmet Aerospace,Capital Goods,B-国防航空
-UNH,UnitedHealth,Health Care,B-医疗
-LLY,Eli Lilly,Pharma,B-GLP1
-NVO,Novo Nordisk,Pharma,B-GLP1
-COST,Costco,Staples,B-D1价值
-WMT,Walmart,Staples,B-D1价值
-HD,Home Depot,Retailing,B-D1价值
-V,Visa,Fintech,B-D1质量
-MA,Mastercard,Fintech,B-D1质量
-SPGI,S&P Global,Fintech,B-D1质量
-MCO,Moody's,Fintech,B-D1质量
-FI,Fiserv,Fintech,B-D4技术面
-GPN,Global Payments,Fintech,B-D4技术面
-SQ,Block,Fintech,B-D4技术面
-SHOP,Shopify,Software,B-D3事件
-SNOW,Snowflake,Software,B-D3事件
-DDOG,Datadog,Software,B-D3事件
-ZS,Zscaler,Software,B-D3事件
-NET,Cloudflare,Software,B-D3事件
-UBER,Uber,Transportation,B-D5聪明钱
-ABNB,Airbnb,Consumer Services,B-D5聪明钱
-BKNG,Booking Holdings,Consumer Services,B-D5聪明钱
-ORLY,O'Reilly Automotive,Retailing,B-D1质量
-AZO,AutoZone,Retailing,B-D1质量
-TJX,TJX Companies,Retailing,B-D1价值
-LULU,Lululemon,Consumer Durables,B-D4超卖
-NKE,Nike,Consumer Durables,B-D4超卖
-DE,Deere & Company,Capital Goods,B-D5聪明钱
-CAT,Caterpillar,Capital Goods,B-D5聪明钱
-EMR,Emerson Electric,Capital Goods,B-D1价值
-ITW,Illinois Tool Works,Capital Goods,B-D1质量
-WM,Waste Management,Commercial Services,B-D1防御
-RSG,Republic Services,Commercial Services,B-D1防御
-CPRT,Copart,Commercial Services,B-D1质量
-CSGP,CoStar Group,Commercial Services,B-D3事件
-TTWO,Take-Two Interactive,Media,B-D6催化
-EA,Electronic Arts,Media,B-D6催化
-NFLX,Netflix,Media,B-D6催化
-DIS,Disney,Media,B-D4超卖
-CMCSA,Comcast,Telecom,B-D4超卖
-T,AT&T,Telecom,B-D1收益
-VZ,Verizon,Telecom,B-D1收益
-AMT,American Tower,Real Estate,B-D1收益
-PLD,Prologis,Real Estate,B-D1价值
-O,Realty Income,Real Estate,B-D1收益
-XOM,Exxon Mobil,Energy,B-D1价值
-CVX,Chevron,Energy,B-D1价值
-OXY,Occidental Petroleum,Energy,B-D5聪明钱
-SLB,Schlumberger,Energy,B-D1价值
-EQT,EQT Corporation,Energy,B-D3事件
-LNG,Cheniere Energy,Energy,B-D3事件
-FCX,Freeport-McMoRan,Materials,B-D1周期
-NUE,Nucor,Materials,B-D1价值
-LIN,Linde,Materials,B-D1质量
-APD,Air Products,Materials,B-D1质量
-SHW,Sherwin-Williams,Materials,B-D1质量
-JPM,JPMorgan,Banks,B-D1质量
-BAC,Bank of America,Banks,B-D1价值
-GS,Goldman Sachs,Banks,B-D3事件
-MS,Morgan Stanley,Banks,B-D3事件
-SCHW,Charles Schwab,Banks,B-D1价值
-AXP,American Express,Fintech,B-D1质量
-DFS,Discover Financial,Fintech,B-D4超卖
-COF,Capital One,Banks,B-D3事件
-PNC,PNC Financial,Banks,B-D1价值
-USB,US Bancorp,Banks,B-D1价值
-TRV,Travelers,Insurance,B-D12保险
-AIG,American International,Insurance,B-D12保险
-MET,MetLife,Insurance,B-D12保险
-AFL,Aflac,Insurance,B-D12保险
-ALL,Allstate,Insurance,B-D12保险
-CB,Chubb,Insurance,B-D12保险
-MRK,Merck,Pharma,B-D1价值
-PFE,Pfizer,Pharma,B-D4超卖
-ABBV,AbbVie,Pharma,B-D1价值
-JNJ,Johnson & Johnson,Pharma,B-D1防御
-TMO,Thermo Fisher,Health Care,B-D1质量
-ISRG,Intuitive Surgical,Health Care,B-D1质量
-BSX,Boston Scientific,Health Care,B-D6催化
-MDT,Medtronic,Health Care,B-D4超卖
-ELV,Elevance Health,Health Care,B-D4超卖
-HCA,HCA Healthcare,Health Care,B-D1价值
-DGX,Quest Diagnostics,Health Care,B-D1质量
-DHR,Danaher,Health Care,B-D1质量
-AMGN,Amgen,Pharma,B-D1价值
-GILD,Gilead Sciences,Pharma,B-D1价值
-VRTX,Vertex Pharma,Biotech,B-D1质量
-REGN,Regeneron,Biotech,B-D1质量
-MRNA,Moderna,Biotech,B-D4超卖
-TSLA,Tesla,Automobiles,B-D6催化
-RIVN,Rivian,Automobiles,B-D4超卖
-LI,Li Auto,Automobiles,B-D3事件
-NIO,NIO,Automobiles,B-D4超卖
-GM,General Motors,Automobiles,B-D1价值
-F,Ford Motor,Automobiles,B-D1价值
-ORCL,Oracle,Software,B-D6催化
-IBM,IBM,Software,B-D1价值
-ACN,Accenture,Software,B-D4超卖
-FTNT,Fortinet,Software,B-D1质量
-PANW,Palo Alto Networks,Software,B-D1质量
-CROW,CloudStrike,Software,B-D6催化
-INTC,Intel,Semiconductors,B-D4超卖
-AMD,Advanced Micro,Semiconductors,B-D6催化
-KLAC,KLA Corporation,Semi Equipment,B-D1质量
-ASML,ASML Holding,Semi Equipment,B-D1质量
-TER,Teradyne,Semi Equipment,B-D6催化
-ADI,Analog Devices,Semiconductors,B-D1质量
-TXN,Texas Instruments,Semiconductors,B-D1价值
-MCHP,Microchip Tech,Semiconductors,B-D4超卖
-NXPI,NXP Semiconductors,Semiconductors,B-D1质量
-MPWR,Monolithic Power,Semiconductors,B-D1质量
-ARM,ARM Holdings,Semiconductors,B-D6催化
-RBLX,Roblox,Media,B-D6催化
-SPOT,Spotify,Media,B-D6催化
-PINS,Pinterest,Media,B-D4超卖
-SNAP,Snap Inc,Media,B-D6催化
-ROKU,Roku,Media,B-D4超卖
-TTD,Trade Desk,Media,B-D1质量
-ZM,Zoom Video,Software,B-D4超卖
-DOCU,DocuSign,Software,B-D4超卖
-WDAY,Workday,Software,B-D4超卖
-TEAM,Atlassian,Software,B-D4超卖
-HUBS,HubSpot,Software,B-D1质量
-VEEV,Veeva Systems,Software,B-D1质量
-MSCI,MSCI Inc,Fintech,B-D1质量
-ICE,Intercontinental Exch,Fintech,B-D1质量
-CME,CME Group,Fintech,B-D1质量
-MORN,Morningstar,Fintech,B-D1质量
-FDS,FactSet Research,Fintech,B-D1质量
-ANSS,Ansys,Software,B-D3事件
-CDNS,Cadence Design,Software,B-D1质量
-SNPS,Synopsys,Software,B-D1质量
-KEYS,Keysight Tech,Tech Hardware,B-D1质量
-TT,Trane Technologies,Capital Goods,B-D1质量
-CARR,Carrier Global,Capital Goods,B-D1质量
-JCI,Johnson Controls,Capital Goods,B-D1质量
-PH,Parker Hannifin,Capital Goods,B-D1质量
-ROK,Rockwell Automation,Capital Goods,B-D4超卖
-SWK,Stanley Black,Capital Goods,B-D4超卖
-GD,General Dynamics,Capital Goods,B-D1国防
-BA,Boeing,Capital Goods,B-D4超卖
-UNP,Union Pacific,Transportation,B-D1质量
-CSX,CSX Corp,Transportation,B-D1价值
-NSC,Norfolk Southern,Transportation,B-D1价值
-FDX,FedEx,Transportation,B-D1价值
-UPS,United Parcel,Transportation,B-D4超卖
-XPO,XPO Inc,Transportation,B-D1质量
-ODFL,Old Dominion,Transportation,B-D1质量
-URI,United Rentals,Commercial Services,B-D1质量
-CTAS,Cintas,Commercial Services,B-D1质量
-PAYX,Paychex,Commercial Services,B-D1收益
-ADP,Automatic Data,Commercial Services,B-D1收益
-CINF,Cincinnati Financial,Insurance,B-D12保险
-MKL,Markel Group,Insurance,B-D12保险
-WRB,Berkley,Insurance,B-D12保险
-L,Loews Corp,Insurance,B-D12保险
-AON,Aon plc,Insurance,B-D12保险
-MMC,Marsh McLennan,Insurance,B-D12保险
-AJG,Arthur J Gallagher,Insurance,B-D12保险
-BRO,Brown & Brown,Insurance,B-D12保险
-RY,Royal Bank of Canada,Banks,B-D1质量
-TD,Toronto-Dominion,Banks,B-D1价值
-HSBC,HSBC Holdings,Banks,B-D1收益
-SAN,Santander,Banks,B-D1价值
-UBS,UBS Group,Banks,B-D3事件
-DB,Deutsche Bank,Banks,B-D4超卖
-C,Citigroup,Banks,B-D4超卖
-WFC,Wells Fargo,Banks,B-D1价值
-TFC,Truist Financial,Banks,B-D4超卖
-FITB,Fifth Third,Banks,B-D1价值
-RF,Regions Financial,Banks,B-D1价值
-HBAN,Huntington,Banks,B-D1价值
-CFG,Citizens Financial,Banks,B-D1价值
-KEY,KeyCorp,Banks,B-D4超卖
-EW,Edwards Lifesciences,Health Care,B-D1质量
-ZTS,Zoetis,Health Care,B-D1质量
-IDXX,IDEXX Labs,Health Care,B-D1质量
-A,Agilent Tech,Health Care,B-D1质量
-PKI,PerkinElmer,Health Care,B-D4超卖
-IQV,IQVIA Holdings,Health Care,B-D1质量
-MTD,Mettler-Toledo,Health Care,B-D1质量
-WST,West Pharma,Health Care,B-D1质量
-BAX,Baxter International,Health Care,B-D4超卖
-ALGN,Align Technology,Health Care,B-D4超卖
-PODD,Insulet,Health Care,B-D6催化
-DXCM,DexCom,Health Care,B-D4超卖
-VEEV,Veeva Systems,Health Care,B-D1质量
-BIIB,Biogen,Biotech,B-D4超超卖
-ILMN,Illumina,Biotech,B-D4超卖
-CTAS,Cintas,Commercial Services,B-D1质量
-FAST,Fastenal,Industrial,B-D1质量
-GGG,Graco,Industrial,B-D1质量
-ITGR,Integer Holdings,Health Care,B-D6催化
-ENPH,Enphase Energy,Utilities,B-D4超卖
-SEDG,SolarEdge,Utilities,B-D4超卖
-FSLR,First Solar,Utilities,B-D1质量
-NEE,NextEra Energy,Utilities,B-D1质量
-DUK,Duke Energy,Utilities,B-D1收益
-SO,Southern Company,Utilities,B-D1收益
-AEP,American Electric,Utilities,B-D1收益
-SRE,Sempra,Utilities,B-D1收益
-EXC,Exelon,Utilities,B-D1收益
-XEL,Xcel Energy,Utilities,B-D1收益
-WEC,WEC Energy,Utilities,B-D1收益
-ES,Eversource Energy,Utilities,B-D1收益
-PEG,Public Service Ent,Utilities,B-D1收益
-ED,Consolidated Edison,Utilities,B-D1收益
-AWK,American Water,Utilities,B-D1收益
-CNP,CenterPoint Energy,Utilities,B-D1收益
-ATO,Atmos Energy,Utilities,B-D1收益
-NI,NiSource,Utilities,B-D1收益
-EVRG,Evergy,Utilities,B-D1收益
-PNR,Pentair,Capital Goods,B-D1水务
-XYL,Xylem,Capital Goods,B-D1水务
-WMS,Advanced Drainage,Capital Goods,B-D1水务
-AMSC,American Superconductor,Capital Goods,B-D3事件
-BLDP,Ballard Power,Utilities,B-D4超卖
-PLUG,Plug Power,Utilities,B-D4超卖
-Bloom,Bloom Energy,Utilities,B-D6催化
-RUN,Sunrun,Utilities,B-D4超卖
-CHPT,ChargePoint,Consumer Services,B-D4超卖
-LCID,Lucid Group,Automobiles,B-D4超卖
-APTV,Aptiv,Automobiles,B-D4超卖
-MAG,Magna International,Automobiles,B-D1价值
-BWA,BorgWarner,Automobiles,B-D1价值
-GENTX,Gentex,Automobiles,B-D1质量
-POOL,Pool Corp,Consumer Durables,B-D1质量
-WSM,Williams-Sonoma,Consumer Durables,B-D1质量
-DHI,DR Horton,Consumer Durables,B-D1价值
-LEN,Lennar,Consumer Durables,B-D1价值
-PHM,PulteGroup,Consumer Durables,B-D1价值
-NVR,NVR Inc,Consumer Durables,B-D1质量
-TOL,Toll Brothers,Consumer Durables,B-D1价值
-LOW,Lowe's,Retailing,B-D1价值
-TGT,Target,Retailing,B-D4超卖
-BBY,Best Buy,Retailing,B-D4超卖
-ROST,Ross Stores,Retailing,B-D1价值
-TJX,TJX Companies,Retailing,B-D1价值
-DLTR,Dollar Tree,Retailing,B-D4超卖
-DG,Dollar General,Retailing,B-D4超卖
-WBA,Walgreens,Staples,B-D4超卖
-KR,Kroger,Staples,B-D1价值
-SYY,Sysco,Staples,B-D1价值
-GIS,General Mills,Staples,B-D1防御
-K,Kellanova,Staples,B-D1防御
-HSY,Hershey,Staples,B-D1防御
-KDP,Keurig Dr Pepper,Staples,B-D1防御
-MNST,Monster Beverage,Staples,B-D1质量
-STZ,Constellation Brands,Staples,B-D4超卖
-TAP,Molson Coors,Staples,B-D1价值
-BF.B,Brown-Forman,Staples,B-D4超卖
-CL,Colgate-Palmolive,Staples,B-D1防御
-EL,Estee Lauder,Staples,B-D4超卖
-CHD,Church & Dwight,Staples,B-D1质量
-KMB,Kimberly-Clark,Staples,B-D1防御
-PG,Procter & Gamble,Staples,B-D1防御
-KO,Coca-Cola,Staples,B-D1防御
-PEP,PepsiCo,Staples,B-D1防御
-MDLZ,Mondelez,Staples,B-D1防御
-CLX,Clorox,Staples,B-D1防御
-MKC,McCormick,Staples,B-D1质量
-TSN,Tyson Foods,Staples,B-D1价值
-ADM,Archer Daniels,Staples,B-D1价值
-BG,Bunge,Staples,B-D1价值
-CTVA,Corteva,Materials,B-D1农业
-FMC,FMC Corp,Materials,B-D4超卖
-CF,CF Industries,Materials,B-D1价值
-NTR,Nutrien,Materials,B-D1价值
-MOS,Mosaic,Materials,B-D1价值
-DOW,Dow Inc,Materials,B-D1价值
-DD,DuPont,Materials,B-D1价值
-LYB,LyondellBasell,Materials,B-D1价值
-APD,Air Products,Materials,B-D1质量
-ECL,Ecolab,Materials,B-D1质量
-IFF,International Flav,Materials,B-D4超卖
-PPG,PPG Industries,Materials,B-D1质量
-NEM,Newmont,Materials,B-D14黄金
-GOLD,Barrick Gold,Materials,B-D14黄金
-AEM,Agnico Eagle,Materials,B-D14黄金
-FNV,Franco-Nevada,Materials,B-D14黄金
-WPM,Wheaton Precious,Materials,B-D14黄金
-RGLD,Royal Gold,Materials,B-D14黄金
-SAND,Sandstorm Gold,Materials,B-D14黄金
-GFI,Gold Fields,Materials,B-D14黄金
-KGC,Kinross Gold,Materials,B-D14黄金
-NEM,Newmont,Materials,B-D14黄金
-CDE,Coeur Mining,Materials,B-D14黄金
-HL,Hecla Mining,Materials,B-D14黄金
-PAAS,Pan American Silver,Materials,B-D14黄金
-AG,First Majestic,Materials,B-D14黄金
-EXK,Endeavour Silver,Materials,B-D14黄金
-SBSW,Sibanye Stillwater,Materials,B-D14黄金
-ANGI,Angi Inc,Consumer Services,B-D4超卖
-DASH,DoorDash,Consumer Services,B-D6催化
-CMG,Chipotle,Consumer Services,B-D1质量
-YUM,Yum Brands,Consumer Services,B-D1质量
-MCD,McDonald's,Consumer Services,B-D1防御
-SBUX,Starbucks,Consumer Services,B-D4超卖
-MAR,Marriott,Consumer Services,B-D1质量
-HLT,Hilton,Consumer Services,B-D1质量
-CCL,Carnival,Consumer Services,B-D4超卖
-RCL,Royal Caribbean,Consumer Services,B-D6催化
-NCLH,Norwegian Cruise,Consumer Services,B-D4超卖
-LVS,Las Vegas Sands,Consumer Services,B-D1质量
-WYNN,Wynn Resorts,Consumer Services,B-D4超卖
-MGM,MGM Resorts,Consumer Services,B-D4超卖
-DKNG,DraftKings,Consumer Services,B-D9博彩
-FLUT,Flutter Entertain,Consumer Services,B-D9博彩
-PENN,Penn Entertainment,Consumer Services,B-D9博彩
-CZR,Caesars Entertain,Consumer Services,B-D4超卖
-BYD,Boyd Gaming,Consumer Services,B-D1质量
-SCI,Service Corp,Consumer Services,B-D1防御
-ROL,Rollins,Commercial Services,B-D1质量
-RBA,RB Global,Commercial Services,B-D1质量
-CSL,Carlisle Companies,Industrial,B-D1质量
-WAB,Wabtec,Transportation,B-D1质量
-TT,Trane Technologies,Capital Goods,B-D1质量
-AME,AMETEK,Tech Hardware,B-D1质量
-TDY,Teledyne,Tech Hardware,B-D1质量
-FTV,Fortive,Tech Hardware,B-D1质量
-VLTO,Veralto,Tech Hardware,B-D1质量
-MTB,M&T Bank,Banks,B-D1价值
-EWBC,East West Bancorp,Banks,B-D1价值
-WAL,Western Alliance,Banks,B-D4超卖
-FRC,First Republic,Banks,B-D4超卖
-ZION,Zions Bancorp,Banks,B-D4超卖
-CMA,Comerica,Banks,B-D4超卖
-SIVB,SVB Financial,Banks,B-D4超卖
-ALLY,Ally Financial,Banks,B-D4超卖
-AMG,Affiliated Mgmt,Diversified Fin,B-D1价值
-TROW,T. Rowe Price,Diversified Fin,B-D1价值
-IVZ,Invesco,Diversified Fin,B-D4超卖
-BEN,Franklin Resources,Diversified Fin,B-D4超卖
-NTRS,Northern Trust,Diversified Fin,B-D1质量
-STT,State Street,Diversified Fin,B-D1价值
-BK,BNY Mellon,Diversified Fin,B-D1价值
-CBOE,CBOE Global,Fintech,B-D1质量
-CME,CME Group,Fintech,B-D1质量
-ICE,Intercontinental,Fintech,B-D1质量
-MCO,Moody's,Fintech,B-D1质量
-SPGI,S&P Global,Fintech,B-D1质量
-MSCI,MSCI,Fintech,B-D1质量
-FDS,FactSet,Fintech,B-D1质量
-MORN,Morningstar,Fintech,B-D1质量
-ANET,Arista Networks,Tech Hardware,G-META生态链
-CRDO,Credo Technology,Semiconductors,G-AVGO生态链
-VRT,Vertiv Holdings,Capital Goods,G-数据中心生态
-PWR,Quanta Services,Capital Goods,G-电力生态
-EME,EMCOR Group,Capital Goods,G-数据中心E&C
-JCI,Johnson Controls,Capital Goods,G-数据中心冷却
-SKHY,SK Hynix,Semiconductors,G-TSM供应链
-AMKR,Amkor Technology,Semiconductors,G-TSM封装链
-KLAC,KLA Corp,Semi Equipment,G-TSM设备链
-ASML,ASML Holding,Semi Equipment,G-TSM设备链
+TNL,Travel+Leisure,Consumer Discretionary,B-旅游
+RCL,Royal Caribbean,Consumer Discretionary,B-邮轮
+CAVA,Cava Group,Consumer Discretionary,B-餐饮
+CMG,Chipotle,Consumer Discretionary,B-餐饮
+WING,Wingstop,Consumer Discretionary,B-餐饮
+PLTR,Palantir Technologies,Information Technology,B-AI赛道11
+CRWD,CrowdStrike,Information Technology,B-AI赛道11
+NOW,ServiceNow,Information Technology,B-AI赛道11
+DDOG,Datadog,Information Technology,B-AI赛道11
+SNOW,Snowflake,Information Technology,B-AI赛道11
+DELL,Dell Technologies,Information Technology,B-服务器
+CLS,Celestica,Information Technology,G-生态链(ODM)
+ARM,ARM Holdings,Information Technology,B-半导体IP
+AMD,Advanced Micro Devices,Information Technology,B-半导体
+ASML,ASML Holding,Information Technology,B-半导体设备
+ALAB,Astera Labs,Information Technology,B-AI赛道2(连接)
+JD,JD.com,Consumer Discretionary,B-中国消费(主题13)
+PDD,PDD Holdings,Consumer Discretionary,B-中国消费(主题13)
+BIDU,Baidu,Communication Services,B-中国AI(主题13)

@@ -1,8 +1,8 @@
-# AI Berkshire Codex, TRAE, DSH & ZCode Guide
+# AI Berkshire Codex, TRAE, DSH, ZCode & Qoder Guide
 
 This repository contains investment research workflows, reports, and shared
 validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
-(DeepSeek Harness), and ZCode users.
+(DeepSeek Harness), ZCode, and Qoder users.
 
 ## Project Layout
 
@@ -25,6 +25,12 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
   `skills/*.md`; do not edit manually. ZCode discovers these at
   `<repo>/.zcode/skills` (scanned before `.agents/skills` within the
   workspace level).
+- `.qoder/plugins/ai-berkshire-investment/skills/*/SKILL.md`: Qoder
+  project-level plugin skills. Generated from `skills/*.md`; do not edit
+  manually. Qoder discovers these via `.qoder/plugins/` (enabled in
+  `.qoder/settings.json`).
+- `.qoder/skills/*/SKILL.md`: Qoder project-level standalone skills (e.g.
+  `open-websearch` with workspace-specific references).
 - `.zcode/config.json`: ZCode workspace hooks. Registers the same
   `scripts/*.sh` hook programs Claude Code uses (skill enforcement, skill and
   search trackers, workflow gate, learnings digest) with
@@ -37,6 +43,8 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
 - `scripts/sync-trae-skills.py`: regenerates TRAE skills from `skills/*.md`.
 - `scripts/sync-dsh-skills.py`: regenerates DSH skills from `skills/*.md`.
 - `scripts/sync-zcode-skills.py`: regenerates ZCode skills from `skills/*.md`.
+- `scripts/sync-qoder-skills.py`: regenerates Qoder plugin skills from
+  `skills/*.md`.
 - `scripts/install-codex-skills.sh` / `scripts/install-codex-skills.bat`:
   installs Codex skills locally.
 - `scripts/install-codex-prompts.sh` / `scripts/install-codex-prompts.bat`:
@@ -56,6 +64,8 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
 - To keep ZCode workspace skills in sync, also run:
   `python scripts/sync-zcode-skills.py`
   (Windows checkouts may lack a `python3` shim; `python` works there.)
+- To keep Qoder plugin skills in sync, also run:
+  `python3 scripts/sync-qoder-skills.py`
 - If slash prompt compatibility is needed, also run:
   `python3 scripts/sync-codex-prompts.py`
 - Do not manually edit generated `codex-skills/*/SKILL.md` unless also updating
@@ -65,6 +75,9 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
 - Do not manually edit generated `.dsh/skills/*/SKILL.md` unless also updating
   the corresponding source in `skills/`.
 - Do not manually edit generated `.zcode/skills/*/SKILL.md` unless also
+  updating the corresponding source in `skills/`.
+- Do not manually edit generated
+  `.qoder/plugins/ai-berkshire-investment/skills/*/SKILL.md` unless also
   updating the corresponding source in `skills/`.
 - For Codex-only hand-written packages under `codex-skills/`, keep them clearly
   marked as Codex-only and do not create a same-named `skills/*.md` file unless
@@ -101,6 +114,7 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
   `python3 scripts/sync-trae-skills.py`
   `python3 scripts/sync-dsh-skills.py`
   `python scripts/sync-zcode-skills.py`
+  `python3 scripts/sync-qoder-skills.py`
 - To verify generated Codex artifacts are current without rewriting files, run:
   `python3 scripts/sync-codex-skills.py --check`
   and, when slash prompts are relevant:
@@ -111,3 +125,5 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
   `python3 scripts/sync-dsh-skills.py --check`
 - To verify ZCode workspace skills are current without rewriting files, run:
   `python scripts/sync-zcode-skills.py --check`
+- To verify Qoder plugin skills are current without rewriting files, run:
+  `python3 scripts/sync-qoder-skills.py --check`
