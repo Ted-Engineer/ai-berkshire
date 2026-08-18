@@ -1,0 +1,526 @@
+ticker,company,gics_sector,source
+MO,Altria Group,Food Beverage & Tobacco,Food Beverage & Tobacco
+TAP,Molson Coors Beverage,Food Beverage & Tobacco,Food Beverage & Tobacco
+MGPI,MGP Ingredients,Food Beverage & Tobacco,Food Beverage & Tobacco
+SAM,Boston Beer Co,Food Beverage & Tobacco,Food Beverage & Tobacco
+KO,Coca-Cola,Food Beverage & Tobacco,Food Beverage & Tobacco
+STZ,Constellation Brands,Food Beverage & Tobacco,Food Beverage & Tobacco
+ET,Energy Transfer,Energy,Energy
+WMB,Williams Companies,Energy,Energy
+WES,Western Midstream Partners,Energy,Energy
+HESM,Hess Midstream,Energy,Energy
+AIG,American International Group,Insurance,GICS-Insurance
+MET,MetLife,Insurance,GICS-Insurance
+RGA,Reinsurance Group of America,Insurance,GICS-Insurance
+EG,Everest Group,Insurance,GICS-Insurance
+AFG,American Financial Group,Insurance,GICS-Insurance
+PGR,Progressive,Insurance,GICS-Insurance
+KNSL,Kinsale Capital,Insurance,GICS-Insurance
+MKL,Markel,Insurance,GICS-Insurance
+EPD,Enterprise Products Partners,Energy,Energy
+KMI,Kinder Morgan,Energy,Energy
+LNG,Cheniere Energy,Energy,Energy
+EQT,EQT Corporation,Energy,Energy
+MKC,McCormick & Co,Food Beverage & Tobacco,Food Beverage & Tobacco
+BF.B,Brown-Forman,Food Beverage & Tobacco,Food Beverage & Tobacco
+COLM,Columbia Sportswear,Consumer Durables & Apparel,GICS-Consumer Durables & Apparel
+CRI,Carters,Consumer Durables & Apparel,GICS-Consumer Durables & Apparel
+GAP,Gap Inc,Consumer Durables & Apparel,GICS-Consumer Durables & Apparel
+WHR,Whirlpool,Consumer Durables & Apparel,GICS-Consumer Durables & Apparel
+HELE,Helen of Troy,Consumer Durables & Apparel,GICS-Consumer Durables & Apparel
+SONY,Sony Group ADR,Consumer Durables & Apparel,GICS-Consumer Durables & Apparel
+EL,Estee Lauder,Household & Personal Products,Household & Personal Products
+KVUE,Kenvue,Household & Personal Products,Household & Personal Products
+COTY,Coty,Household & Personal Products,Household & Personal Products
+IPAR,Inter Parfums,Household & Personal Products,Household & Personal Products
+NEM,Newmont,Materials,Materials
+LIN,Linde,Materials,Materials
+SCCO,Southern Copper,Materials,Materials
+ALB,Albemarle,Materials,Materials
+B,Barrick Mining,Materials,Materials
+MP,MP Materials,Materials,Materials
+TPR,Tapestry,Consumer Durables & Apparel,GICS-Consumer Durables & Apparel
+CRWD,CrowdStrike,Software & Services,GICS-Software & Services
+PANW,Palo Alto Networks,Software & Services,GICS-Software & Services
+DDOG,Datadog,Software & Services,GICS-Software & Services
+MDB,MongoDB,Software & Services,GICS-Software & Services
+ELF,e.l.f. Beauty,Household & Personal Products,Household & Personal Products
+NWL,Newell Brands,Household & Personal Products,Household & Personal Products
+CCL,Carnival Corp,Consumer Services,GICS-Consumer Services
+RCL,Royal Caribbean Group,Consumer Services,GICS-Consumer Services
+NCLH,Norwegian Cruise Line,Consumer Services,GICS-Consumer Services
+EXPE,Expedia Group,Consumer Services,GICS-Consumer Services
+JACK,Jack in the Box,Consumer Services,GICS-Consumer Services
+MAR,Marriott International,Consumer Services,GICS-Consumer Services
+BKNG,Booking Holdings,Consumer Services,GICS-Consumer Services
+HII,Huntington Ingalls Industries,Capital Goods,Capital Goods
+IEX,IDEX Corporation,Capital Goods,Capital Goods
+RDW,Redwire,Capital Goods,Capital Goods
+SYK,Stryker,Health Care Equipment & Services,Health Care Equipment & Services
+GEHC,GE HealthCare Technologies,Health Care Equipment & Services,Health Care Equipment & Services
+IART,Integra Lifesciences,Health Care Equipment & Services,Health Care Equipment & Services
+STE,STERIS,Health Care Equipment & Services,Health Care Equipment & Services
+INMD,InMode,Health Care Equipment & Services,Health Care Equipment & Services
+CNMD,Conmed,Health Care Equipment & Services,Health Care Equipment & Services
+EAT,Brinker International,Consumer Services,GICS-Consumer Services
+SHAK,Shake Shack,Consumer Services,GICS-Consumer Services
+DELL,Dell Technologies,Technology Hardware & Equipment,GICS-Technology Hardware & Equipment
+STX,Seagate Technology,Technology Hardware & Equipment,GICS-Technology Hardware & Equipment
+SMCI,Super Micro Computer,Technology Hardware & Equipment,GICS-Technology Hardware & Equipment
+ANET,Arista Networks,Technology Hardware & Equipment,GICS-Technology Hardware & Equipment
+SNDK,Sandisk,Technology Hardware & Equipment,GICS-Technology Hardware & Equipment
+KRMN,Karman Holdings,Capital Goods,Capital Goods
+AMZN,Amazon.com,Retailing,GICS-Retailing
+TJX,TJX Companies,Retailing,GICS-Retailing
+ROST,Ross Stores,Retailing,GICS-Retailing
+BURL,Burlington Stores,Retailing,GICS-Retailing
+ULTA,Ulta Beauty,Retailing,GICS-Retailing
+DG,Dollar General,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+TGT,Target Corp,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+DLTR,Dollar Tree,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+PSMT,PriceSmart,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+ETN,Eaton,Capital Goods,Capital Goods
+HUBB,Hubbell,Capital Goods,Capital Goods
+GEV,GE Vernova,Capital Goods,Capital Goods
+PWR,Quanta Services,Capital Goods,Capital Goods
+POWL,Powell Industries,Capital Goods,Capital Goods
+EXEL,Exelixis,Pharma Biotech & Life Sciences,Pharma Biotech & Life Sciences
+HRMY,Harmony Biosciences,Pharma Biotech & Life Sciences,Pharma Biotech & Life Sciences
+VEEV,Veeva Systems,Health Care Equipment & Services,Health Care Equipment & Services
+MU,Micron Technology,Semiconductors,GICS-Semiconductors
+LRCX,Lam Research,Semiconductors,GICS-Semiconductors
+AMAT,Applied Materials,Semiconductors,GICS-Semiconductors
+INTC,Intel,Semiconductors,GICS-Semiconductors
+ASML,ASML Holding,Semiconductors,GICS-Semiconductors
+TSM,TSMC,Semiconductors,GICS-Semiconductors
+CLH,Clean Harbors,Commercial & Professional Services,Commercial & Professional Services
+WM,Waste Management,Commercial & Professional Services,Commercial & Professional Services
+RSG,Republic Services,Commercial & Professional Services,Commercial & Professional Services
+WCN,Waste Connections,Commercial & Professional Services,Commercial & Professional Services
+AMT,American Tower,Telecommunication Services,GICS-Telecommunication Services
+CCI,Crown Castle,Telecommunication Services,GICS-Telecommunication Services
+SM,SBA Communications,Telecommunication Services,GICS-Telecommunication Services
+VZ,Verizon Communications,Telecommunication Services,GICS-Telecommunication Services
+T,AT&T Inc,Telecommunication Services,GICS-Telecommunication Services
+DHR,Danaher,Pharma Biotech & Life Sciences,Pharma Biotech & Life Sciences
+IQV,IQVIA,Pharma Biotech & Life Sciences,Pharma Biotech & Life Sciences
+CRL,Charles River Laboratories,Pharma Biotech & Life Sciences,Pharma Biotech & Life Sciences
+RGEN,Repligen,Pharma Biotech & Life Sciences,Pharma Biotech & Life Sciences
+ICLR,ICON plc,Pharma Biotech & Life Sciences,Pharma Biotech & Life Sciences
+TSEM,Tower Semiconductor,Semiconductors,GICS-Semiconductors
+BAC,Bank of America,Banks,Banks
+WFC,Wells Fargo,Banks,Banks
+RF,Regions Financial,Banks,Banks
+USB,U.S. Bancorp,Banks,Banks
+PNC,PNC Financial Services,Banks,Banks
+CFG,Citizens Financial Group,Banks,Banks
+NI,NiSource,Utilities,GICS-Utilities
+ETR,Entergy,Utilities,GICS-Utilities
+DUK,Duke Energy,Utilities,GICS-Utilities
+AEP,American Electric Power,Utilities,GICS-Utilities
+EVRG,Evergy,Utilities,GICS-Utilities
+D,Dominion Energy,Utilities,GICS-Utilities
+EIX,Edison International,Utilities,GICS-Utilities
+DTE,DTE Energy,Utilities,GICS-Utilities
+NEE,NextEra Energy,Utilities,GICS-Utilities
+ZION,Zions Bancorporation,Banks,Banks
+TFC,Truist Financial,Banks,Banks
+FITB,Fifth Third Bancorp,Banks,Banks
+MTB,M&T Bank,Banks,Banks
+KEY,KeyCorp,Banks,Banks
+UPS,United Parcel Service,Transportation,Transportation
+UNP,Union Pacific,Transportation,Transportation
+DAL,Delta Air Lines,Transportation,Transportation
+R,Ryder System,Transportation,Transportation
+ULH,Universal Logistics Holdings,Transportation,Transportation
+NFLX,Netflix,Media & Entertainment,GICS-Media & Entertainment
+DIS,Walt Disney,Media & Entertainment,GICS-Media & Entertainment
+WBD,Warner Bros Discovery,Media & Entertainment,GICS-Media & Entertainment
+EA,Electronic Arts,Media & Entertainment,GICS-Media & Entertainment
+ROKU,Roku Inc,Media & Entertainment,GICS-Media & Entertainment
+FIS,Fidelity National Information Services,Diversified Financials,Diversified Financials
+FI,Fiserv,Diversified Financials,Diversified Financials
+ICE,Intercontinental Exchange,Diversified Financials,Diversified Financials
+MSCI,MSCI,Diversified Financials,Diversified Financials
+CSX,CSX Corporation,Transportation,Transportation
+KNX,Knight-Swift Transportation,Transportation,Transportation
+CEG,Constellation Energy,Utilities,GICS-Utilities
+NRG,NRG Energy,Utilities,GICS-Utilities
+TLN,Talen Energy,Utilities,GICS-Utilities
+VST,Vistra,Utilities,GICS-Utilities
+UNFI,United Natural Foods,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+WMK,Weis Markets,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+ACI,Albertsons Companies,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+KR,Kroger Co,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+CASY,Caseys General Stores,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+SFM,Sprouts Farmers Market,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+COST,Costco Wholesale,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+LEA,Lear Corporation,Automobiles,Automobiles
+ORLY,O'Reilly Automotive,Automobiles,Automobiles
+AZO,AutoZone,Automobiles,Automobiles
+TSLA,Tesla,Automobiles,Automobiles
+INVH,Invitation Homes,Real Estate,GICS-Real Estate
+DLR,Digital Realty Trust,Real Estate,GICS-Real Estate
+EQIX,Equinix,Real Estate,GICS-Real Estate
+RIVN,Rivian Automotive,Automobiles,Automobiles
+GM,General Motors,Automobiles,Automobiles
+WMT,Walmart Inc,Consumer Staples Distribution & Retail,GICS-Consumer Staples Distribution & Retail
+NDAQ,Nasdaq,Diversified Financials,Diversified Financials
+SPGI,S&P Global,Diversified Financials,Diversified Financials
+DOC,Healthpeak Properties,Real Estate,GICS-Real Estate
+O,Realty Income,Real Estate,GICS-Real Estate
+EGP,EastGroup Properties,Real Estate,GICS-Real Estate
+WELL,Welltower,Real Estate,GICS-Real Estate
+GOOGL,Alphabet,Communication Services,A-待执行/F-memory
+NVDA,NVIDIA,Semiconductors,A-待执行(TSM观察)
+RDDT,Reddit,Communication Services,异动-S&P500纳入
+NBIS,Nebius,Information Technology,F-memory
+CRWV,CoreWeave,Information Technology,F-memory
+LEU,Centrus Energy,Energy,F-memory/A-队列
+UBER,Uber Technologies (AV network partner),Consumer Services,AI-track14
+KLAC,KLA Corp,Information Technology,AI-track6
+LAZR,Luminar Technologies (lidar),Automobiles Components,AI-track14
+INVZ,Innoviz Technologies (lidar),Automobiles Components,AI-track14
+AEVA,Aeva Technologies (FMCW 4D lidar),Automobiles Components,AI-track14
+HSAI,Hesai Group ADR (lidar),Automobiles Components,AI-track14
+MBLY,Mobileye Global (AV/ADAS silicon),Semiconductors,AI-track14
+ORCL,Oracle Corp,Information Technology,AI-track1
+APLD,Applied Digital,Information Technology,AI-track1
+IREN,IREN Ltd,Information Technology,AI-track1
+CIFR,Cipher Mining,Information Technology,AI-track1
+HUT,Hut 8 Corp (AI/HPC hosting pivot),Software & Services,AI-track15
+CORZ,Core Scientific (HPC hosting),Software & Services,AI-track15
+WULF,TeraWulf (AI data center pivot),Software & Services,AI-track15
+STRL,Sterling Infrastructure,Capital Goods,AI-track10
+PRIM,Primoris Services,Capital Goods,AI-track10
+FIX,Comfort Systems USA,Capital Goods,AI-track10
+ACM,AECOM,Capital Goods,AI-track10
+BTBT,Bit Digital (GPU cloud pivot),Software & Services,AI-track15
+ENTG,Entegris,Information Technology,AI-track6
+AVGO,Broadcom Inc,Information Technology,AI-track2
+MRVL,Marvell Technology,Information Technology,AI-track2
+CRM,Salesforce,Software & Services,AI-track11
+NOW,ServiceNow,Software & Services,AI-track11
+PLTR,Palantir Technologies,Software & Services,AI-track11
+PATH,UiPath,Software & Services,AI-track11
+QCOM,Qualcomm (Snapdragon on-device AI),Semiconductors,AI-track16
+AMD,Advanced Micro Devices (AI PC NPU),Semiconductors,AI-track16
+ARM,Arm Holdings ADR (edge compute IP),Semiconductors,AI-track16
+COHR,Coherent Corp,Information Technology,AI-track3
+LITE,Lumentum Holdings,Information Technology,AI-track3
+CRDO,Credo Technology,Information Technology,AI-track3
+GLW,Corning Inc,Information Technology,AI-track3
+AMBA,Ambarella (edge CV inference SoC),Semiconductors,AI-track16
+CCJ,Cameco,Energy,AI-track7
+OKLO,Oklo,Utilities,AI-track7
+SMR,NuScale Power,Utilities,AI-track7
+INOD,Innodata (AI data services pure-play),Software & Services,AI-track17
+TASK,TaskUs (AI data labeling services),Software & Services,AI-track17
+CNXC,Concentrix (AI data services),Software & Services,AI-track17
+G,Genpact (AI data services),Software & Services,AI-track17
+VRT,Vertiv Holdings,Industrials,AI-track12
+WDC,Western Digital,Information Technology,AI-track4
+SNOW,Snowflake (data marketplace + synthetic data),Software & Services,AI-track17
+SSTK,Shutterstock (AI training data licensing),Software & Services,AI-track17
+NVT,nVent Electric,Industrials,AI-track8
+AMKR,Amkor Technology,Information Technology,AI-track5
+ASX,ASE Technology Holding ADR,Information Technology,AI-track5
+ONTO,Onto Innovation,Information Technology,AI-track5
+MOD,Modine Manufacturing,Industrials,AI-track9
+AAON,AAON,Industrials,AI-track9
+TEL,TE Connectivity,Information Technology,AI-track13
+RRX,Regal Rexnord,Industrials,AI-track13
+CLS,Celestica Inc,Technology Hardware & Equipment,D6
+CSCO,Cisco Systems,Technology Hardware & Equipment,D6
+UNH,UnitedHealth Group,Health Care Equipment & Services,D6
+DGX,Quest Diagnostics,Health Care Equipment & Services,D6
+BSX,Boston Scientific,Health Care Equipment & Supplies,非AI-1
+RMD,ResMed,Health Care Equipment & Supplies,非AI-1
+ABBV,AbbVie,Pharmaceuticals,非AI-1
+AMGN,Amgen,Pharmaceuticals,非AI-1
+HD,Home Depot,Consumer Staples Distribution & Retail,D6
+RTX,RTX Corp,Aerospace & Defense,非AI-2
+LMT,Lockheed Martin,Aerospace & Defense,非AI-2
+AIR,AAR Corp,Aerospace & Defense,非AI-2
+DCO,Ducommun,Aerospace & Defense,非AI-2
+ATRO,Astronics,Aerospace & Defense,非AI-2
+BLK,BlackRock,Diversified Financials,G-生态链(Meta数据中心合资)
+FSLR,First Solar,Semiconductors & Semiconductor Equipment,非AI-3
+MYRG,MYR Group,Construction & Engineering,非AI-3
+ITRI,Itron,Electronic Equipment & Instruments,非AI-3
+ESE,ESCO Technologies,Electrical Equipment,非AI-3
+AMSC,American Superconductor,Electronic Equipment & Instruments,非AI-3
+PLPC,Preformed Line Products,Electrical Components & Equipment,非AI-3
+ESTC,Elastic N.V.,Software & Services,G-生态链(Alibaba Cloud AI ISV伙伴)
+MMM,3M Company,Capital Goods,G-生态链(Microsoft AI基础设施伙伴)
+DKNG,DraftKings,Consumer Services,非AI-9
+FLUT,Flutter Entertainment,Consumer Services,非AI-9
+RSI,Rush Street Interactive,Consumer Services,非AI-9
+CZR,Caesars Entertainment,Consumer Services,非AI-9
+PENN,PENN Entertainment,Consumer Services,非AI-9
+AAPL,Apple Inc,Technology Hardware & Equipment,G-生态链(AVGO技术伙伴延至2031)
+EMR,Emerson Electric,Electrical Equipment,非AI-4
+ROK,Rockwell Automation,Electrical Equipment,非AI-4
+CGNX,Cognex,Electronic Equipment & Instruments,非AI-4
+ZBRA,Zebra Technologies,Electronic Equipment & Instruments,非AI-4
+CHWY,Chewy Inc,Consumer Services,非AI-10
+FRPT,Freshpet,Food Beverage & Tobacco,非AI-10
+TRUP,Trupanion,Insurance,非AI-10
+WOOF,Petco Health and Wellness,Consumer Services,非AI-10
+CENT,Central Garden & Pet,Household & Personal Products,非AI-10
+APH,Amphenol,Electronic Equipment & Instruments,非AI-5
+LEN,Lennar,Household Durables (Homebuilding),非AI-5
+DHI,D.R. Horton,Household Durables (Homebuilding),非AI-5
+TOL,Toll Brothers,Household Durables (Homebuilding),非AI-5
+PHM,PulteGroup,Household Durables (Homebuilding),非AI-5
+V,Visa Inc,Diversified Financials,G-生态链(PayPal支付网络伙伴)
+MA,Mastercard,Diversified Financials,G-生态链(PayPal支付网络伙伴)
+JPM,JPMorgan Chase,Banks,G-生态链(PayPal商户收单/Fastlane合作)
+WST,West Pharmaceutical Services,Life Sciences Tools & Services,非AI-6
+NVO,Novo Nordisk ADR,Pharmaceuticals,非AI-6
+LLY,Eli Lilly,Pharmaceuticals,非AI-6
+RL,Ralph Lauren Corp,Consumer Durables & Apparel,非AI-11
+CPRI,Capri Holdings,Consumer Durables & Apparel,非AI-11
+MOV,Movado Group,Consumer Durables & Apparel,非AI-11
+SIG,Signet Jewelers,Consumer Services,非AI-11
+RH,RH (Restoration Hardware),Consumer Durables & Apparel,非AI-11
+AWK,American Water Works,Water Utilities,非AI-7
+XYL,Xylem,Machinery,非AI-7
+ECL,Ecolab,Chemicals,非AI-7
+MWA,Mueller Water Products,Machinery,非AI-7
+STN,Stantec,Construction & Engineering,非AI-7
+AGCO,AGCO Corp,Machinery,非AI-8
+DE,Deere & Co,Machinery,非AI-8
+CNH,CNH Industrial,Machinery,非AI-8
+CTVA,Corteva,Chemicals (Fertilizers & Agricultural),非AI-8
+ADM,Archer-Daniels-Midland,Agricultural Products,非AI-8
+ALL,Allstate,Insurance,非AI-D1价值
+ALV,Autoliv,Automobile Components,非AI-D1价值
+RYAAY,Ryanair Holdings ADR,Airlines,非AI-D1价值
+UHS,Universal Health Services,Health Care Facilities,非AI-D1价值
+THG,Hanover Insurance,Insurance,非AI-D1价值
+CB,Chubb Limited,Insurance,非AI-12
+WRB,W.R. Berkley,Insurance,非AI-12
+RLI,RLI Corp,Insurance,非AI-12
+CINF,Cincinnati Financial,Insurance,非AI-12
+APP,AppLovin,Software & Services,非AI-D1成长
+CLOV,Clover Health,Health Care Facilities,非AI-D1成长
+RELY,Remitly Global,Transaction & Payment Processing,非AI-D1成长
+AXTI,AXT Inc,Semiconductor Materials & Equipment,非AI-D1成长
+CMCSA,Comcast,Media,非AI-D1收益
+SFBS,ServisFirst Bancshares,Banks,非AI-D1收益
+KRYS,Krystal Biotech,Biotechnology,非AI-D1收益
+BABA,Alibaba Group ADR,Consumer Discretionary Distribution & Retail,非AI-13
+JD,JD.com ADR,Consumer Discretionary Distribution & Retail,非AI-13
+KGC,Kinross Gold,Materials,非AI-14
+HL,Hecla Mining,Materials,非AI-14
+RGLD,Royal Gold,Materials,非AI-14
+FNV,Franco-Nevada,Materials,非AI-14
+WPM,Wheaton Precious Metals,Materials,非AI-14
+PDD,PDD Holdings ADR,Consumer Discretionary Distribution & Retail,非AI-13
+YUMC,Yum China,Consumer Services,非AI-13
+MNSO,Miniso ADR,Consumer Durables & Apparel,非AI-13
+TRAX,First Tracks Biotherapeutics,Pharmaceuticals Biotech & Life Sciences,D3-spinoff
+VGNT,Versigent PLC,Automobiles & Components,D3-spinoff
+FDX,FedEx Corp (freight spin-off),Transportation,D3-spinoff
+MDT,Medtronic (diabetes spin plan),Health Care Equipment & Services,D3-spinoff
+ALGN,Align Technology (Elliott target),Health Care Equipment & Supplies,D3-activist
+PSX,Phillips 66 (Streamline66 campaign),Energy,D3-activist
+KMX,CarMax (Starboard settled),Consumer Services,D3-activist
+POST,Post Holdings,Food Beverage & Tobacco,D4-52wl
+WING,Wingstop,Consumer Services,D4-52wl
+TNL,Travel + Leisure Co,Consumer Services,D4-52wl
+GPI,Group 1 Automotive,Consumer Services,D4-52wl
+M,Macy's Inc (BRK new stake),Consumer Discretionary Distribution & Retail,D5-13F
+LUMN,Lumen Technologies (CEO 100k-share buy),Telecommunication Services,D4-insider
+RM,Regional Management (CEO cluster buy),Banks,D4-insider
+ALAB,Astera Labs,Semiconductors & Semiconductor Equipment,C-funnel
+MPWR,Monolithic Power Systems,Semiconductors & Semiconductor Equipment,C-funnel
+TER,Teradyne,Semiconductors & Semiconductor Equipment,C-funnel
+MKSI,MKS Instruments,Semiconductors & Semiconductor Equipment,C-funnel
+AEIS,Advanced Energy Industries,Semiconductors & Semiconductor Equipment,C-funnel
+CAMT,Camtek,Semiconductors & Semiconductor Equipment,C-funnel
+NVMI,Nova,Semiconductors & Semiconductor Equipment,C-funnel
+FORM,FormFactor,Semiconductors & Semiconductor Equipment,C-funnel
+ACLS,Axcelis Technologies,Semiconductors & Semiconductor Equipment,C-funnel
+UCTT,Ultra Clean Holdings,Semiconductors & Semiconductor Equipment,C-funnel
+ICHR,Ichor Holdings,Semiconductors & Semiconductor Equipment,C-funnel
+CIEN,Ciena,Communications Equipment,C-funnel
+FN,Fabrinet,Communications Equipment,C-funnel
+SMTC,Semtech,Semiconductors & Semiconductor Equipment,C-funnel
+AAOI,Applied Optoelectronics,Communications Equipment,C-funnel
+BE,Bloom Energy,Electrical Equipment,C-funnel
+EME,EMCOR Group,Construction & Engineering,C-funnel
+HPE,HP Enterprise,Technology Hardware Storage & Peripherals,C-funnel
+ADI,Analog Devices,Semiconductors & Semiconductor Equipment,C-funnel
+MCHP,Microchip Technology,Semiconductors & Semiconductor Equipment,C-funnel
+NXPI,NXP Semiconductors,Semiconductors & Semiconductor Equipment,C-funnel
+TXN,Texas Instruments,Semiconductors & Semiconductor Equipment,C-funnel
+GFS,GlobalFoundries,Semiconductors & Semiconductor Equipment,C-funnel
+ON,onsemi,Semiconductors & Semiconductor Equipment,C-funnel
+OKE,ONEOK,Energy,GICS-Energy
+MPLX,MPLX LP,Energy,GICS-Energy
+EXE,Expand Energy,Energy,GICS-Energy
+CQP,Cheniere Energy Partners,Energy,GICS-Energy
+DTM,DT Midstream,Energy,GICS-Energy
+AM,Antero Midstream,Energy,GICS-Energy
+TPL,Texas Pacific Land,Energy,GICS-Energy
+OXY,Occidental Petroleum,Energy,GICS-Energy
+ENB,Enbridge,Energy,GICS-Energy
+EMN,Eastman Chemical,Materials,GICS-Materials
+FMC,FMC Corp,Materials,GICS-Materials
+APD,Air Products,Materials,GICS-Materials
+DOW,Dow Inc,Materials,GICS-Materials
+SHW,Sherwin-Williams,Materials,GICS-Materials
+EQX,Equinox Gold,Materials,GICS-Materials
+MOS,Mosaic,Materials,GICS-Materials
+AEM,Agnico Eagle Mines,Materials,GICS-Materials
+BHP,BHP Group,Materials,GICS-Materials
+GE,GE Aerospace,Capital Goods,GICS-CapitalGoods
+CAT,Caterpillar,Capital Goods,GICS-CapitalGoods
+FTAI,FTAI Aviation,Capital Goods,GICS-CapitalGoods
+LUNR,Intuitive Machines,Capital Goods,GICS-CapitalGoods
+CTS,CTS Corp,Capital Goods,GICS-CapitalGoods
+DOV,Dover Corp,Capital Goods,GICS-CapitalGoods
+WAB,Wabtec,Capital Goods,GICS-CapitalGoods
+HON,Honeywell,Capital Goods,GICS-CapitalGoods
+GFL,GFL Environmental,Commercial & Professional Services,GICS-CommProfServices
+TTEK,Tetra Tech,Commercial & Professional Services,GICS-CommProfServices
+ROL,Rollins,Commercial & Professional Services,GICS-CommProfServices
+IT,Gartner,Commercial & Professional Services,GICS-CommProfServices
+NSC,Norfolk Southern,Transportation,GICS-Transportation
+CNI,Canadian National Railway,Transportation,GICS-Transportation
+JBHT,J.B. Hunt,Transportation,GICS-Transportation
+ZIM,ZIM Integrated Shipping,Transportation,GICS-Transportation
+LUV,Southwest Airlines,Transportation,GICS-Transportation
+UAL,United Airlines,Transportation,GICS-Transportation
+WERN,Werner Enterprises,Transportation,GICS-Transportation
+LYFT,Lyft,Transportation,GICS-Transportation
+F,Ford Motor,Automobiles & Components,GICS-Autos
+GNTX,Gentex,Automobiles & Components,GICS-Autos
+MGA,Magna International,Automobiles & Components,GICS-Autos
+APTV,Aptiv,Automobiles & Components,GICS-Autos
+THRM,Gentherm,Automobiles & Components,GICS-Autos
+VC,Visteon,Automobiles & Components,GICS-Autos
+LULU,Lululemon,Consumer Durables & Apparel,GICS-ConsumerDurables
+DECK,Deckers Outdoor,Consumer Durables & Apparel,GICS-ConsumerDurables
+RACE,Ferrari,Consumer Durables & Apparel,GICS-ConsumerDurables
+AS,Amer Sports,Consumer Durables & Apparel,GICS-ConsumerDurables
+BSK,Birkenstock,Consumer Durables & Apparel,GICS-ConsumerDurables
+SN,SharkNinja,Consumer Durables & Apparel,GICS-ConsumerDurables
+NKE,Nike,Consumer Durables & Apparel,GICS-ConsumerDurables
+ONON,On Holding,Consumer Durables & Apparel,GICS-ConsumerDurables
+YETI,YETI Holdings,Consumer Durables & Apparel,GICS-ConsumerDurables
+PVH,PVH Corp,Consumer Durables & Apparel,GICS-ConsumerDurables
+HLT,Hilton Worldwide,Consumer Services,GICS-ConsumerServices
+CHH,Choice Hotels,Consumer Services,GICS-ConsumerServices
+TCOM,Trip.com,Consumer Services,GICS-ConsumerServices
+TRIP,TripAdvisor,Consumer Services,GICS-ConsumerServices
+RLJ,RLJ Lodging,Consumer Services,GICS-ConsumerServices
+VAC,Marriott Vacations,Consumer Services,GICS-ConsumerServices
+ETSY,Etsy,Retailing,GICS-Retailing
+OLLI,Ollie's Bargain Outlet,Retailing,GICS-Retailing
+BOOT,Boot Barn,Retailing,GICS-Retailing
+BBY,Best Buy,Retailing,GICS-Retailing
+TMUS,T-Mobile US,Telecommunication Services,GICS-Telecom
+SPOT,Spotify,Media & Entertainment,GICS-MediaEnt
+SYY,Sysco,Consumer Staples Distribution & Retail,GICS-StaplesDist
+USFD,US Foods,Consumer Staples Distribution & Retail,GICS-StaplesDist
+PFGC,Performance Food Group,Consumer Staples Distribution & Retail,GICS-StaplesDist
+CHEF,Chefs Warehouse,Consumer Staples Distribution & Retail,GICS-StaplesDist
+PM,Philip Morris,Food Beverage & Tobacco,GICS-FoodBev
+BTI,British American Tobacco,Food Beverage & Tobacco,GICS-FoodBev
+BUD,Anheuser-Busch InBev,Food Beverage & Tobacco,GICS-FoodBev
+DEO,Diageo,Food Beverage & Tobacco,GICS-FoodBev
+PEP,PepsiCo,Food Beverage & Tobacco,GICS-FoodBev
+PG,Procter & Gamble,Household & Personal Products,GICS-Household
+CL,Colgate-Palmolive,Household & Personal Products,GICS-Household
+EPC,Edgewell Personal Care,Household & Personal Products,GICS-Household
+ABT,Abbott Laboratories,Health Care Equipment & Services,GICS-HCEquip
+ISRG,Intuitive Surgical,Health Care Equipment & Services,GICS-HCEquip
+EW,Edwards Lifesciences,Health Care Equipment & Services,GICS-HCEquip
+DXCM,Dexcom,Health Care Equipment & Services,GICS-HCEquip
+REGN,Regeneron,Pharmaceuticals Biotechnology & Life Sciences,GICS-Pharma
+ZTS,Zoetis,Pharmaceuticals Biotechnology & Life Sciences,GICS-Pharma
+INSM,Insmed,Pharmaceuticals Biotechnology & Life Sciences,GICS-Pharma
+RARE,Ultragenyx,Pharmaceuticals Biotechnology & Life Sciences,GICS-Pharma
+BMY,Bristol-Myers Squibb,Pharmaceuticals Biotechnology & Life Sciences,GICS-Pharma
+C,Citigroup,Banks,GICS-Banks
+GS,Goldman Sachs,Banks,GICS-Banks
+MS,Morgan Stanley,Banks,GICS-Banks
+GPN,Global Payments,Diversified Financials,GICS-DivFin
+EEFT,Euronet Worldwide,Diversified Financials,GICS-DivFin
+PAGS,PagSeguro,Diversified Financials,GICS-DivFin
+KSPI,Kaspi.kz,Diversified Financials,GICS-DivFin
+FOUR,Shift4 Payments,Diversified Financials,GICS-DivFin
+LNC,Lincoln National,Insurance,GICS-Insurance
+KVYO,Klaviyo,Software & Services,GICS-Software
+VRSN,VeriSign,Software & Services,GICS-Software
+RBRK,Rubrik,Software & Services,GICS-Software
+TEAM,Atlassian,Software & Services,GICS-Software
+CDW,CDW,Technology Hardware & Equipment,GICS-TechHardware
+JBL,Jabil,Technology Hardware & Equipment,GICS-TechHardware
+SO,Southern Company,Utilities,GICS-Utilities
+LNT,Alliant Energy,Utilities,GICS-Utilities
+IRM,Iron Mountain,Real Estate,GICS-RealEstate
+PLD,Prologis,Real Estate,GICS-RealEstate
+CTO,CTO Realty Growth,Real Estate,GICS-RealEstate
+CBRX,Cerebras Systems,AI Cloud/Neocloud运营商,AI赛道-1
+BEPC,Brookfield Renewable,电网设备/变压器,AI赛道-8
+MNDY,Monday.com,AI Agent/应用软件,AI赛道-11
+DT,Dynatrace,AI Agent/应用软件,AI赛道-11
+VPG,Vishay Precision Group,物理AI/人形机器人,AI赛道-13
+POET,POET Technologies,物理AI/人形机器人,AI赛道-13
+XPEV,XPeng,物理AI/人形机器人,AI赛道-13
+FFAI,Faraday Future,物理AI/人形机器人,AI赛道-13
+PONY,Pony AI,自动驾驶/Robotaxi,AI赛道-14
+WRD,WeRide,自动驾驶/Robotaxi,AI赛道-14
+LCID,Lucid Group,自动驾驶/Robotaxi,AI赛道-14
+OUST,Ouster,自动驾驶/Robotaxi,AI赛道-14
+RIOT,Riot Platforms,加密矿企转AI算力,AI赛道-15
+VTR,Ventas,老龄化,非AI-1
+SCI,Service Corporation International,老龄化,非AI-1
+ENSG,Ensign Group,老龄化,非AI-1
+HUM,Humana,老龄化,非AI-1
+NOC,Northrop Grumman,国防现代化,非AI-2
+GD,General Dynamics,国防现代化,非AI-2
+LHX,L3Harris,国防现代化,非AI-2
+CMI,Cummins,美国制造回岸,非AI-4
+PH,Parker Hannifin,美国制造回岸,非AI-4
+ITW,Illinois Tool Works,美国制造回岸,非AI-4
+WTRG,Essential Utilities,水务基建,非AI-7
+TRMB,Trimble,农业科技,非AI-8
+NTR,Nutrien,农业科技,非AI-8
+CF,CF Industries,农业科技,非AI-8
+MGM,MGM Resorts,体育博彩,非AI-9
+IDXX,IDEXX Laboratories,宠物经济,非AI-10
+TRV,Travelers,保险硬市场,非AI-12
+BBWI,Bath & Body Works,D1量化价值型,D1量化
+CNC,Centene,D1量化价值型,D1量化
+CHTR,Charter Communications,D1量化价值型,D1量化
+KBH,KB Home,D1量化收益型,D1量化
+CIVI,Civitas Resources,D1量化收益型,D1量化
+FCNCA,First Citizens BancShares,D1量化收益型,D1量化
+HONA,Honeywell Aerospace,D3事件分拆,D3事件
+FDXF,FedEx Freight,D3事件分拆,D3事件
+MBGL,S&P Global Mobility,D3事件分拆,D3事件
+PINS,Pinterest,D3事件激进投资者,D3事件
+SNPS,Synopsys,D3事件激进投资者,D3事件
+LW,Lamb Weston,D3事件激进投资者,D3事件
+MCD,McDonald's,D4技术面52周低,D4技术
+NOK,Nokia,D4技术面内部人买入,D4技术
+BORR,Borr Drilling,D4技术面内部人买入,D4技术
+KKR,KKR & Co,D5聪明钱13F,D5聪明钱
+BLDR,Builders FirstSource,D5聪明钱13F,D5聪明钱
+NYT,New York Times,D5聪明钱伯克希尔加仓,D5聪明钱
+NIQ,NIQ Holdings,D6财报催化,D6财报催化
+ETON,Eton Pharmaceuticals,D6财报催化,D6财报催化
+CAVA,Cava Group,D6财报催化,D6财报催化
+AXON,Axon Enterprise,D6财报催化,D6财报催化
+BIDU,Baidu,D7-BABA生态链,D7-BABA生态链
+TCEHY,Tencent,D7-BABA生态链,D7-BABA生态链
+SEMR,Semrush,D7-ADBE生态链,D7-ADBE生态链
+AXP,American Express,D7-BRK.B生态链,D7-BRK.B生态链
+SHOP,Shopify,D7-PYPL生态链,D7-PYPL生态链
+AFRM,Affirm,D7-PYPL生态链,D7-PYPL生态链
+KLAR,Klarna,D7-PYPL生态链,D7-PYPL生态链

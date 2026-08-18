@@ -1,0 +1,598 @@
+2026-08-16T12:07:31Z | builtin-WebSearch | biggest stock movers S&P 500 Friday August 14 2026 (QUOTA EXHAUSTED 429, fell back to MCP)
+2026-08-16T12:07:31Z | mcp-web-search | biggest stock movers Friday August 14 2026 earnings gainer loser
+2026-08-16T12:12:26Z | mcp-web-search-subagent | Meta Q2 2026 earnings revenue Family of Apps Reality Labs segment
+2026-08-16T12:12:26Z | mcp-web-search-subagent | Meta Q2 2026 earnings ad revenue growth operating margin capex
+2026-08-16T12:12:32Z | mcp-web-search-subagent | global digital advertising market size 2026 growth forecast ad spend
+2026-08-16T12:12:32Z | mcp-web-search-subagent | Meta TikTok YouTube ad market share 2026 competition
+2026-08-16T12:12:33Z | mcp-web-search-subagent | Meta Platforms Q2 2026 earnings revenue net income free cash flow capex
+2026-08-16T12:12:33Z | mcp-web-search-subagent | Meta Platforms 2026 capex guidance free cash flow decline 100 billion
+2026-08-16T12:12:54Z | mcp-web-search-subagent | TikTok US divestiture deal status 2026 Oracle joint venture
+2026-08-16T12:13:36Z | mcp-web-search-subagent | Meta Q2 2026 earnings ad revenue capex guidance AI
+2026-08-16T12:13:46Z | mcp-web-search-subagent | Ray-Ban Meta AI glasses sales 2026 units million EssilorLuxottica
+2026-08-16T12:13:46Z | mcp-web-search-subagent | Meta Connect 2026 September 23 AI glasses announcement Gen 3 Oakley
+2026-08-16T12:14:03Z | mcp-web-search-subagent | China e-commerce market share 2026 Alibaba PDD JD Douyin competition
+2026-08-16T12:14:09Z | mcp-web-search-subagent | META stock forward PE ratio 2026 valuation price to earnings macrotrends stockanalysis
+2026-08-16T12:14:11Z | mcp-web-search-subagent | Meta Q2 2026 Family of Apps operating income segment results
+2026-08-16T12:14:33Z | mcp-web-search-subagent | Temu de minimis exemption end 2025 impact PDD US sales 2026
+2026-08-16T12:14:42Z | mcp-web-search-subagent | Meta FTC antitrust monopolization case appeal 2026 Instagram WhatsApp divestiture ruling
+2026-08-16T12:14:42Z | mcp-web-search-subagent | Meta EU Digital Markets Act fine 2026 pay or consent model decision
+2026-08-16T12:14:42Z | mcp-web-search-subagent | Meta 2026 capex guidance superintelligence AI spending free cash flow decline
+2026-08-16T12:14:42Z | mcp-web-search-subagent | Zuckerberg Meta Superintelligence Labs reorganization 2026 talent AI strategy
+2026-08-16T12:14:49Z | mcp-web-search-subagent | Meta Platforms annual revenue net income 2022 2023 2024 2025 ROE return on equity
+2026-08-16T12:14:49Z | mcp-web-search-subagent | Meta Q2 2026 legal charge one-time expense EPS 6.18 operating margin Reality Labs
+2026-08-16T12:15:20Z | mcp-web-search-subagent | Alibaba earnings August 20 2026 June quarter preview cloud AI growth instant commerce losses
+2026-08-16T12:15:20Z | mcp-web-search-subagent | Alibaba ADR delisting risk audit inspection holding foreign companies accountable 2026
+2026-08-16T12:15:20Z | mcp-web-search-subagent | Eddie Wu Alibaba CEO strategy AI cloud user first 2026
+2026-08-16T12:15:20Z | mcp-web-search-subagent | China consumer spending retail sales outlook second half 2026 stimulus
+2026-08-16T12:15:23Z | mcp-web-search-subagent | Alibaba Cloud AI revenue growth Q1 2026 June quarter market share China
+2026-08-16T12:15:30Z | mcp-web-search-subagent | Meta Reports Fourth Quarter and Full Year 2025 Results revenue net income
+2026-08-16T12:15:41Z | mcp-web-search-subagent | Alibaba August 2026 earnings June quarter cloud revenue growth preview
+2026-08-16T12:15:47Z | mcp-web-search-subagent | China consumption stimulus policy 2026 trade-in domestic demand tech regulation
+2026-08-16T12:16:07Z | mcp-web-search-subagent | Microsoft OpenAI restructuring equity stake 2026 licensing revenue commitment
+2026-08-16T12:16:07Z | mcp-web-search-subagent | Microsoft antitrust FTC investigation cloud bundling Teams Office 2026
+2026-08-16T12:16:07Z | mcp-web-search-subagent | Microsoft Azure AI growth capex depreciation margin fiscal 2026 Q4 earnings
+2026-08-16T12:16:07Z | mcp-web-search-subagent | NS-CMIC list Chinese companies Treasury securities investment restrictions 2026 Alibaba
+2026-08-16T12:16:09Z | mcp-web-search-subagent | Alibaba March quarter 2026 results cloud intelligence revenue growth CMR May 2026
+2026-08-16T12:16:13Z | mcp-web-search-subagent | Azure AWS Google Cloud growth rate Q2 2026 market share Synergy
+2026-08-16T12:16:44Z | mcp-web-search-subagent | Microsoft FY2026 Q4 earnings Azure growth 44% AWS growth rate comparison Copilot
+2026-08-16T12:17:22Z | mcp-web-search-subagent | AWS Q2 2026 revenue growth rate Amazon earnings cloud AI backlog
+2026-08-16T12:17:37Z | mcp-web-search-subagent | Meta Q1 2026 results revenue net income free cash flow April 2026
+2026-08-16T12:17:37Z | mcp-web-search-subagent | Alibaba FY2026 annual results March 2026 revenue net income free cash flow capex cloud
+2026-08-16T12:17:37Z | mcp-web-search-subagent | Microsoft FY2026 Q4 earnings June 2026 revenue net income Azure capex free cash flow
+2026-08-16T12:17:45Z | mcp-web-search-subagent | TikTok US ownership resolution 2026 status Oracle deal competition Meta Instagram
+2026-08-16T12:17:45Z | mcp-web-search-subagent | Taobao instant commerce flash purchase EBITA loss subsidy war Meituan JD 2026
+2026-08-16T12:17:45Z | mcp-web-search-subagent | global digital advertising spending forecast 2026 2027 growth Magna WARC
+2026-08-16T12:17:45Z | mcp-web-search-subagent | Satya Nadella Microsoft 2026 leadership capital allocation buyback dividend AI strategy
+2026-08-16T12:17:51Z | mcp-web-search-subagent | Alibaba Q4 FY2026 earnings May 13 2026 cloud revenue grew AI product revenue triple-digit
+2026-08-16T12:17:52Z | mcp-web-search-subagent | AI data center debt financing 370 billion 2026 hyperscaler bubble concerns
+2026-08-16T12:18:32Z | mcp-web-search-subagent | Nasdaq record high August 2026 AI bubble valuation CPI inflation 4.2% Fed
+2026-08-16T12:18:48Z | mcp-web-search-subagent | Alibaba instant commerce flash purchase Taobao Shangou EBITA loss 2026 subsidy war Meituan JD
+2026-08-16T12:18:48Z | mcp-web-search-subagent | Alibaba FY2027 Q1 earnings August 20 2026 expectations cloud growth 45% CMR estimate
+2026-08-16T12:18:50Z | mcp-web-search-subagent | Meta stock decline August 2026 AI bubble concerns valuation shareholder
+2026-08-16T12:18:50Z | mcp-web-search-subagent | Zuckerberg Meta political shift 2026 criticism fact checking policy controversy
+2026-08-16T12:18:50Z | mcp-web-search-subagent | Alibaba share buyback dividend capital return program fiscal 2026
+2026-08-16T12:18:50Z | mcp-web-search-subagent | Alibaba cloud AI chip supply constraints Nvidia export controls self-developed 2026
+2026-08-16T12:19:00Z | mcp-web-search-subagent | US CPI July 2026 inflation 4.2% report
+2026-08-16T12:19:26Z | mcp-web-search-subagent | TikTok US ad revenue 2026 growth after joint venture deal advertisers
+2026-08-16T12:19:52Z | mcp-web-search-subagent | Gartner enterprise software IT spending forecast 2026 generative AI SaaS growth
+2026-08-16T12:20:10Z | mcp-web-search-subagent | Microsoft FY26 Q4 earnings July 2026 Azure growth revenue segment
+2026-08-16T12:20:17Z | mcp-web-search-subagent | Alibaba Taobao instant commerce flash purchase 2026 subsidy war JD Meituan margins
+2026-08-16T12:20:52Z | mcp-web-search-subagent | Alibaba June quarter 2026 earnings preview August 20 expectations cloud instant commerce
+2026-08-16T12:20:53Z | mcp-web-search-subagent | Alibaba June 2026 quarter results customer management revenue Taobao Tmall growth
+2026-08-16T12:21:13Z | mcp-web-search-subagent | Microsoft Azure 43 percent growth fourth quarter fiscal 2026 Amy Hood 45% guidance
+2026-08-16T12:21:13Z | mcp-web-search-subagent | Microsoft AI business annual revenue run rate 2026 Copilot enterprise momentum seats
+2026-08-16T12:21:18Z | mcp-web-search-subagent | Alibaba earnings August 2026 June quarter report date
+2026-08-16T12:21:47Z | mcp-web-search-subagent | Meta full year 2025 results revenue net income fourth quarter 2025 shareholder return buyback dividend
+2026-08-16T12:23:02Z | mcp-web-search-subagent | Microsoft fiscal Q1 2027 earnings date October 2026 report
+2026-08-16T12:23:02Z | mcp-web-search-subagent | Microsoft 365 E7 Frontier suite price per user Copilot pricing 2026
+2026-08-16T12:23:05Z | mcp-web-search-subagent | AI advertising monetization 2026 Advantage+ automation ad prices marketers budget shift
+2026-08-16T12:28:24Z | mcp-web-search-subagent | Adobe creative software competition Canva Figma AI tools market share 2026
+2026-08-16T12:28:35Z | mcp-web-search-subagent | Adobe CEO succession Shantanu Narayen 2026 announcement
+2026-08-16T12:28:35Z | mcp-web-search-subagent | Adobe Dana White brand deal backlash controversy 2026
+2026-08-16T12:28:36Z | mcp-web-search-subagent | Broadcom AVGO stock drop August 14 2026 reason
+2026-08-16T12:28:41Z | mcp-web-search-subagent | Adobe Firefly AI monetization ARR 2026 generative AI revenue enterprise
+2026-08-16T12:28:50Z | mcp-web-search-subagent | BofA AI debt $370 billion Broadcom note August 2026
+2026-08-16T12:28:58Z | mcp-web-search-subagent | OpenAI Sora image generation tools replacing Adobe Photoshop creative professionals 2026
+2026-08-16T12:29:02Z | mcp-web-search-subagent | Dana White Adobe board of directors criticism
+2026-08-16T12:29:02Z | mcp-web-search-subagent | Adobe Firefly ARR 750 million AI monetization 2026
+2026-08-16T12:29:05Z | mcp-web-search-subagent | Adobe CEO search successor 2026 Shantanu Narayen replacement
+2026-08-16T12:29:06Z | mcp-web-search-subagent | Adobe Q2 fiscal 2026 earnings results revenue net income June 2026
+2026-08-16T12:29:06Z | mcp-web-search-subagent | Adobe FY2025 annual revenue net income EPS fiscal year ended November 2025
+2026-08-16T12:29:17Z | mcp-web-search-subagent | Broadcom stock drop August 14 2026 semiconductor selloff reason
+2026-08-16T12:29:31Z | mcp-web-search-subagent | Adobe CEO successor news August 2026 candidates
+2026-08-16T12:29:33Z | mcp-web-search-subagent | Adobe Q2 FY2026 cash flow from operations remaining performance obligations buyback guidance
+2026-08-16T12:29:35Z | mcp-web-search-subagent | "Adobe" "Dana White" 2026
+2026-08-16T12:29:35Z | mcp-web-search-subagent | Adobe FTC lawsuit subscription cancellation settlement status 2026
+2026-08-16T12:29:52Z | mcp-web-search-subagent | Adobe FY2026 guidance full year revenue EPS target raised Q3 outlook August 2026
+2026-08-16T12:30:02Z | mcp-web-search-subagent | Adobe Q2 fiscal 2026 earnings results ARR AI book of business June 2026
+2026-08-16T12:30:15Z | mcp-web-search-subagent | Google TPU v9 MediaTek Broadcom order design win 2026
+2026-08-16T12:30:15Z | mcp-web-search-subagent | Broadcom Q2 fiscal 2026 earnings June 2026 AI semiconductor revenue results
+2026-08-16T12:30:17Z | mcp-web-search-subagent | Adobe CEO successor candidates search update August 2026
+2026-08-16T12:30:17Z | mcp-web-search-subagent | Adobe competition Sora OpenAI video Figma Canva creative market share erosion August 2026
+2026-08-16T12:30:34Z | mcp-web-search-subagent | Broadcom AI revenue custom ASIC XPU backlog OpenAI customers 2026 Marvell Alab competition
+2026-08-16T12:30:35Z | mcp-web-search-subagent | Broadcom fiscal 2027 AI revenue 100 billion target Hock Tan outlook
+2026-08-16T12:30:55Z | mcp-web-search-subagent | custom ASIC AI chip market size forecast 2027 2028 co-packaged optics inference share
+2026-08-16T12:30:58Z | mcp-web-search-subagent | Broadcom stock drop Friday August 14 2026 reason
+2026-08-16T12:30:58Z | mcp-web-search-subagent | Broadcom Hock Tan succession successor age 77 2026
+2026-08-16T12:31:06Z | mcp-web-search-subagent | Adobe Q2 FY26 Digital Media ARR Digital Experience segment revenue breakdown
+2026-08-16T12:31:11Z | mcp-web-search-subagent | AI semiconductor value chain profit pools 2026 TSMC foundry HBM packaging design IP margins
+2026-08-16T12:31:26Z | mcp-web-search-subagent | Adobe Firefly pricing premium tier GenCredit credits monetization 2026
+2026-08-16T12:31:31Z | mcp-web-search-subagent | VMware vCenter vulnerability exploited esxinet ransomware August 2026
+2026-08-16T12:31:31Z | mcp-web-search-subagent | Google TPU v9 MediaTek Broadcom lost order 2026
+2026-08-16T12:31:31Z | mcp-web-search-subagent | commercial insurance hard market 2026 pricing commercial lines rate cycle carriers
+2026-08-16T12:31:50Z | mcp-web-search-subagent | Broadcom Q2 fiscal 2026 earnings June 2026 AI semiconductor revenue backlog
+2026-08-16T12:31:57Z | mcp-web-search-subagent | PacifiCorp wildfire liability settlement 2026 Berkshire Hathaway Energy remaining claims
+2026-08-16T12:32:04Z | mcp-web-search-subagent | Broadcom VMware licensing EU probe subscription complaints 2026
+2026-08-16T12:32:04Z | mcp-web-search-subagent | Broadcom AI customers Google ByteDance OpenAI custom chip orders concentration 2026
+2026-08-16T12:32:20Z | mcp-web-search-subagent | Berkshire Hathaway insurance underwriting GEICO float Q2 2026 reinsurance catastrophe losses
+2026-08-16T12:32:30Z | mcp-web-search-subagent | Broadcom Q2 fiscal 2026 non-GAAP EPS free cash flow adjusted EBITDA Q3 guidance
+2026-08-16T12:32:34Z | mcp-web-search-subagent | Broadcom China export restrictions revenue impact 2026
+2026-08-16T12:32:34Z | mcp-web-search-subagent | Bank of America AI debt financing $370 billion circular deals Broadcom Nvidia
+2026-08-16T12:32:39Z | mcp-web-search-subagent | Fed rate cuts 2026 Treasury yields insurance float income Progressive GEICO auto insurance competition 2026
+2026-08-16T12:32:52Z | mcp-web-search-subagent | Broadcom Q2 2026 results EPS free cash flow dividend debt
+2026-08-16T12:33:13Z | mcp-web-search-subagent | AI agent economy enterprise software spend 2026 agentic AI monetization SaaS impact
+2026-08-16T12:33:13Z | mcp-web-search-subagent | Broadcom AVGO total debt gross debt 2026 balance sheet billion VMware
+2026-08-16T12:33:23Z | mcp-web-search-subagent | Berkshire Hathaway Greg Abel first year CEO 2026 capital allocation
+2026-08-16T12:33:23Z | mcp-web-search-subagent | PacifiCorp wildfire claims total Oregon Supreme Court November 2026
+2026-08-16T12:33:30Z | mcp-web-search-subagent | Broadcom Q2 FY2026 transcript backlog XPU pipeline Q3 guidance (fool.com fetch)
+2026-08-16T12:33:37Z | mcp-web-search-subagent | Broadcom Q2 fiscal 2026 GAAP diluted EPS non-GAAP EPS net income adjusted EBITDA
+2026-08-16T12:33:49Z | mcp-web-search-subagent | Berkshire Hathaway Q2 2026 13F filing new holdings Greg Abel bought
+2026-08-16T12:33:58Z | mcp-web-search-subagent | Berkshire Hathaway Q2 2026 share repurchases billion cash pile
+2026-08-16T12:33:58Z | mcp-web-search-subagent | Berkshire Hathaway Q2 2026 13F filings new positions sold
+2026-08-16T12:34:03Z | mcp-web-search-subagent | Berkshire Hathaway Q2 2026 10-Q operating earnings cash pile August 2026
+2026-08-16T12:34:17Z | mcp-web-search-subagent | Kiplinger Berkshire Q2 2026 13F details (fetch)
+2026-08-16T12:34:27Z | mcp-web-search-subagent | Berkshire Hathaway cash Treasury bills record 364 billion second quarter 2026 buyback
+2026-08-16T12:34:37Z | mcp-web-search-subagent | PacifiCorp total wildfire liability estimate remaining claims 2026 Berkshire 10-Q
+2026-08-16T12:34:37Z | mcp-web-search-subagent | Adobe Q3 FY2026 earnings September 10 guidance analysts
+2026-08-16T12:34:42Z | mcp-web-search-subagent | Berkshire Alphabet GOOGL stake increase private placement 2026 fourth largest holding
+2026-08-16T12:34:47Z | mcp-web-search-subagent | Berkshire Hathaway shareholders equity book value per share B shares June 2026 price to book
+2026-08-16T12:34:57Z | mcp-web-search-subagent | Berkshire Hathaway Q2 2026 earnings operating earnings cash pile insurance August 8 2026
+2026-08-16T12:35:03Z | mcp-web-search-subagent | Berkshire Hathaway insurance float 2026 Q2 equity portfolio value Apple stake
+2026-08-16T12:35:04Z | mcp-web-search-subagent | Broadcom Q3 fiscal 2026 earnings September 2 expectations guidance AI revenue
+2026-08-16T12:35:04Z | mcp-web-search-subagent | Berkshire Hathaway Energy PacifiCorp rate case regulation risk 2026
+2026-08-16T12:35:33Z | mcp-web-search-subagent | Kingswell Berkshire Q2 2026 earnings segment detail (fetch)
+2026-08-16T12:35:50Z | mcp-web-search-subagent | Broadcom Q3 fiscal 2026 earnings date September 2 2026
+2026-08-16T12:35:58Z | mcp-web-search-subagent | AVGO Broadcom forward PE valuation August 2026 fiscal 2026 2027 EPS estimate analyst
+2026-08-16T12:36:24Z | mcp-web-search-subagent | Adobe ADBE forward PE August 2026 Salesforce CRM ServiceNow NOW valuation comparison
+2026-08-16T12:36:28Z | mcp-web-search-subagent | Berkshire Hathaway book value per share Q2 2026 shareholders equity
+2026-08-16T12:36:41Z | mcp-web-search-subagent | Adobe CEO search Shantanu Narayen successor 2026 Dan Durn Marvell
+2026-08-16T12:37:02Z | mcp-web-search-subagent | Marvell MRVL Arista ANET forward PE August 2026 AI networking valuation
+2026-08-16T12:47:45Z | mcp-web-search-subagent | Intuit TurboTax competition H&R Block Column Tax market share 2026 tax software
+2026-08-16T12:47:45Z | mcp-web-search-subagent | OpenAI tax filing pilot 2026 AI tax preparation disruption Intuit
+2026-08-16T12:47:51Z | mcp-web-search-subagent | Intuit Q3 fiscal 2026 earnings revenue EPS May 2026 results
+2026-08-16T12:47:54Z | mcp-web-search-subagent | Intuit Q3 fiscal 2026 earnings QuickBooks online ecosystem TurboTax Credit Karma segment revenue growth
+2026-08-16T12:47:55Z | mcp-web-search-subagent | Intuit Sasan Goodarzi AI strategy 2026 management criticism
+2026-08-16T12:47:55Z | mcp-web-search-subagent | IRS Direct File expansion 2026 TurboTax impact all states
+2026-08-16T12:47:55Z | mcp-web-search-subagent | Intuit fiscal Q4 2026 earnings August 26 guidance TurboTax season
+2026-08-16T12:48:06Z | mcp-web-search-subagent | IRS Direct File 2026 expansion states free tax filing impact TurboTax
+2026-08-16T12:48:06Z | mcp-web-search-subagent | TSMC July 2026 monthly revenue NT$ year-over-year growth
+2026-08-16T12:48:10Z | mcp-web-search-subagent | Intuit Q3 fiscal 2026 GAAP EPS free cash flow nine months full year guidance raised
+2026-08-16T12:48:20Z | mcp-web-search-subagent | Intuit Q3 fiscal 2026 results Online Ecosystem Credit Karma consumer segment revenue million
+2026-08-16T12:48:21Z | mcp-web-search-subagent | TSMC C.C. Wei capital expenditure discipline overseas fabs Arizona 2026
+2026-08-16T12:48:21Z | mcp-web-search-subagent | TSMC geopolitical risk premium CDS bond yields investors demand 2026
+2026-08-16T12:48:21Z | mcp-web-search-subagent | TSMC 2027 capacity oversupply risk AI demand slowdown warning
+2026-08-16T12:48:34Z | mcp-web-search-subagent | TSMC N2 2nm ramp 2026 wafer foundry market share Samsung Intel 18A competition
+2026-08-16T12:48:34Z | mcp-web-search-subagent | TSMC Arizona fab 2026 production Japan Kumamoto Germany expansion CoWoS capacity
+2026-08-16T12:48:58Z | mcp-web-search-subagent | PayPal new CEO 2026 Lores turnaround layoffs restructuring
+2026-08-16T12:48:58Z | mcp-web-search-subagent | PayPal acquisition offer takeover bid 2026 deadline
+2026-08-16T12:48:58Z | mcp-web-search-subagent | PayPal transaction loans BNPL credit losses reserves 2026
+2026-08-16T12:49:00Z | mcp-web-search-subagent | PayPal Stripe Advent acquisition offer 2026 takeover fintech M&A
+2026-08-16T12:49:00Z | mcp-web-search-subagent | PayPal branded checkout market share 2026 Stripe Adyen competition online payments
+2026-08-16T12:49:10Z | mcp-web-search-subagent | Intuit Investor Day September 17 2026 AI monetization strategy analysts preview
+2026-08-16T12:49:18Z | mcp-web-search-subagent | Intuit stock free cash flow stock based compensation fiscal 2025 2024 2023 macrotrends
+2026-08-16T12:49:27Z | mcp-web-search-subagent | PayPal Q2 2026 earnings transaction margin active accounts guidance
+2026-08-16T12:49:27Z | mcp-web-search-subagent | Stripe Advent PayPal deal antitrust regulatory review concerns
+2026-08-16T12:49:27Z | mcp-web-search-subagent | TurboTax AI disruption risk OpenAI agents tax filing competition Intuit moat
+2026-08-16T12:49:35Z | mcp-web-search-subagent | AI agent payments agentic commerce A2A account-to-account threat PayPal Venmo 2026
+2026-08-16T12:49:35Z | mcp-web-search-subagent | foundry market share Q2 2026 TrendForce TSMC 70% Samsung Intel revenue
+2026-08-16T12:49:47Z | mcp-web-search-subagent | Intuit August 2026 AI-driven expert platform launch conversational AI pricing QuickBooks agents announcement
+2026-08-16T12:49:54Z | mcp-web-search-subagent | TSMC customer concentration Nvidia Apple export controls revenue share 2026
+2026-08-16T12:49:54Z | mcp-web-search-subagent | Himalaya Capital Li Lu 13F Q2 2026 holdings TSMC
+2026-08-16T12:49:54Z | mcp-web-search-subagent | Intuit TurboTax pricing probe state attorneys general 2026
+2026-08-16T12:50:14Z | mcp-web-search-subagent | Intuit Column Tax acquisition DOJ antitrust tax software 2025 2026
+2026-08-16T12:50:14Z | mcp-web-search-subagent | account-to-account payments disruption card networks digital wallets 2026 FedNow pay-by-bank
+2026-08-16T12:50:24Z | mcp-web-search-subagent | Intuit TurboTax Live done for you full service 2026 tax season growth customers ARPU
+2026-08-16T12:50:52Z | mcp-web-search-subagent | TSMC Q2 2026 earnings gross margin net income EPS July 2026 results
+2026-08-16T12:50:52Z | mcp-web-search-subagent | TurboTax Live full service AI agent filing 2026 season Intuit assisted tax strategy
+2026-08-16T12:51:12Z | mcp-web-search-subagent | TSMC 2026 capex guidance 52 56 billion ROIC net cash Q2 2026 balance sheet
+2026-08-16T12:51:22Z | mcp-web-search-subagent | PayPal Stripe Advent negotiation August 2026 raised offer talks status
+2026-08-16T12:51:22Z | mcp-web-search-subagent | Asia investment grade credit spreads tightening July August 2026
+2026-08-16T12:51:31Z | mcp-web-search-subagent | TSMC July 2026 monthly revenue NT$ billion year-over-year growth
+2026-08-16T12:51:38Z | mcp-web-search-subagent | TSMC ROIC 2025 return on invested capital cash and marketable securities net cash position
+2026-08-16T12:51:48Z | mcp-web-search-subagent | TSMC Q2 2026 earnings HPC AI revenue share 3nm 5nm advanced node percentage wafer
+2026-08-16T12:52:19Z | mcp-web-search-subagent | TSMC 2026 capex guidance billion CoWoS advanced packaging capacity expansion 2026 2027
+2026-08-16T12:52:45Z | mcp-web-search-subagent | "TSMC" 2Q26 ROIC "54.6" OR "return on invested capital" second quarter 2026 management report
+2026-08-16T12:52:59Z | mcp-web-search-subagent | TSMC capex 60 64 billion raised 2026 second quarter earnings call July 16
+2026-08-16T12:53:13Z | mcp-web-search-subagent | TSMC 2026 capital expenditure update August 2026 capex 64 billion AI demand
+2026-08-16T12:53:31Z | mcp-web-search-subagent | USD to TWD exchange rate August 2026 Taiwan dollar 31 30 29
+2026-08-16T12:53:52Z | mcp-web-search-subagent | TSMC 2026 wafer pricing price increase advanced nodes negotiation customers
+2026-08-16T12:53:57Z | mcp-web-search-subagent | PayPal Q2 2026 earnings revenue EPS free cash flow buyback July 2026
+2026-08-16T12:54:17Z | mcp-web-search-subagent | PayPal acquisition offer $60.50 rejected takeover bid 2026 activist Elliott
+2026-08-16T12:54:19Z | mcp-web-search-subagent | PayPal Stripe Advent takeover offer 0.50 board rejected August 2026 latest news
+2026-08-16T12:55:20Z | mcp-web-search-subagent | PayPal Q2 2026 earnings results branded checkout growth Venmo Braintree transaction margin dollars take rate
+2026-08-16T12:55:20Z | mcp-web-search-subagent | PayPal acquisition talks higher bid price per share new buyers August 15 2026
+2026-08-16T13:01:51Z | mcp-web-search-subagent | PBM market share 2026 CVS Caremark Express Scripts Optum Rx percentage
+2026-08-16T13:01:51Z | mcp-web-search-subagent | S.4509 PBM transparency legislation Senate status 2026
+2026-08-16T13:01:59Z | mcp-web-search-subagent | Cigna CEO Evanko 2026 capital allocation strategy buyback
+2026-08-16T13:01:59Z | mcp-web-search-subagent | S.4509 PBM reform bill Senate markup status August 2026
+2026-08-16T13:02:10Z | mcp-web-search-subagent | GLP-1 weight loss drugs cost health insurers 2026 employer spending impact
+2026-08-16T13:02:10Z | mcp-web-search-subagent | Cigna Evernorth Centene contract dispute pharmacy clients lost 2026
+2026-08-16T13:02:30Z | mcp-web-search-subagent | AI data center power purchase agreements 2026 gigawatts nuclear gas IPP
+2026-08-16T13:02:30Z | mcp-web-search-subagent | PJM capacity auction 2027 2028 price results record
+2026-08-16T13:02:31Z | mcp-web-search-subagent | Cigna Q2 2026 earnings results revenue adjusted EPS medical care ratio
+2026-08-16T13:02:31Z | mcp-web-search-subagent | Cigna second quarter 2026 press release Evernorth pharmacy revenue shareholders equity buyback
+2026-08-16T13:02:33Z | mcp-web-search-subagent | Cigna Centene Express Scripts contract dispute lawsuit 2026
+2026-08-16T13:02:34Z | mcp-web-search-subagent | Cigna Q2 2026 earnings medical care ratio GLP-1 stop-loss
+2026-08-16T13:03:00Z | mcp-web-search-subagent | gas turbine shortage GE Vernova backlog new gas plants 2028 2030 data centers
+2026-08-16T13:03:00Z | mcp-web-search-subagent | Texas PUCT large load interconnection rule data centers ERCOT cost allocation
+2026-08-16T13:03:39Z | mcp-web-search-subagent | Cigna Q2 2026 earnings Evernorth revenue adjusted earnings per share
+2026-08-16T13:03:39Z | mcp-web-search-subagent | Cigna CEO Ann Dennings Evanko 2026 leadership change
+2026-08-16T13:03:40Z | mcp-web-search-subagent | Talen Energy AWS PPA Susquehanna nuclear expansion 2026 Amazon deal
+2026-08-16T13:03:40Z | mcp-web-search-subagent | Vistra data center deal Comanche Peak 2026 nuclear gas co-located
+2026-08-16T13:03:42Z | mcp-web-search-subagent | Cigna 2026 operating cash flow dividends share repurchase capital deployment guidance billion
+2026-08-16T13:03:42Z | mcp-web-search-subagent | Cigna stock PBM legislation risk 2026 value trap forward PE discount
+2026-08-16T13:03:45Z | mcp-web-search-subagent | Centene Express Scripts pharmacy contract 2026 rebid lost
+2026-08-16T13:03:45Z | mcp-web-search-subagent | Vistra Jim Burke share buyback 2026 guidance hedging
+2026-08-16T13:04:09Z | mcp-web-search-subagent | PUCT rule 25.194 large load Texas 2026
+2026-08-16T13:04:09Z | mcp-web-search-subagent | nuclear restart 2026 Palisades Three Mile Island Crane SMR timeline delays
+2026-08-16T13:04:18Z | mcp-web-search-subagent | Centene Cigna lawsuit arbitration contract dispute August 2026
+2026-08-16T13:04:18Z | mcp-web-search-subagent | PUCT 25.194 large load interconnection rule decision 2026
+2026-08-16T13:04:28Z | mcp-web-search-subagent | S.4509 PBM Reform Act Senate markup 2026 status
+2026-08-16T13:04:28Z | mcp-web-search-subagent | Cigna Express Scripts pharmacy client losses 2027 Centene promises lost clients
+2026-08-16T13:04:31Z | mcp-web-search-subagent | Cigna CI stock 2027 EPS estimate consensus buyback slowdown 2026 debt
+2026-08-16T13:04:31Z | mcp-web-search-subagent | Vistra Q2 2026 earnings adjusted EBITDA 2026 guidance free cash flow before growth
+2026-08-16T13:04:45Z | mcp-web-search-subagent | ERCOT energy only market vs PJM capacity market price cap scarcity pricing 2026
+2026-08-16T13:04:45Z | mcp-web-search-subagent | PBM reform delinking spread pricing Medicaid 2026 states FTC profit pool
+2026-08-16T13:05:01Z | mcp-web-search-subagent | Vistra 2027 hedge percentage locked price ERCOT PJM nuclear buyback share repurchase 2026 net debt
+2026-08-16T13:05:01Z | mcp-web-search-subagent | Talen Energy Q2 2026 results 2026 guidance adjusted EBITDA AWS Susquehanna data center
+2026-08-16T13:05:08Z | mcp-web-search-subagent | Vistra Q2 2026 earnings results hedged 2026 adjusted EBITDA guidance
+2026-08-16T13:05:08Z | mcp-web-search-subagent | PUCT 25.194 Texas Permian Basin reliability plan final decision September 2026
+2026-08-16T13:05:08Z | mcp-web-search-subagent | Consolidated Appropriations Act 2026 PBM reform provisions Express Scripts impact
+2026-08-16T13:05:08Z | mcp-web-search-subagent | Texas data center pause audit August 2026 ERCOT queue Abbott directive
+2026-08-16T13:05:14Z | mcp-web-search-subagent | Vistra 2027 adjusted EBITDA outlook Q2 2026 earnings call nuclear data center
+2026-08-16T13:05:14Z | mcp-web-search-subagent | Talen Energy AWS nuclear deal close Cornerstone 2026 net leverage
+2026-08-16T13:05:39Z | mcp-web-search-subagent | "25.194" PUCT rule Texas large load interconnection data centers final rule
+2026-08-16T13:05:39Z | mcp-web-search-subagent | Vistra Meta nuclear PPA Comanche Peak 2026 announcement
+2026-08-16T13:05:41Z | mcp-web-search-subagent | Vistra 2027 outlook 7.4 billion EBITDA midpoint
+2026-08-16T13:05:41Z | mcp-web-search-subagent | Comanche Peak license renewal NRC 2053 Vistra 2026
+2026-08-16T13:06:12Z | mcp-web-search-subagent | Vistra initial 2027 outlook adjusted EBITDA guidance billion reaffirmed August 2026
+2026-08-16T13:06:12Z | mcp-web-search-subagent | Vistra hedged percentage 2027 generation ERCOT PJM hedging disclosure
+2026-08-16T13:06:22Z | mcp-web-search-subagent | FTC settlement Express Scripts insulin case 2026 terms
+2026-08-16T13:06:22Z | mcp-web-search-subagent | Cigna 2026 guidance Evernorth pharmacy earnings rebate model transition
+2026-08-16T13:06:42Z | mcp-web-search-subagent | PUCT September 2026 large load interconnection standards final rule ERCOT data centers transmission cost
+2026-08-16T13:06:43Z | mcp-web-search-subagent | PJM capacity auction 2027/2028 results price Vistra Talen nuclear cleared
+2026-08-16T13:06:48Z | mcp-web-search-subagent | PUCT rule 58481 25.194 final adoption ERCOT large load July August 2026
+2026-08-16T13:06:48Z | mcp-web-search-subagent | Talen Energy Q2 2026 results August Susquehanna AWS ramp PJM capacity
+2026-08-16T13:07:17Z | mcp-web-search-subagent | Talen Energy Q2 2026 results adjusted EBITDA free cash flow guidance
+2026-08-16T13:07:17Z | mcp-web-search-subagent | Talen Energy Cornerstone acquisition Moxie Freedom Guernsey close 2026
+2026-08-16T13:07:18Z | mcp-web-search-subagent | Talen Cornerstone acquisition Moxie Freedom Guernsey closed completed 2026
+2026-08-16T13:07:18Z | mcp-web-search-subagent | Cigna Evernorth pharmacy client losses 2026 contract attrition
+2026-08-16T13:07:21Z | mcp-web-search-subagent | PJM 2028/2029 base residual auction results 2026
+2026-08-16T13:07:21Z | mcp-web-search-subagent | ERCOT summer 2026 demand record August heat wave power prices
+2026-08-16T13:07:51Z | mcp-web-search-subagent | Talen Energy "Cornerstone" acquisition 2.6 GW gas plants June 2026
+2026-08-16T13:07:51Z | mcp-web-search-subagent | Talen Energy AWS PPA expanded 1920 MW 2042 Susquehanna data center campus ramp
+2026-08-16T13:07:52Z | mcp-web-search-subagent | Vistra share repurchases 2026 billion authorization remaining buyback Q2
+2026-08-16T13:07:52Z | mcp-web-search-subagent | Vistra stock November 2024 decline 40 percent correction deepseek
+2026-08-16T13:08:30Z | mcp-web-search-subagent | Talen Energy Cornerstone acquisition announced 2026
+2026-08-16T13:08:30Z | mcp-web-search-subagent | Talen Energy Susquehanna uprate megawatts nuclear 2026 2027
+2026-08-16T13:09:18Z | mcp-web-search-subagent | Cigna third quarter 2026 earnings date October 29
+2026-08-16T13:09:18Z | mcp-web-search-subagent | Vistra third quarter 2026 earnings call date November guidance 2027
+2026-08-16T13:09:25Z | mcp-web-search-subagent | Talen Energy 2027 outlook free cash flow per share 37 investor presentation August 2026
+2026-08-16T13:09:25Z | mcp-web-search-subagent | Vistra total debt net debt balance sheet June 30 2026 10-Q leverage
+2026-08-16T13:09:30Z | mcp-web-search-subagent | Talen Energy net leverage ratio Q2 2026 hedged 2027 percent guidance raised
+2026-08-16T13:09:30Z | mcp-web-search-subagent | Cigna GLP-1 costs 2026 coverage employer Evernorth specialty
+2026-08-16T13:10:08Z | mcp-web-search-subagent | Talen Energy TLN stock market cap free cash flow 2027 analyst price target August 2026
+2026-08-16T13:10:08Z | mcp-web-search-subagent | Talen Energy Susquehanna uprate 100 MW AWS investment announcement 2026
+2026-08-16T13:10:41Z | mcp-web-search-subagent | Vistra VST 2026 2027 EPS estimate consensus analysts forecast
+2026-08-16T13:11:05Z | mcp-web-search-subagent | PUCT 25.194 final adoption data center interconnection rule June 2026 commissioners vote
+2026-08-16T13:11:05Z | mcp-web-search-subagent | Cigna CI stock price close Friday August 14 2026
+2026-08-16T13:12:14Z | mcp-web-search-subagent | Talen AWS PPA Susquehanna ramp 1200 MW 1920 MW revenue recognition 2026 2027
+2026-08-16T13:12:14Z | mcp-web-search-subagent | Vistra 2027 midpoint opportunity adjusted EBITDA 7.4 7.8 billion
+2026-08-16T13:12:52Z | mcp-web-search-subagent | Talen Energy Keystone excludes guidance July 2026
+2026-08-16T13:12:52Z | mcp-web-search-subagent | Vistra Lotus acquisition gas fleet closed 2026 GW purchase price
+2026-08-16T13:14:08Z | mcp-web-search-subagent | Talen Energy original 2026 guidance November 2025 adjusted EBITDA 975 1125 million initial
+2026-08-16T13:15:58Z | mcp-web-search-subagent | Vistra 2026 guidance adjusted EBITDA "$5.5 billion" OR "$6.1 billion" reaffirmed August 2026
+2026-08-16T13:15:58Z | mcp-web-search-subagent | Vistra reaffirms 2026 guidance ongoing operations adjusted EBITDA billion August 7
+2026-08-16T13:17:15Z | mcp-web-search-subagent | Talen Energy full year 2025 results adjusted EBITDA adjusted free cash flow actual February 2026
+2026-08-16T13:24:45Z | mcp-web-search-subagent | undervalued energy oil gas pipeline midstream stocks 2026
+2026-08-16T13:24:59Z | mcp-web-search-subagent | AI cloud GPU rental neocloud providers 2026 Nebius CoreWeave revenue growth
+2026-08-16T13:25:12Z | mcp-web-search-subagent | neocloud contract backlog billion deal wins 2026 Nebius Applied Digital Oracle AI infrastructure
+2026-08-16T13:25:16Z | mcp-web-search-subagent | aging population healthcare demand stocks 2026
+2026-08-16T13:25:16Z | mcp-web-search-subagent | defense stocks record backlog NATO rearmament 2026
+2026-08-16T13:25:19Z | mcp-web-search-subagent | undervalued household personal care products stocks 2026
+2026-08-16T13:25:26Z | mcp-web-search-subagent | Meta AI data center suppliers capex beneficiaries Vertiv Eaton 2026
+2026-08-16T13:25:35Z | mcp-web-search-subagent | beauty personal care stocks earnings growth catalyst turnaround 2026 Estee Lauder Coty
+2026-08-16T13:25:37Z | mcp-web-search-subagent | grid modernization capex beneficiary stocks 2026
+2026-08-16T13:25:37Z | mcp-web-search-subagent | reshoring US manufacturing factory automation stocks 2026
+2026-08-16T13:25:43Z | mcp-web-search-subagent | custom AI ASIC accelerator design win stocks 2026 Broadcom Marvell Alchip
+2026-08-16T13:25:53Z | mcp-web-search-subagent | Meta nuclear power purchase agreement Constellation GE Vernova gas turbines AI data center 2026
+2026-08-16T13:25:56Z | mcp-web-search-subagent | energy stocks earnings beat guidance raised 2026
+2026-08-16T13:26:01Z | mcp-web-search-subagent | AI inference chip vs training shift beneficiaries 2026 Credo Astera Labs interconnect
+2026-08-16T13:26:06Z | mcp-web-search-subagent | rate cut beneficiaries stocks 2026 duration assets
+2026-08-16T13:26:06Z | mcp-web-search-subagent | GLP-1 supply chain contract manufacturing 2026
+2026-08-16T13:26:06Z | mcp-web-search-subagent | undervalued medical device healthcare equipment stocks 2026
+2026-08-16T13:26:13Z | mcp-web-search-subagent | 800G 1.6T optical module demand growth 2026 Coherent Innolight Fabrinet Lumentum
+2026-08-16T13:26:24Z | mcp-web-search-subagent | Microsoft Azure AI data center suppliers liquid cooling Vertiv CoreWeave Oracle Stargate compute partners 2026
+2026-08-16T13:26:28Z | mcp-web-search-subagent | water infrastructure replacement cycle stocks 2026
+2026-08-16T13:26:28Z | mcp-web-search-subagent | agriculture technology precision farming stocks 2026
+2026-08-16T13:26:31Z | mcp-web-search-subagent | AI cluster networking switch CPO stocks Arista Celestica Ciena 2026 earnings
+2026-08-16T13:26:34Z | mcp-web-search-subagent | undervalued materials chemicals mining stocks 2026
+2026-08-16T13:26:46Z | mcp-web-search-subagent | Alibaba Cloud AI partnership Apple iPhone Tesla TSMC custom AI chip supplier 2026
+2026-08-16T13:26:48Z | mcp-web-search-subagent | healthcare equipment services stocks earnings growth 2026 robotics GLP-1 tailwinds Intuitive Stryker
+2026-08-16T13:26:51Z | mcp-web-search-subagent | HBM4 capacity sold out memory stocks 2026 SK Hynix Micron Samsung
+2026-08-16T13:26:58Z | mcp-web-search-subagent | sports betting iGaming legalization expansion 2026
+2026-08-16T13:26:58Z | mcp-web-search-subagent | pet economy spending growth stocks 2026
+2026-08-16T13:27:08Z | mcp-web-search-subagent | DRAM NAND supply tightness beneficiary 2026 SanDisk Kioxia earnings price increase
+2026-08-16T13:27:19Z | mcp-web-search-subagent | Adobe OpenAI partnership Firefly Sora Premiere Pro AI model partners 2026
+2026-08-16T13:27:22Z | mcp-web-search-subagent | materials stocks catalyst copper gold rare earth rally 2026 growth
+2026-08-16T13:27:24Z | mcp-web-search-subagent | undervalued big pharma stocks 2026 P/E dividend pipeline
+2026-08-16T13:27:27Z | mcp-web-search-subagent | advanced packaging CoWoS capacity expansion 2026 Amkor ASE Ibiden stocks
+2026-08-16T13:27:29Z | mcp-web-search-subagent | luxury brand pricing power heritage moat 2026
+2026-08-16T13:27:29Z | mcp-web-search-subagent | insurance hard market pricing cycle 2026
+2026-08-16T13:27:39Z | mcp-web-search-subagent | copper gold mining stocks earnings beat guidance raised 2026
+2026-08-16T13:27:46Z | mcp-web-search-subagent | biotech stocks obesity oncology pipeline catalysts revenue growth 2026
+2026-08-16T13:27:47Z | mcp-web-search-subagent | Broadcom ASIC customers OpenAI Google ByteDance 10 gigawatt custom accelerator 2026
+2026-08-16T13:27:57Z | mcp-web-search-subagent | China consumer stimulus recovery stocks 2026
+2026-08-16T13:27:57Z | mcp-web-search-subagent | Chinese ecommerce valuation re-rating catalysts
+2026-08-16T13:27:57Z | mcp-web-search-subagent | undervalued defense aerospace electrical equipment stocks 2026
+2026-08-16T13:28:11Z | mcp-web-search-subagent | OSAT packaging substrate ABF shortage stocks 2026 Ibiden Unimicron Shinko
+2026-08-16T13:28:12Z | mcp-web-search-subagent | TSMC equipment suppliers ASML Applied Materials KLA Lam Research EUV CoWoS 2026
+2026-08-16T13:28:19Z | mcp-web-search-subagent | undervalued bank regional bank money center bank stocks 2026
+2026-08-16T13:28:26Z | mcp-web-search-subagent | gold miners real rates tail hedge stocks 2026
+2026-08-16T13:28:26Z | mcp-web-search-subagent | precious metals royalty central bank buying momentum
+2026-08-16T13:28:28Z | mcp-web-search-subagent | WFE wafer fab equipment spending record 2026 ASML Applied Materials Lam Research
+2026-08-16T13:28:31Z | mcp-web-search-subagent | Amkor ASE advanced packaging TSMC CoWoS Broadcom Nvidia AI chip packaging partner 2026
+2026-08-16T13:28:36Z | mcp-web-search-subagent | defense electrical equipment stocks earnings beat guidance raised 2026 Golden Dome electrification
+2026-08-16T13:28:44Z | mcp-web-search-subagent | bank stocks NIM expansion fee income earnings growth 2026 capital markets recovery
+2026-08-16T13:28:51Z | mcp-web-search-subagent | ASML AMAT KLAC backlog book-to-bill 2026 earnings EUV High-NA orders
+2026-08-16T13:28:55Z | mcp-web-search-subagent | stocks forward PE under 15 ROE above 20 FCF yield above 8 2026
+2026-08-16T13:28:55Z | mcp-web-search-subagent | revenue growth over 50% stocks 2026
+2026-08-16T13:28:57Z | mcp-web-search-subagent | Berkshire Hathaway 13F Q2 2026 new stock purchases sold holdings
+2026-08-16T13:29:11Z | mcp-web-search-subagent | undervalued asset manager exchange operator payment stocks 2026
+2026-08-16T13:29:21Z | mcp-web-search-subagent | data center power gigawatt pipeline IPP stocks 2026 Constellation Vistra Talen NRG
+2026-08-16T13:29:24Z | mcp-web-search-subagent | Intuit AI agents partnership tax software QuickBooks partners 2026
+2026-08-16T13:29:27Z | mcp-web-search-subagent | undervalued commercial services stocks staffing waste payroll 2026
+2026-08-16T13:29:38Z | mcp-web-search-subagent | nuclear SMR fuel uranium enrichment demand 2026 Oklo Centrus Cameco data center
+2026-08-16T13:29:47Z | mcp-web-search-subagent | stocks FCF yield above 5 dividend buyback 2026
+2026-08-16T13:29:47Z | mcp-web-search-subagent | recent spin-off stocks 2026
+2026-08-16T13:29:48Z | mcp-web-search-subagent | activist investor targets 2026
+2026-08-16T13:29:48Z | mcp-web-search-subagent | spin-off completed 2025 2026 Qnity Solstice Amrize Versant performance
+2026-08-16T13:30:06Z | mcp-web-search-subagent | power purchase agreement AI hyperscaler signed 2026 gigawatt nuclear gas coal
+2026-08-16T13:30:07Z | mcp-web-search-subagent | commercial services waste environmental data center stocks earnings growth guidance raised 2026
+2026-08-16T13:30:14Z | mcp-web-search-subagent | stocks near 52 week low strong fundamentals 2026
+2026-08-16T13:30:14Z | mcp-web-search-subagent | insider buying cluster 2026
+2026-08-16T13:30:23Z | mcp-web-search-subagent | Stripe Advent PayPal acquisition 2026 fintech deal
+2026-08-16T13:30:24Z | mcp-web-search-subagent | transformer lead time shortage grid equipment stocks 2026 GE Vernova Eaton Hammond Powell
+2026-08-16T13:30:28Z | mcp-web-search-subagent | undervalued airline railroad trucking shipping transportation stocks 2026
+2026-08-16T13:30:38Z | mcp-web-search-subagent | best value investor holdings changes 2026 Q2
+2026-08-16T13:30:38Z | mcp-web-search-subagent | top hedge fund new positions 13F 2026
+2026-08-16T13:30:46Z | mcp-web-search-subagent | fintech payment stocks stablecoin digital assets earnings growth 2026
+2026-08-16T13:30:49Z | mcp-web-search-subagent | PayPal Stripe deal beneficiaries Affirm Adyen Fiserv Global Payments consolidation stocks 2026
+2026-08-16T13:30:55Z | mcp-web-search-subagent | transmission substation capex beneficiary stocks 2026 Quanta Services Hubbell Siemens Energy Hitachi
+2026-08-16T13:31:09Z | mcp-web-search-subagent | Cigna Evernorth GLP-1 supply Novo Nordisk Eli Lilly PBM pharmacy benefit 2026
+2026-08-16T13:31:11Z | mcp-web-search-subagent | undervalued insurance stocks P&C life 2026 book value
+2026-08-16T13:31:15Z | mcp-web-search-subagent | stocks earnings beat guidance raise 2026 August
+2026-08-16T13:31:15Z | mcp-web-search-subagent | biggest earnings movers this week August 2026
+2026-08-16T13:31:17Z | mcp-web-search-subagent | liquid cooling rack power density AI stocks 2026 Vertiv Modine nVent Munters
+2026-08-16T13:31:19Z | mcp-web-search-subagent | airline logistics stocks earnings beat guidance raised 2026
+2026-08-16T13:31:32Z | mcp-web-search-subagent | Vistra data center customers nuclear fuel Cameco Centrus gas turbine GE Vernova 2026
+2026-08-16T13:31:37Z | mcp-web-search-subagent | undervalued automaker auto stocks cheap valuation 2026
+2026-08-16T13:31:38Z | mcp-web-search-subagent | insurance stocks premium growth cyber AI underwriting earnings growth 2026
+2026-08-16T13:31:39Z | mcp-web-search-subagent | Vertiv earnings AI backlog growth 2026 guidance raise orders
+2026-08-16T13:31:56Z | mcp-web-search-subagent | data center REIT FFO growth leasing 2026 Equinix Digital Realty
+2026-08-16T13:32:01Z | mcp-web-search-subagent | contract backlog billion dollars AI stocks
+2026-08-16T13:32:01Z | mcp-web-search-subagent | analyst estimate revision upgrade momentum stocks 2026
+2026-08-16T13:32:18Z | mcp-web-search-subagent | Vistra GE Vernova gas turbine order nuclear fuel uranium supply contract 2026
+2026-08-16T13:32:20Z | mcp-web-search-subagent | undervalued software stocks SaaS 2026 free cash flow
+2026-08-16T13:32:27Z | mcp-web-search-subagent | data center construction E&C backlog stocks 2026 Comfort Systems EMCOR Argan Sterling
+2026-08-16T13:32:49Z | mcp-web-search-subagent | software stocks AI agents cybersecurity ARR growth accelerating 2026
+2026-08-16T13:32:50Z | mcp-web-search-subagent | AI agent enterprise deployment ARR growth 2026 ServiceNow Salesforce Palantir
+2026-08-16T13:32:50Z | mcp-web-search-subagent | Arista Networks largest customers Meta Microsoft AI data center networking 800G 2026
+2026-08-16T13:32:54Z | mcp-web-search-subagent | EV autonomous robotaxi stocks growth catalyst 2026
+2026-08-16T13:33:10Z | mcp-web-search-subagent | undervalued household durables apparel luxury goods stocks 2026
+2026-08-16T13:33:12Z | mcp-web-search-subagent | agentic workflow software adoption metrics 2026 Palantir AIP ARR UiPath Pega earnings
+2026-08-16T13:33:12Z | mcp-web-search-subagent | TSMC largest customers Nvidia revenue share 2026 CoWoS booked
+2026-08-16T13:33:16Z | mcp-web-search-subagent | undervalued technology hardware storage stocks 2026
+2026-08-16T13:33:31Z | mcp-web-search-subagent | foundation model API token revenue growth 2026 OpenAI Anthropic Google Microsoft
+2026-08-16T13:33:38Z | mcp-web-search-subagent | AI server networking hardware stocks revenue growth 2026 Dell Super Micro Celestica
+2026-08-16T13:33:49Z | mcp-web-search-subagent | LLM training compute contract suppliers 2026 Oracle RPO OpenAI Stargate Google Cloud backlog
+2026-08-16T13:33:55Z | mcp-web-search-subagent | footwear apparel stocks earnings beat raised guidance 2026 On Holding Deckers
+2026-08-16T13:33:58Z | mcp-web-search-subagent | undervalued semiconductor design foundry memory equipment materials stocks 2026
+2026-08-16T13:34:02Z | mcp-web-search-subagent | humanoid robot production ramp 2026 stocks Tesla Figure suppliers Harmonic Drive Nabtesco
+2026-08-16T13:34:10Z | mcp-web-search-subagent | undervalued hotel restaurant cruise leisure consumer discretionary stocks 2026
+2026-08-16T13:34:14Z | mcp-web-search-subagent | semiconductor stocks revenue growth 50% AI data center 2026
+2026-08-16T13:34:25Z | mcp-web-search-subagent | robot actuator reducer sensor suppliers stock 2026 earnings Harmonic Drive Systems 6324 Sanhua 002050
+2026-08-16T13:34:42Z | mcp-web-search-subagent | HBM memory shortage beneficiary stocks 2026 DRAM price increase
+2026-08-16T13:34:48Z | mcp-web-search-subagent | robotaxi commercial fleet expansion 2026 Waymo Tesla Baidu Pony WeRide Uber
+2026-08-16T13:34:49Z | mcp-web-search-subagent | cruise line restaurant stocks earnings beat raised guidance 2026 Royal Caribbean
+2026-08-16T13:35:02Z | mcp-web-search-subagent | undervalued retail stocks turnaround cheap 2026
+2026-08-16T13:35:06Z | mcp-web-search-subagent | AV lidar compute supplier stocks 2026 Hesai RoboSense Luminar revenue growth
+2026-08-16T13:35:10Z | mcp-web-search-subagent | utility stocks data center power demand growth 2026
+2026-08-16T13:35:22Z | mcp-web-search-subagent | bitcoin miner AI pivot HPC hosting 2026 IREN Cipher TeraWulf Hut 8 contracts
+2026-08-16T13:35:40Z | mcp-web-search-subagent | crypto mining data center conversion capacity 2026 TeraWulf Fluidstack Microsoft Fermi
+2026-08-16T13:35:42Z | mcp-web-search-subagent | retail stocks earnings beat raised guidance same-store sales 2026
+2026-08-16T13:35:53Z | mcp-web-search-subagent | AI PC AI phone NPU upgrade cycle stocks 2026 Qualcomm MediaTek Arm revenue
+2026-08-16T13:35:58Z | mcp-web-search-subagent | undervalued telecom stocks dividend yield 2026
+2026-08-16T13:36:01Z | mcp-web-search-subagent | nuclear renewable capacity expansion IPP independent power producer stocks 2026
+2026-08-16T13:36:10Z | mcp-web-search-subagent | on-device AI qualcomm mediatek design win 2026 edge inference smartphone royalty Arm
+2026-08-16T13:36:12Z | mcp-web-search-subagent | telecom stocks earnings beat subscriber growth fiber fixed wireless 2026
+2026-08-16T13:36:20Z | mcp-web-search-subagent | undervalued REIT stocks 2026 dividend FFO
+2026-08-16T13:36:23Z | mcp-web-search-subagent | AI data labeling curation public companies 2026 Innodata Telus International TaskUs
+2026-08-16T13:36:26Z | mcp-web-search-subagent | undervalued media entertainment stocks streaming theme parks 2026
+2026-08-16T13:36:40Z | mcp-web-search-subagent | data center REIT AI demand leasing growth 2026 Equinix Digital Realty
+2026-08-16T13:37:06Z | mcp-web-search-subagent | undervalued conglomerate stocks 2026 GE Honeywell
+2026-08-16T13:37:09Z | mcp-web-search-subagent | media gaming stocks catalyst 2026 GTA6 streaming earnings growth Spotify Warner Bros
+2026-08-16T13:37:26Z | mcp-web-search-subagent | undervalued grocery consumer staples retail stocks 2026 dividend
+2026-08-16T13:37:38Z | mcp-web-search-subagent | conglomerate spinoff breakup earnings growth 2026 Sum of the Parts
+2026-08-16T13:37:42Z | mcp-web-search-subagent | Costco Walmart grocery warehouse club earnings beat raised guidance 2026
+2026-08-16T13:37:57Z | mcp-web-search-subagent | undervalued food beverage tobacco stocks 2026 dividend value
+2026-08-16T13:37:57Z | mcp-web-search-subagent | Honeywell Aerospace Technologies Solstice Advanced Materials ticker spin-off 2026
+2026-08-16T13:38:44Z | mcp-web-search-subagent | food beverage stocks earnings beat raised guidance 2026 energy drinks protein GLP-1
+2026-08-16T13:40:16Z | mcp-web-search | best AI hardware stocks data center power IPP semiconductor discount August 2026
+2026-08-16T13:43:41Z | mcp-web-search-subagent | largest semiconductor companies by market cap August 2026
+2026-08-16T13:43:59Z | mcp-web-search-subagent | best performing semiconductor stocks 2026 YTD gainers AI rally
+2026-08-16T13:43:59Z | mcp-web-search-subagent | AI data center power bottleneck stocks gas turbines nuclear IPP 2026
+2026-08-16T13:44:19Z | mcp-web-search-subagent | HBM memory stocks Micron SanDisk SK Hynix Samsung August 2026 outlook DRAM price
+2026-08-16T13:44:19Z | mcp-web-search-subagent | data center liquid cooling stocks Vertiv Modine nVent 2026 revenue growth
+2026-08-16T13:44:38Z | mcp-web-search-subagent | AI networking stocks Arista Credo Marvell Coherent optical 800G 1.6T August 2026 earnings
+2026-08-16T13:44:38Z | mcp-web-search-subagent | grid equipment transformer stocks Hubbell Eaton Powell Valmont backlog 2026
+2026-08-16T13:44:56Z | mcp-web-search-subagent | neocloud stocks CoreWeave Nebius IREN Cipher Mining August 2026 results guidance
+2026-08-16T13:44:57Z | mcp-web-search-subagent | nuclear uranium stocks Cameco Centrus Okland Oklo data center deals 2026
+2026-08-16T13:45:10Z | mcp-web-search-subagent | hyperscaler capex 2026 total AI infrastructure spending 1 trillion Microsoft Amazon Google Meta
+2026-08-16T13:45:19Z | mcp-web-search-subagent | semiconductor equipment stocks Applied Materials Lam KLA August 2026 earnings WFE outlook
+2026-08-16T13:45:25Z | mcp-web-search-subagent | EML laser shortage 2026 Lumentum Coherent lead time sold out 200G EML
+2026-08-16T13:45:40Z | mcp-web-search-subagent | InP substrate shortage AXT JX Nippon Sumitomo capacity expansion 2026 indium phosphide
+2026-08-16T13:45:41Z | mcp-web-search-subagent | server ODM stocks Dell Supermicro HPE Celestica AI server orders August 2026
+2026-08-16T13:45:41Z | mcp-web-search-subagent | Crusoe Lambda xAI Cerebras IPO valuation 2026 private AI infrastructure
+2026-08-16T13:46:11Z | mcp-web-search-subagent | HBM sold out 2027 Micron SK hynix Samsung DRAM shortage August 2026
+2026-08-16T13:46:31Z | mcp-web-search-subagent | TSMC CoWoS capacity 2027 sold out ABF substrate shortage Ibiden Unimicron 2026
+2026-08-16T13:47:16Z | mcp-web-search-subagent | transformer GSU lead time 2026 data center power shortage grid equipment 160 weeks
+2026-08-16T13:47:48Z | mcp-web-search-subagent | liquid cooling CDU shortage 2026 data center Vertiv capacity lead time cold plate
+2026-08-16T13:48:07Z | mcp-web-search-subagent | MOCVD epitaxy equipment InP order 2026 Aixtron Veeco capacity photonics
+2026-08-16T13:48:29Z | mcp-web-search-subagent | indium gallium germanium price 2026 China export control high purity supply AI optical
+2026-08-16T13:48:31Z | mcp-web-search-subagent | GE Vernova Q2 2026 earnings backlog gas turbine orders grid equipment
+2026-08-16T13:48:31Z | mcp-web-search-subagent | Constellation Energy Vistra Talen Q2 2026 earnings nuclear data center PPA
+2026-08-16T13:48:49Z | mcp-web-search-subagent | 1.6T optical transceiver demand 2026 price increase EML allocation Innolight Coherent Fabrinet
+2026-08-16T13:49:03Z | mcp-web-search-subagent | Micron MU stock forward PE HBM sold out 2027 fiscal Q4 guidance August 2026
+2026-08-16T13:49:03Z | mcp-web-search-subagent | AMD Q2 2026 earnings MI450 Instinct revenue guidance August 2026
+2026-08-16T13:49:06Z | mcp-web-search-subagent | AI supply chain shortage bottleneck news August 2026 allocation lead time
+2026-08-16T13:49:24Z | mcp-web-search-subagent | probe card test shortage 2026 FormFactor Technoprobe HBM test capacity sold out
+2026-08-16T13:49:25Z | mcp-web-search-subagent | Monolithic Power MPWR KLA KLAC Q2 2026 earnings AI revenue margins
+2026-08-16T13:49:25Z | mcp-web-search-subagent | Talen Energy TLN Vertiv VRT August 2026 earnings guidance backlog
+2026-08-16T13:49:45Z | mcp-web-search-subagent | Vertiv Q2 2026 earnings July 30 results backlog organic growth KLA fiscal Q4 record
+2026-08-16T13:49:45Z | mcp-web-search-subagent | Nvidia NVDA stock valuation forward PE August 2026 Rubin demand
+2026-08-16T13:50:20Z | mcp-web-search-subagent | KLA Corporation fiscal Q4 2026 earnings record revenue September quarter guidance
+2026-08-16T13:50:20Z | mcp-web-search-subagent | Crusoe Lambda Labs funding valuation IPO 2026 AI data center private
+2026-08-16T13:57:06Z | mcp-web-search-subagent | NVDA stock closing price August 14 2026 MU Micron CEG Constellation close
+2026-08-16T14:02:28Z | mcp-web-search | Berkshire Hathaway Q2 2026 13F filing new positions stocks bought sold
+2026-08-16T14:04:37Z | mcp-web-search-subagent | Constellation Energy CEG nuclear fleet capacity GW largest US 2026
+2026-08-16T14:04:37Z | mcp-web-search-subagent | Constellation Energy 2026 adjusted EPS guidance raised 11.50 12.50
+2026-08-16T14:04:44Z | mcp-web-search-subagent | Micron FQ4 2026 earnings date August HBM4 guidance
+2026-08-16T14:05:00Z | mcp-web-search-subagent | Micron HBM 2027 capacity sold out multi-year agreements fixed price
+2026-08-16T14:05:01Z | mcp-web-search-subagent | Alphabet Q2 2026 earnings revenue EPS cloud growth backlog capex
+2026-08-16T14:05:09Z | mcp-web-search-subagent | Constellation Energy Microsoft Crane Clean Energy Center 20-year PPA Meta nuclear data center deal 2026
+2026-08-16T14:05:09Z | mcp-web-search-subagent | PJM capacity auction 2027 2028 results price nuclear Constellation
+2026-08-16T14:05:14Z | mcp-web-search-subagent | DRAM spot price trend August 2026 DDR5 contract price rally memory supercycle
+2026-08-16T14:05:32Z | mcp-web-search-subagent | SK Hynix Samsung HBM4 qualification progress Micron market share 2026
+2026-08-16T14:05:48Z | mcp-web-search-subagent | Micron FY2027 consensus EPS estimate forward PE analyst price target August 2026
+2026-08-16T14:05:58Z | mcp-web-search-subagent | Constellation Energy balance sheet debt Calpine acquisition 2026 ROE free cash flow
+2026-08-16T14:05:58Z | mcp-web-search-subagent | nuclear fuel uranium supply enrichment US 2026 Constellation price HALEU
+2026-08-16T14:06:02Z | mcp-web-search-subagent | Micron capex fiscal 2026 2027 capital expenditure plan new fab Idaho New York expansion
+2026-08-16T14:06:20Z | mcp-web-search-subagent | Berkshire Hathaway Q2 2026 13F Alphabet GOOGL stake increased third largest holding
+2026-08-16T14:06:24Z | mcp-web-search-subagent | memory stocks decline 2028 supply glut oversupply concern Micron stock pullback despite strong fundamentals
+2026-08-16T14:06:39Z | mcp-web-search-subagent | Coherent COHR fiscal Q4 2026 earnings results August 2026 revenue EPS datacom
+2026-08-16T14:06:39Z | mcp-web-search-subagent | Sanjay Mehrotra Micron CEO track record buyback dividend capital allocation history
+2026-08-16T14:06:42Z | mcp-web-search-subagent | GOOGL forward PE valuation August 2026 vs Microsoft Meta price earnings ratio
+2026-08-16T14:06:54Z | mcp-web-search-subagent | CEG Q2 2026 results revenue net income nuclear PTC 50.88 data center PPAs 920 MW backlog
+2026-08-16T14:06:54Z | mcp-web-search-subagent | Joe Dominguez Constellation CEO track record Calpine integration capital allocation buyback
+2026-08-16T14:07:20Z | mcp-web-search-subagent | nuclear production tax credit 45U 2026 inflation adjusted value per MWh floor 50.88 Constellation
+2026-08-16T14:07:20Z | mcp-web-search-subagent | CEG Constellation shares outstanding market cap PE ratio August 2026
+2026-08-16T14:07:26Z | mcp-web-search-subagent | Coherent Q4 fiscal 2026 results revenue guidance Q1 FY2027 datacenter revenue growth
+2026-08-16T14:07:45Z | mcp-web-search-subagent | fetch invest101 MU research report / ainvest clock winding down
+2026-08-16T14:07:50Z | mcp-web-search-subagent | Constellation Energy long-term EPS growth target 2026 2029 13% base earnings growth data center contracts signed total GW
+2026-08-16T14:07:50Z | mcp-web-search-subagent | Constellation Energy ROE return on equity 2025 2026 gross margin nuclear Clinton PPA
+2026-08-16T14:08:04Z | mcp-web-search-subagent | Micron third quarter fiscal 2026 results June 24 revenue EPS guidance fiscal Q4
+2026-08-16T14:08:05Z | mcp-web-search-subagent | Alphabet June 2026 capital raise equity preferred 9.6 billion senior notes debt first time
+2026-08-16T14:08:29Z | mcp-web-search-subagent | Google search market share 2026 ChatGPT traffic AI Overviews monetization advertising competition
+2026-08-16T14:08:33Z | mcp-web-search-subagent | Constellation nuclear capacity 22 21 gigawatts fleet reactors 2026 Crane restart 2027 online
+2026-08-16T14:08:33Z | mcp-web-search-subagent | nuclear data center PPA total GW signed 2026 hyperscalers Microsoft Meta Google Amazon
+2026-08-16T14:08:44Z | mcp-web-search-subagent | NVIDIA  billion investment optical transceiver companies Coherent Lumentum Fabrinet 2026
+2026-08-16T14:09:13Z | mcp-web-search-subagent | COHR stock market cap shares outstanding forward PE analyst price target August 2026
+2026-08-16T14:09:33Z | mcp-web-search-subagent | CNBC Micron FQ3 2026 results FQ4 guidance strategic agreements
+2026-08-16T14:09:42Z | mcp-web-search-subagent | Constellation operates megawatts nuclear capacity 25% of US nuclear output reactors
+2026-08-16T14:09:43Z | mcp-web-search-subagent | Alphabet Q1 2026 earnings adjusted EPS net income free cash flow Q3 2025 Q4 2025 EPS
+2026-08-16T14:09:58Z | mcp-web-search-subagent | Micron strategic customer agreements 100 billion committed revenue multi-year HBM locked pricing
+2026-08-16T14:10:23Z | mcp-web-search-subagent | Coherent fiscal year 2026 full year non-GAAP EPS revenue 7.12 billion annual results
+2026-08-16T14:10:28Z | mcp-web-search-subagent | MU Micron stock 52-week high pullback August 2026 price book value ratio historical average
+2026-08-16T14:10:58Z | mcp-web-search-subagent | Micron stock all-time high July 2026 correction drawdown memory sector selloff
+2026-08-16T14:11:42Z | mcp-web-search-subagent | fetch wealthmodels Micron selloff analysis
+2026-08-16T14:12:19Z | mcp-web-search-subagent | HBM4 2026 SK Hynix Nvidia qualification Samsung lag Micron second source market share
+2026-08-16T14:12:59Z | mcp-web-search-subagent | Lumentum LITE fiscal Q4 2026 earnings August 2026 revenue EPS cloud datacom growth
+2026-08-16T14:14:13Z | mcp-web-search-subagent | Coherent NVIDIA 2 billion investment common stock shares aerospace defense divestiture Advent proceeds
+2026-08-16T14:14:56Z | mcp-web-search-subagent | Coherent COHR fiscal 2027 EPS estimate consensus analysts forecast
+2026-08-16T14:16:37Z | mcp-web-search-subagent | EML laser market share Coherent Lumentum Mitsubishi Sumitomo duopoly 2026 shortage 200G EML
+2026-08-16T14:22:45Z | mcp-web-search-subagent | Coherent 10-Q NVIDIA equity investment stake shares issued fiscal 2026 dilution 2 billion structure
+2026-08-16T14:28:12Z | mcp-web-search-subagent | Arista Networks Q2 2026 earnings results revenue AI networking
+2026-08-16T14:28:26Z | mcp-web-search-subagent | Amkor Technology AMKR Q2 2026 earnings results revenue advanced packaging
+2026-08-16T14:28:36Z | mcp-web-search-subagent | CoreWeave Q2 2026 earnings results revenue August 2026
+2026-08-16T14:28:36Z | mcp-web-search-subagent | CoreWeave Q2 2026 gross margin operating loss guidance 2026 revenue
+2026-08-16T14:28:37Z | mcp-web-search-subagent | Nebius NBIS stock price close August 14 2026
+2026-08-16T14:28:51Z | mcp-web-search-subagent | Amkor NVIDIA 1.5 billion multi-year agreement advanced packaging July 2026
+2026-08-16T14:28:51Z | mcp-web-search-subagent | Arista Networks 2026 AI networking revenue target $3.5 billion back-end front-end campus
+2026-08-16T14:28:56Z | mcp-web-search-subagent | Nebius NBIS Q2 2026 earnings revenue 582 million ARR guidance raised August 2026
+2026-08-16T14:29:01Z | mcp-web-search-subagent | CoreWeave backlog $104 billion Meta OpenAI Anthropic contract details 2026
+2026-08-16T14:29:01Z | mcp-web-search-subagent | CoreWeave Stargate OpenAI $22.4 billion contract Nvidia stake
+2026-08-16T14:29:08Z | mcp-web-search-subagent | Arista Networks 10-K Microsoft Meta percent of revenue 2025 customer concentration
+2026-08-16T14:29:10Z | mcp-web-search-subagent | Amkor Arizona Peoria advanced packaging campus TSMC CoWoS production ramp 2026 timeline
+2026-08-16T14:29:14Z | mcp-web-search-subagent | Nebius Microsoft Meta contract backlog billion 2026 total contracted revenue pipeline
+2026-08-16T14:29:30Z | mcp-web-search-subagent | CoreWeave Q2 2026 gross margin percentage 59 60 70 cost of revenue
+2026-08-16T14:29:30Z | mcp-web-search-subagent | CoreWeave total debt $35 billion net debt interest expense 2026 liquidity cash
+2026-08-16T14:29:37Z | mcp-web-search-subagent | Amkor Technology CEO Giel Rutten Kevin Engel management capital allocation 2026
+2026-08-16T14:29:39Z | mcp-web-search-subagent | Nebius share count dilution equity raise 2026 convertible notes treasury stock shares outstanding
+2026-08-16T14:29:40Z | mcp-web-search-subagent | Arista Q2 2026 non-GAAP EPS gross margin cash buyback results August 4 2026
+2026-08-16T14:29:55Z | mcp-web-search-subagent | Nebius 2026 capex 20-25 billion guidance ARR 7-9 billion customer prepayments 9 billion financing
+2026-08-16T14:29:55Z | mcp-web-search-subagent | CoreWeave insider selling executives stock sales 2026 Michael Intrator shares sold
+2026-08-16T14:29:55Z | mcp-web-search-subagent | CoreWeave Origin House related party CEO Michael Intrator hedge fund Atlantic Fortress
+2026-08-16T14:30:00Z | mcp-web-search-subagent | AMKR stock forward PE 2026 EPS estimate consensus market cap valuation August 2026
+2026-08-16T14:30:18Z | mcp-web-search-subagent | CoreWeave CRWV stock price PS ratio valuation vs Nebius NBIS comparison August 2026
+2026-08-16T14:30:22Z | mcp-web-search-subagent | Amkor Q3 2026 guidance capex full year outlook gross margin operating margin
+2026-08-16T14:30:23Z | mcp-web-search-subagent | CoreWeave Stargate official GPU compute provider Oracle OpenAI data center Abilene
+2026-08-16T14:30:23Z | mcp-web-search-subagent | CoreWeave balance sheet June 2026 cash current assets current liabilities ratio share count diluted
+2026-08-16T14:30:24Z | mcp-web-search-subagent | Arista vs NVIDIA Spectrum-X competition AI back-end ethernet 2026 threat
+2026-08-16T14:30:41Z | mcp-web-search-subagent | Amkor Q2 2026 earnings call computing AI revenue percentage advanced products mix data center
+2026-08-16T14:30:46Z | mcp-web-search-subagent | Jayshree Ullal succession CEO Arista 2026 Bechtolsheim insider ownership shares
+2026-08-16T14:30:50Z | mcp-web-search-subagent | Nebius NVIDIA stake 9.3 percent Arkady Volozh CEO management Q2 2026 shareholder letter
+2026-08-16T14:30:52Z | mcp-web-search-subagent | CoreWeave Q2 2026 cash position liquidity current ratio 0.3 restricted cash customer prepayments
+2026-08-16T14:30:52Z | mcp-web-search-subagent | CoreWeave market cap shares outstanding 2026 dilution stock offering new share issuance
+2026-08-16T14:31:08Z | mcp-web-search-subagent | ANET analyst consensus forward PE EPS estimate 2026 2027 Arista valuation
+2026-08-16T14:31:09Z | mcp-web-search-subagent | Amkor Technology full year 2025 results revenue net income EPS ROE shares outstanding market cap
+2026-08-16T14:31:35Z | mcp-web-search-subagent | Nebius Q2 2026 balance sheet cash 8 billion debt deferred revenue shares outstanding June 30 2026
+2026-08-16T14:31:52Z | mcp-web-search-subagent | Amkor Q3 2025 net sales 1.99 billion third quarter 2025 results
+2026-08-16T14:31:56Z | mcp-web-search-subagent | Arista Networks full year 2025 results revenue net income record fourth quarter
+2026-08-16T14:32:10Z | mcp-web-search-subagent | OSAT market share ranking 2025 ASE Amkor second largest packaging test revenue
+2026-08-16T14:32:37Z | mcp-web-search-subagent | ASE Technology KYEC Unimicron valuation PE ratio August 2026 advanced packaging peers AI
+2026-08-16T14:32:40Z | mcp-web-search-subagent | CoreWeave Anthropic deal size billion April 2026 Nvidia ownership stake percent
+2026-08-16T14:32:40Z | mcp-web-search-subagent | CoreWeave vs Nebius Oracle price to sales ratio EV revenue valuation comparison August 2026
+2026-08-16T14:32:40Z | mcp-web-search-subagent | Arista Q2 2026 AI fabric customers purchase commitments detail (truevalueresearch)
+2026-08-16T14:32:57Z | mcp-web-search-subagent | King Yuan Electronics KYEC 2449 Unimicron 3037 price to sales 2026 market cap AI packaging test
+2026-08-16T14:33:26Z | mcp-web-search-subagent | AMKR Amkor stockanalysis statistics market cap PE ratio PB dividend shares outstanding 2026
+2026-08-16T14:33:41Z | mcp-web-search-subagent | Ethernet vs InfiniBand AI networking market share 2026 Meta AI cluster Arista orders
+2026-08-16T14:33:49Z | mcp-web-search-subagent | Amkor Q2 2026 balance sheet total debt cash stockholders equity dividend buyback June 30 2026
+2026-08-16T14:34:25Z | mcp-web-search-subagent | Amkor first quarter 2026 results net sales EPS April 2026
+2026-08-16T14:34:46Z | mcp-web-search-subagent | ASE Technology ASX market cap billion August 2026 revenue Unimicron market cap price sales
+2026-08-16T14:35:07Z | mcp-web-search-subagent | Amkor 2024 full year results net sales 6.32 billion net income 2023 2022 history
+2026-08-16T14:35:22Z | mcp-web-search-subagent | Jayshree Ullal age 65 Arista CEO retirement succession plan Todd Nightingale 2026
+2026-08-16T14:35:43Z | mcp-web-search-subagent | advanced packaging OSAT cycle 2027 outlook CoWoS capacity oversupply risk AI demand sustainability
+2026-08-16T14:41:21Z | mcp-web-search-subagent | Progressive PGR Q2 2026 earnings results combined ratio EPS net premiums written
+2026-08-16T14:41:35Z | mcp-web-search-subagent | Talen Energy Q2 2026 earnings AWS data center ramp Susquehanna nuclear
+2026-08-16T14:41:35Z | mcp-web-search-subagent | Talen Energy TLN 2026 EBITDA guidance 2.0 billion 2.2 billion outlook
+2026-08-16T14:41:41Z | mcp-web-search-subagent | Progressive July 2026 monthly results policies in force growth combined ratio
+2026-08-16T14:42:06Z | mcp-web-search-subagent | Talen Energy Keystone sale July 2026 divestiture
+2026-08-16T14:42:06Z | mcp-web-search-subagent | Talen Energy net leverage 4.3x 4.5x Cornerstone acquisition deleveraging target
+2026-08-16T14:42:10Z | mcp-web-search-subagent | auto insurance rate cuts 2026 industry pricing cycle ad spend competition GEICO State Farm
+2026-08-16T14:42:35Z | mcp-web-search-subagent | Talen Energy hedge position 2026 85% 2027 70% 2028 30% hedged generation
+2026-08-16T14:42:35Z | mcp-web-search-subagent | PJM capacity auction 2028/2029 clearing price $325 per megawatt-day results
+2026-08-16T14:42:35Z | mcp-web-search-subagent | PGR Progressive stock valuation forward PE price earnings 2026 analyst price target
+2026-08-16T14:43:01Z | mcp-web-search-subagent | Progressive 2025 full year results net income EPS ROE combined ratio 88
+2026-08-16T14:43:03Z | mcp-web-search-subagent | Talen Energy AWS PPA ramp 2026 gigawatts progress Susquehanna 1.92 GW expansion
+2026-08-16T14:43:03Z | mcp-web-search-subagent | Talen Energy 2027 2028 outlook free cash flow per share guidance raised August 2026
+2026-08-16T14:43:27Z | mcp-web-search-subagent | Progressive Tricia Griffith CEO CFO succession 2026 capital allocation buyback special dividend
+2026-08-16T14:43:37Z | mcp-web-search-subagent | Vistra Constellation Talen EV/EBITDA valuation comparison 2026 IPP stocks data center power
+2026-08-16T14:43:49Z | mcp-web-search-subagent | Progressive ROE return on equity 2026 TTM market share personal auto GEICO State Farm Allstate
+2026-08-16T14:44:07Z | mcp-web-search-subagent | Tesla insurance expansion 2026 threat traditional auto insurers telematics competition
+2026-08-16T14:44:34Z | mcp-web-search-subagent | Progressive PGR book value per share shareholders equity Q2 2026 EPS estimate 2026 2027 consensus
+2026-08-16T14:45:07Z | mcp-web-search-subagent | Talen Energy Keystone Conemaugh coal plant retirement sale 2026 LS Power
+2026-08-16T14:45:08Z | mcp-web-search-subagent | Mac McFarland Talen Energy CEO track record capital allocation buyback Chapter 11 emergence
+2026-08-16T14:45:08Z | mcp-web-search-subagent | Progressive PGR full year 2026 EPS estimate 2027 forecast catastrophe weather losses homeowners
+2026-08-16T14:46:13Z | mcp-web-search-subagent | Talen Energy Q2 2026 earnings call AWS gigawatt transcript (no results)
+2026-08-16T14:46:14Z | mcp-web-search-subagent | Talen Energy earnings call AWS ramp nuclear energy data center campus update August 2026
+2026-08-16T14:53:25Z | mcp-web-search-subagent | US nuclear 94 reactors hyperscaler nuclear PPA 2026
+2026-08-16T14:53:25Z | mcp-web-search-subagent | PJM capacity auction 2028/2029 25 MW-day price cap
+2026-08-16T14:53:56Z | mcp-web-search-subagent | TMI Crane restart Palisades progress 2026
+2026-08-16T14:53:56Z | mcp-web-search-subagent | Oklo X-energy SMR timeline 2030
+2026-08-16T14:54:12Z | mcp-web-search-subagent | Constellation Energy nuclear fleet capacity GW reactors capacity factor 2026
+2026-08-16T14:54:12Z | mcp-web-search-subagent | Constellation Energy Calpine acquisition completed revenue segments gas fleet 2026
+2026-08-16T14:54:13Z | mcp-web-search-subagent | new gas plants 2028-2030 capacity additions turbine backlog
+2026-08-16T14:54:28Z | mcp-web-search-subagent | CEG vs VST TLN NRG D nuclear PPA comparison
+2026-08-16T14:54:29Z | mcp-web-search-subagent | Microsoft Three Mile Island Crane Clean Energy Center 20-year PPA price premium per MWh
+2026-08-16T14:54:29Z | mcp-web-search-subagent | Meta Clinton nuclear PPA Constellation 20-year deal price premium data center
+2026-08-16T14:54:53Z | mcp-web-search-subagent | Constellation Energy Q2 2026 earnings adjusted EPS revenue net income results August
+2026-08-16T14:54:53Z | mcp-web-search-subagent | CEG Constellation 2026 guidance adjusted EPS $11.50 to $12.50 free cash flow net debt
+2026-08-16T14:54:58Z | mcp-web-search-subagent | CEG Calpine Dominguez Meta Clinton PPA
+2026-08-16T14:54:58Z | mcp-web-search-subagent | CEG Q2 2026 earnings PTC guidance buyback
+2026-08-16T14:55:13Z | mcp-web-search-subagent | FERC co-location PJM large load rules 2026
+2026-08-16T14:55:26Z | mcp-web-search-subagent | CEG Constellation EV/EBITDA valuation Vistra Talen NRG comparison 2026
+2026-08-16T14:55:26Z | mcp-web-search-subagent | Constellation Energy net debt leverage ratio shares outstanding balance sheet 2026
+2026-08-16T14:55:35Z | mcp-web-search-subagent | AI capex 2027-2028 slowdown hyperscaler spending
+2026-08-16T14:55:53Z | mcp-web-search-subagent | CEG stock analyst price target valuation Aug 2026
+2026-08-16T14:56:19Z | mcp-web-search-subagent | CEG PTC 45U 2032 ZEC state subsidy risk
+2026-08-16T14:56:19Z | mcp-web-search-subagent | CEG Calpine gas exposure outage EFOF 2026
+2026-08-16T14:56:39Z | mcp-web-search-subagent | NRC license renewal 80 years nuclear plant second subsequent license renewal 2026 Constellation
+2026-08-16T14:56:54Z | mcp-web-search-subagent | CEG Q2 2026 press release primary source
+2026-08-16T14:57:16Z | mcp-web-search-subagent | Meta CEG Clinton 1121MW PPA cross-verify
+2026-08-16T14:57:26Z | mcp-web-search-subagent | PJM capacity auction 2027/2028 clearing price record $325 data center demand
+2026-08-16T14:57:26Z | mcp-web-search-subagent | CEG Constellation analyst price target consensus August 2026 buy rating
+2026-08-16T14:58:12Z | mcp-web-search-subagent | Microsoft Three Mile Island PPA price 110 115 per MWh Bloomberg premium nuclear
+2026-08-16T14:58:12Z | mcp-web-search-subagent | Constellation Energy 2025 annual operating cash flow capital expenditures depreciation free cash flow
+2026-08-16T14:58:20Z | mcp-web-search-subagent | VST nuclear 6.4GW CEG 19GW peer positioning
+2026-08-16T14:58:47Z | mcp-web-search-subagent | Three Mile Island Microsoft deal price per megawatt hour estimated premium wholesale

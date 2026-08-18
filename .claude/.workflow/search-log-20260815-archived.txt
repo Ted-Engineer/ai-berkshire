@@ -1,0 +1,286 @@
+UTC时间 | 工具名 | 搜索词
+2026-08-15T10:03:13Z | builtin-WebSearch | biggest stock movers Friday August 14 2026 S&P 500
+2026-08-15T10:03:13Z | builtin-WebSearch | stocks surge earnings beat guidance raised this week August 2026
+2026-08-15T10:50:56Z | WebSearch-subagent | undervalued food beverage tobacco alcohol stocks 2026
+2026-08-15T10:50:56Z | WebSearch-subagent | undervalued energy oil gas pipeline midstream stocks 2026
+2026-08-15T10:51:04Z | WebSearch-subagent | undervalued consumer electronics household appliance luxury apparel stocks 2026
+2026-08-15T10:51:05Z | WebSearch-subagent | undervalued insurance P&C life reinsurance broker stocks 2026
+2026-08-15T10:51:19Z | WebSearch-subagent | natural gas pipeline LNG capacity expansion stocks 2026
+2026-08-15T10:51:23Z | WebSearch-subagent | food beverage dividend aristocrats pricing power 2026
+2026-08-15T10:51:38Z | WebSearch-subagent | specialty niche insurer high ROE 2026 combined ratio improvement
+2026-08-15T10:51:46Z | WebSearch-subagent | undervalued household personal care beauty products stocks 2026
+2026-08-15T10:51:49Z | WebSearch-subagent | luxury brand pricing power revenue growth 2026 stocks
+2026-08-15T10:51:50Z | WebSearch-subagent | undervalued chemical metals mining specialty materials stocks 2026
+2026-08-15T10:52:02Z | WebSearch-subagent | undervalued software SaaS enterprise cloud cybersecurity AI software stocks 2026
+2026-08-15T10:52:15Z | WebSearch-subagent | consumer staples quality moat margin stability 2026 beauty emerging market growth
+2026-08-15T10:52:18Z | WebSearch-subagent | lithium uranium copper miners production growth 2026
+2026-08-15T10:52:25Z | WebSearch-subagent | undervalued restaurant hotel casino cruise travel stocks 2026
+2026-08-15T10:52:38Z | WebSearch-subagent | restaurant same store sales growth stocks 2026
+2026-08-15T10:52:41Z | WebSearch-subagent | SaaS net revenue retention 120% 2026 AI agent software ARR triple digit growth
+2026-08-15T10:52:41Z | WebSearch-subagent | undervalued industrial machinery defense aerospace manufacturing stocks 2026
+2026-08-15T10:52:43Z | WebSearch-subagent | undervalued medical device hospital health IT services stocks 2026
+2026-08-15T10:53:01Z | WebSearch-subagent | undervalued tech hardware server storage networking equipment stocks 2026
+2026-08-15T10:53:11Z | WebSearch-subagent | defense stocks record backlog order growth 2026
+2026-08-15T10:53:11Z | WebSearch-subagent | medical device new product cycle FDA approvals 2026 hospital volume growth
+2026-08-15T10:53:27Z | WebSearch-subagent | undervalued ecommerce grocery discount retail department store stocks 2026
+2026-08-15T10:53:38Z | WebSearch-subagent | server storage networking AI demand revenue surge 2026 hardware margin expansion
+2026-08-15T10:53:42Z | WebSearch-subagent | electrical equipment grid capex beneficiary stocks 2026
+2026-08-15T10:53:42Z | WebSearch-subagent | undervalued pharma biotech drug manufacturing life science tools stocks 2026
+2026-08-15T10:53:47Z | WebSearch-subagent | off-price discount retail traffic growth TJX Ross Burlington 2026
+2026-08-15T10:54:06Z | WebSearch-subagent | undervalued telecom wireless tower stocks 2026
+2026-08-15T10:54:07Z | WebSearch-subagent | undervalued semiconductor design foundry memory equipment materials stocks 2026
+2026-08-15T10:54:10Z | WebSearch-subagent | undervalued business services waste environmental printing stocks 2026
+2026-08-15T10:54:24Z | WebSearch-subagent | biotech pipeline catalysts FDA approvals 2026 life science tools CRO backlog growth stocks
+2026-08-15T10:54:35Z | WebSearch-subagent | staffing payroll stocks hiring recovery 2026
+2026-08-15T10:54:37Z | WebSearch-subagent | semiconductor revenue growth 50% AI 2026 HBM memory shortage beneficiary stocks
+2026-08-15T10:54:42Z | WebSearch-subagent | telecom stocks free cash flow dividend growth 5G monetization 2026
+2026-08-15T10:54:52Z | WebSearch-subagent | undervalued bank regional bank money center bank stocks 2026
+2026-08-15T10:54:58Z | WebSearch-subagent | undervalued utility electric power gas water nuclear renewable stocks 2026
+2026-08-15T10:55:00Z | WebSearch-subagent | business services stocks high ROIC insider buying 2026
+2026-08-15T10:55:01Z | WebSearch-subagent | undervalued streaming media gaming advertising publishing stocks 2026
+2026-08-15T10:55:18Z | WebSearch-subagent | bank stocks NIM expansion earnings growth 2026 regional bank merger acquisition targets
+2026-08-15T10:55:26Z | WebSearch-subagent | utility data center power demand growth 2026 nuclear capacity expansion IPP stocks
+2026-08-15T10:55:28Z | WebSearch-subagent | undervalued airline railroad trucking logistics shipping stocks 2026
+2026-08-15T10:55:38Z | WebSearch-subagent | streaming gaming stocks subscriber growth profitability 2026 Netflix Warner Disney EA
+2026-08-15T10:55:50Z | WebSearch-subagent | undervalued fintech payment processing asset manager exchange data stocks 2026
+2026-08-15T10:55:52Z | WebSearch-subagent | shipping railroad stocks earnings recovery momentum 2026
+2026-08-15T10:55:56Z | WebSearch-subagent | best independent power producer stocks Constellation NRG Vistra Talen 2026 nuclear data center deals
+2026-08-15T10:56:00Z | WebSearch-subagent | undervalued grocery food retail drug store distribution stocks 2026
+2026-08-15T10:56:13Z | WebSearch-subagent | undervalued auto EV auto parts dealer stocks 2026
+2026-08-15T10:56:24Z | WebSearch-subagent | fintech transaction volume TPV growth 2026 exchange market data stocks moat pricing power
+2026-08-15T10:56:27Z | WebSearch-subagent | undervalued REIT industrial office residential retail data center healthcare REIT stocks 2026
+2026-08-15T10:56:42Z | WebSearch-subagent | EV stocks deliveries growth 2026
+2026-08-15T10:56:44Z | WebSearch-subagent | grocery drugstore stocks defensive recession stable earnings 2026
+2026-08-15T10:56:48Z | WebSearch-subagent | best financial exchange data stocks 2026 Nasdaq Verisk S&P Global pricing power moat undervalued
+2026-08-15T10:56:50Z | WebSearch-subagent | data center REIT FFO growth 2026 REIT dividend yield discount to NAV best picks
+2026-08-15T10:57:26Z | WebSearch-subagent | undervalued REITs 2026 cheap REITs trading below NAV healthcare industrial net lease picks ticker
+2026-08-15T10:59:26Z | WebSearch-subagent | robotaxi commercial fleet expansion 2026 stocks Waymo Tesla Zoox
+2026-08-15T10:59:27Z | WebSearch-subagent | WFE wafer fab equipment spending record 2026 semiconductor equipment stocks
+2026-08-15T10:59:43Z | WebSearch-subagent | AI cloud GPU rental neocloud providers 2026
+2026-08-15T10:59:57Z | WebSearch-subagent | autonomous vehicle lidar supplier stocks Luminar Innoviz Aeva Hesai Mobileye 2026
+2026-08-15T11:00:03Z | WebSearch-subagent | coreweave nebius earnings revenue backlog 2026
+2026-08-15T11:00:05Z | WebSearch-subagent | data center REIT FFO growth leasing 2026 Equinix Digital Realty
+2026-08-15T11:00:21Z | WebSearch-subagent | ASML AMAT KLAC backlog book-to-bill 2026 bookings growth
+2026-08-15T11:00:31Z | WebSearch-subagent | custom AI ASIC accelerator design win stocks 2026
+2026-08-15T11:00:32Z | WebSearch-subagent | bitcoin miner AI pivot HPC hosting 2026 stocks Hut 8 Core Scientific TeraWulf Iren
+2026-08-15T11:00:37Z | WebSearch-subagent | data center construction engineering E&C stocks backlog Quanta Comfort Systems Sterling Primoris 2026
+2026-08-15T11:01:02Z | WebSearch-subagent | Bit Digital Cipher Mining IREN Applied Digital AI contract revenue HPC data center conversion 2026
+2026-08-15T11:01:04Z | WebSearch-subagent | semiconductor materials suppliers Entegris 2026 advanced packaging materials demand
+2026-08-15T11:01:06Z | WebSearch-subagent | AI agent enterprise deployment ARR growth 2026 stocks Salesforce Agentforce ServiceNow
+2026-08-15T11:01:08Z | WebSearch-subagent | broadcom marvell XPU customer pipeline alchip GUC design win
+2026-08-15T11:01:26Z | WebSearch-subagent | Salesforce ServiceNow Palantir UiPath AI agent revenue disclosure earnings 2026
+2026-08-15T11:01:27Z | WebSearch-subagent | 800G 1.6T optical module demand growth 2026
+2026-08-15T11:01:34Z | WebSearch-subagent | AI PC AI phone NPU upgrade cycle stocks 2026 Qualcomm MediaTek Arm
+2026-08-15T11:01:38Z | WebSearch-subagent | data center power gigawatt pipeline independent power producers stocks 2026 VST TLN CEG NRG
+2026-08-15T11:01:56Z | WebSearch-subagent | foundation model API token revenue growth 2026 OpenAI Anthropic public stocks proxies
+2026-08-15T11:01:59Z | WebSearch-subagent | AI cluster networking switch CPO stocks Coherent Lumentum Credo
+2026-08-15T11:02:11Z | WebSearch-subagent | edge AI inference chip suppliers on-device AI winners Synaptics Ambarella Onto Innovation memory 2026
+2026-08-15T11:02:22Z | WebSearch-subagent | HBM4 capacity sold out memory stocks 2026
+2026-08-15T11:02:23Z | WebSearch-subagent | nuclear SMR fuel uranium enrichment demand 2026 Centrus Cameco Oklo NuScale stocks
+2026-08-15T11:02:34Z | WebSearch-subagent | AI data labeling curation public companies 2026 stocks Scale AI competitors TaskUs Innodata
+2026-08-15T11:02:40Z | WebSearch-subagent | LLM training compute contract suppliers stocks Vertiv Arista Networks 2026 OpenAI gigawatt deals
+2026-08-15T11:02:47Z | WebSearch-subagent | DRAM NAND supply tightness beneficiary Western Digital SanDisk Seagate 2026
+2026-08-15T11:02:48Z | WebSearch-subagent | power purchase agreement AI hyperscaler signed 2026 nuclear gas data center
+2026-08-15T11:03:04Z | WebSearch-subagent | advanced packaging CoWoS capacity expansion 2026
+2026-08-15T11:03:07Z | WebSearch-subagent | synthetic data AI training data suppliers stocks Snowflake Informatica Datagen gaming data licensing 2026
+2026-08-15T11:03:22Z | WebSearch-subagent | transformer lead time shortage grid equipment stocks 2026 GE Vernova Hitachi Eaton Powell
+2026-08-15T11:03:38Z | WebSearch-subagent | OSAT packaging substrate ABF shortage stocks Amkor ASE BE Semiconductor
+2026-08-15T11:03:41Z | WebSearch-subagent | OpenAI Anthropic valuation revenue multiple 2026 public market exposure plays stocks
+2026-08-15T11:03:52Z | WebSearch-subagent | transmission substation capex beneficiary stocks 2026 Quanta ABB switchgear demand
+2026-08-15T11:04:12Z | WebSearch-subagent | neocloud GPU cloud stocks 2026 Applied Digital Cipher Mining TeraWulf CoreWeave AI compute contracts
+2026-08-15T11:04:25Z | WebSearch-subagent | liquid cooling rack power density AI data center stocks 2026 Vertiv Boyd CoolIT Motivair
+2026-08-15T11:04:53Z | WebSearch-subagent | CDU cold plate immersion cooling suppliers stocks Modine Munters AAON data center 2026
+2026-08-15T11:05:14Z | WebSearch-subagent | humanoid robot production ramp 2026 stocks Tesla Optimus Figure commercialization suppliers listed
+2026-08-15T11:06:00Z | WebSearch-subagent | humanoid robot supply chain stocks actuators reducers sensors US listed TE Connectivity Amphenol Harmonic Drive 2026
+2026-08-15T11:08:21Z | WebSearch-subagent | stocks earnings beat guidance raise 2026 August
+2026-08-15T11:08:22Z | WebSearch-subagent | aging population healthcare demand stocks 2026
+2026-08-15T11:08:44Z | WebSearch-subagent | biggest earnings movers this week August 2026
+2026-08-15T11:09:01Z | WebSearch-subagent | defense stocks record backlog NATO rearmament 2026
+2026-08-15T11:09:07Z | WebSearch-subagent | sports betting iGaming legalization expansion 2026
+2026-08-15T11:09:08Z | WebSearch-subagent | contract backlog billion dollars AI stocks 2026
+2026-08-15T11:09:30Z | WebSearch-subagent | analyst estimate revision upgrade momentum stocks 2026
+2026-08-15T11:09:52Z | WebSearch-subagent | Meta META suppliers vendors AI data center partners 2026
+2026-08-15T11:10:08Z | WebSearch-subagent | grid modernization capex beneficiary stocks 2026
+2026-08-15T11:10:20Z | WebSearch-subagent | Alibaba BABA cloud suppliers partners ecosystem 2026
+2026-08-15T11:10:45Z | WebSearch-subagent | best sports betting iGaming stocks 2026 DraftKings Flutter Rush Street
+2026-08-15T11:10:52Z | WebSearch-subagent | Microsoft MSFT suppliers vendors AI infrastructure partners 2026
+2026-08-15T11:11:06Z | WebSearch-subagent | pet economy spending growth stocks 2026
+2026-08-15T11:11:16Z | WebSearch-subagent | Adobe ADBE AI partners Firefly ecosystem suppliers 2026
+2026-08-15T11:11:38Z | WebSearch-subagent | Broadcom AVGO customers partners ASIC ecosystem 2026
+2026-08-15T11:11:39Z | WebSearch-subagent | reshoring US manufacturing factory automation stocks 2026
+2026-08-15T11:11:40Z | WebSearch-subagent | machine vision robotics stocks Cognex Zebra automation pure plays 2026
+2026-08-15T11:12:02Z | WebSearch-subagent | Berkshire Hathaway subsidiaries suppliers energy utilities 2026
+2026-08-15T11:12:03Z | WebSearch-subagent | Chewy Freshpet Trupanion pet stocks 2026 outlook
+2026-08-15T11:12:15Z | WebSearch-subagent | luxury brand pricing power heritage moat 2026
+2026-08-15T11:12:19Z | WebSearch-subagent | Intuit INTU partners AI agents integration 2026
+2026-08-15T11:12:32Z | WebSearch-subagent | rate cut beneficiaries stocks 2026 duration assets
+2026-08-15T11:12:32Z | WebSearch-subagent | homebuilder stocks Lennar D.R. Horton Toll Brothers rate cuts 2026
+2026-08-15T11:12:47Z | WebSearch-subagent | TSMC TSM equipment suppliers materials partners 2026
+2026-08-15T11:12:49Z | WebSearch-subagent | US listed luxury stocks 2026 Ralph Lauren Capri Movado Signet
+2026-08-15T11:13:08Z | WebSearch-subagent | PayPal PYPL partners merchants fintech ecosystem 2026
+2026-08-15T11:13:08Z | WebSearch-subagent | insurance hard market pricing cycle 2026
+2026-08-15T11:13:26Z | WebSearch-subagent | Cigna CI Express Scripts partners pharmacy clients 2026
+2026-08-15T11:13:40Z | WebSearch-subagent | GLP-1 supply chain contract manufacturing 2026
+2026-08-15T11:13:40Z | WebSearch-subagent | GLP-1 CDMO stocks Catalent Bachem West Pharmaceutical viscosity suppliers 2026
+2026-08-15T11:13:53Z | WebSearch-subagent | Vistra VST data center customers power agreements 2026
+2026-08-15T11:14:05Z | WebSearch-subagent | water infrastructure replacement cycle stocks 2026
+2026-08-15T11:14:33Z | WebSearch-subagent | agriculture technology precision farming stocks 2026
+2026-08-15T11:14:54Z | WebSearch-subagent | best P&C insurance stocks 2026 casualty pricing Chubb W.R. Berkley RLI
+2026-08-15T11:15:08Z | WebSearch-subagent | China consumer stimulus recovery stocks 2026
+2026-08-15T11:15:21Z | WebSearch-subagent | stocks forward PE under 15 ROE above 20 2026
+2026-08-15T11:15:55Z | WebSearch-subagent | revenue growth over 50% stocks 2026
+2026-08-15T11:15:59Z | WebSearch-subagent | Chinese ecommerce valuation re-rating catalysts
+2026-08-15T11:16:21Z | WebSearch-subagent | gold miners real rates tail hedge stocks 2026
+2026-08-15T11:16:22Z | WebSearch-subagent | stocks FCF yield above 5 2026 screening
+2026-08-15T11:16:56Z | WebSearch-subagent | precious metals royalty central bank buying momentum
+2026-08-15T11:17:57Z | WebSearch-subagent | PDD Yum China Miniso NetEase China consumer ADR stocks 2026
+2026-08-15T11:18:49Z | WebSearch-subagent | best China consumer ADR stocks 2026 PDD Yum China Miniso
+2026-08-15T11:19:33Z | WebSearch-subagent | recent spin-off stocks 2026
+2026-08-15T11:19:51Z | WebSearch-subagent | activist investor targets 2026
+2026-08-15T11:20:24Z | WebSearch-subagent | activist campaigns 2026 Elliott Starboard target companies
+2026-08-15T11:20:37Z | WebSearch-subagent | stocks near 52 week low strong fundamentals 2026
+2026-08-15T11:21:34Z | WebSearch-subagent | insider buying cluster 2026
+2026-08-15T11:21:51Z | WebSearch-subagent | Berkshire Hathaway portfolio changes Q2 2026 13F
+2026-08-15T11:22:18Z | WebSearch-subagent | notable insider buying stocks August 2026 CEO purchases
+2026-08-15T11:22:34Z | WebSearch-subagent | top hedge fund new positions 13F Q2 2026
+2026-08-15T11:26:49Z | WebSearch-subagent | AI infrastructure stocks list semiconductor equipment memory networking power cooling 2026
+2026-08-15T11:27:00Z | WebSearch-subagent | hyperscaler capex 2026 2027 forecast AI infrastructure capital expenditure total
+2026-08-15T11:27:18Z | WebSearch-subagent | EML CW laser shortage 2026 optical module lead time Lumentum Coherent sole source
+2026-08-15T11:27:36Z | WebSearch-subagent | best AI hardware stocks 2026 semiconductor equipment power supply transformers
+2026-08-15T11:27:41Z | WebSearch-subagent | CPO co-packaged optics 800G 1.6T switch chip shortage 2026 Broadcom Tomahawk supply
+2026-08-15T11:28:00Z | WebSearch-subagent | ABF substrate shortage 2026 2027 Ajinomoto capacity AI advanced packaging lead time
+2026-08-15T11:28:19Z | WebSearch-subagent | liquid cooling CDU shortage 2026 Vertiv capacity lead time AI data center cooling bottleneck
+2026-08-15T11:28:24Z | WebSearch-subagent | AI semiconductor stocks market cap ranking 2026 Monolithic Power Astera Labs Teradyne MPWR ALAB
+2026-08-15T11:28:37Z | WebSearch-subagent | transformer gas turbine shortage 2026 lead time data center power equipment GE Vernova order backlog
+2026-08-15T11:29:00Z | WebSearch-subagent | largest AI semiconductor companies by market cap 2026 ranking Nvidia Broadcom TSMC AMD
+2026-08-15T11:29:25Z | WebSearch-subagent | data center power stocks list 2026 GE Vernova Vertiv Constellation Vistra nuclear natural gas turbines backlog
+2026-08-15T11:29:34Z | WebSearch-subagent | uranium enrichment capacity shortage 2026 2027 Centrus Silex data center nuclear SMR fuel HALEU
+2026-08-15T11:29:46Z | WebSearch-subagent | AI memory HBM stocks 2026 Micron SanDisk Western Digital SK Hynix HBM4 supply shortage pricing
+2026-08-15T11:30:06Z | WebSearch-subagent | probe card shortage 2026 HBM DRAM test FormFactor Technoprobe capacity AI chip lead time
+2026-08-15T11:30:34Z | WebSearch-subagent | neocloud AI compute stocks 2026 CoreWeave Nebius Crusoe Applied Digital IREN Hut 8 TeraWulf profitability
+2026-08-15T11:30:46Z | WebSearch-subagent | InP GaAs SOI substrate shortage 2026 AXT IQE Soitec capacity optical laser wafer supply
+2026-08-15T11:30:57Z | WebSearch-subagent | AI networking stocks 2026 optical transceivers 800G 1.6T Arista Credo Fabrinet Coherent Lumentum Marvell
+2026-08-15T11:31:05Z | WebSearch-subagent | semiconductor specialty gas shortage 2026 helium neon high purity metals supply constraint AI chips
+2026-08-15T11:31:43Z | WebSearch-subagent | data center liquid cooling stocks 2026 Vertiv Modine nVent Boyd AI server cooling CDU market
+2026-08-15T11:31:56Z | WebSearch-subagent | HBM sold out 2027 CoWoS capacity 2027 TSMC SK hynix Micron latest August 2026
+2026-08-15T11:32:39Z | WebSearch-subagent | Vertiv GE Vernova 2026 backlog growth operating margin ROE guidance earnings
+2026-08-15T11:33:47Z | WebSearch-subagent | Micron forward PE 2026 earnings HBM4 guidance Monolithic Power Astera Labs Credo revenue growth margins
+2026-08-15T11:34:01Z | WebSearch-subagent | Micron MU stock forward PE August 2026 HBM guidance
+2026-08-15T11:40:12Z | builtin-WebSearch | AI platform stocks 2026 GOOGL AMZN hyperscaler capex cloud growth comparison
+2026-08-15T11:40:12Z | builtin-WebSearch | Alphabet GOOGL Q2 2026 earnings cloud growth capex AI monetization
+2026-08-15T11:41:45Z | WebSearch-subagent | Alphabet Q2 2026 earnings revenue operating income Cloud growth
+2026-08-15T11:41:46Z | WebSearch-subagent | Alphabet GOOGL stock price close August 14 2026
+2026-08-15T11:41:48Z | WebSearch-subagent | Talen Energy TLN Q2 2026 earnings results adjusted EBITDA guidance
+2026-08-15T11:41:48Z | WebSearch-subagent | Talen Energy Amazon PPA Susquehanna data center 2026 expansion
+2026-08-15T11:42:05Z | WebSearch-subagent | Talen Energy 2027 EBITDA guidance analyst estimates data center ramp
+2026-08-15T11:42:07Z | WebSearch-subagent | Alphabet 2026 capital expenditure guidance $195 billion free cash flow negative
+2026-08-15T11:42:07Z | WebSearch-subagent | Berkshire Hathaway 13F Q2 2026 Alphabet top three holding
+2026-08-15T11:42:12Z | WebSearch-subagent | Constellation Energy CEG Q2 2026 earnings results adjusted EPS
+2026-08-15T11:42:12Z | WebSearch-subagent | Constellation Energy Crane Clean Energy Center Three Mile Island restart 2026 Microsoft PPA
+2026-08-15T11:42:21Z | WebSearch-subagent | TLN CEG VST NRG valuation forward PE EV/EBITDA comparison independent power producers 2026
+2026-08-15T11:42:28Z | WebSearch-subagent | GE Vernova GEV stock price 52-week range August 2026
+2026-08-15T11:42:28Z | WebSearch-subagent | PJM capacity auction 2026 results record prices Constellation nuclear
+2026-08-15T11:42:29Z | WebSearch-subagent | Google search market share 2026 ChatGPT Gemini AI Overviews competition antitrust ruling
+2026-08-15T11:42:29Z | WebSearch-subagent | Alphabet GOOGL EPS TTM PE ratio market cap valuation August 2026
+2026-08-15T11:42:41Z | WebSearch-subagent | Talen Energy debt leverage net debt share buyback hedging policy 2026
+2026-08-15T11:42:48Z | WebSearch-subagent | CEG VST TLN NRG forward PE EV/EBITDA valuation comparison 2026 independent power producers
+2026-08-15T11:42:52Z | WebSearch-subagent | GE Vernova Q2 2026 earnings results revenue segment Power Wind Electrification
+2026-08-15T11:42:52Z | WebSearch-subagent | Alphabet Q2 2026 net income EPS Google Search advertising revenue YouTube
+2026-08-15T11:42:52Z | WebSearch-subagent | Google antitrust remedies 2026 status ad tech ruling appeal Chrome
+2026-08-15T11:43:05Z | WebSearch-subagent | Talen Energy Cornerstone Acquisition gas plants CCGT 2026 details
+2026-08-15T11:43:06Z | WebSearch-subagent | uranium price August 2026 U3O8 spot nuclear fuel cost
+2026-08-15T11:43:17Z | WebSearch-subagent | Alphabet dividend increase share buyback 2026 cash balance net cash Q2
+2026-08-15T11:43:17Z | WebSearch-subagent | Alphabet 2025 annual revenue net income free cash flow ROE history 5 year
+2026-08-15T11:43:23Z | WebSearch-subagent | Constellation Energy stock decline 2026 reason 52-week low data center power deal concerns
+2026-08-15T11:43:23Z | WebSearch-subagent | Talen Energy FERC colocation ruling Susquehanna uprate nuclear regulatory 2026
+2026-08-15T11:43:33Z | WebSearch-subagent | WebFetch: SEC GEV 2Q26 press release (revenue/backlog/FCF guidance)
+2026-08-15T11:43:40Z | WebSearch-subagent | Constellation Energy Calpine acquisition completed 2026 debt buyback dividend capital allocation
+2026-08-15T11:43:57Z | WebSearch-subagent | Talen Energy TLN stock analyst price target August 2026 shares outstanding market cap
+2026-08-15T11:44:00Z | WebSearch-subagent | FERC co-located load large load tariff policy 2026 Constellation impact PJM
+2026-08-15T11:44:12Z | WebSearch-subagent | Alphabet Q2 2026 balance sheet cash marketable securities long-term debt total
+2026-08-15T11:44:12Z | WebSearch-subagent | Alphabet Gemini 3 TPU Waymo moat AI infrastructure competitive advantage 2026
+2026-08-15T11:44:26Z | WebSearch-subagent | GE Vernova free cash flow guidance raised 11.5 billion 2026 customer advances prepayments
+2026-08-15T11:44:30Z | WebSearch-subagent | Constellation Energy stock price August 14 2026 market cap analyst price target
+2026-08-15T11:44:40Z | WebSearch-subagent | PJM capacity auction 2027/2028 results price Talen stock drop August 2026
+2026-08-15T11:44:42Z | WebSearch-subagent | Alphabet price to book value per share ROE 2026 macrotrends
+2026-08-15T11:44:42Z | WebSearch-subagent | "13F" Berkshire August 2026 Alphabet GOOGL shares value filing details
+2026-08-15T11:45:06Z | WebSearch-subagent | Constellation Q2 2026 earnings call guidance raised share buyback data center deals Meta Microsoft
+2026-08-15T11:45:24Z | WebSearch-subagent | Constellation Energy nuclear production tax credit IRA price floor downside protection 45U
+2026-08-15T11:45:40Z | WebSearch-subagent | GE Vernova GEV forward PE EV/EBITDA valuation analyst price target 2026 2027 EPS estimates
+2026-08-15T11:46:18Z | WebSearch-subagent | GE Vernova 2026 consensus EPS estimate net income full year
+2026-08-15T11:47:41Z | WebSearch-subagent | GE Vernova risks 2026 wind segment losses tariffs supply chain competition Siemens Energy Mitsubishi
+2026-08-15T11:48:09Z | WebSearch-subagent | GE Vernova gas turbine sold out 2028 2029 large transformer lead time 160 weeks data center electricity demand
+2026-08-15T11:49:14Z | WebSearch-subagent | GE Vernova total debt cash net income ROE shareholder equity 2025 2026
+2026-08-15T11:50:36Z | WebSearch-subagent | GE Vernova vs Eaton Hitachi Hubbell Powell PWR electrical equipment valuation comparison 2026 premium
+2026-08-15T11:58:30Z | WebSearch-subagent | CoreWeave CRWV Q2 2026 earnings results revenue August 2026
+2026-08-15T11:58:31Z | WebSearch-subagent | CoreWeave Q2 2026 backlog $104 billion revenue guidance
+2026-08-15T11:58:23Z | WebSearch-subagent | Nebius Group NBIS Q2 2026 earnings results revenue growth ARR backlog
+2026-08-15T11:58:23Z | WebSearch-subagent | Nebius NBIS backlog $6.68 billion RPO signed contracts 2026
+2026-08-15T11:58:33Z | WebSearch-subagent | Centrus Energy LEU Q2 2026 earnings results second quarter
+2026-08-15T11:59:40Z | WebSearch-subagent | CoreWeave customer concentration top customers Meta Microsoft percentage revenue 2026
+2026-08-15T11:59:41Z | WebSearch-subagent | CoreWeave total debt interest expense 2026 $2.6 billion loan facility GPU collateral
+2026-08-15T11:58:42Z | WebSearch-subagent | Nebius customer concentration Meta Microsoft contract percentage revenue 2026
+2026-08-15T11:58:51Z | WebSearch-subagent | Centrus HALEU production ramp 2026 DOE contract $900 million progress American Centrifuge
+2026-08-15T12:00:50Z | WebSearch-subagent | CoreWeave share count dilution stock offering 2025 2026 shares outstanding increase
+2026-08-15T12:00:51Z | WebSearch-subagent | CoreWeave capital expenditures 2026 guidance free cash flow burn operating loss
+2026-08-15T11:59:08Z | WebSearch-subagent | Nebius cash balance convertible notes 2026 dilution share count capital raise history
+2026-08-15T11:59:14Z | WebSearch-subagent | Russian uranium import ban 2026 waiver Centrus TENEX SWU supply 2028
+2026-08-15T12:02:00Z | WebSearch-subagent | CoreWeave CRWV market cap price to sales ratio valuation August 2026 Neocloud comparison Nebius
+2026-08-15T12:02:01Z | WebSearch-subagent | Bank of America $370 billion AI debt warning CoreWeave data center financing risk 2026
+2026-08-15T11:59:30Z | WebSearch-subagent | LEU Centrus Energy stock price market cap PE ratio August 14 2026
+2026-08-15T11:59:39Z | WebSearch-subagent | Nebius Group CEO founder leadership governance board 2026
+2026-08-15T11:59:48Z | WebSearch-subagent | Centrus X-energy enrichment agreement August 2026 HALEU
+2026-08-15T12:00:01Z | WebSearch-subagent | NBIS stock market cap price to sales ratio CoreWeave CRWV comparison AI cloud valuation
+2026-08-15T12:03:10Z | WebSearch-subagent | CoreWeave Q2 2026 10-Q cash balance liquidity gross margin net loss EPS details
+2026-08-15T12:03:11Z | WebSearch-subagent | CoreWeave Q2 2026 top five customers percent revenue concentration 10-Q filing
+2026-08-15T12:00:20Z | WebSearch-subagent | Centrus Energy Q2 2026 earnings call guidance 2026 revenue backlog cash
+2026-08-15T12:00:26Z | WebSearch-subagent | Nebius Q2 2026 capex guidance 2026 adjusted EBITDA free cash flow ARR $7-9 billion
+2026-08-15T12:00:38Z | WebSearch-subagent | WebFetch Centrus Q2 2026 press release prnewswire details
+2026-08-15T12:00:43Z | WebSearch-subagent | Nebius NVIDIA investment stake partnership debt total 2026 Q1 free cash flow burn
+2026-08-15T12:04:30Z | WebSearch-subagent | CoreWeave fiscal 2025 full year revenue $5.1 billion Q4 2025 results annual
+2026-08-15T12:04:31Z | WebSearch-subagent | CoreWeave CEO Michael Intrator founder NVIDIA stake governance insider ownership
+2026-08-15T12:01:02Z | WebSearch-subagent | Urenco Orano HALEU enrichment capacity 2026 General Matter laser competition timeline
+2026-08-15T12:01:06Z | WebSearch-subagent | NBIS Nebius stock price August 14 2026 52-week high risks competition hyperscalers
+2026-08-15T12:01:20Z | WebSearch-subagent | Centrus LEU insider buying selling analyst price target downgrade August 2026
+2026-08-15T12:01:30Z | WebSearch-subagent | Nebius Q2 2026 earnings call power capacity MW data centers 2027 sold out prepayments
+2026-08-15T12:02:06Z | WebSearch-subagent | DOE fiscal year 2027 budget nuclear enrichment HALEU funding cut proposal
+2026-08-15T12:03:06Z | WebSearch-subagent | NBIS Nebius stock price August 14 2026 valuation scenario
+2026-08-15T12:03:25Z | WebSearch-subagent | Nebius Q2 2026 shareholder letter total backlog billion contracts signed
+2026-08-15T12:08:34Z | WebSearch-subagent | Google search antitrust case remedies ruling 2026
+2026-08-15T12:08:41Z | WebSearch-subagent | Alphabet Q2 2026 earnings revenue Google Cloud backlog capex free cash flow
+2026-08-15T12:08:41Z | WebSearch-subagent | Google antitrust search remedies 2026 appeal status ruling
+2026-08-15T12:08:55Z | WebSearch-subagent | Google ad tech antitrust divestiture appeal 2026 Judge Brinkema
+2026-08-15T12:09:09Z | WebSearch-subagent | Google search market share 2026 AI Overviews impact ad revenue evidence ChatGPT competition
+2026-08-15T12:09:17Z | WebSearch-subagent | Google search market share 2026 ChatGPT impact search queries AI Overviews ads monetization
+2026-08-15T12:09:17Z | WebSearch-subagent | Google Cloud GCP market share Q2 2026 growth vs AWS Azure cloud infrastructure spending
+2026-08-15T12:09:29Z | WebSearch-subagent | Google TPU external cloud customers 2026 Gemini enterprise adoption pricing power
+2026-08-15T12:09:35Z | WebSearch-subagent | Google Alphabet capex 2026 guidance 195 billion 205 billion AI investment
+2026-08-15T12:09:38Z | WebSearch-subagent | Alphabet GOOGL Q2 2026 earnings Google Cloud operating margin segment results
+2026-08-15T12:09:50Z | WebSearch-subagent | Google TPU external sales 2026 Nvidia competition antitrust remedies ruling status
+2026-08-15T12:09:50Z | WebSearch-subagent | PJM capacity auction 2027 2028 results record prices data center demand Talen
+2026-08-15T12:10:00Z | WebSearch-subagent | Alphabet FY2026 capital expenditure guidance 195 205 billion capex free cash flow negative
+2026-08-15T12:10:02Z | WebSearch-subagent | Alphabet share issuance 70 billion 85 billion stock offering dilution 2026
+2026-08-15T12:10:08Z | WebSearch-subagent | Talen Energy Q2 2026 earnings AWS data center campus ramp 2026 EBITDA guidance
+2026-08-15T12:10:15Z | WebSearch-subagent | Talen Energy TLN Q2 2026 earnings EBITDA guidance 2.025 billion 2.225 billion
+2026-08-15T12:10:30Z | WebSearch-subagent | Talen Energy 2026 AWS nuclear PPA Susquehanna expansion multi-customer data center deals
+2026-08-15T12:10:30Z | WebSearch-subagent | data center power deals 2026 nuclear vs gas PPA prices Vistra Constellation NRG Dominion comparison
+2026-08-15T12:10:32Z | WebSearch-subagent | Talen Energy TLN Fitch BB- negative outlook leverage 4.3x debt 2026
+2026-08-15T12:10:42Z | WebSearch-subagent | PJM capacity auction 2028/2029 results price Talen nuclear license uprate
+2026-08-15T12:10:50Z | WebSearch-subagent | Talen Energy net debt leverage 4.33x Fitch BB- negative outlook 2027 free cash flow 7 per share
+2026-08-15T12:10:54Z | WebSearch-subagent | Talen Energy AWS Amazon nuclear PPA Susquehanna outage refueling 2026 risk
+2026-08-15T12:11:07Z | WebSearch-subagent | Morgan Stanley 42GW data center power gap 2026 forecast unmet demand gigawatts
+2026-08-15T12:11:07Z | WebSearch-subagent | Google antitrust remedies 2026 appeal status Chrome divestiture AI Overviews ruling
+2026-08-15T12:11:07Z | WebSearch-subagent | Talen Energy stock risks 2026 Susquehanna outage Cornerstone integration debt valuation analyst price target
+2026-08-15T12:11:09Z | WebSearch-subagent | Alphabet bond issuance 70 billion 85 billion debt financing 2026 buyback suspended
+2026-08-15T12:11:12Z | WebSearch-subagent | GOOGL stock price 52-week high low August 2026
+2026-08-15T12:11:32Z | WebSearch-subagent | Talen Cornerstone acquisition close FERC approval August 2026 MISO gas fleet
+2026-08-15T12:11:36Z | WebSearch-subagent | Vistra VST Constellation CEG forward PE valuation August 2026 independent power stocks
+2026-08-15T12:11:39Z | WebSearch-subagent | Talen Energy Q2 2026 earnings guidance stock buyback analyst rating August 2026
+2026-08-15T12:11:40Z | WebSearch-subagent | Alphabet stock 2026 performance AI Mode ads rollout search revenue growth Q2 2026
+2026-08-15T12:11:40Z | WebSearch-subagent | Talen Energy stock TLN Macfarlane CEO buyback private equity Rubric 2026 news
+2026-08-15T12:11:55Z | WebSearch-subagent | Microsoft META forward PE ratio August 2026 mega cap valuation
+2026-08-15T12:12:00Z | WebSearch-subagent | TLN Talen Energy stock price 52-week range August 2026
+2026-08-15T12:12:15Z | WebSearch-subagent | Alphabet 2026 capex guidance 195-205 billion free cash flow negative Q2 TPU external
+2026-08-15T12:12:22Z | WebSearch-subagent | uranium enrichment nuclear fuel supply constraint 2026 prices data center nuclear demand
+2026-08-15T12:12:23Z | WebSearch-subagent | Talen Energy Susquehanna uprate PJM new generation interconnection queue 2026 gas turbines backlog
+2026-08-15T12:12:59Z | WebSearch-subagent | Vistra VST PJM nuclear power exposure data center 2026 correlation Talen

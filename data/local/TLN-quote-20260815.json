@@ -1,0 +1,17 @@
+OK TLN: $362.74
+{
+  "quotes": {
+    "TLN": {
+      "price": 362.74,
+      "prev_close": null,
+      "52w_high": 451.28,
+      "52w_low": 301.45,
+      "volume": 483531,
+      "currency": "USD",
+      "exchange": "NMS"
+    }
+  },
+  "stats": {
+    "TLN": {}
+  }
+}

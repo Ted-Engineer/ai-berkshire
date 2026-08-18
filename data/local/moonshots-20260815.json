@@ -1,0 +1,182 @@
+OK NBIS: $277.68
+OK QCOM: $165.79
+OK CRDO: $259.9
+OK LEU: $190.15
+OK HUBB: $511.39
+OK MU: $971.66
+OK GEV: $1063.25
+OK VRT: $293.84
+OK COHR: $325.83
+OK TLN: $362.74
+OK CEG: $282.5
+OK NRG: $126.24
+OK AMD: $514.39
+OK MRVL: $222.02
+OK IREN: $44.06
+OK CRWV: $105.26
+{
+  "quotes": {
+    "NBIS": {
+      "price": 277.68,
+      "prev_close": null,
+      "52w_high": 299.86,
+      "52w_low": 62.01,
+      "volume": 28829723,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "QCOM": {
+      "price": 165.79,
+      "prev_close": null,
+      "52w_high": 259.92,
+      "52w_low": 121.99,
+      "volume": 5231534,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "CRDO": {
+      "price": 259.9,
+      "prev_close": null,
+      "52w_high": 308.67,
+      "52w_low": 86.485,
+      "volume": 3322934,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "LEU": {
+      "price": 190.15,
+      "prev_close": null,
+      "52w_high": 464.25,
+      "52w_low": 142.13,
+      "volume": 437855,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "HUBB": {
+      "price": 511.39,
+      "prev_close": null,
+      "52w_high": 565.5,
+      "52w_low": 403.82,
+      "volume": 309004,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "MU": {
+      "price": 971.66,
+      "prev_close": null,
+      "52w_high": 1255.0,
+      "52w_low": 113.46,
+      "volume": 27609119,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "GEV": {
+      "price": 1063.25,
+      "prev_close": null,
+      "52w_high": 1195.94,
+      "52w_low": 530.16,
+      "volume": 1472679,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "VRT": {
+      "price": 293.84,
+      "prev_close": null,
+      "52w_high": 379.935,
+      "52w_low": 118.7,
+      "volume": 2683556,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "COHR": {
+      "price": 325.83,
+      "prev_close": null,
+      "52w_high": 440.0,
+      "52w_low": 84.35,
+      "volume": 8718490,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "TLN": {
+      "price": 362.74,
+      "prev_close": null,
+      "52w_high": 451.28,
+      "52w_low": 301.45,
+      "volume": 483531,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "CEG": {
+      "price": 282.5,
+      "prev_close": null,
+      "52w_high": 412.7,
+      "52w_low": 228.63,
+      "volume": 1951974,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "NRG": {
+      "price": 126.24,
+      "prev_close": null,
+      "52w_high": 189.96,
+      "52w_low": 112.5,
+      "volume": 1430323,
+      "currency": "USD",
+      "exchange": "NYQ"
+    },
+    "AMD": {
+      "price": 514.39,
+      "prev_close": null,
+      "52w_high": 584.73,
+      "52w_low": 149.22,
+      "volume": 24928819,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "MRVL": {
+      "price": 222.02,
+      "prev_close": null,
+      "52w_high": 329.88,
+      "52w_low": 61.44,
+      "volume": 14344758,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "IREN": {
+      "price": 44.06,
+      "prev_close": null,
+      "52w_high": 76.87,
+      "52w_low": 17.22,
+      "volume": 37242921,
+      "currency": "USD",
+      "exchange": "NMS"
+    },
+    "CRWV": {
+      "price": 105.26,
+      "prev_close": null,
+      "52w_high": 153.2,
+      "52w_low": 60.55,
+      "volume": 32929827,
+      "currency": "USD",
+      "exchange": "NMS"
+    }
+  },
+  "stats": {
+    "NBIS": {},
+    "QCOM": {},
+    "CRDO": {},
+    "LEU": {},
+    "HUBB": {},
+    "MU": {},
+    "GEV": {},
+    "VRT": {},
+    "COHR": {},
+    "TLN": {},
+    "CEG": {},
+    "NRG": {},
+    "AMD": {},
+    "MRVL": {},
+    "IREN": {},
+    "CRWV": {}
+  }
+}

@@ -1,0 +1,301 @@
+ticker,company,gics_sector,source
+WELL,Welltower,Senior housing REIT riding aging demographics demand,非AI主题#1
+UNH,UnitedHealth Group,Medicare Advantage demand from aging US population,非AI主题#1
+ZBH,Zimmer Biomet,Medical devices demand aging population volume growth,非AI主题#1
+RTX,RTX Corporation,Record 271B backlog best backlog-to-revenue converter,非AI主题#2
+LMT,Lockheed Martin,186B backlog NATO 5pct GDP rearmament supercycle,非AI主题#2
+NOC,Northrop Grumman,Strong backlog conversion Golden Dome missile shield exposure,非AI主题#2
+ET,Energy Transfer LP,Energy,GICS
+EPD,Enterprise Products Partners LP,Energy,GICS
+WMB,Williams Companies,Energy,GICS
+KMI,Kinder Morgan,Energy,GICS
+MPLX,MPLX LP,Energy,GICS
+OKE,ONEOK,Energy,GICS
+WES,Western Midstream Partners,Energy,GICS
+CRWV,CoreWeave,AI GPU neocloud with ~99B dollar backlog and 21B Meta deal,AI赛道#1
+NBIS,Nebius Group,AI neocloud with 27B Meta deal and 49B contracted backlog,AI赛道#1
+EL,Estee Lauder Companies,Household & Personal Products,GICS
+COTY,Coty,Household & Personal Products,GICS
+PG,Procter & Gamble,Household & Personal Products,GICS
+CL,Colgate-Palmolive,Household & Personal Products,GICS
+KMB,Kimberly-Clark,Household & Personal Products,GICS
+CHD,Church & Dwight,Household & Personal Products,GICS
+CLX,Clorox,Household & Personal Products,GICS
+PWR,Quanta Services,Grid modernization capex utility transmission construction,非AI主题#3
+GEV,GE Vernova,Power equipment grid upgrade electrification demand,非AI主题#3
+HUBB,Hubbell,Grid T&D hardware utility capex beneficiary,非AI主题#3
+ROK,Rockwell Automation,Factory automation leader labor substitution reshoring,非AI主题#4
+CAT,Caterpillar,Reshored production construction equipment manufacturing comeback,非AI主题#4
+EMR,Emerson Electric,Smart factory automation platforms reshoring capex,非AI主题#4
+VRT,Vertiv Holdings,META/MSFT data center power and liquid cooling supplier,G-生态链
+ETN,Eaton Corp,META/MSFT data center electrical equipment supplier,G-生态链
+NVT,nVent Electric,META data center cooling second-tier beneficiary,G-生态链
+CEG,Constellation Energy,META 20-year nuclear PPA supplier (Clinton plant),G-生态链
+AVGO,Broadcom,custom AI ASIC leader 10.8B quarterly AI revenue up 143 pct with 73B backlog,AI赛道#2
+MRVL,Marvell Technology,custom ASIC partner for Amazon Trainium and Microsoft Maia ~11B 2026 AI revenue,AI赛道#2
+CRDO,Credo Technology,AI interconnect AEC leader with triple digit revenue growth,AI赛道#2
+ALAB,Astera Labs,PCIe retimer and CPO connectivity for AI servers with triple digit growth,AI赛道#2
+LEN,Lennar,Homebuilder rate cut beneficiary mortgage rate sensitive,非AI主题#5
+O,Realty Income,Net lease REIT duration asset lower discount rate,非AI主题#5
+LLY,Eli Lilly,GLP-1 tirzepatide orforglipron 6B Huntsville capacity build,非AI主题#6
+WST,West Pharmaceutical,GLP-1 injection device components elastomer closure demand,非AI主题#6
+LZAGY,Lonza Group,Peptide CDMO capacity booked GLP-1 contract manufacturing,非AI主题#6
+EQT,EQT Corporation,Energy,GICS
+EXE,Expand Energy,Energy,GICS
+LNG,Cheniere Energy,Energy,GICS
+ORCL,Oracle Corp,MSFT/OpenAI Stargate JV partner and rival cloud,G-生态链
+DELL,Dell Technologies,MSFT AI server and prefab AI data center supplier,G-生态链
+XYL,Xylem,Water technology equipment replacement supercycle demand,非AI主题#7
+AWK,American Water Works,Regulated water utility infrastructure capex recovery,非AI主题#7
+MWA,Mueller Water,Water meter valve replacement cycle smart metering,非AI主题#7
+DE,Deere,Precision agriculture autonomy tech-driven farming demand,非AI主题#8
+TRMB,Trimble,Precision ag positioning software recurring revenue mix,非AI主题#8
+CTVA,Corteva,Seed plant science trait development ag tech,非AI主题#8
+COHR,Coherent,optical transceiver and EML laser leader for 800G 1.6T AI modules,AI赛道#3
+LITE,Lumentum,InP laser and photonics supplier with InP shortage as pricing leverage,AI赛道#3
+ANET,Arista Networks,AI data center Ethernet switching leader scaling AI back-end networks,AI赛道#3
+CLS,Celestica,800G 1.6T AI switch ODM tops Ethernet switch sales in AI clusters,AI赛道#3
+AAPL,Apple Inc,BABA China AI model partner for iPhone,G-生态链
+ISRG,Intuitive Surgical,Health Care Equipment & Services,GICS
+SYK,Stryker,Health Care Equipment & Services,GICS
+BSX,Boston Scientific,Health Care Equipment & Services,GICS
+BAX,Baxter International,Health Care Equipment & Services,GICS
+MDT,Medtronic,Health Care Equipment & Services,GICS
+EW,Edwards Lifesciences,Health Care Equipment & Services,GICS
+HCA,HCA Healthcare,Health Care Equipment & Services,GICS
+DKNG,DraftKings,OSB leader state legalization expansion record handle,非AI主题#9
+FLUT,Flutter Entertainment,Global bookmaker FanDuel iGaming cross-sell scale,非AI主题#9
+RSI,Rush Street Interactive,Online casino pure play iGaming state legalization,非AI主题#9
+IDXX,IDEXX Laboratories,Pet healthcare diagnostics spending shift to vet care,非AI主题#10
+TRUP,Trupanion,Pet insurance penetration growth essential spend,非AI主题#10
+ZTS,Zoetis,Veterinary pharma leader pet med innovation,非AI主题#10
+FCX,Freeport-McMoRan,Materials,GICS
+RIO,Rio Tinto,Materials,GICS
+B,Barrick Mining,Materials,GICS
+LIN,Linde,Materials,GICS
+LYB,LyondellBasell,Materials,GICS
+MU,Micron Technology,HBM sold out through 2026 with HBM TAM seen 35B to 100B by 2028,AI赛道#4
+HXSCL,SK Hynix,HBM leader 62 pct share with HBM4 mass production from Q2 2026,AI赛道#4
+SNDK,SanDisk,NAND supercycle with revenue up 250 pct YoY and HBF AI memory,AI赛道#4
+285A.T,Kioxia Holdings,NAND output sold out to 2027 with record profits on AI storage demand,AI赛道#4
+GOOGL,Alphabet Inc,ADBE creative cloud AI model partner (Gemini in Firefly); AVGO TPU custom chip customer,G-生态链
+RACE,Ferrari,Heritage luxury scarcity waitlist pricing power wealth concentration,非AI主题#11
+RMS.PA,Hermes International,Ultra-luxury scarcity brand upper-end resilience,非AI主题#11
+MC.PA,LVMH,Luxury group valuation reset after pricing fatigue,非AI主题#11
+KNSL,Kinsale Capital,E&S specialty insurer expansion while market softens,非AI主题#12
+WRB,W R Berkley,Specialty insurer casualty pricing discipline reserves,非AI主题#12
+AJG,Arthur J Gallagher,Broker consolidation winner across pricing cycle,非AI主题#12
+NEM,Newmont,Materials,GICS
+MP,MP Materials,Materials,GICS
+PFE,Pfizer,Pharmaceuticals Biotech & Life Sciences,GICS
+BMY,Bristol-Myers Squibb,Pharmaceuticals Biotech & Life Sciences,GICS
+MRK,Merck & Co,Pharmaceuticals Biotech & Life Sciences,GICS
+ABBV,AbbVie,Pharmaceuticals Biotech & Life Sciences,GICS
+REGN,Regeneron Pharmaceuticals,Pharmaceuticals Biotech & Life Sciences,GICS
+VRTX,Vertex Pharmaceuticals,Pharmaceuticals Biotech & Life Sciences,GICS
+VKTX,Viking Therapeutics,Pharmaceuticals Biotech & Life Sciences,GICS
+PDD,PDD Holdings,Ecommerce re-rating catalyst cheap valuation shareholder returns,非AI主题#13
+JD,JD.com,Consumption stimulus retail recovery low multiple platform,非AI主题#13
+TCOM,Trip.com,Travel services consumer recovery outbound demand,非AI主题#13
+YUMC,Yum China,Restaurant chain direct consumer stimulus beneficiary,非AI主题#13
+ASX,ASE Technology Holding,OSAT leader advanced packaging sales doubling to 3.2B on AI demand,AI赛道#5
+AMKR,Amkor Technology,advanced packaging OSAT record Q1 2026 revenue and 2.5-3B capex for AI,AI赛道#5
+4062.T,Ibiden,ABF substrate leader committing 500B yen over three years for AI packaging,AI赛道#5
+ATS.VI,AT&S,ABF substrate maker doubling capex with AMD deal and 45-55 pct revenue outlook,AI赛道#5
+ASML,ASML Holding,TSMC sole EUV lithography supplier,G-生态链
+AMAT,Applied Materials,TSMC deposition etch equipment supplier,G-生态链
+LRCX,Lam Research,TSMC etch deposition equipment supplier,G-生态链
+KLAC,KLA Corp,TSMC process control yield equipment supplier,G-生态链
+GD,General Dynamics,Capital Goods,GICS
+TXT,Textron,Capital Goods,GICS
+HII,Huntington Ingalls Industries,Capital Goods,GICS
+AEM,Agnico Eagle,Low-cost gold producer operating execution real rates hedge,非AI主题#14
+FNV,Franco-Nevada,Gold royalty central bank demand floor optionality,非AI主题#14
+WPM,Wheaton Precious Metals,Streaming model precious metals momentum leverage,非AI主题#14
+JPM,JPMorgan Chase,Banks,GICS
+BAC,Bank of America,Banks,GICS
+C,Citigroup,Banks,GICS
+WFC,Wells Fargo,Banks,GICS
+MTB,M&T Bank,Banks,GICS
+RF,Regions Financial,Banks,GICS
+ZION,Zions Bancorporation,Banks,GICS
+FITB,Fifth Third Bancorp,Banks,GICS
+BBWI,Bath & Body Works,FCF yield above 15 high ROE low multiple screen,D1
+RDDT,Reddit,Revenue growth over 60 advertising platform momentum,D1
+APP,AppLovin,Revenue growth 53 after 52 drawdown consensus upside 75pct,D1
+OXY,Occidental Petroleum,BRK.B largest energy equity stake ~28% holder,G-生态链
+LHX,L3Harris Technologies,Capital Goods,GICS
+KTOS,Kratos Defense,Capital Goods,GICS
+BA,Boeing,Capital Goods,GICS
+BE,Bloom Energy,Capital Goods,GICS
+T,AT&T,High FCF yield dividend buyback fiber deleveraging,D1
+SOLS,Solstice Advanced Materials,Oct 2025 Honeywell spin pure-play specialty materials,D3
+HON,Honeywell,Automation RemainCo after Solstice and Aerospace spins,D3
+WM,Waste Management,Commercial Services,GICS
+RSG,Republic Services,Commercial Services,GICS
+KFY,Korn Ferry,Commercial Services,GICS
+PAYX,Paychex,Commercial Services,GICS
+TLN,Talen Energy,PJM nuclear operator powering AWS Susquehanna data center campus,AI赛道#7
+NRG,NRG Energy,gas IPP with data center power deals rallying on PJM interconnection news,AI赛道#7
+OKLO,Oklo,SMR developer with Meta and data center customer pipeline plus Centrus fuel LOI,AI赛道#7
+LEU,Centrus Energy,only US owned HALEU enrichment with Oklo supply and JV agreements,AI赛道#7
+CCJ,Cameco,uranium producer leveraged to 9.8GW hyperscaler nuclear PPA wave,AI赛道#7
+CWST,Casella Waste Systems,Commercial Services,GICS
+WCN,Waste Connections,Commercial Services,GICS
+CLH,Clean Harbors,Commercial Services,GICS
+MA,Mastercard,Blue chip at 52-week low payments volume resilience,D4
+ABT,Abbott Laboratories,Beat-down blue chip diversified healthcare 52-week low,D4
+CRM,Salesforce,52-week low strong FCF margin agent monetization option,D4
+V,Visa,Diversified Financials,GICS
+AXP,American Express,Diversified Financials,GICS
+COIN,Coinbase Global,Diversified Financials,GICS
+ICE,Intercontinental Exchange,Diversified Financials,GICS
+CME,CME Group,Diversified Financials,GICS
+SCHW,Charles Schwab,Diversified Financials,GICS
+BX,Blackstone,Diversified Financials,GICS
+KKR,KKR & Co,Diversified Financials,GICS
+BEN,Franklin Resources,Diversified Financials,GICS
+HOOD,Robinhood Markets,Diversified Financials,GICS
+SHOP,Shopify Inc,PYPL checkout partner across Shopify merchant ecosystem,G-生态链
+GPN,Global Payments Inc,PYPL Stripe megadeal payments consolidation re-rating peer,G-生态链
+UPS,United Parcel Service,Transportation,GICS
+UNP,Union Pacific,Transportation,GICS
+ODFL,Old Dominion Freight Line,Transportation,GICS
+POWL,Powell Industries,electrical switchgear and substation builder with data center order growth,AI赛道#8
+NVO,Novo Nordisk,CI Evernorth GLP-1 EnCircleRx supply and copay partner,G-生态链
+GM,General Motors,Q2 earnings standouts raised guidance cheap multiple,D6
+PLTR,Palantir,Q2 guidance raise US commercial momentum backlog growth,D6
+FDX,FedEx,Transportation,GICS
+DAL,Delta Air Lines,Transportation,GICS
+PGR,Progressive,Insurance,GICS
+ALL,Allstate,Insurance,GICS
+TRV,Travelers Companies,Insurance,GICS
+CB,Chubb,Insurance,GICS
+HIG,Hartford Financial Services,Insurance,GICS
+PRU,Prudential Financial,Insurance,GICS
+BRO,Brown & Brown,Insurance,GICS
+GL,Globe Life,Insurance,GICS
+MOD,Modine Manufacturing,data center thermal revenue up 119 pct YoY on liquid cooling adoption,AI赛道#9
+F,Ford Motor,Auto,GICS
+TM,Toyota Motor,Auto,GICS
+STLA,Stellantis,Auto,GICS
+TSLA,Tesla,Auto,GICS
+DLR,Digital Realty Trust,wholesale AI data center REIT raised FFO forecast with 1.8B backlog,AI赛道#10
+EQIX,Equinix,interconnection REIT Q2 revenue up 16 pct and raised 2026 guidance,AI赛道#10
+FIX,Comfort Systems USA,record 11.9B backlog with tech and data center at 42 pct of revenue,AI赛道#10
+AGX,Argan,E&C with record results 50 pct revenue growth and 2.77B backlog on gas and DC projects,AI赛道#10
+NOW,ServiceNow,Software & Services,GICS
+SNOW,Snowflake,Software & Services,GICS
+WDAY,Workday,Software & Services,GICS
+PANW,Palo Alto Networks,Software & Services,GICS
+CRWD,CrowdStrike,Software & Services,GICS
+ZS,Zscaler,Software & Services,GICS
+FTNT,Fortinet,Software & Services,GICS
+NET,Cloudflare,Software & Services,GICS
+DDOG,Datadog,Software & Services,GICS
+LCID,Lucid Group,Auto,GICS
+UBER,Uber Technologies,Commercial Services,GICS
+PATH,UiPath,agentic automation leader 1.78B ARR with first sustained GAAP profits,AI赛道#11
+NVDA,Nvidia Corp,TSM largest customer holding ~60% of CoWoS advanced packaging,G-生态链
+AMD,Advanced Micro Devices,TSM top-3 CoWoS advanced packaging customer,G-生态链
+NKE,Nike,Durables & Apparel,GICS
+LULU,Lululemon Athletica,Durables & Apparel,GICS
+URBN,Urban Outfitters,Durables & Apparel,GICS
+DHI,D R Horton,Durables & Apparel,GICS
+SMCI,Super Micro Computer,Technology Hardware & Equipment,GICS
+HPE,Hewlett Packard Enterprise,Technology Hardware & Equipment,GICS
+STX,Seagate Technology,Technology Hardware & Equipment,GICS
+WDC,Western Digital,Technology Hardware & Equipment,GICS
+NTAP,NetApp,Technology Hardware & Equipment,GICS
+DECK,Deckers Outdoor,Durables & Apparel,GICS
+ONON,On Holding,Durables & Apparel,GICS
+6324.T,Harmonic Drive Systems,precision harmonic reducer leader the HBM of robotics with FY26 operating income 25.7B yen,AI赛道#13
+002050.SZ,Sanhua Intelligent Controls,Tesla Optimus actuator and thermal management supplier ramping robot volumes,AI赛道#13
+HLT,Hilton Worldwide,Consumer Services,GICS
+H,Hyatt Hotels,Consumer Services,GICS
+WH,Wyndham Hotels & Resorts,Consumer Services,GICS
+TXRH,Texas Roadhouse,Consumer Services,GICS
+ON,ON Semiconductor,Semiconductors & Semiconductor Equipment,GICS
+QCOM,Qualcomm,Semiconductors & Semiconductor Equipment,GICS
+INTC,Intel,Semiconductors & Semiconductor Equipment,GICS
+MPWR,Monolithic Power Systems,Semiconductors & Semiconductor Equipment,GICS
+NXPI,NXP Semiconductors,Semiconductors & Semiconductor Equipment,GICS
+SNPS,Synopsys,Semiconductors & Semiconductor Equipment,GICS
+CDNS,Cadence Design Systems,Semiconductors & Semiconductor Equipment,GICS
+RCL,Royal Caribbean Cruises,Consumer Services,GICS
+CCL,Carnival,Consumer Services,GICS
+HSAI,Hesai Group,lidar leader 2026 revenue guide CNY 3B up 46 pct with Mercedes L3 win,AI赛道#14
+PONY,Pony AI,robotaxi revenue up 159 pct YoY scaling fleet to 3000 vehicles by end 2026,AI赛道#14
+WRD,WeRide,global robotaxi and robobus operator with 1200 vehicle fleet expanding abroad,AI赛道#14
+ANF,Abercrombie & Fitch,Retailing,GICS
+M,Macy's,Retailing,GICS
+AEO,American Eagle Outfitters,Retailing,GICS
+TJX,TJX Companies,Retailing,GICS
+TGT,Target,Retailing,GICS
+WULF,TeraWulf,HPC hosting pivot with 12.8B AI contracts incl 9.5B Fluidstack 25yr deal and Google stake,AI赛道#15
+IREN,IREN Limited,miner to AI infrastructure with 3.7B converts and cloud GPU ramp,AI赛道#15
+CIFR,Cipher Mining,1.7B senior notes funding HPC data center conversion at Barber Lake,AI赛道#15
+APLD,Applied Digital,HPC campus developer with CoreWeave lease and Fabric8 AI capacity,AI赛道#15
+SBUX,Starbucks,Consumer Services,GICS
+VZ,Verizon Communications,Telecom,GICS
+DUK,Duke Energy,Utilities,GICS
+SO,Southern Company,Utilities,GICS
+AEP,American Electric Power,Utilities,GICS
+EXC,Exelon,Utilities,GICS
+NEE,NextEra Energy,Utilities,GICS
+XEL,Xcel Energy,Utilities,GICS
+WEC,WEC Energy Group,Utilities,GICS
+AES,AES,Utilities,GICS
+CWEN,Clearway Energy,Utilities,GICS
+2454.TW,MediaTek,Dimensity 9400 flagship SoCs plus AI accelerator ASIC ramp visibility,AI赛道#16
+ARM,Arm Holdings,royalty lever on every edge AI NPU SoC shipment,AI赛道#16
+TMUS,T-Mobile US,Telecom,GICS
+IRM,Iron Mountain,Real Estate REITs,GICS
+AMT,American Tower,Real Estate REITs,GICS
+CCI,Crown Castle,Real Estate REITs,GICS
+SPG,Simon Property Group,Real Estate REITs,GICS
+PSA,Public Storage,Real Estate REITs,GICS
+VICI,VICI Properties,Real Estate REITs,GICS
+PLD,Prologis,Real Estate REITs,GICS
+DIS,Walt Disney,Media & Entertainment,GICS
+TTWO,Take-Two Interactive,Media & Entertainment,GICS
+CMCSA,Comcast,Media & Entertainment,GICS
+ROKU,Roku,Media & Entertainment,GICS
+INOD,Innodata,AI data engineering record Q2 2026 revenue up 58 pct with 40 pct growth outlook,AI赛道#17
+TIXT,TELUS Digital Experience,human-in-the-loop AI data annotation and model evaluation services,AI赛道#17
+TASK,TaskUs,AI data services and trust and safety outsourcing for model training,AI赛道#17
+WBD,Warner Bros Discovery,Media & Entertainment,GICS
+ACI,Albertsons Companies,Staples Retail,GICS
+KR,Kroger,Staples Retail,GICS
+SYY,Sysco,Staples Retail,GICS
+COST,Costco Wholesale,Staples Retail,GICS
+WMT,Walmart,Staples Retail,GICS
+MMM,3M,Conglomerates,GICS
+ROP,Roper Technologies,Conglomerates,GICS
+GE,GE Aerospace,Conglomerates,GICS
+PM,Philip Morris International,Food Beverage Tobacco,GICS
+MO,Altria Group,Food Beverage Tobacco,GICS
+BTI,British American Tobacco,Food Beverage Tobacco,GICS
+KHC,Kraft Heinz,Food Beverage Tobacco,GICS
+MDLZ,Mondelez International,Food Beverage Tobacco,GICS
+GIS,General Mills,Food Beverage Tobacco,GICS
+MNST,Monster Beverage,Food Beverage Tobacco,GICS
+CELH,Celsius Holdings,Food Beverage Tobacco,GICS
+KO,Coca-Cola,Food Beverage Tobacco,GICS
+TSM,TSMC,Semiconductors,A-待执行
+BRK.B,Berkshire Hathaway,Conglomerates,A-待执行
+VST,Vistra,Utilities-IPP,A-待执行
+MELI,MercadoLibre,Ecommerce,F-memory
+EXEL,Exelixis,Biotech,F-memory
+BR,Broadridge,Fintech services,F-memory
+AXTI,AXT Inc,InP衬底 S级,D-bottleneck
+ONTO,Onto Innovation,ABF载板在线检测 S级,D-bottleneck
+FORM,FormFactor,HBM探针卡 A-级,D-bottleneck
+VECO,Veeco Instruments,InP外延MOCVD设备 A+级,D-bottleneck
+FN,Fabrinet,1.6T光模块制造 S1链,D-bottleneck
+3324.TW,双鸿 Auras,液冷冷板 A+级,D-bottleneck
+3016.TW,嘉晶 EPI,InP/GaAs外延 S2链,D-bottleneck
+6510.TW,精测 Chun,探针卡 A-级,D-bottleneck
+1513.TW,中兴电 CDC,重电GIS变压器 S6,D-bottleneck
+3081.TW,联亚 LandMark,InP激光外延 S2级,D-bottleneck
+DHI,D.R. Horton,Homebuilding,D5-伯克希尔Q2新建
