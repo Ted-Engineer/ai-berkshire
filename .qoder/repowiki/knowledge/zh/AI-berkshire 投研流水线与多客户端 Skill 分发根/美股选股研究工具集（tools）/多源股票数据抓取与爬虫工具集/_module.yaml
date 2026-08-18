@@ -1,0 +1,18 @@
+schema_version: 1
+module_path: stock_screening_tools/data_fetch_scrape
+title: 多源股票数据抓取与爬虫工具集
+scope:
+    - tools/fetch_quotes.py
+    - tools/fetch_v2.py
+    - tools/fetch_candidate_pool.py
+    - tools/realtime_fetch.py
+    - tools/finviz_quote.py
+    - tools/sa_quote.py
+    - tools/twstock_data.py
+    - tools/xueqiu_scraper.py
+    - tools/ashare_data.py
+    - tools/morningstar_fair_value.py
+source_files: []
+depends_on: []
+related_to:
+    - path: stock_screening_tools/screener_ranker

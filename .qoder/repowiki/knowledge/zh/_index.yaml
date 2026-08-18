@@ -1,0 +1,272 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: zh-CN
+branch: main
+nodes_managed: true
+exported_at: "2026-08-18T11:16:48Z"
+modules:
+    "":
+        dir_name: AI-berkshire 投研流水线与多客户端 Skill 分发根
+        title: AI-berkshire 投研流水线与多客户端 Skill 分发根
+        scope:
+            - README.md
+            - CODE_OF_CONDUCT.md
+            - SECURITY.md
+            - CONTEXT.md
+            - AGENTS.md
+            - task_plan.md
+            - findings.md
+            - prompt.md
+            - skills-lock.json
+            - .editorconfig
+        source_files: []
+        children:
+            - agent_skills
+            - claude_workspace
+            - documentation
+            - investment_data_artifacts
+            - research_scripts
+            - stock_screening_tools
+        depends_on: []
+        related_to: []
+    agent_skills:
+        dir_name: Claude Code 技能集与微信桥接
+        title: Claude Code 技能集与微信桥接
+        scope:
+            - skills/
+        source_files: []
+        children:
+            - agent_skills/coding_design_skills
+            - agent_skills/research_investment_skills
+            - agent_skills/wechat_claude_code
+        depends_on: []
+        related_to: []
+    agent_skills/coding_design_skills:
+        dir_name: Claude Code 可插拔技能集合
+        title: Claude Code 可插拔技能集合
+        scope:
+            - skills/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: agent_skills/research_investment_skills
+    agent_skills/research_investment_skills:
+        dir_name: 投研与工程 Prompt Skill 集
+        title: 投研与工程 Prompt Skill 集
+        scope:
+            - skills/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: agent_skills/coding_design_skills
+            - path: documentation
+            - path: stock_screening_tools/financial_rigor_audit
+    agent_skills/wechat_claude_code:
+        dir_name: WeChat Claude Code 技能（企业微信 iLink Bot 桥接服务）
+        title: WeChat Claude Code 技能（企业微信 iLink Bot 桥接服务）
+        scope:
+            - skills/wechat-claude-code/
+        source_files: []
+        children:
+            - agent_skills/wechat_claude_code/claude_integration
+            - agent_skills/wechat_claude_code/commands_tools_core
+            - agent_skills/wechat_claude_code/tests
+            - agent_skills/wechat_claude_code/wechat_api
+        depends_on: []
+        related_to: []
+    agent_skills/wechat_claude_code/claude_integration:
+        dir_name: Claude CLI 集成层（查询、技能扫描与流式路由）
+        title: Claude CLI 集成层（查询、技能扫描与流式路由）
+        scope:
+            - skills/wechat-claude-code/src/claude/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []
+    agent_skills/wechat_claude_code/commands_tools_core:
+        dir_name: 微信-Claude Code 命令路由与日志可视化工具
+        title: 微信-Claude Code 命令路由与日志可视化工具
+        scope:
+            - skills/wechat-claude-code/src/commands/
+            - skills/wechat-claude-code/src/tools/
+            - skills/wechat-claude-code/src/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: agent_skills/wechat_claude_code/tests
+    agent_skills/wechat_claude_code/tests:
+        dir_name: WeChat Claude Code 流式处理与工具噪声过滤测试套件
+        title: WeChat Claude Code 流式处理与工具噪声过滤测试套件
+        scope:
+            - skills/wechat-claude-code/src/tests/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: agent_skills/wechat_claude_code/commands_tools_core
+    agent_skills/wechat_claude_code/wechat_api:
+        dir_name: 企业微信 iLink Bot API 客户端
+        title: 企业微信 iLink Bot API 客户端
+        scope:
+            - skills/wechat-claude-code/src/wechat/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []
+    claude_workspace:
+        dir_name: 多AI编辑器统一工作区配置（Claude_ZCode_Trae_Dsh）
+        title: 多AI编辑器统一工作区配置（Claude/ZCode/Trae/Dsh）
+        scope:
+            - .claude/
+            - .dsh/
+            - .trae/
+            - .zcode/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: research_scripts
+    documentation:
+        dir_name: 项目文档与架构决策记录
+        title: 项目文档与架构决策记录
+        scope:
+            - docs/
+            - research/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: agent_skills/research_investment_skills
+    investment_data_artifacts:
+        dir_name: 投研候选池、深度报告与实盘纪律归档
+        title: 投研候选池、深度报告与实盘纪律归档
+        scope:
+            - 实盘记录/
+            - 筛选公司/
+            - reports/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: stock_screening_tools/screener_ranker
+    research_scripts:
+        dir_name: 研究数据抓取、工作流钩子与多 IDE Skill 同步脚本
+        title: 研究数据抓取、工作流钩子与多 IDE Skill 同步脚本
+        scope:
+            - scripts/
+            - tests/
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: claude_workspace
+            - path: stock_screening_tools/screener_ranker
+    stock_screening_tools:
+        dir_name: 美股选股研究工具集（tools）
+        title: 美股选股研究工具集（tools）
+        scope:
+            - tools/
+        source_files: []
+        children:
+            - stock_screening_tools/data_fetch_scrape
+            - stock_screening_tools/financial_rigor_audit
+            - stock_screening_tools/report_generation
+            - stock_screening_tools/screener_ranker
+        depends_on: []
+        related_to: []
+    stock_screening_tools/data_fetch_scrape:
+        dir_name: 多源股票数据抓取与爬虫工具集
+        title: 多源股票数据抓取与爬虫工具集
+        scope:
+            - tools/fetch_quotes.py
+            - tools/fetch_v2.py
+            - tools/fetch_candidate_pool.py
+            - tools/realtime_fetch.py
+            - tools/finviz_quote.py
+            - tools/sa_quote.py
+            - tools/twstock_data.py
+            - tools/xueqiu_scraper.py
+            - tools/ashare_data.py
+            - tools/morningstar_fair_value.py
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: stock_screening_tools/screener_ranker
+    stock_screening_tools/financial_rigor_audit:
+        dir_name: 财务严谨性审计与估值分析工具集
+        title: 财务严谨性审计与估值分析工具集
+        scope:
+            - tools/deep_analysis.py
+            - tools/financial_rigor.py
+            - tools/intrinsic.py
+            - tools/justified.py
+            - tools/sec_verify.py
+            - tools/indep_audit.py
+            - tools/report_audit.py
+            - tools/insider_chk.py
+            - tools/pf_check.py
+            - tools/sbc_check.py
+            - tools/mandate_v2.py
+            - tools/final_mandate.py
+            - tools/guide_extract.py
+            - tools/extract_all_scores.py
+            - tools/extract_v3.py
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: agent_skills/research_investment_skills
+    stock_screening_tools/report_generation:
+        dir_name: 选股报告生成与校验工具集
+        title: 选股报告生成与校验工具集
+        scope:
+            - tools/detail_table.py
+            - tools/hist_pe.py
+            - tools/hist_trend.py
+            - tools/final_conclusion.py
+            - tools/final2.py
+            - tools/fix_body.py
+            - tools/fix_conclusion.py
+            - tools/fix_crm_tag.py
+            - tools/ttm_eps_fix.py
+            - tools/ttm_rigorous.py
+            - tools/momentum_backtest.py
+            - tools/momentum_backtest_v2.py
+            - tools/log-command.sh
+            - tools/xverify.py
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: stock_screening_tools/screener_ranker
+    stock_screening_tools/screener_ranker:
+        dir_name: 美股选股筛与候选排序工具集
+        title: 美股选股筛与候选排序工具集
+        scope:
+            - tools/stock_screener.py
+            - tools/bubble_rank.py
+            - tools/candidate_ranker.py
+            - tools/final_bubble_rank.py
+            - tools/final_bubble_rank_v2.py
+            - tools/final_bubble_v4.py
+            - tools/fresh_bubble_v5.py
+            - tools/portfolio_bubble_0810.py
+            - tools/screen5.py
+            - tools/rigorous_screen.py
+            - tools/full_market_scan.py
+            - tools/mega_scan.py
+            - tools/montecarlo_5000_screen.py
+            - tools/recheck_rank.py
+            - tools/tiebreak2.py
+        source_files: []
+        children: []
+        depends_on: []
+        related_to:
+            - path: investment_data_artifacts
+            - path: research_scripts
+            - path: stock_screening_tools/data_fetch_scrape
+            - path: stock_screening_tools/report_generation

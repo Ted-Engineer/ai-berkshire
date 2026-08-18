@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: agent_skills/wechat_claude_code/wechat_api
+title: 企业微信 iLink Bot API 客户端
+scope:
+    - skills/wechat-claude-code/src/wechat/
+source_files: []
+depends_on: []
+related_to: []

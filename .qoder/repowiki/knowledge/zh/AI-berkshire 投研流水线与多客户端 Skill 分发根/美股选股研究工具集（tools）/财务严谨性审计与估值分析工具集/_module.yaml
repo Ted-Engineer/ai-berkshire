@@ -1,0 +1,23 @@
+schema_version: 1
+module_path: stock_screening_tools/financial_rigor_audit
+title: 财务严谨性审计与估值分析工具集
+scope:
+    - tools/deep_analysis.py
+    - tools/financial_rigor.py
+    - tools/intrinsic.py
+    - tools/justified.py
+    - tools/sec_verify.py
+    - tools/indep_audit.py
+    - tools/report_audit.py
+    - tools/insider_chk.py
+    - tools/pf_check.py
+    - tools/sbc_check.py
+    - tools/mandate_v2.py
+    - tools/final_mandate.py
+    - tools/guide_extract.py
+    - tools/extract_all_scores.py
+    - tools/extract_v3.py
+source_files: []
+depends_on: []
+related_to:
+    - path: agent_skills/research_investment_skills

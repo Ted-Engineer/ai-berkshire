@@ -1,12 +1,13 @@
-
-2026-08-18T08:24:00Z | WebSearch | biggest stock movers today August 18 2026
-2026-08-18T08:24:00Z | WebSearch | stock market selloff August 18 2026 tech stocks drop reason
-2026-08-18T08:24:00Z | WebSearch | Alibaba BABA stock surge premarket August 2026
-2026-08-18T09:03:36Z | WebSearch | Adobe Q2 FY2026 earnings revenue AI ARR Firefly 2026
-2026-08-18T09:03:36Z | WebSearch | Adobe stock analyst target price valuation August 2026
-2026-08-18T09:03:36Z | WebSearch | Adobe AI competition Canva Figma disruption creative tools 2026
-2026-08-18T09:03:36Z | WebSearch | Adobe CEO succession CFO departure 2026 stock risk
-2026-08-18T08:45:00Z | WebSearch | semiconductor revenue growth 50% AI 2026 stocks earnings beat
-2026-08-18T08:45:01Z | WebSearch | data center power demand IPP stocks earnings 2026 August
-2026-08-18T08:45:02Z | WebSearch | biggest earnings movers this week August 2026 stocks surge
-2026-08-18T08:45:03Z | WebSearch | AI cloud GPU neocloud providers revenue growth 2026 stocks
+2026-08-18T11:26Z | WebSearch | biggest stock movers today August 18 2026
+2026-08-18T11:26Z | WebSearch | CBOE VIX index today August 2026
+2026-08-18T11:27Z | WebSearch | Nasdaq 100 NDX distance from 52 week high August 2026
+2026-08-18T11:27Z | WebSearch | S&P 500 percent stocks above 200 day moving average August 2026
+2026-08-18T11:27Z | WebSearch | CNN fear greed index today August 2026
+2026-08-18T11:28Z | WebSearch | IPO market August 2026 new listings first day performance
+2026-08-18T11:35Z | WebSearch | AI cloud GPU rental neocloud providers revenue growth 2026
+2026-08-18T11:35Z | WebSearch | 800G 1.6T optical module demand growth stocks 2026
+2026-08-18T11:35Z | WebSearch | China consumer stimulus recovery stocks 2026
+2026-08-18T11:35Z | WebSearch | gold miners precious metals royalty stocks 2026
+2026-08-18T11:36Z | Agent-H | 爆发股猎手4轮×5组=20+次搜索(增速/拐点/赛道/被忽视)
+2026-08-18T11:36Z | Agent-B | GICS 12行业×2视角=19次搜索
+2026-08-18T11:36Z | Agent-G | 生态链6次+D6财报催化5次=11次搜索

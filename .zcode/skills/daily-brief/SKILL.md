@@ -55,10 +55,29 @@ Read `reports/portfolio-latest.md` 确认持仓。计算每只股票盈亏%、�
 
 Read `config/watchlist.md`（价格触发）与 `config/catalysts.md`（日期触发）：
 
-- 现价进入触发价区间（或距触发价 ±3% 以内）→ 🔔 在简报顶部显著标注"XX 触发/接近触发"，提示按零复用铁律重跑 `/investment-checklist {标的}` 后再决策
+- 现价进入触发价区间（或距触发价 ±3% 以内）→ 🔔 在简报顶部显著标注“XX 触发/接近触发”，提示按零复用铁律重跑 `/investment-checklist {标的}` 后再决策
 - catalysts 中 7 天内到期的事件 → 🔔 同样置顶标注（事件名+判据+预设动作）
 - 条目超 30 天未重验 → 标注 `⚠️需重验`
 - 本步骤只提醒不构成买入指令（8-13 NBIS 踏空的结构性补丁）
+
+### Step 3.6: AI子行业温度判定（v5.3新增，必须）
+
+按 `config/portfolio-targets.md` "AI子行业温度动态规则"执行双层判定：
+
+1. **AI整体水位**：搜索 "AI capex guidance hyperscaler"、"AI revenue growth"、"AI infrastructure bottleneck" → 确认🟢/🟡/🟠/🔴
+2. **三子类水位**：
+   - AI硬件：搜索 "CoWoS HBM supply"、"TSM monthly revenue"、"IPP PPA contract"
+   - AI软件：搜索 "AI ARR SaaS"、"AI software valuation"、"Copilot adoption"
+   - AI平台：搜索 "META GOOGL FCF capex"、"hyperscaler buyback"
+3. **输出**：在简报中输出“AI温度”栏：整体水位 + 三子类水位 + 当前应配比例 vs 实际比例 + 偏差提示
+
+### Step 3.7: 加密市场温度判定（v5.4新增，必须）
+
+按 `config/portfolio-targets.md` "加密市场温度动态规则"执行：
+
+1. 搜索 "bitcoin price ATH distance"、"crypto fear greed index"、"bitcoin ETF flows"、"crypto regulation"
+2. 确认加密水位（🟢积累/🟡复苏/🟠狂热/🔴崩盘）
+3. 输出：在简报中输出“加密温度”栏：水位 + 应配比例 + 内部路径（修复/爆发）+ 偏差提示
 
 ### Step 4: 输出简报
 

@@ -1,0 +1,11 @@
+schema_version: 1
+module_path: investment_data_artifacts
+title: 投研候选池、深度报告与实盘纪律归档
+scope:
+    - 实盘记录/
+    - 筛选公司/
+    - reports/
+source_files: []
+depends_on: []
+related_to:
+    - path: stock_screening_tools/screener_ranker

@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: agent_skills/wechat_claude_code/claude_integration
+title: Claude CLI 集成层（查询、技能扫描与流式路由）
+scope:
+    - skills/wechat-claude-code/src/claude/
+source_files: []
+depends_on: []
+related_to: []

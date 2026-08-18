@@ -1,6 +1,6 @@
 ---
 name: private-company-research
-description: "未上市公司研究：多Agent并行深度研究框架"
+description: "未上市公司研究:多Agent并行深度研究框架,专为未上市/Pre-IPO公司设计。当用户想研究蚂蚁集团、小红书、SpaceX等未上市公司的投资价值时调用。"
 ---
 
 # 未上市公司研究：多Agent并行深度研究框架

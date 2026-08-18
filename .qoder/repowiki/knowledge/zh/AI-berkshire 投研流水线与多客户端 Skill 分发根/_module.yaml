@@ -1,0 +1,17 @@
+schema_version: 1
+module_path: ""
+title: AI-berkshire 投研流水线与多客户端 Skill 分发根
+scope:
+    - README.md
+    - CODE_OF_CONDUCT.md
+    - SECURITY.md
+    - CONTEXT.md
+    - AGENTS.md
+    - task_plan.md
+    - findings.md
+    - prompt.md
+    - skills-lock.json
+    - .editorconfig
+source_files: []
+depends_on: []
+related_to: []

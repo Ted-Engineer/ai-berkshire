@@ -49,13 +49,22 @@ This skill is generated from `skills/portfolio-review.md` so Claude Code and Cod
 
 同时检查是否存在已有的组合文件（`reports/portfolio-latest.md`），如有则读取并更新。
 
-### 第二步：获取最新数据
+### 第二步：获取最新数据（含延时交易价格）
 
 使用 Task 工具启动后台 Agent，通过 WebSearch 为每个持仓并行获取：
 1. 当前股价和估值指标（PE、PB、股息率）
-2. 最近一个季度的关键财务变化
-3. 近期重大事件
-4. 分析师一致预期（前瞻PE、目标价）
+2. **延时交易价格（必须）**：夜盘（after-hours）和盘前（pre-market）最后成交价及变动幅度
+3. 最近一个季度的关键财务变化
+4. 近期重大事件
+5. 分析师一致预期（前瞻PE、目标价）
+
+**延时价格获取方法**：使用 Yahoo Finance v8 chart API 带 `includePrePost=true` 参数：
+```
+https://query1.finance.yahoo.com/v8/finance/chart/{TICKER}?interval=1m&range=1d&includePrePost=true
+```
+从返回的 timestamp+close 序列中取最后一个有效成交，判断时段（≥16:00 ET=夜盘，<9:30 ET=盘前，其余=盘中）。
+
+**报告呈现要求**：持仓表必须同时展示「收盘价」「夜盘/盘前价」「延时vs收盘变动」三列；组合市值以最新可得价格（延时 > 收盘）计算；夜盘变动>±1%的标的单独标注为异动信号。
 
 对每个持仓使用 `tools/financial_rigor.py verify-valuation` 校验估值数据。对每只持仓标注信息丰富度（A/B/C级），C级持仓的分析结论标注低置信度。
 

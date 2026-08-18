@@ -1,6 +1,6 @@
 ---
 name: thesis-drift
-description: "投资论文漂移检测：分清事实变化与措辞变化"
+description: "投资论文漂移检测:区分事实变化与措辞变化,判定论文是否仍有效。当用户想检查对某公司的投资论文是否仍然成立时调用。"
 ---
 
 # 投资论文漂移检测：分清事实变化与措辞变化
@@ -75,7 +75,7 @@ description: "投资论文漂移检测：分清事实变化与措辞变化"
 所有数值变化必须使用 `tools/financial_rigor.py` 做精确计算，禁止 LLM 心算：
 
 ```bash
-python3 tools/financial_rigor.py verify-valuation \
+python tools/financial_rigor.py verify-valuation \
   --price {当前价格} \
   --eps {EPS} \
   --bvps {每股净资产} \
@@ -85,10 +85,10 @@ python3 tools/financial_rigor.py verify-valuation \
 如需计算市值、百分比变化、目标价差异或情景估值，使用：
 
 ```bash
-python3 tools/financial_rigor.py verify-market-cap --price {价格} --shares {股本} --reported {报告市值} --currency {币种}
-python3 tools/financial_rigor.py cross-validate --field {字段} --values '{JSON}' --unit {单位}
-python3 tools/financial_rigor.py three-scenario --price {价格} --eps {EPS} --shares {股本亿} --growth {乐观} {中性} {悲观} --pe {乐观PE} {中性PE} {悲观PE}
-python3 tools/financial_rigor.py calc --expr '{精确算式}'
+python tools/financial_rigor.py verify-market-cap --price {价格} --shares {股本} --reported {报告市值} --currency {币种}
+python tools/financial_rigor.py cross-validate --field {字段} --values '{JSON}' --unit {单位}
+python tools/financial_rigor.py three-scenario --price {价格} --eps {EPS} --shares {股本亿} --growth {乐观} {中性} {悲观} --pe {乐观PE} {中性PE} {悲观PE}
+python tools/financial_rigor.py calc --expr '{精确算式}'
 ```
 
 关键财务数据必须至少两处独立来源交叉验证。来源不足、口径不一致、无法复核的数字必须标注为"低置信度 / 待核实"。

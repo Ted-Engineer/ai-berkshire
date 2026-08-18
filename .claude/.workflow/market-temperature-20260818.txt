@@ -1,0 +1,8 @@
+Market Temperature Assessment (2026-08-18):
+Signal 1: NDX距52周高点 = 2.3% (30,050 vs 30,762) → 🔴(<3%)
+Signal 2: VIX = 15.03-15.81 → 🟠(low but >14)
+Signal 3: S&P 500 breadth = 72.76% above 200DMA → 🟢(healthy)
+Signal 4: Fear & Greed = 65-74 (Greed) → 🟠
+Signal 5: IPO = record pace, 17 pricings this week → 🔴
+VERDICT: 🟠高位 (2🔴+2🟠+1🟢, 信号矛盾取保守)
+Cash floor: 35-45% | 进攻强度: 只触发价买入，不追

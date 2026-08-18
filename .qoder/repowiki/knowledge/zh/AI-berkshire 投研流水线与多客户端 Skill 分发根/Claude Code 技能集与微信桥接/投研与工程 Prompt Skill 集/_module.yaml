@@ -1,0 +1,11 @@
+schema_version: 1
+module_path: agent_skills/research_investment_skills
+title: 投研与工程 Prompt Skill 集
+scope:
+    - skills/
+source_files: []
+depends_on: []
+related_to:
+    - path: agent_skills/coding_design_skills
+    - path: documentation
+    - path: stock_screening_tools/financial_rigor_audit

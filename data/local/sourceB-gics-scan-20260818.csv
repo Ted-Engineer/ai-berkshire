@@ -1,0 +1,101 @@
+ticker,公司名,GICS行业,发现搜索词
+NVDA,NVIDIA,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+AVGO,Broadcom,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+MRVL,Marvell Technology,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+AMD,Advanced Micro Devices,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+AMAT,Applied Materials,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+LRCX,Lam Research,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+MU,Micron Technology,信息技术-半导体,HBM memory shortage beneficiary stocks
+ASML,ASML Holding,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+ALAB,Astera Labs,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+ARM,Arm Holdings,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+INTC,Intel,信息技术-半导体,hardware margin expansion turnaround stocks
+ON,ON Semiconductor,信息技术-半导体,semiconductor revenue growth 50% AI 2026
+CRWD,CrowdStrike,信息技术-SaaS,SaaS NRR 120% net revenue retention stocks 2026
+SNOW,Snowflake,信息技术-SaaS,SaaS NRR 120% net revenue retention stocks 2026
+DDOG,Datadog,信息技术-SaaS,SaaS NRR 120% net revenue retention stocks 2026
+NET,Cloudflare,信息技术-SaaS,SaaS NRR 120% net revenue retention stocks 2026
+TWLO,Twilio,信息技术-SaaS,SaaS NRR 120% net revenue retention stocks 2026
+PLTR,Palantir Technologies,信息技术-AI软件,AI agent software ARR growth triple digit 2026
+CRM,Salesforce,信息技术-AI软件,AI agent software ARR growth triple digit 2026
+NOW,ServiceNow,信息技术-AI软件,AI agent software ARR growth triple digit 2026
+WDAY,Workday,信息技术-AI软件,AI agent software ARR growth triple digit 2026
+SAP,SAP SE,信息技术-SaaS,SaaS NRR 120% net revenue retention stocks 2026
+ZS,Zscaler,信息技术-SaaS,SaaS NRR 120% net revenue retention stocks 2026
+DELL,Dell Technologies,信息技术-硬件,server storage networking AI demand revenue surge 2026
+SMCI,Super Micro Computer,信息技术-硬件,server storage networking AI demand revenue surge 2026
+CLS,Celestica,信息技术-硬件,server storage networking AI demand revenue surge 2026
+ANET,Arista Networks,信息技术-网络,server storage networking AI demand revenue surge 2026
+V,Visa,金融-支付,fintech transaction volume TPV growth 2026
+MA,Mastercard,金融-支付,fintech transaction volume TPV growth 2026
+PYPL,PayPal,金融-支付,fintech transaction volume TPV growth 2026
+XYZ,Block (Square),金融-支付,fintech transaction volume TPV growth 2026
+NU,Nu Holdings,金融-金融科技,fintech transaction volume TPV growth 2026
+HOOD,Robinhood,金融-金融科技,fintech transaction volume TPV growth 2026
+SOFI,SoFi Technologies,金融-金融科技,fintech transaction volume TPV growth 2026
+AFRM,Affirm,金融-金融科技,fintech transaction volume TPV growth 2026
+INTU,Intuit,金融-金融科技,fintech transaction volume TPV growth 2026
+TOST,Toast,金融-金融科技,fintech transaction volume TPV growth 2026
+PGR,Progressive,金融-保险,insurance hard market combined ratio improvement 2026
+CB,Chubb,金融-保险,insurance hard market combined ratio improvement 2026
+ACGL,Arch Capital Group,金融-保险,insurance hard market combined ratio improvement 2026
+ALL,Allstate,金融-保险,insurance hard market combined ratio improvement 2026
+WRB,W.R. Berkley,金融-保险,insurance hard market combined ratio improvement 2026
+TRV,Travelers Companies,金融-保险,insurance hard market combined ratio improvement 2026
+LMT,Lockheed Martin,工业-国防,defense stocks record backlog order growth 2026
+RTX,RTX Corp,工业-国防,defense stocks record backlog order growth 2026
+NOC,Northrop Grumman,工业-国防,defense stocks record backlog order growth 2026
+GD,General Dynamics,工业-国防,defense stocks record backlog order growth 2026
+HWM,Howmet Aerospace,工业-国防,defense stocks record backlog order growth 2026
+KRMN,Karman Holdings,工业-国防,defense stocks record backlog order growth 2026
+LHX,L3Harris Technologies,工业-国防,defense stocks record backlog order growth 2026
+ETN,Eaton Corp,工业-电气设备,electrical equipment grid capex beneficiary stocks
+VRT,Vertiv Holdings,工业-电气设备,electrical equipment grid capex beneficiary stocks
+PWR,Quanta Services,工业-电气设备,electrical equipment grid capex beneficiary stocks
+GEV,GE Vernova,工业-电气设备,electrical equipment grid capex beneficiary stocks
+EMR,Emerson Electric,工业-电气设备,electrical equipment grid capex beneficiary stocks
+POWL,Powell Industries,工业-电气设备,electrical equipment grid capex beneficiary stocks
+HUBB,Hubbell Inc,工业-电气设备,electrical equipment grid capex beneficiary stocks
+DNLI,Denali Therapeutics,医疗保健-生物科技,biotech pipeline catalysts FDA approvals 2026
+SRPT,Sarepta Therapeutics,医疗保健-生物科技,biotech pipeline catalysts FDA approvals 2026
+ARGX,argenx SE,医疗保健-生物科技,biotech pipeline catalysts FDA approvals 2026
+ISRG,Intuitive Surgical,医疗保健-医疗器械,medical device new product cycle FDA approvals 2026
+EW,Edwards Lifesciences,医疗保健-医疗器械,medical device new product cycle FDA approvals 2026
+MDT,Medtronic,医疗保健-医疗器械,medical device new product cycle FDA approvals 2026
+BSX,Boston Scientific,医疗保健-医疗器械,medical device new product cycle FDA approvals 2026
+CAH,Cardinal Health,医疗保健-医疗器械,medical device new product cycle FDA approvals 2026
+LNG,Cheniere Energy,能源-天然气,natural gas pipeline LNG capacity expansion stocks
+EQT,EQT Corporation,能源-天然气,natural gas pipeline LNG capacity expansion stocks
+EXE,Expand Energy,能源-天然气,natural gas pipeline LNG capacity expansion stocks
+AR,Antero Resources,能源-天然气,natural gas pipeline LNG capacity expansion stocks
+GPOR,Gulfport Energy,能源-天然气,natural gas pipeline LNG capacity expansion stocks
+NFE,New Fortress Energy,能源-天然气,natural gas pipeline LNG capacity expansion stocks
+VST,Vistra Corp,公用事业-电力,nuclear renewable capacity expansion IPP stocks
+CEG,Constellation Energy,公用事业-电力,nuclear renewable capacity expansion IPP stocks
+CCJ,Cameco Corp,公用事业-核能,nuclear renewable capacity expansion IPP stocks
+OKLO,Oklo Inc,公用事业-核能,nuclear renewable capacity expansion IPP stocks
+SMR,NuScale Power,公用事业-核能,nuclear renewable capacity expansion IPP stocks
+NEE,NextEra Energy,公用事业-电力,utility data center power demand growth 2026
+UEC,Uranium Energy Corp,公用事业-核能,nuclear renewable capacity expansion IPP stocks
+NXE,NexGen Energy,公用事业-核能,nuclear renewable capacity expansion IPP stocks
+BE,Bloom Energy,公用事业-电力,utility data center power demand growth 2026
+TNL,Travel + Leisure,消费者-旅游,travel leisure cruise stocks earnings beat 2026
+CCL,Carnival Corp,消费者-旅游,travel leisure cruise stocks earnings beat 2026
+RCL,Royal Caribbean,消费者-旅游,travel leisure cruise stocks earnings beat 2026
+NCLH,Norwegian Cruise Line,消费者-旅游,travel leisure cruise stocks earnings beat 2026
+VIK,Viking Holdings,消费者-旅游,travel leisure cruise stocks earnings beat 2026
+CAVA,CAVA Group,消费者-餐饮,restaurant same store sales growth stocks
+CMG,Chipotle Mexican Grill,消费者-餐饮,restaurant same store sales growth stocks
+WING,Wingstop,消费者-餐饮,restaurant same store sales growth stocks
+QSR,Restaurant Brands Intl,消费者-餐饮,restaurant same store sales growth stocks
+SG,Sweetgreen,消费者-餐饮,restaurant same store sales growth stocks
+BROS,Dutch Bros,消费者-餐饮,restaurant same store sales growth stocks
+FCX,Freeport-McMoRan,材料-矿业,lithium uranium copper miners production growth 2026
+SCCO,Southern Copper,材料-矿业,lithium uranium copper miners production growth 2026
+ALB,Albemarle Corp,材料-矿业,lithium uranium copper miners production growth 2026
+SQM,Sociedad Quimica y Minera,材料-矿业,lithium uranium copper miners production growth 2026
+LAC,Lithium Americas,材料-矿业,lithium uranium copper miners production growth 2026
+SGML,Sigma Lithium,材料-矿业,lithium uranium copper miners production growth 2026
+AEM,Agnico Eagle Mines,材料-矿业,lithium uranium copper miners production growth 2026
+EQIX,Equinix,房地产-数据中心REIT,data center REIT FFO growth 2026
+DLR,Digital Realty Trust,房地产-数据中心REIT,data center REIT FFO growth 2026
