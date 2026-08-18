@@ -1,6 +1,6 @@
 schema_version: 1
 module_path: agent_skills
-title: Claude Code 技能集与微信桥接
+title: Claude Code 技能集（skills/）
 scope:
     - skills/
 source_files: []

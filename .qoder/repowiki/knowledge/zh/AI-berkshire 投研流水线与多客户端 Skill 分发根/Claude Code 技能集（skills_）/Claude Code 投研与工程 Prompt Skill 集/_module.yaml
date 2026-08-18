@@ -1,6 +1,6 @@
 schema_version: 1
 module_path: agent_skills/research_investment_skills
-title: 投研与工程 Prompt Skill 集
+title: Claude Code 投研与工程 Prompt Skill 集
 scope:
     - skills/
 source_files: []

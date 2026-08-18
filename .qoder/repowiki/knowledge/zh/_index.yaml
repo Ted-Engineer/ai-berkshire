@@ -3,7 +3,7 @@ schema_version: 1
 locale: zh-CN
 branch: main
 nodes_managed: true
-exported_at: "2026-08-18T11:16:48Z"
+exported_at: "2026-08-18T15:59:00Z"
 modules:
     "":
         dir_name: AI-berkshire 投研流水线与多客户端 Skill 分发根
@@ -30,8 +30,8 @@ modules:
         depends_on: []
         related_to: []
     agent_skills:
-        dir_name: Claude Code 技能集与微信桥接
-        title: Claude Code 技能集与微信桥接
+        dir_name: Claude Code 技能集（skills_）
+        title: Claude Code 技能集（skills/）
         scope:
             - skills/
         source_files: []
@@ -42,8 +42,8 @@ modules:
         depends_on: []
         related_to: []
     agent_skills/coding_design_skills:
-        dir_name: Claude Code 可插拔技能集合
-        title: Claude Code 可插拔技能集合
+        dir_name: Claude Code 可插拔技能集（编码与设计）
+        title: Claude Code 可插拔技能集（编码与设计）
         scope:
             - skills/
         source_files: []
@@ -52,8 +52,8 @@ modules:
         related_to:
             - path: agent_skills/research_investment_skills
     agent_skills/research_investment_skills:
-        dir_name: 投研与工程 Prompt Skill 集
-        title: 投研与工程 Prompt Skill 集
+        dir_name: Claude Code 投研与工程 Prompt Skill 集
+        title: Claude Code 投研与工程 Prompt Skill 集
         scope:
             - skills/
         source_files: []
@@ -117,8 +117,8 @@ modules:
         depends_on: []
         related_to: []
     claude_workspace:
-        dir_name: 多AI编辑器统一工作区配置（Claude_ZCode_Trae_Dsh）
-        title: 多AI编辑器统一工作区配置（Claude/ZCode/Trae/Dsh）
+        dir_name: 多AI编辑器工作区与技能共享配置
+        title: 多AI编辑器工作区与技能共享配置
         scope:
             - .claude/
             - .dsh/

@@ -31,32 +31,37 @@
 - [tools/stock_screener.py](file://tools/stock_screener.py)
 - [tools/morningstar_fair_value.py](file://tools/morningstar_fair_value.py)
 - [tools/report_audit.py](file://tools/report_audit.py)
+- [scripts/search-tracker-hook.sh](file://scripts/search-tracker-hook.sh)
+- [.claude/.workflow/search-log.txt](file://.claude/.workflow/search-log.txt)
+- [.claude/.workflow/candidates.csv](file://.claude/.workflow/candidates.csv)
+- [.claude/.workflow/SEARCH-TOOLKIT.md](file://.claude/.workflow/SEARCH-TOOLKIT.md)
 </cite>
 
 ## 更新摘要
 **所做更改**
-- 新增DSH（DeepSeek Harness）平台完整支持章节，包含20个项目级技能
-- 更新多平台同步架构说明，涵盖Claude Code、Codex、TRAE和DSH四大平台
-- 增强平台特定适配器机制说明，包括工具映射和权限管理
-- 更新技能分发与同步流程，实现统一的工作流管理
-- 补充各平台工具映射差异和最佳实践指南
+- 新增搜索工作流和日志机制的详细章节，包含精确UTC时间戳和具体工具标识符的使用
+- 更新自动化研究管道的可追溯性和调试能力说明
+- 增强候选跟踪系统的清理和重置流程描述
+- 补充搜索工具链的多平台适配和故障恢复机制
+- 更新技能执行过程中的监控和审计功能
 
 ## 目录
 1. [简介](#简介)
 2. [项目结构](#项目结构)
 3. [核心组件](#核心组件)
 4. [多平台支持架构](#多平台支持架构)
-5. [详细组件分析](#详细组件分析)
-6. [依赖关系分析](#依赖关系分析)
-7. [性能与扩展性](#性能与扩展性)
-8. [故障排查指南](#故障排查指南)
-9. [结论](#结论)
-10. [附录](#附录)
+5. [搜索工作流与日志机制](#搜索工作流与日志机制)
+6. [详细组件分析](#详细组件分析)
+7. [依赖关系分析](#依赖关系分析)
+8. [性能与扩展性](#性能与扩展性)
+9. [故障排查指南](#故障排查指南)
+10. [结论](#结论)
+11. [附录](#附录)
 
 ## 简介
 本仓库围绕"AI技能系统"构建，将投资研究流程拆解为可复用、可组合的"技能（Skill）"。每个技能以声明式描述（SKILL.md）定义其目标、输入参数、处理步骤与输出规范；通过安装脚本与同步工具进行注册与分发；在运行时由调度器按任务需求选择并编排多个技能协作完成复杂投研工作流。现有20+个专业投资研究技能覆盖企业深度研究、财报审阅、行业分析、投资组合审查等关键场景，并提供质量筛选、瓶颈识别、主题跟踪、新闻追踪等辅助能力。
 
-**最新更新**：系统现已全面支持DSH（DeepSeek Harness）平台，实现了Claude Code、Codex、TRAE和DSH四大平台的统一技能管理，所有20个项目级技能在各平台间保持完全同步，提供一致的投资研究体验。
+**最新更新**：系统现已全面支持DSH（DeepSeek Harness）平台，实现了Claude Code、Codex、TRAE和DSH四大平台的统一技能管理，所有20个项目级技能在各平台间保持完全同步，提供一致的投资研究体验。同时大幅改进了搜索工作流和日志机制，提升了自动化研究管道的可追溯性和调试能力。
 
 ## 项目结构
 - **技能定义**：位于 `skills/*.md`，作为单一事实来源（Single Source of Truth），采用统一的结构化格式描述技能元数据、参数、步骤与输出。
@@ -216,6 +221,96 @@ K --> L
 **图表来源**
 - [AGENTS.md:35-43](file://AGENTS.md#L35-L43)
 - [scripts/sync-dsh-skills.py:176-226](file://scripts/sync-dsh-skills.py#L176-L226)
+
+## 搜索工作流与日志机制
+
+### 搜索工具链架构
+系统实现了多层次的搜索工具链，支持多种搜索源和回退机制，确保在各种情况下都能获取所需信息：
+
+```mermaid
+flowchart TD
+A[搜索请求] --> B{工具可用性检查}
+B --> |MCP WebSearch| C[mcp-web-search]
+B --> |Kepler Search| D[mcp-kepler-search]
+B --> |WebSearch Prime| E[mcp-web-search-prime]
+B --> |内置WebSearch| F[builtin-websearch]
+B --> |配额耗尽| G[回退链]
+G --> H[Brave搜索]
+G --> I[Google News RSS]
+G --> J[Yahoo Finance API]
+C --> K[日志记录]
+D --> K
+E --> K
+F --> K
+H --> K
+I --> K
+J --> K
+K --> L[search-log.txt]
+```
+
+**图表来源**
+- [scripts/search-tracker-hook.sh:14-27](file://scripts/search-tracker-hook.sh#L14-L27)
+- [.claude/.workflow/SEARCH-TOOLKIT.md:5-25](file://.claude/.workflow/SEARCH-TOOLKIT.md#L5-L25)
+
+### 精确日志记录机制
+搜索工作流采用了精确的UTC时间戳格式和具体工具标识符，显著提升了可追溯性和调试能力：
+
+#### 日志格式规范
+- **时间戳格式**：ISO 8601标准格式，精确到秒（如：`2026-08-18T15:36Z`）
+- **工具标识符**：使用具体工具名而非通用标签（如：`mcp-web-search`、`builtin-WebSearch`、`mcp-web-search-subagent`）
+- **查询内容**：完整的搜索关键词记录
+- **行格式**：`时间戳 | 工具名 | 搜索词`
+
+#### 工具追踪机制
+系统通过PostToolUse钩子自动追踪各种搜索工具的使用情况：
+
+```mermaid
+sequenceDiagram
+participant Agent as "AI Agent"
+participant Hook as "search-tracker-hook.sh"
+participant Log as "search-log.txt"
+participant Markers as ".used标记文件"
+Agent->>Hook : 调用搜索工具
+Hook->>Hook : 提取工具名和查询
+Hook->>Markers : 创建对应工具标记
+Hook->>Log : 追加日志条目
+Log-->>Agent : 返回空对象{}
+```
+
+**图表来源**
+- [scripts/search-tracker-hook.sh:8-31](file://scripts/search-tracker-hook.sh#L8-L31)
+
+### 搜索工具分类与用途
+系统支持多种搜索工具，每种都有特定的用途和适用场景：
+
+| 工具类型 | 标识符 | 用途 | 状态 |
+|---------|--------|------|------|
+| MCP WebSearch | `mcp-web-search` | 主要搜索工具，支持广泛查询 | 活跃 |
+| Kepler Search | `mcp-kepler-search` | 备用搜索工具 | 活跃 |
+| WebSearch Prime | `mcp-web-search-prime` | 高级搜索功能 | 活跃 |
+| 内置WebSearch | `builtin-WebSearch` | 基础搜索功能 | 配额受限 |
+| Brave搜索 | `brave` | 无配额限制的网页搜索 | 回退方案 |
+| Google News | `gnews` | 新闻和事件搜索 | 回退方案 |
+| Yahoo Finance | `yahoo-api` | 金融数据和行情 | 回退方案 |
+
+### 候选跟踪系统重置
+候选跟踪系统经历了重大清理，从77条记录减少到仅1条空记录，表明系统进行了全面的重置和清理：
+
+#### 清理前状态
+- 包含大量历史候选股票数据
+- 可能包含过时或不准确的信息
+- 占用不必要的存储空间
+
+#### 清理后状态
+- 仅保留表头：`ticker,company,gics_sector,source`
+- 为新的研究周期准备干净的数据环境
+- 提高系统性能和可维护性
+
+**章节来源**
+- [scripts/search-tracker-hook.sh:1-34](file://scripts/search-tracker-hook.sh#L1-L34)
+- [.claude/.workflow/search-log.txt:1-15](file://.claude/.workflow/search-log.txt#L1-L15)
+- [.claude/.workflow/candidates.csv:1-2](file://.claude/.workflow/candidates.csv#L1-L2)
+- [.claude/.workflow/SEARCH-TOOLKIT.md:1-42](file://.claude/.workflow/SEARCH-TOOLKIT.md#L1-L42)
 
 ## 详细组件分析
 
@@ -503,17 +598,21 @@ A -.-> P4
   - 工具失败：查看工具日志与返回值，确认依赖库与权限配置。
   - 输出不一致：比对模板与 schema，修复字段缺失或类型不匹配。
   - 平台同步问题：检查同步脚本执行状态，验证各平台技能版本一致性。
+  - 搜索配额耗尽：检查search-log.txt中的工具使用情况，切换到回退搜索链。
+  - 日志格式错误：确认search-log.txt使用正确的UTC时间戳格式和具体工具标识符。
 - **调试建议**
   - 启用详细日志与中间产物保存，便于回溯。
   - 使用最小复现用例隔离问题，逐步定位根因。
   - 对关键路径增加断言与校验，提前发现异常。
   - 使用 `--check` 模式验证同步状态而不修改文件。
+  - 定期检查search-log.txt文件大小和格式，确保日志记录正常。
 
 **章节来源**
 - [scripts/sync-dsh-skills.py:176-226](file://scripts/sync-dsh-skills.py#L176-L226)
 - [scripts/sync-trae-skills.py:173-222](file://scripts/sync-trae-skills.py#L173-L222)
 - [scripts/sync-codex-skills.py:92-134](file://scripts/sync-codex-skills.py#L92-L134)
 - [tools/report_audit.py](file://tools/report_audit.py)
+- [scripts/search-tracker-hook.sh:1-34](file://scripts/search-tracker-hook.sh#L1-L34)
 
 ## 结论
 AI技能系统将复杂的投资研究流程模块化、标准化与自动化，显著提升研究效率与质量。通过统一的 SKILL.md 定义、模板驱动的生成与工具集的支持，开发者可以快速扩展新的专业能力，并以组合方式构建端到端的投研工作流。
@@ -524,6 +623,8 @@ AI技能系统将复杂的投资研究流程模块化、标准化与自动化，
 - **智能同步**：自动化同步机制确保平台间技能版本同步
 - **平台优化**：针对各平台特性提供最优的工具映射和执行策略
 - **DSH平台支持**：新增DeepSeek Harness平台支持，提供最高优先级的本地技能发现
+- **搜索工作流改进**：精确UTC时间戳和具体工具标识符大幅提升可追溯性
+- **候选系统重置**：清理历史数据，为新研究周期准备干净环境
 
 建议在持续迭代中完善版本管理与质量门禁，确保系统的稳定性与可维护性。
 
@@ -537,11 +638,17 @@ AI技能系统将复杂的投资研究流程模块化、标准化与自动化，
   - Codex：运行 `python3 scripts/sync-codex-skills.py`
   - TRAE：运行 `python3 scripts/sync-trae-skills.py`
   - DSH：运行 `python3 scripts/sync-dsh-skills.py`
+- **搜索工具链使用**
+  - 主搜索：使用MCP WebSearch工具
+  - 回退搜索：当主搜索配额耗尽时自动切换到Brave、Google News或Yahoo Finance
+  - 日志监控：定期检查`.claude/.workflow/search-log.txt`了解搜索使用情况
 - **参考路径**
   - 同步脚本：`scripts/sync-dsh-skills.py`, `scripts/sync-trae-skills.py`, `scripts/sync-codex-skills.py`
   - 选股工具：`tools/stock_screener.py`
   - 估值工具：`tools/morningstar_fair_value.py`
   - 审计工具：`tools/report_audit.py`
+  - 搜索追踪：`scripts/search-tracker-hook.sh`
+  - 搜索工具链：`.claude/.workflow/SEARCH-TOOLKIT.md`
 
 **章节来源**
 - [AGENTS.md:35-43](file://AGENTS.md#L35-L43)
@@ -551,3 +658,5 @@ AI技能系统将复杂的投资研究流程模块化、标准化与自动化，
 - [tools/stock_screener.py](file://tools/stock_screener.py)
 - [tools/morningstar_fair_value.py](file://tools/morningstar_fair_value.py)
 - [tools/report_audit.py](file://tools/report_audit.py)
+- [scripts/search-tracker-hook.sh:1-34](file://scripts/search-tracker-hook.sh#L1-L34)
+- [.claude/.workflow/SEARCH-TOOLKIT.md:1-42](file://.claude/.workflow/SEARCH-TOOLKIT.md#L1-L42)
