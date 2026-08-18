@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": "c5785dfc",
+      "cron": "15 7 3 9 *",
+      "prompt": "【触发价监控-9/2持久】CRDO（Credo）FY27 Q1财报9/2发布。检查：1) web搜索CRDO财报（光学三线、毛利率守67%、全年指引）2) 股价是否接近触发价$130-150（人等价格候选，最终报告在 reports/CRDO/最终报告.md）3) 财报确认光学加速+<$160→提示分批建仓（四大师唯一\"人+生意全过\"标的）。4) 检查LEU/NBIS/ALAB状态。",
+      "createdAt": 1785561358731,
+      "createdBySessionId": "b5d4608c-5b23-413f-a9fe-1e5994e6284a",
+      "createdByPid": 46052
+    },
+    {
+      "id": "2ebc1f98",
+      "cron": "3 21 * * 1-5",
+      "prompt": "/daily-brief",
+      "createdAt": 1786502372009,
+      "lastFiredAt": 1786714380940,
+      "recurring": true,
+      "createdBySessionId": "8c5be8b1-939e-4cdb-9238-eb3657f09c17",
+      "createdByPid": 5784,
+      "createdByProcStart": "134309405372141133"
+    }
+  ]
+}
