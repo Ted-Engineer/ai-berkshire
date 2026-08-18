@@ -1,91 +1,313 @@
 ticker,company,gics_sector,source
-ASML,ASML Holding,Semiconductors & Semi Equipment,G-ecosystem
-AMAT,Applied Materials,Semiconductors & Semi Equipment,G-ecosystem
-LRCX,Lam Research,Semiconductors & Semi Equipment,G-ecosystem
-KLAC,KLA Corp,Semiconductors & Semi Equipment,G-ecosystem
-NBIS,Nebius Group,AI Cloud,F-memory
-CRWV,CoreWeave,AI Cloud,D2-AItrack1
-ANET,Arista Networks,Tech Hardware & Equipment,D2-AItrack3
-CIEN,Ciena,Tech Hardware & Equipment,G-ecosystem
-COHR,Coherent,Tech Hardware & Equipment,D2-AItrack3
-CRDO,Credo Technology,Semiconductors & Semi Equipment,F-memory
-LITE,Lumentum,Tech Hardware & Equipment,D2-AItrack3
-MRVL,Marvell Technology,Semiconductors,D2-AItrack2
-AMD,Advanced Micro Devices,Semiconductors,G-ecosystem
-NVDA,NVIDIA,Semiconductors,G-ecosystem
-MU,Micron,Semiconductors,D2-AItrack4
-WDC,Western Digital,Tech Hardware,D2-AItrack4
-GEV,GE Vernova,Capital Goods/Power,D2-AItrack7
-VRT,Vertiv,Capital Goods/Cooling,D2-AItrack9
-VST,Vistra,Utilities/IPP,D2-AItrack7
-CEG,Constellation Energy,Utilities/Nuclear,D2-AItrack7
-LEU,Centrus Energy,Energy/Uranium,F-memory
-CCJ,Cameco,Energy/Uranium,D2-AItrack7
-TLN,Talen Energy,Utilities/IPP,F-memory
-NOW,ServiceNow,Software & Services,D2-AItrack11
-PLTR,Palantir,Software & Services,D2-AItrack11
-CRM,Salesforce,Software & Services,F-memory
-V,Visa,Diversified Financials,GICS-Financials
-MA,Mastercard,Diversified Financials,GICS-Financials
-AXP,American Express,Diversified Financials,F-memory
-JPM,JPMorgan,Banks,GICS-Banks
-WRB,W.R. Berkley,Insurance,nonAI-report
-PLMR,Palomar Holdings,Insurance,nonAI-report
-SKWD,Skyward Specialty,Insurance,nonAI-report
-UNH,UnitedHealth,Health Care,smart-money
-MDT,Medtronic,Health Care Equipment,nonAI-report
-LLY,Eli Lilly,Pharma,GLP1-theme
-LMT,Lockheed Martin,Capital Goods/Defense,nonAI-report
-NOC,Northrop Grumman,Capital Goods/Defense,F-memory
-RHM,Rheinmetall,Capital Goods/Defense,nonAI-report
-RTX,RTX Corp,Capital Goods/Defense,GICS-CapitalGoods
-ET,Energy Transfer,Energy/Midstream,nonAI-report
-OKE,ONEOK,Energy/Midstream,nonAI-report
-COST,Costco,Retailing,GICS-Retailing
-WMT,Walmart,Retailing,GICS-Retailing
-DLTR,Dollar Tree,Retailing,nonAI-report
-JD,JD.com,Retailing,nonAI-report
-LIN,Linde,Materials,GICS-Materials
-EQIX,Equinix,Real Estate/DC REIT,D2-AItrack10
-PLD,Prologis,Real Estate/REIT,GICS-RealEstate
-NEE,NextEra Energy,Utilities,GICS-Utilities
-GOOGL,Alphabet,AI Platform,F-memory
-AAPL,Apple,Tech Hardware,G-ecosystem
-SNDK,SanDisk,Semiconductors/Memory,D6-earnings(today+13%)
-ALAB,Astera Labs,Semiconductors,D2-AItrack2
-SGH,Smart Global,Semiconductors,D2-AItrack2
-AAOI,Applied Optoelectronics,Tech Hardware/Optics,D2-AItrack3
-FN,Fabrinet,Tech Hardware/Optics,D2-AItrack3
-GLW,Corning,Materials/Optics,D2-AItrack3
-POET,POET Technologies,Semiconductors/Optics,D2-AItrack3
-000660.KS,SK Hynix,Semiconductors/HBM,D2-AItrack4
-ONTO,Onto Innovation,Semiconductors & Semi Equipment,D2-AItrack5
-CAMT,Camtek,Semiconductors & Semi Equipment,D2-AItrack5
-ASMV,ASML/ASM Intl,Semiconductors & Semi Equipment,D2-AItrack5
-TER,Teradyne,Semiconductors & Semi Equipment,D2-AItrack6
-UCTT,UCT,Semiconductors & Semi Equipment,D2-AItrack6
-NRG,NRG Energy,Utilities/IPP,D2-AItrack7
-POWL,Powell Industries,Capital Goods/Electrical,D2-AItrack8
-ETN,Eaton,Capital Goods/Electrical,D2-AItrack8
-EMR,Emerson,Capital Goods/Electrical,D2-AItrack8
-HUBB,Hubbell,Capital Goods/Electrical,D2-AItrack8
-ROK,Rockwell,Capital Goods/Automation,D2-AItrack8
-NVT,nVent,Capital Goods/Cooling,D2-AItrack9
-SMR,NuScale,Utilities/SMR,D2-AItrack7
-OKLO,Oklo,Utilities/SMR,D2-AItrack7
-UEC,Uranium Energy,Energy/Uranium,D2-AItrack7
-NXE,NexGen Energy,Energy/Uranium,D2-AItrack7
-BWXT,BWX Technologies,Capital Goods/Nuclear,D2-AItrack7
-FLR,Fluor,Capital Goods/Nuclear,D2-AItrack7
-SMCI,Super Micro,Tech Hardware/Servers,D2-AItrack9
-DELL,Dell,Tech Hardware/Servers,D2-AItrack9
-HPE,HPE,Tech Hardware/Servers,D2-AItrack9
-SNOW,Snowflake,Software & Services,D2-AItrack11
-MDB,MongoDB,Software & Services,D2-AItrack11
-DDOG,Datadog,Software & Services,D2-AItrack11
-NET,Cloudflare,Software & Services,D2-AItrack11
-TEAM,Atlassian,Software & Services,D2-AItrack11
-WDAY,Workday,Software & Services,D2-AItrack11
-TWLO,Twilio,Software & Services,D2-AItrack11
-OKTA,Okta,Software & Services,D2-AItrack11
-UNITY,Unity Software,Software & Services,D2-AItrack11
+0941.HK,China Mobile,Communication Services,非AI主题#13
+2454.TW,MediaTek,Information Technology,D7-生态链(AVGO/TSM)
+AAOI,Applied Optoelectronics,Communications Equipment,AI赛道#3
+AAPL,Apple (earnings watch mover),Tech Hardware,D6|D7-生态链(BABA)
+ABBV,AbbVie Inc,Health Care,D1
+ACI,Albertsons Companies,Staples Distribution & Retail,GICS组13-B2
+AD,Array Digital Infrastructure,Telecommunication Services,GICS组10-B1
+ADNT,Adient,Automobiles & Components,GICS组7-B1
+ADT,ADT Inc,Industrials,D4
+AEHR,Aehr Test Systems (optics earnings surge),Semiconductors,D6
+AETH,Aether Holdings (AI data JV with OORT),Financials (Digital Assets),AI赛道#17
+AGCO,AGCO Corporation,Industrials,非AI主题#8
+AGL,agilon health (Q2 beat raised guidance),Health Care,D6
+AIG,American International Group,Insurance,GICS组19-B2
+AIT,Applied Industrial Technologies,Industrials,非AI主题#4
+AJG,Arthur J. Gallagher & Co,Insurance,GICS组19-B2
+ALAB,Astera Labs,Semiconductors & Semi Equipment,GICS组22-B2|D6
+ALB,Albemarle,Materials,GICS组2-B1
+AMAT,Applied Materials,Semiconductors & Semi Equipment,GICS组22-B2|AI赛道#6|D7-生态链(TSM)
+AMD,Advanced Micro Devices,Semiconductors & Semi Equipment,GICS组22-B2|AI赛道#16
+AMT,American Tower,Telecommunication Services,GICS组10-B1
+AMZN,Amazon,Retailing,GICS组9-B1|D7-生态链(INTU)
+ANET,Arista Networks,Information Technology,D7-生态链(META)
+APLD,Applied Digital,IT Services,AI赛道#15
+ARE,Alexandria Real Estate Equities,Real Estate,GICS组24+25-B2
+ASML,ASML Holding (EUR13.2B orders),Semiconductors,AI赛道#6
+ASX,ASE Technology (SPIL CoWoS expansion),Semiconductors,AI赛道#5
+AVAV,AeroVironment,Capital Goods,GICS组3-B1
+AVPT,AvePoint,Software,AI赛道#11
+AWK,American Water Works,Utilities,非AI主题#7
+AXS,Axis Capital Holdings,Insurance,GICS组19-B2
+BA,Boeing,Capital Goods,GICS组3-B1
+BAC,Bank of America,Banks,GICS组12-B1
+BAESY,BAE Systems (ADR),Industrials,非AI主题#2
+BAX,Baxter International,Health Care Equipment & Services,GICS组16-B2
+BBAI,BigBear.ai (backlog expansion),IT Services,D6
+BBSI,Barrett Business Services,Commercial & Professional Services,GICS组4-B1
+BBWI,Bath & Body Works,Consumer Staples,GICS组7-B1
+BCE,BCE,Telecommunication Services,GICS组10-B1
+BE,Bloom Energy,Energy,GICS组1-B1|AI赛道#7
+BELFB,Bel Fuse,Electronic Components,AI赛道#8
+BF-B,Brown-Forman Corporation,Food Beverage & Tobacco,GICS组14-B2
+BMY,Bristol-Myers Squibb,Pharma Biotech & Life Sciences,GICS组17-B2
+BNS,Bank of Nova Scotia,Banks,GICS组12-B1
+BOOT,Boot Barn,Retailing,GICS组9-B1
+BR,Broadridge,Diversified Financials,F-memory(verdict-lib)
+BTDR,Bitdeer Technologies,Information Technology,D5
+BTI,British American Tobacco,Consumer Staples,D1
+BX,Blackstone Inc,Diversified Financials,GICS组18-B2
+CASY,Casey's General Stores,Staples Distribution & Retail,GICS组13-B2
+CAT,Caterpillar (AI buildout raised outlook),Industrials (Machinery),AI赛道#10
+CBRS,Cerebras (Q2 guidance raise),Semiconductors,D6
+CCJ,Cameco Corporation,Utilities,GICS组23-B2
+CDW,CDW Corporation,Technology Hardware & Equipment,GICS组21-B2|D7-生态链(MSFT)
+CE,Celanese,Materials,GICS组2-B1
+CEG,Constellation Energy,Energy,GICS组1-B1|GICS组23-B2|F-memory(verdict-lib)
+CENT,Central Garden & Pet,Consumer Staples,非AI主题#10
+CFG,Citizens Financial,Banks,GICS组12-B1
+CHD,Church & Dwight,Household & Personal Products,GICS组15-B2
+CHTR,Charter Communications,Media & Entertainment,GICS组11-B1
+CHWY,Chewy,Consumer Discretionary,非AI主题#10
+CL,Colgate-Palmolive,Household & Personal Products,GICS组15-B2
+CLS,Celestica Inc,Information Technology,D1
+CNH,CNH Industrial,Industrials,非AI主题#8
+CNI,Canadian National Railway,Transportation,GICS组5-B1
+COIN,Coinbase,Financials,D7-生态链(PYPL)
+COLB,Columbia Banking System,Banks,GICS组12-B1
+CORZ,Core Scientific,Information Technology,D1
+COST,Costco,Consumer Staples,GICS组9-B1|GICS组13-B2
+CRCL,Circle Internet Group,Diversified Financials,GICS组18-B2
+CRDO,Credo Technology Group,Information Technology,D1|E-缺口映射(AI硬件)|F-memory(verdict-lib)
+CRWD,CrowdStrike Holdings,Software & Services,GICS组20-B2
+CRWV,CoreWeave,IT Services,AI赛道#1|F-memory(user-watches)
+CSCO,Cisco Systems,Technology Hardware & Equipment,GICS组21-B2|E-缺口映射(AI平台)
+CVS,CVS Health,Health Care,D7-生态链(CI)
+CVX,Chevron Corporation,Energy,D1
+D,Dominion Energy,Utilities,GICS组23-B2
+DAL,Delta Air Lines,Industrials,D7-生态链(BRK.B)|F-memory(verdict-lib)
+DDOG,Datadog Inc,Software & Services,GICS组20-B2
+DE,Deere & Company,Industrials,非AI主题#8
+DELL,Dell Technologies,Technology Hardware & Equipment,GICS组21-B2|D7-生态链(MSFT)
+DG,Dollar General,Staples Distribution & Retail,GICS组13-B2
+DHR,Danaher Corporation,Pharma Biotech & Life Sciences,GICS组17-B2
+DIS,Disney,Media & Entertainment,GICS组11-B1
+DKNG,DraftKings,Consumer Services,GICS组7-B1|非AI主题#9
+DLR,Digital Realty Trust,Real Estate,GICS组24+25-B2|AI赛道#10
+DOCS,Doximity,Health Care,非AI主题#1
+DOW,Dow,Materials,GICS组2-B1
+DOX,Amdocs,Information Technology,GICS组10-B1
+DT,Dynatrace (Arize AI eval acquisition),Software,AI赛道#11
+DVN,Devon Energy (upgraded estimates),Energy,D6
+EBAY,eBay Inc,Consumer Discretionary,D3
+ECL,Ecolab (CoolIT liquid cooling acquisition),Materials,AI赛道#9
+EL,The Estee Lauder Companies,Household & Personal Products,GICS组15-B2
+ELF,e.l.f. Beauty,Household & Personal Products,GICS组15-B2
+EMN,Eastman Chemical,Materials,GICS组2-B1
+ENB,Enbridge,Energy,GICS组1-B1
+ENLT,Enlight Renewable Energy,Utilities (Renewables),AI赛道#7
+ENR,Energizer Holdings,Consumer Staples,D4
+ENTG,Entegris Inc,Semiconductors & Semi Equipment,GICS组22-B2
+EPD,Enterprise Products Partners,Energy,GICS组1-B1
+EQIX,Equinix Inc,Real Estate,GICS组24+25-B2
+ERO,Ero Copper,Materials,非AI主题#14
+ET,Energy Transfer,Energy,GICS组1-B1
+ETN,Eaton,Industrials,D7-生态链(VST)
+EW,Edwards Lifesciences,Health Care Equipment & Services,GICS组16-B2
+EXEL,Exelixis,Pharma Biotech,F-memory(verdict-lib)
+F,Ford,Automobiles & Components,GICS组6-B1
+FI,Fiserv,Financials,D7-生态链(PYPL)
+FLUT,Flutter Entertainment,Consumer Services,GICS组7-B1|非AI主题#9
+FMC,FMC,Materials,GICS组2-B1
+FNV,Franco-Nevada,Materials,非AI主题#14
+GD,General Dynamics,Capital Goods,GICS组3-B1
+GE,GE Aerospace (+26% 3mo beat),Industrials (Aerospace),D6
+GEV,GE Vernova,Industrials,非AI主题#3+D7-生态链(VST)|F-memory(verdict-lib)
+GILD,Gilead Sciences,Pharma Biotech & Life Sciences,GICS组17-B2
+GIS,General Mills,Food Beverage & Tobacco,GICS组14-B2
+GL,Globe Life Inc,Insurance,GICS组19-B2
+GLW,Corning,Information Technology,D7-生态链(META)
+GM,General Motors,Automobiles & Components,GICS组6-B1
+GNTX,Gentex,Automobiles & Components,GICS组6-B1
+GOOGL,Alphabet Inc,Communication Services,D5|AI赛道#12|D7-生态链(AVGO/BRK.B/INTU/ADBE)|F-memory(verdict-lib)
+GPN,Global Payments Inc,Diversified Financials,GICS组18-B2
+GPS,GAP,Retailing,GICS组9-B1
+GRC,Gorman-Rupp (analyst upgrades),Industrials (Machinery),D6
+GS,Goldman Sachs,Banks,GICS组12-B1
+HCA,HCA Healthcare,Health Care Equipment & Services,GICS组16-B2
+HIG,Hartford Financial,Insurance,F-memory(verdict-lib)
+HIMS,Hims & Hers Health,Health Care,非AI主题#1
+HON,Honeywell International,Industrials,D3
+HPE,Hewlett Packard Enterprise,Technology Hardware & Equipment,GICS组21-B2|D7-生态链(MSFT)
+HRL,Hormel Foods,Food Beverage & Tobacco,GICS组14-B2
+HRTG,Heritage Insurance Holdings,Financials,非AI主题#12
+HUBB,Hubbell,Industrials,非AI主题#3
+HUM,Humana Inc,Health Care Equipment & Services,GICS组16-B2
+HUT,Hut 8 ($9.8B Beacon Point AI contract),IT Services,AI赛道#15
+HXSCL,SK hynix ADR,Semiconductors,AI赛道#4
+ICE,Intercontinental Exchange,Diversified Financials,GICS组18-B2|非AI主题#5
+IFF,International Flavors & Fragrances,Materials,GICS组2-B1
+INOD,Innodata (AI data services),IT Services,AI赛道#17|E-缺口映射(AI平台)
+INTC,Intel Corporation,Information Technology,D4|AI赛道#5|D7-生态链(TSM)
+IONQ,IonQ Inc,Information Technology,D1
+IREN,IREN (AI/HPC data centers),IT Services,AI赛道#15
+ISRG,Intuitive Surgical,Health Care Equipment & Services,GICS组16-B2
+JBHT,J.B. Hunt,Transportation,GICS组5-B1
+JD,JD.com,Consumer Discretionary,非AI主题#13
+JPM,JPMorgan Chase,Banks,GICS组12-B1
+KEX,Kirby,Transportation,GICS组5-B1
+KHC,The Kraft Heinz Company,Food Beverage & Tobacco,GICS组14-B2
+KKR,KKR & Co,Financials,D7-生态链(VST)
+KLAC,KLA Corporation,Semiconductors & Semi Equipment,GICS组22-B2|AI赛道#6
+KMB,Kimberly-Clark,Household & Personal Products,GICS组15-B2
+KMI,Kinder Morgan,Energy,GICS组1-B1
+KMX,CarMax,Retailing,GICS组7-B1
+KNSL,Kinsale Capital Group,Insurance,GICS组19-B2|非AI主题#12
+KR,Kroger Company,Staples Distribution & Retail,GICS组13-B2
+KSS,Kohls,Retailing,GICS组9-B1
+LDOS,Leidos,Capital Goods,GICS组3-B1
+LEU,Centrus Energy,Energy,F-memory(verdict-lib)
+LGN,Legence (data center E&C +111% rev),Industrials (Construction & Engineering),AI赛道#10
+LHX,L3Harris Technologies,Capital Goods,GICS组3-B1
+LLY,Eli Lilly (beat and raised),Health Care,D6|非AI主题#6
+LMT,Lockheed Martin,Capital Goods,GICS组3-B1
+LNC,Lincoln National,Insurance,GICS组19-B2
+LRCX,Lam Research Corporation,Semiconductors & Semi Equipment,GICS组22-B2|AI赛道#6|F-memory(verdict-lib)
+LVMUY,LVMH ADR,Consumer Durables & Apparel,GICS组7-B1|非AI主题#11
+LYB,LyondellBasell,Materials,GICS组2-B1|非AI主题#6
+MA,Mastercard Incorporated,Diversified Financials,GICS组18-B2|D7-生态链(PYPL)
+MBLY,Mobileye (integrated robotaxi business),Automobile Components,AI赛道#14
+MCO,Moody's,Financials,非AI主题#5
+MDB,MongoDB Inc,Software & Services,GICS组20-B2
+MDT,Medtronic plc,Health Care Equipment & Services,GICS组16-B2
+MDTKY,MediaTek ADR,Semiconductors,AI赛道#2
+MELI,MercadoLibre,Retailing,F-memory(verdict-lib)
+MGM,MGM Resorts,Consumer Services,GICS组11-B1
+MMM,3M Company,Industrials,D7-生态链(MSFT)
+MO,Altria Group,Food Beverage & Tobacco,GICS组14-B2
+MOS,Mosaic,Materials,GICS组2-B1
+MPLX,MPLX LP,Energy,GICS组1-B1
+MRVL,Marvell Technology,Semiconductors & Semi Equipment,GICS组22-B2|AI赛道#2
+MSCI,MSCI Inc,Diversified Financials,GICS组18-B2
+MTRN,Materion,Materials,GICS组3-B1
+MU,Micron Technology,Semiconductors & Semi Equipment,GICS组22-B2|AI赛道#4|F-memory(verdict-lib)
+MYRG,MYR Group,Industrials,非AI主题#3
+NBIS,Nebius Group,Information Technology,D1|AI赛道#1|F-memory(user-watches)
+NCLH,Norwegian Cruise Line,Consumer Services,GICS组8-B1
+NEE,NextEra Energy,Utilities,GICS组23-B2
+NEM,Newmont,Materials,非AI主题#14
+NET,Cloudflare Inc,Software & Services,GICS组20-B2
+NFLX,Netflix,Media & Entertainment,GICS组11-B1|D4
+NICE,NICE Ltd (HMRC AI CX deal),Software,AI赛道#11
+NIO,NIO,Automobiles & Components,GICS组6-B1
+NKE,Nike Inc,Consumer Discretionary,D4
+NOC,Northrop Grumman,Capital Goods,GICS组3-B1
+NRG,NRG Energy,Utilities,GICS组23-B2
+NRGV,Energy Vault (1.1GW AI assets),Industrials (Electrical Equipment),AI赛道#7
+NSC,Norfolk Southern,Transportation,GICS组5-B1
+NTAP,NetApp Inc,Technology Hardware & Equipment,GICS组21-B2
+NTES,NetEase,Media & Entertainment,GICS组11-B1
+NU,Nu Holdings,Banks,GICS组12-B1
+NVDA,NVIDIA (RTX Spark edge AI),Semiconductors,AI赛道#16|D7-生态链(META/BABA/ADBE)|F-memory(verdict-lib)
+NVO,Novo Nordisk ADR,Pharma Biotech & Life Sciences,GICS组17-B2|非AI主题#6
+NWG,NatWest Group ADR,Banks,GICS组12-B1
+O,Realty Income,Real Estate,GICS组24+25-B2
+ODFL,Old Dominion Freight Line,Transportation,GICS组5-B1
+OKE,ONEOK,Energy,GICS组1-B1
+OMC,Omnicom,Media & Entertainment,GICS组11-B1
+ORCL,Oracle ($638B backlog),Software,D6
+OXY,Occidental Petroleum,Energy,D1
+PAAS,Pan American Silver,Materials,非AI主题#14
+PANW,Palo Alto Networks,Software & Services,GICS组20-B2
+PBR,Petroleo Brasileiro Petrobras,Energy,D1
+PDD,PDD Holdings,Consumer Discretionary,非AI主题#13
+PEP,PepsiCo Inc,Food Beverage & Tobacco,GICS组14-B2
+PESI,Perma-Fix Environmental Services,Commercial & Professional Services,GICS组4-B1
+PFE,Pfizer Inc,Pharma Biotech & Life Sciences,GICS组17-B2
+PGR,The Progressive Corporation,Insurance,GICS组19-B2|F-memory(verdict-lib)
+PINS,Pinterest,Media & Entertainment,GICS组11-B1
+PLD,Prologis Inc,Real Estate,GICS组24+25-B2|AI赛道#10
+PLTR,Palantir Technologies,Information Technology,D1|AI赛道#11|E-缺口映射(AI平台)
+PLUG,Plug Power,Energy,GICS组1-B1|D6
+PM,Philip Morris International,Food Beverage & Tobacco,GICS组14-B2
+PONY,Pony.ai (Uber Europe 2000+ robotaxi),Software (Autonomous Tech),AI赛道#14
+POWL,Powell Industries,Industrials (Electrical Equipment),AI赛道#8
+PPL,PPL Corporation,Utilities,GICS组23-B2
+PSTG,Pure Storage,Technology Hardware & Equipment,GICS组21-B2
+PWR,Quanta Services,Industrials,非AI主题#3
+QCOM,Qualcomm (NPU + OpenAI phones),Semiconductors,AI赛道#16|D7-生态链(META)
+RBRK,Rubrik Inc,Software & Services,GICS组20-B2
+RCI,Rogers Communications,Telecommunication Services,GICS组11-B1
+RCL,Royal Caribbean,Consumer Services,GICS组8-B1
+RDDT,Reddit,Media & Entertainment,GICS组11-B1
+RDW,Redwire,Capital Goods,GICS组3-B1
+REGN,Regeneron Pharmaceuticals,Pharma Biotech & Life Sciences,GICS组17-B2
+REZI,Resideo Technologies,Industrials,D3
+RF,Regions Financial,Banks,GICS组12-B1
+RIOT,Riot Platforms ($9.1B Anthropic deal),Financials (Digital Infrastructure),AI赛道#15
+RIVN,Rivian,Automobiles & Components,GICS组6-B1
+RL,Ralph Lauren,Consumer Durables & Apparel,GICS组7-B1|非AI主题#11
+RLI,RLI Corp,Insurance,GICS组19-B2
+RMS.PA,Hermes International,Consumer Discretionary,非AI主题#11
+RNK.DE,RENK AG,Industrials,非AI主题#2
+RNR,RenaissanceRe Holdings,Financials,非AI主题#12
+ROK,Rockwell Automation,Industrials,非AI主题#4
+ROL,Rollins,Commercial & Professional Services,GICS组4-B1
+ROST,Ross Stores,Retailing,GICS组9-B1
+RSI,Rush Street Interactive,Consumer Discretionary,非AI主题#9
+RTX,RTX Corp,Capital Goods,GICS组3-B1
+SAABY,Saab AB (ADR),Industrials,非AI主题#2
+SATL,Satellogic (high revenue growth),Industrials (Aerospace & Defense),D6
+SBUX,Starbucks,Consumer Services,GICS组9-B1
+SCHLY,Schaeffler ADR (humanoid robotics Tier1),Automobile Components,AI赛道#13
+SE,Sea Ltd,Retailing,GICS组7-B1
+SFM,Sprouts Farmers Market,Staples Distribution & Retail,GICS组13-B2
+SFTBY,SoftBank Group ADR,Diversified Financials,AI赛道#1
+SMCI,Super Micro Computer,Technology Hardware & Equipment,GICS组21-B2|D7-生态链(MSFT)
+SMG,Scotts Miracle-Gro,Materials,GICS组2-B1
+SNDK,Sandisk,Semiconductors,AI赛道#4
+SO,Southern Company,Utilities,GICS组23-B2
+SOLS,Solstice Advanced Materials,Materials,D3
+SPG,Simon Property Group,Real Estate,GICS组24+25-B2
+STX,Seagate Technology,Technology Hardware & Equipment,GICS组21-B2
+STZ,Constellation Brands,Food Beverage & Tobacco,GICS组14-B2
+SYY,Sysco Corporation,Staples Distribution & Retail,GICS组13-B2
+T,AT&T,Telecommunication Services,GICS组10-B1|D1
+TDOC,Teladoc Health,Health Care,非AI主题#1
+TFC,Truist,Banks,GICS组12-B1
+TGT,Target Corporation,Consumer Discretionary,D3
+TJX,TJX Companies,Retailing,GICS组9-B1
+TLN,Talen Energy,Energy,GICS组1-B1|GICS组23-B2
+TME,Tencent Music,Media & Entertainment,GICS组11-B1
+TMO,Thermo Fisher Scientific,Pharma Biotech & Life Sciences,GICS组17-B2
+TMUS,T-Mobile US,Telecommunication Services,GICS组10-B1|F-memory(verdict-lib)
+TNL,Travel + Leisure,Consumer Services,GICS组8-B1
+TPR,Tapestry,Consumer Discretionary,非AI主题#11
+TRUP,Trupanion,Financials,非AI主题#10
+TSLA,Tesla,Automobiles & Components,GICS组6-B1|AI赛道#13
+TTD,The Trade Desk,Media & Entertainment,GICS组11-B1
+TU,Telus,Telecommunication Services,GICS组11-B1
+TXN,Texas Instruments,Information Technology,E-缺口映射(AI硬件)
+UBER,Uber Technologies (AV network),Industrials,AI赛道#14
+UL,Unilever PLC,Household & Personal Products,GICS组15-B2
+UMC,United Microelectronics,Information Technology,D1
+UNH,UnitedHealth Group,Health Care,D7-生态链(CI)
+UNP,Union Pacific,Transportation,GICS组5-B1
+UPS,UPS,Transportation,GICS组5-B1
+USFD,US Foods Holding,Staples Distribution & Retail,GICS组13-B2
+V,Visa Inc,Diversified Financials,GICS组18-B2
+VCIG,VCI Global,Commercial & Professional Services,GICS组4-B1
+VEEV,Veeva Systems,Health Care Equipment & Services,GICS组16-B2
+VICI,VICI Properties,Real Estate,GICS组24+25-B2
+VPG,Vishay Precision Group (robot sensors),Electronic Equipment,AI赛道#13
+VRT,Vertiv ($15B backlog raised guidance),Industrials (Electrical Equipment),AI赛道#9|E-缺口映射(AI硬件)|F-memory(verdict-lib)
+VRTX,Vertex Pharmaceuticals,Pharma Biotech & Life Sciences,GICS组17-B2
+VVV,Valvoline,Retailing,GICS组9-B1
+VZ,Verizon Communications,Communication Services,D1
+WAB,Wabtec,Capital Goods,GICS组5-B1
+WBD,Warner Bros. Discovery,Communication Services,D3
+WBS,Webster Financial,Financials,D1
+WDAY,Workday Inc,Software & Services,GICS组20-B2
+WELL,Welltower Inc,Real Estate,GICS组24+25-B2
+WFC,Wells Fargo,Banks,GICS组12-B1
+WMB,Williams Companies,Energy,GICS组1-B1
+WPM,Wheaton Precious Metals,Materials,非AI主题#14
+WRD,WeRide (global robotaxi expansion),Software (Autonomous Tech),AI赛道#14
+WTRG,Essential Utilities,Utilities,非AI主题#7
+WULF,TeraWulf (HPC rev > BTC mining),IT Services,AI赛道#15
+XYL,Xylem,Industrials,非AI主题#7
+XYZ,Block Inc,Diversified Financials,GICS组18-B2
+YUMC,Yum China Holdings,Consumer Discretionary,非AI主题#13
+ZBH,Zimmer Biomet Holdings,Health Care Equipment & Services,GICS组16-B2
+ZS,Zscaler Inc,Software & Services,GICS组20-B2

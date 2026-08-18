@@ -1,0 +1,107 @@
+WELL,Welltower,老龄化,非AI-1
+VTR,Ventas,老龄化,非AI-1
+SCI,Service Corporation International,老龄化,非AI-1
+ENSG,Ensign Group,老龄化,非AI-1
+HUM,Humana,老龄化,非AI-1
+RTX,RTX Corp,国防现代化,非AI-2
+LMT,Lockheed Martin,国防现代化,非AI-2
+NOC,Northrop Grumman,国防现代化,非AI-2
+GD,General Dynamics,国防现代化,非AI-2
+LHX,L3Harris,国防现代化,非AI-2
+GEV,GE Vernova,能源转型电网,非AI-3
+ETN,Eaton,能源转型电网,非AI-3
+PWR,Quanta Services,能源转型电网,非AI-3
+HUBB,Hubbell,能源转型电网,非AI-3
+ITRI,Itron,能源转型电网,非AI-3
+CMI,Cummins,美国制造回岸,非AI-4
+PH,Parker Hannifin,美国制造回岸,非AI-4
+ITW,Illinois Tool Works,美国制造回岸,非AI-4
+ROK,Rockwell Automation,美国制造回岸,非AI-4
+PLD,Prologis,利率下行受益,非AI-5
+AMGN,Amgen,GLP-1生态,非AI-6
+WTRG,Essential Utilities,水务基建,非AI-7
+XYL,Xylem,水务基建,非AI-7
+MWA,Mueller Water Products,水务基建,非AI-7
+DE,Deere & Company,农业科技,非AI-8
+TRMB,Trimble,农业科技,非AI-8
+NTR,Nutrien,农业科技,非AI-8
+CF,CF Industries,农业科技,非AI-8
+DKNG,DraftKings,体育博彩,非AI-9
+FLUT,Flutter Entertainment,体育博彩,非AI-9
+MGM,MGM Resorts,体育博彩,非AI-9
+PENN,PENN Entertainment,体育博彩,非AI-9
+CHWY,Chewy,宠物经济,非AI-10
+FRPT,Freshpet,宠物经济,非AI-10
+TRUP,Trupanion,宠物经济,非AI-10
+IDXX,IDEXX Laboratories,宠物经济,非AI-10
+RACE,Ferrari,奢侈品护城河,非AI-11
+TPR,Tapestry,奢侈品护城河,非AI-11
+TRV,Travelers,保险硬市场,非AI-12
+T,AT&T,D1量化价值型,D1量化
+BBWI,Bath & Body Works,D1量化价值型,D1量化
+CNC,Centene,D1量化价值型,D1量化
+KMX,CarMax,D1量化价值型,D1量化
+CHTR,Charter Communications,D1量化价值型,D1量化
+DELL,Dell Technologies,D1量化成长型,D1量化
+KBH,KB Home,D1量化收益型,D1量化
+CIVI,Civitas Resources,D1量化收益型,D1量化
+FCNCA,First Citizens BancShares,D1量化收益型,D1量化
+HONA,Honeywell Aerospace,D3事件分拆,D3事件
+FDXF,FedEx Freight,D3事件分拆,D3事件
+MBGL,S&P Global Mobility,D3事件分拆,D3事件
+PINS,Pinterest,D3事件激进投资者,D3事件
+SNPS,Synopsys,D3事件激进投资者,D3事件
+ALGN,Align Technology,D3事件激进投资者,D3事件
+NCLH,Norwegian Cruise Line,D3事件激进投资者,D3事件
+LW,Lamb Weston,D3事件激进投资者,D3事件
+KR,Kroger,D4技术面52周低,D4技术
+MCD,McDonald's,D4技术面52周低,D4技术
+MA,Mastercard,D4技术面52周低,D4技术
+NOK,Nokia,D4技术面内部人买入,D4技术
+BORR,Borr Drilling,D4技术面内部人买入,D4技术
+SNDK,Sandisk,D5聪明钱13F,D5聪明钱
+KKR,KKR & Co,D5聪明钱13F,D5聪明钱
+HUT,Hut 8,D5聪明钱13F,D5聪明钱
+SPGI,S&P Global,D5聪明钱13F,D5聪明钱
+BLDR,Builders FirstSource,D5聪明钱13F,D5聪明钱
+DHI,D.R. Horton,D5聪明钱伯克希尔新建仓,D5聪明钱
+LEN,Lennar,D5聪明钱伯克希尔加仓,D5聪明钱
+DAL,Delta Air Lines,D5聪明钱伯克希尔加仓,D5聪明钱
+GOOGL,Alphabet,D5聪明钱伯克希尔加仓,D5聪明钱
+M,Macy's,D5聪明钱伯克希尔加仓,D5聪明钱
+NYT,New York Times,D5聪明钱伯克希尔加仓,D5聪明钱
+SMCI,Super Micro Computer,D6财报催化,D6财报催化
+NIQ,NIQ Holdings,D6财报催化,D6财报催化
+ETON,Eton Pharmaceuticals,D6财报催化,D6财报催化
+CAVA,Cava Group,D6财报催化,D6财报催化
+RELY,Remitly,D6财报催化,D6财报催化
+AXON,Axon Enterprise,D6财报催化,D6财报催化
+ORCL,Oracle,D6财报催化订单积压,D6财报催化
+NVDA,NVIDIA,D7-META生态链,D7-META生态链
+NBIS,Nebius Group,D7-META生态链,D7-META生态链
+VRT,Vertiv,D7-META生态链,D7-META生态链
+AMD,AMD,D7-META生态链,D7-META生态链
+BIDU,Baidu,D7-BABA生态链,D7-BABA生态链
+TCEHY,Tencent,D7-BABA生态链,D7-BABA生态链
+MRVL,Marvell Technology,D7-MSFT生态链,D7-MSFT生态链
+ANET,Arista Networks,D7-MSFT生态链,D7-MSFT生态链
+ALAB,Astera Labs,D7-MSFT生态链,D7-MSFT生态链
+AMKR,Amkor Technology,D7-MSFT生态链,D7-MSFT生态链
+SEMR,Semrush,D7-ADBE生态链,D7-ADBE生态链
+AAPL,Apple,D7-AVGO生态链,D7-AVGO生态链
+AXP,American Express,D7-BRK.B生态链,D7-BRK.B生态链
+KO,Coca-Cola,D7-BRK.B生态链,D7-BRK.B生态链
+BAC,Bank of America,D7-BRK.B生态链,D7-BRK.B生态链
+ASML,ASML Holding,D7-TSM生态链,D7-TSM生态链
+AMAT,Applied Materials,D7-TSM生态链,D7-TSM生态链
+LRCX,Lam Research,D7-TSM生态链,D7-TSM生态链
+KLAC,KLA Corporation,D7-TSM生态链,D7-TSM生态链
+ENTG,Entegris,D7-TSM生态链,D7-TSM生态链
+V,Visa,D7-PYPL生态链,D7-PYPL生态链
+SHOP,Shopify,D7-PYPL生态链,D7-PYPL生态链
+AFRM,Affirm,D7-PYPL生态链,D7-PYPL生态链
+KLAR,Klarna,D7-PYPL生态链,D7-PYPL生态链
+KKR,KKR & Co,D7-VST生态链,D7-VST生态链
+CEG,Constellation Energy,D7-VST生态链,D7-VST生态链
+BE,Bloom Energy,D7-VST生态链,D7-VST生态链
+AMZN,Amazon,D7-INTU生态链,D7-INTU生态链

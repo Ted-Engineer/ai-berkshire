@@ -1,0 +1,483 @@
+ticker,company,gics_sector,source
+ET,Energy Transfer,Energy,GICS-Energy
+MPLX,MPLX LP,Energy,GICS-Energy
+EPD,Enterprise Products,Energy,GICS-Energy
+WMB,Williams Companies,Energy,GICS-Energy
+AR,Antero Resources,Energy,GICS-Energy
+DVN,Devon Energy,Energy,GICS-Energy
+OKE,ONEOK,Energy,GICS-Energy
+TRGP,Targa Resources,Energy,GICS-Energy
+LNG,Cheniere Energy,Energy,GICS-Energy
+TNK,Teekay Tankers,Energy,GICS-Energy
+NEXA,Nexa Resources,Materials,GICS-Materials
+B,Barrick Mining,Materials,GICS-Materials
+NEM,Newmont,Materials,GICS-Materials
+MP,MP Materials,Materials,GICS-Materials
+ALB,Albemarle,Materials,GICS-Materials
+LAC,Lithium Americas,Materials,GICS-Materials
+LIN,Linde,Materials,GICS-Materials
+SCCO,Southern Copper,Materials,GICS-Materials
+RIO,Rio Tinto,Materials,GICS-Materials
+HII,Huntington Ingalls,Industrials,GICS-CapitalGoods
+IEX,IDEX Corp,Industrials,GICS-CapitalGoods
+ASLE,AerSale,Industrials,GICS-CapitalGoods
+RDW,Redwire,Industrials,GICS-CapitalGoods
+TXT,Textron,Industrials,GICS-CapitalGoods
+LMT,Lockheed Martin,Industrials,GICS-CapitalGoods
+BA,Boeing,Industrials,GICS-CapitalGoods
+KRMN,Karman Holdings,Industrials,GICS-CapitalGoods
+CLH,Clean Harbors,Industrials,GICS-CommServices
+WM,Waste Management,Industrials,GICS-CommServices
+RSG,Republic Services,Industrials,GICS-CommServices
+ZWS,Zurn Elkay,Industrials,GICS-CommServices
+GPC,Genuine Parts,Industrials,GICS-CommServices
+ULH,Universal Logistics,Industrials,GICS-Transportation
+DAL,Delta Air Lines,Industrials,GICS-Transportation
+UPS,UPS,Industrials,GICS-Transportation
+UNP,Union Pacific,Industrials,GICS-Transportation
+WAB,Wabtec,Industrials,GICS-Transportation
+CSX,CSX,Industrials,GICS-Transportation
+LEA,Lear Corp,Consumer Discretionary,GICS-Autos
+GM,General Motors,Consumer Discretionary,GICS-Autos
+CPRI,Capri Holdings,Consumer Discretionary,GICS-Durables
+RH,RH,Consumer Discretionary,GICS-Durables
+COLM,Columbia Sportswear,Consumer Discretionary,GICS-Durables
+CRI,Carter's,Consumer Discretionary,GICS-Durables
+NWL,Newell Brands,Consumer Discretionary,GICS-Durables
+LULU,Lululemon,Consumer Discretionary,GICS-Durables
+CCL,Carnival,Consumer Discretionary,GICS-ConsumerServices
+NCLH,Norwegian Cruise,Consumer Discretionary,GICS-ConsumerServices
+RCL,Royal Caribbean,Consumer Discretionary,GICS-ConsumerServices
+MAR,Marriott,Consumer Discretionary,GICS-ConsumerServices
+HLT,Hilton,Consumer Discretionary,GICS-ConsumerServices
+EXPE,Expedia,Consumer Discretionary,GICS-ConsumerServices
+JACK,Jack in the Box,Consumer Discretionary,GICS-ConsumerServices
+TNL,Travel+Leisure,Consumer Discretionary,GICS-ConsumerServices
+DG,Dollar General,Consumer Discretionary,GICS-Retailing
+TGT,Target,Consumer Discretionary,GICS-Retailing
+KSS,Kohl's,Consumer Discretionary,GICS-Retailing
+BURL,Burlington Stores,Consumer Discretionary,GICS-Retailing
+RL,Ralph Lauren,Consumer Discretionary,GICS-Retailing
+MUSA,Murphy USA,Consumer Discretionary,GICS-Retailing
+VZ,Verizon,Communication Services,GICS-Telecom
+AMT,American Tower,Communication Services,GICS-Telecom
+CCI,Crown Castle,Communication Services,GICS-Telecom
+SBAC,SBA Communications,Communication Services,GICS-Telecom
+T,AT&T,Communication Services,GICS-Telecom
+TMUS,T-Mobile,Communication Services,GICS-Telecom
+NTDOY,Nintendo ADR,Communication Services,GICS-Media
+RBLX,Roblox,Communication Services,GICS-Media
+NTES,NetEase ADR,Communication Services,GICS-Media
+FOX,Fox Corp,Communication Services,GICS-Media
+SNAP,Snap,Communication Services,GICS-Media
+PIN,Pinterest,Communication Services,GICS-Media
+RDDT,Reddit,Communication Services,GICS-Media
+NFLX,Netflix,Communication Services,GICS-Media
+UNFI,United Natural Foods,Consumer Staples,GICS-StaplesRetail
+WMK,Weis Markets,Consumer Staples,GICS-StaplesRetail
+SFM,Sprouts Farmers Market,Consumer Staples,GICS-StaplesRetail
+KR,Kroger,Consumer Staples,GICS-StaplesRetail
+CASY,Casey's General,Consumer Staples,GICS-StaplesRetail
+ACI,Albertsons,Consumer Staples,GICS-StaplesRetail
+STZ,Constellation Brands,Consumer Staples,GICS-FoodBev
+TAP,Molson Coors,Consumer Staples,GICS-FoodBev
+MO,Altria,Consumer Staples,GICS-FoodBev
+MNST,Monster Beverage,Consumer Staples,GICS-FoodBev
+MDLZ,Mondelez,Consumer Staples,GICS-FoodBev
+KO,Coca-Cola,Consumer Staples,GICS-FoodBev
+SJM,JM Smucker,Consumer Staples,GICS-FoodBev
+EL,Estee Lauder,Consumer Staples,GICS-Household
+HELE,Helen of Troy,Consumer Staples,GICS-Household
+KVUE,Kenvue,Consumer Staples,GICS-Household
+IPAR,Inter Parfums,Consumer Staples,GICS-Household
+COTY,Coty,Consumer Staples,GICS-Household
+ELF,e.l.f. Beauty,Consumer Staples,GICS-Household
+ULTA,Ulta Beauty,Consumer Staples,GICS-Household
+GEHC,GE HealthCare,Health Care,GICS-HC-Equipment
+INMD,InMode,Health Care,GICS-HC-Equipment
+FMS,Fresenius Medical,Health Care,GICS-HC-Equipment
+IART,Integra LifeSciences,Health Care,GICS-HC-Equipment
+STE,STERIS,Health Care,GICS-HC-Equipment
+CNMD,Conmed,Health Care,GICS-HC-Equipment
+ABT,Abbott Labs,Health Care,GICS-HC-Equipment
+ISRG,Intuitive Surgical,Health Care,GICS-HC-Equipment
+JNJ,Johnson & Johnson,Health Care,GICS-HC-Equipment
+MDT,Medtronic,Health Care,GICS-HC-Equipment
+ELV,Elevance Health,Health Care,GICS-HC-Equipment
+UNH,UnitedHealth,Health Care,GICS-HC-Equipment
+VEEV,Veeva Systems,Health Care,GICS-Pharma
+EXEL,Exelixis,Health Care,GICS-Pharma
+BIIB,Biogen,Health Care,GICS-Pharma
+GILD,Gilead,Health Care,GICS-Pharma
+PFE,Pfizer,Health Care,GICS-Pharma
+BMY,Bristol Myers,Health Care,GICS-Pharma
+HRMY,Harmony Biosciences,Health Care,GICS-Pharma
+NWG,NatWest Group,Financials,GICS-Banks
+BAC,Bank of America,Financials,GICS-Banks
+RF,Regions Financial,Financials,GICS-Banks
+HSBC,HSBC Holdings,Financials,GICS-Banks
+WFC,Wells Fargo,Financials,GICS-Banks
+USB,US Bancorp,Financials,GICS-Banks
+PNC,PNC Financial,Financials,GICS-Banks
+CFG,Citizens Financial,Financials,GICS-Banks
+FITB,Fifth Third,Financials,GICS-Banks
+MTB,M&T Bank,Financials,GICS-Banks
+HBAN,Huntington,Financials,GICS-Banks
+JPM,JPMorgan,Financials,GICS-Banks
+MA,Mastercard,Financials,GICS-DivFinancials
+FI,Fiserv,Financials,GICS-DivFinancials
+JKHY,Jack Henry,Financials,GICS-DivFinancials
+V,Visa,Financials,GICS-DivFinancials
+EG,Everest Group,Financials,GICS-Insurance
+MET,MetLife,Financials,GICS-Insurance
+PLGO,Pelagos Insurance,Financials,GICS-Insurance
+HPE,HPE,Information Technology,GICS-TechHardware
+CRSR,Corsair Gaming,Information Technology,GICS-TechHardware
+GLW,Corning,Information Technology,GICS-TechHardware
+DELL,Dell Technologies,Information Technology,GICS-TechHardware
+ANET,Arista Networks,Information Technology,GICS-TechHardware
+SMCI,Super Micro,Information Technology,GICS-TechHardware
+MU,Micron,Information Technology,GICS-Semis
+NVDA,NVIDIA,Information Technology,GICS-Semis
+AMAT,Applied Materials,Information Technology,GICS-Semis
+KLAC,KLA Corp,Information Technology,GICS-Semis
+ASML,ASML,Information Technology,GICS-Semis
+LRCX,Lam Research,Information Technology,GICS-Semis
+AOSL,Alpha Omega Semi,Information Technology,GICS-Semis
+SNDK,Sandisk,Information Technology,GICS-Semis
+WDC,Western Digital,Information Technology,GICS-Semis
+STX,Seagate,Information Technology,GICS-Semis
+EIX,Edison International,Utilities,GICS-Utilities
+DTE,DTE Energy,Utilities,GICS-Utilities
+NI,NiSource,Utilities,GICS-Utilities
+ETR,Entergy,Utilities,GICS-Utilities
+DUK,Duke Energy,Utilities,GICS-Utilities
+AEP,American Electric Power,Utilities,GICS-Utilities
+PEG,Public Service Enterprise,Utilities,GICS-Utilities
+D,Dominion Energy,Utilities,GICS-Utilities
+NEE,NextEra,Utilities,GICS-Utilities
+BEPC,Brookfield Renewable,Utilities,GICS-Utilities
+DLR,Digital Realty,Real Estate,GICS-REIT
+EQIX,Equinix,Real Estate,GICS-REIT
+KRC,Kilroy Realty,Real Estate,GICS-REIT
+CPB,Campbell's,Consumer Staples,GICS-FoodBev
+ZTS,Zoetis,Health Care,GICS-Pharma
+TTD,The Trade Desk,Communication Services,GICS-Media
+CRWV,CoreWeave,Information Technology,AI-track1
+NBIS,Nebius Group,Information Technology,AI-track1
+BTBT,Bit Digital,Information Technology,AI-track15
+CLSK,CleanSpark,Information Technology,AI-track15
+HUT,Hut 8,Information Technology,AI-track15
+IREN,IREN,Information Technology,AI-track15
+CIFR,Cipher Mining,Information Technology,AI-track15
+APLD,Applied Digital,Information Technology,AI-track15
+MRVL,Marvell Technology,Information Technology,AI-track2
+ALAB,Astera Labs,Information Technology,AI-track2
+CIEN,Ciena,Information Technology,AI-track3
+COHR,Coherent,Information Technology,AI-track3
+LITE,Lumentum,Information Technology,AI-track3
+CRDO,Credo Technology,Information Technology,AI-track3
+FABR,Fabric8/AI networking,Information Technology,AI-track3
+AMKR,Amkor Technology,Information Technology,AI-track5
+GEV,GE Vernova,Industrials,AI-track8
+ETD,ETD Inc,Industrials,AI-track8
+PWR,Quanta Services,Industrials,AI-track8
+HUBB,Hubbell,Industrials,AI-track8
+VRT,Vertiv,Industrials,AI-track9
+MODV,Modine,Industrials,AI-track9
+NVT,nVent Electric,Industrials,AI-track9
+J,Jacobs Solutions,Industrials,AI-track10
+EME,EMCOR Group,Industrials,AI-track10
+FIX,Comfort Systems,Industrials,AI-track10
+APG,APi Group,Industrials,AI-track10
+CRM,Salesforce,Information Technology,AI-track11
+NOW,ServiceNow,Information Technology,AI-track11
+PLTR,Palantir,Information Technology,AI-track11
+PATH,UiPath,Information Technology,AI-track11
+GOOGL,Alphabet,Communication Services,AI-track12
+OKLO,Oklo,Utilities,AI-track7
+SMR,NuScale Power,Utilities,AI-track7
+CCJ,Cameco,Energy,AI-track7
+LEU,Centrus Energy,Energy,AI-track7
+ASPI,ASP Isotopes,Energy,AI-track7
+NXE,NexGen Energy,Energy,AI-track7
+UEC,Uranium Energy,Energy,AI-track7
+CEG,Constellation Energy,Utilities,AI-track7
+VST,Vistra,Utilities,AI-track7
+TLN,Talen Energy,Utilities,AI-track7
+AUR,Aurora Innovation,Consumer Discretionary,AI-track14
+MBLY,Mobileye,Information Technology,AI-track14
+TSLA,Tesla,Consumer Discretionary,AI-track14
+DDOG,Datadog,Information Technology,D6-earnings
+TPR,Tapestry,Consumer Discretionary,D6-earnings
+BIRK,Birkenstock,Consumer Discretionary,D6-earnings
+WDAY,Workday,Information Technology,D6-earnings
+MH,McGraw Hill,Communication Services,D6-earnings
+AVAH,Aveanna Healthcare,Health Care,D6-earnings
+CVX,Chevron,Energy,D5-smartmoney
+APP,AppLovin,Information Technology,D1-quant
+SFBS,ServisFirst,Financials,D1-quant
+KNSL,Kinsale Capital,Financials,D1-quant
+EEFT,Euronet Worldwide,Financials,D1-quant
+CALM,Cal-Maine Foods,Consumer Staples,D1-quant
+GEV2,GE Vernova IT,Industrials,D1-quant
+ADI,Analog Devices,Information Technology,D1-quant
+NVS,Novartis ADR,Health Care,D1-quant
+MIDD,Middleby,Industrials,D3-event
+LBTYA,Liberty Broadband,Communication Services,D3-event
+GPC2,Genuine Parts breakup,Industrials,D3-event
+HG,Hamilton Insurance,Financials,D3-event
+PUK,Prudential PLC,Financials,D3-event
+IRSA,IRSA Investments,Real Estate,D3-event
+CHWY,Chewy,Consumer Discretionary,nonAI-pet
+FRPT,Freshpet,Consumer Discretionary,nonAI-pet
+TRUP,Trupanion,Financials,nonAI-pet
+RHHBY,Roche ADR,Health Care,nonAI-aging
+NVO,Novo Nordisk,Health Care,nonAI-aging
+EW,Edwards Lifesciences,Health Care,nonAI-aging
+SYK,Stryker,Health Care,nonAI-aging
+LUNR,Intuitive Machines,Industrials,nonAI-space
+GMED,Globus Medical,Health Care,GICS-HC-Equipment
+PLD,Prologis,Real Estate,D5-smartmoney
+EQIX2,Equinix II,Real Estate,GICS-REIT
+NRG,NRG Energy,Utilities,AI赛道7-电力IPP
+UBER,Uber,Industrials,AI赛道14-Robotaxi+F-memory
+TEM,Tempus AI,Health Care,F-memory
+S,SentinelOne,Information Technology,F-memory
+INOD,Innodata,Information Technology,F-memory
+GTBIF,Green Thumb Industries,Consumer Discretionary,F-memory
+DOCS,Doximity,Health Care,F-memory
+FOUR,Shift4 Payments,Financials,F-memory
+DUOL,Duolingo,Communication Services,F-memory
+FICO,Fair Isaac,Financials,F-memory
+CHKP,Check Point,Information Technology,F-memory
+AXP,American Express,Financials,F-memory
+NOC,Northrop Grumman,Industrials,F-memory
+DIS,Disney,Communication Services,F-memory
+RKLB,Rocket Lab,Industrials,F-memory
+QCOM,Qualcomm,Information Technology,F-memory
+CRWD,CrowdStrike,Information Technology,F-memory
+KGS,Kodiak Gas Services,Energy,D6-财报催化
+HWM,Howmet Aerospace,Industrials,非AI主题2-国防
+GD,General Dynamics,Industrials,非AI主题2-国防
+RTX,RTX Corp,Industrials,非AI主题2-国防
+LHX,L3Harris,Industrials,非AI主题2-国防
+FLNC,Fluence Energy,Industrials,非AI主题3-储能
+STEM,Stem Inc,Industrials,非AI主题3-储能
+ROK,Rockwell Automation,Industrials,非AI主题4-自动化
+ETN,Eaton,Industrials,非AI主题4-自动化
+TER,Teradyne,Information Technology,非AI主题4-自动化
+PH,Parker-Hannifin,Industrials,非AI主题13-机器人
+AWK,American Water Works,Utilities,非AI主题7-水务
+XYL,Xylem,Industrials,非AI主题7-水务
+WTRG,Essential Utilities,Utilities,非AI主题7-水务
+DE,Deere,Industrials,非AI主题8-农业
+AGCO,AGCO,Industrials,非AI主题8-农业
+MOS,Mosaic,Materials,非AI主题8-农业
+CF,CF Industries,Materials,非AI主题8-农业
+NTR,Nutrien,Materials,非AI主题8-农业
+KYEC,Kyodo Technical,Information Technology,AI赛道5-封装
+LMBD,Lambda (私有参考),Information Technology,AI赛道1-neocloud
+DXCM,Dexcom,Health Care,非AI主题1-老龄化
+IBM,IBM,Information Technology,D1a-价值
+C,The Trade Desk Reference,Communication Services,GICS-Media
+MSA,Reference Only,Financials,GICS-Banks
+SYY,Sysco,Consumer Staples,D1a-价值
+ADR,Adler Reference,Real Estate,D1a-价值
+LNG,Cheniere Energy,Energy,GICS-Energy
+VG,Venture Global,Energy,GICS-Energy
+WMB,Williams,Energy,GICS-Energy
+EPD,Enterprise Products,Energy,GICS-Energy
+TNK,Teekay Tankers,Energy,GICS-Energy
+TRMD,Torm,Energy,GICS-Energy
+AR,Antero Resources,Energy,GICS-Energy
+CRK,Comstock Resources,Energy,GICS-Energy
+NEM,Newmont,Materials,GICS-Materials
+NUE,Nucor,Materials,GICS-Materials
+SCCO,Southern Copper,Materials,GICS-Materials
+SHW,Sherwin-Williams,Materials,GICS-Materials
+LIN,Linde,Materials,GICS-Materials
+BHP,BHP Group,Materials,GICS-Materials
+RIO,Rio Tinto,Materials,GICS-Materials
+MP,MP Materials,Materials,GICS-Materials
+HII,Huntington Ingalls,Industrials,GICS-CapitalGoods
+IEX,IDEX,Industrials,GICS-CapitalGoods
+BA,Boeing,Industrials,GICS-CapitalGoods
+TXT,Textron,Industrials,GICS-CapitalGoods
+LMT,Lockheed Martin,Industrials,GICS-CapitalGoods
+WM,Waste Management,Industrials,GICS-CommProfServices
+RSG,Republic Services,Industrials,GICS-CommProfServices
+CLH,Clean Harbors,Industrials,GICS-CommProfServices
+ROL,Rollins,Industrials,GICS-CommProfServices
+ADP,ADP,Industrials,GICS-CommProfServices
+PAYC,Paycom,Industrials,GICS-CommProfServices
+BBSI,Barrett Business,Industrials,GICS-CommProfServices
+UPS,UPS,Industrials,GICS-Transportation
+UNP,Union Pacific,Industrials,GICS-Transportation
+ODFL,Old Dominion,Industrials,GICS-Transportation
+DAL,Delta,Industrials,GICS-Transportation
+WAB,Wabtec,Industrials,GICS-Transportation
+R,Ryder,Industrials,GICS-Transportation
+TFII,TFI International,Industrials,GICS-Transportation
+LEA,Lear,ConsumerDisc,GICS-Autos
+F,Ford,ConsumerDisc,GICS-Autos
+RIVN,Rivian,ConsumerDisc,GICS-Autos
+MAR,Marriott,ConsumerDisc,GICS-ConsumerServices
+CCL,Carnival,ConsumerDisc,GICS-ConsumerServices
+RCL,Royal Caribbean,ConsumerDisc,GICS-ConsumerServices
+UAL,United Airlines,ConsumerDisc,GICS-ConsumerServices
+NCLH,Norwegian Cruise,ConsumerDisc,GICS-ConsumerServices
+EXPE,Expedia,ConsumerDisc,GICS-ConsumerServices
+BKNG,Booking,ConsumerDisc,GICS-ConsumerServices
+TJX,TJX Companies,ConsumerDisc,GICS-Retailing
+ROST,Ross Stores,ConsumerDisc,GICS-Retailing
+TGT,Target,ConsumerDisc,GICS-Retailing
+DLTR,Dollar Tree,ConsumerDisc,GICS-Retailing
+DG,Dollar General,ConsumerDisc,GICS-Retailing
+BWMX,Betterware,ConsumerDisc,GICS-Retailing
+VZ,Verizon,CommServices,GICS-Telecom
+T,AT&T,CommServices,GICS-Telecom
+TMUS,T-Mobile,CommServices,GICS-Telecom
+AMT,American Tower,CommServices,GICS-Telecom
+CCI,Crown Castle,CommServices,GICS-Telecom
+CMCSA,Comcast,CommServices,GICS-Media
+NFLX,Netflix,CommServices,GICS-Media
+PARA,Paramount,CommServices,GICS-Media
+TTD,Trade Desk,CommServices,GICS-Media
+FVRR,Fiverr,CommServices,GICS-Media
+ANDE,Andersons,Staples,GICS-StaplesRetail
+SYY,Sysco,Staples,GICS-StaplesRetail
+GIS,General Mills,Staples,GICS-FoodBev
+HSY,Hershey,Staples,GICS-FoodBev
+KO,Coca-Cola,Staples,GICS-FoodBev
+PEP,PepsiCo,Staples,GICS-FoodBev
+MO,Altria,Staples,GICS-FoodBev
+CL,Clorox,Staples,GICS-Household
+COTY,Coty,Staples,GICS-Household
+EL,Estee Lauder,Staples,GICS-Household
+IPAR,Inter Parfums,Staples,GICS-Household
+GEHC,GE HealthCare,Healthcare,GICS-HealthcareEquip
+ABT,Abbott,Healthcare,GICS-HealthcareEquip
+ISRG,Intuitive Surgical,Healthcare,GICS-HealthcareEquip
+FMS,Fresenius,Healthcare,GICS-HealthcareEquip
+IART,Integra,Healthcare,GICS-HealthcareEquip
+STE,Steris,Healthcare,GICS-HealthcareEquip
+INMD,InMode,Healthcare,GICS-HealthcareEquip
+CNMD,Conmed,Healthcare,GICS-HealthcareEquip
+ELV,Elevance,Healthcare,GICS-HealthcareEquip
+JNJ,J&J,Healthcare,GICS-HealthcareEquip
+VEEV,Veeva,Healthcare,GICS-Pharma
+EXEL,Exelixis,Healthcare,GICS-Pharma
+HRMY,Harmony Biosciences,Healthcare,GICS-Pharma
+EW,Edwards Lifesciences,Healthcare,GICS-Pharma
+TMO,Thermo Fisher,Healthcare,GICS-Pharma
+JPM,JPMorgan,Financials,GICS-Banks
+BAC,Bank of America,Financials,GICS-Banks
+WFC,Wells Fargo,Financials,GICS-Banks
+CFG,Citizens Financial,Financials,GICS-Banks
+USB,US Bancorp,Financials,GICS-Banks
+PNC,PNC,Financials,GICS-Banks
+SOFI,SoFi,Financials,GICS-Banks
+C,Citigroup,Financials,GICS-Banks
+FIS,Fidelity National Info,Financials,GICS-DivFinancials
+FSV,First Service,Financials,GICS-DivFinancials
+BOW,Bowhead Specialty,Financials,GICS-Insurance
+DOCU,DocuSign,IT,GICS-Software
+HUBS,HubSpot,IT,GICS-Software
+WDAY,Workday,IT,GICS-Software
+DDOG,Datadog,IT,GICS-Software
+MDB,MongoDB,IT,GICS-Software
+SNOW,Snowflake,IT,GICS-Software
+NET,Cloudflare,IT,GICS-Software
+PANW,Palo Alto,IT,GICS-Software
+CRWD,CrowdStrike,IT,GICS-Software
+SAP,SAP,IT,GICS-Software
+DELL,Dell,IT,GICS-TechHardware
+GLW,Corning,IT,GICS-TechHardware
+HPE,HPE,IT,GICS-TechHardware
+ANET,Arista Networks,IT,GICS-TechHardware
+SMCI,Super Micro,IT,GICS-TechHardware
+CLS,Celestica,IT,GICS-TechHardware
+OUST,Ouster,IT,GICS-TechHardware
+CRSR,Corsair,IT,GICS-TechHardware
+MU,Micron,IT,GICS-Semis
+ON,Onsemi,IT,GICS-Semis
+NVDA,Nvidia,IT,GICS-Semis
+AMD,AMD,IT,GICS-Semis
+ASML,ASML,IT,GICS-Semis
+LRCX,Lam Research,IT,GICS-Semis
+AMAT,Applied Materials,IT,GICS-Semis
+SR,Spire,Utilities,GICS-Utilities
+IIPR,Innovative Industrial,RealEstate,GICS-RealEstate
+CRWV,CoreWeave,IT,AI赛道1-Neocloud
+NBIS,Nebius,IT,AI赛道1-Neocloud
+WDC,Western Digital,IT,AI赛道4-HBM存储
+STX,Seagate,IT,AI赛道4-HBM存储
+AMKR,Amkor,IT,AI赛道5-先进封装
+GEV,GE Vernova,Industrials,AI赛道8-电网
+ETD,Eaton,Industrials,AI赛道8-电网
+PWR,Quanta Services,Industrials,AI赛道8-电网
+HUBB,Hubbell,Industrials,AI赛道8-电网
+POWL,Powell Industries,Industrials,AI赛道8-电网
+VRT,Vertiv,Industrials,AI赛道9-散热
+FLS,Flowserve,Industrials,AI赛道9-散热
+EQIX,Equinix,RealEstate,AI赛道10-DCREIT
+DLR,Digital Realty,RealEstate,AI赛道10-DCREIT
+JCI,Johnson Controls,Industrials,AI赛道10-E&C
+EME,EMCOR,Industrials,AI赛道10-E&C
+NOW,ServiceNow,IT,AI赛道11-Agent
+PLTR,Palantir,IT,AI赛道11-Agent
+SOUN,SoundHound,IT,AI赛道11-Agent
+MRVL,Marvell,IT,AI赛道2-ASIC
+ALAB,Astera Labs,IT,AI赛道2-ASIC
+COHR,Coherent,IT,AI赛道3-光模块
+CIEN,Ciena,IT,AI赛道3-光模块
+LITE,Lumentum,IT,AI赛道3-光模块
+ANET,Arista Networks,IT,AI赛道3-网络
+CEG,Constellation,Utilities,AI赛道7-电力
+TLN,Talen Energy,Utilities,AI赛道7-电力
+CCJ,Cameco,Energy,AI赛道7-核燃料
+LEU,Centrus Energy,Energy,AI赛道7-核燃料
+OKLO,Oklo,Utilities,AI赛道7-SMR
+TER,Teradyne,IT,AI赛道6-设备
+KLAC,KLA,IT,AI赛道6-设备
+QCOM,Qualcomm,IT,GICS-Semis
+AUR,Aurora Innovation,IT,AI赛道14-Robotaxi
+MBLY,Mobileye,IT,AI赛道14-Robotaxi
+BTBT,Bit Digital,Financials,AI赛道15-加密转AI
+CLSK,CleanSpark,Financials,AI赛道15-加密转AI
+HUT,Hut 8,Financials,AI赛道15-加密转AI
+IREN,IREN,Financials,AI赛道15-加密转AI
+WULF,TeraWulf,Financials,AI赛道15-加密转AI
+ENSG,Ensign Group,Healthcare,非AI主题1-老龄化
+VTR,Ventas,RealEstate,非AI主题1-老龄化
+IDXX,Idexx,Healthcare,非AI主题10-宠物
+DKNG,DraftKings,ConsumerDisc,非AI主题9-博彩
+FLUT,Flutter,ConsumerDisc,非AI主题9-博彩
+GPC,Genuine Parts,ConsumerDisc,D3-事件驱动
+DAL,Delta Air Lines,Industrials,D5-聪明钱
+GOOG,Alphabet C,CommServices,D5-聪明钱
+M,Macy's,ConsumerDisc,D5-聪明钱
+AXP,American Express,Financials,F-memory
+NOC,Northrop Grumman,Industrials,F-memory
+FICO,Fair Isaac,IT,F-memory
+DOCS,Doximity,Healthcare,F-memory
+TEM,Tempus AI,Healthcare,F-memory
+INOD,Innodata,IT,F-memory
+S,SentinelOne,IT,F-memory
+GTBIF,Green Thumb,ConsumerDisc,F-memory
+ORCL,Oracle,IT,F-memory
+PINS,Pinterest,CommServices,F-memory
+GM,General Motors,ConsumerDisc,F-memory
+DIS,Walt Disney,CommServices,F-memory
+RKLB,Rocket Lab,Industrials,F-memory
+HUBS,HubSpot,IT,GICS-Software
+CRM,Salesforce,IT,F-memory
+UBER,Uber,Industrials,F-memory
+ACN,Accenture,IT,F-memory
+AAPL,Apple,IT,D7-生态链
+CHKP,Check Point,IT,F-memory
+EGO,Eog Resources,Energy,F-memory
+ZTS,Zoetis,Healthcare,F-memory
+MSFT,Microsoft,IT,F-memory-holding
+GOOGL,Alphabet,CommServices,F-memory

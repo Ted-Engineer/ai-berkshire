@@ -52,17 +52,21 @@ if ! ls "${WORKFLOW_DIR}"/bottleneck-hunter-*.done >/dev/null 2>&1; then
   missing+=("/bottleneck-hunter（瓶颈扫描）")
 fi
 
-# 5. mcp__web-search 必须使用过
-if [ ! -f "${WORKFLOW_DIR}/mcp-web-search.used" ]; then
-  missing+=("mcp__web-search__search（必须至少使用一次此MCP搜索工具）")
+# 5. 搜索工具必须使用过（接受回退链任一：mcp__web-search / kepler / web-search-prime / 内置WebSearch）
+if [ ! -f "${WORKFLOW_DIR}/mcp-web-search.used" ] \
+   && [ ! -f "${WORKFLOW_DIR}/mcp-kepler-search.used" ] \
+   && [ ! -f "${WORKFLOW_DIR}/mcp-web-search-prime.used" ] \
+   && [ ! -f "${WORKFLOW_DIR}/builtin-websearch.used" ]; then
+  missing+=("搜索工具（必须至少使用一次：mcp__web-search__search或回退链kepler/web-search-prime/内置WebSearch，并写入对应.used标记）")
 fi
 
-# 6. 候选股票数量检查（≥200下限，250理想）
+# 6. 候选股票数量检查（≥300下限，350理想）
 CANDIDATE_FILE="${WORKFLOW_DIR}/candidates.csv"
 if [ -f "$CANDIDATE_FILE" ]; then
-  candidate_count=$(tail -n +2 "$CANDIDATE_FILE" 2>/dev/null | grep -c '[A-Z]' 2>/dev/null || echo 0)
-  if [ "$candidate_count" -lt 200 ]; then
-    missing+=("候选股票数量不足：当前${candidate_count}只，要求≥200只（理想250只）。请继续扫描更多GICS行业组和交叉维度。")
+  candidate_count=$(tail -n +2 "$CANDIDATE_FILE" 2>/dev/null | grep -c '[A-Z]' 2>/dev/null)
+  candidate_count=${candidate_count:-0}
+  if [ "$candidate_count" -lt 300 ]; then
+    missing+=("候选股票数量不足：当前${candidate_count}只，要求≥300只（理想350只）。请继续扫描更多GICS行业组和交叉维度。")
   fi
 else
   missing+=("候选累积文件不存在（.claude/.workflow/candidates.csv）。搜索时必须维护此文件，每发现一只候选追加一行。")
@@ -96,7 +100,7 @@ SEARCH_LOG="${WORKFLOW_DIR}/search-log.txt"
 if [ -f "$SEARCH_LOG" ]; then
   search_count=$(wc -l < "$SEARCH_LOG" 2>/dev/null || echo 0)
   if [ "$search_count" -lt 80 ]; then
-    missing+=("搜索总量不足：当前${search_count}次，要求≥80次。构成：GICS 25组×2视角=50 + AI赛道15×2=30 + 非AI主题≥8 + 7维补充。搜索词自动记录于search-log.txt，按prompt.md「搜索总量硬指标」补齐")
+    missing+=("搜索总量不足：当前${search_count}次，要求≥80次。构成：GICS 25组×2视角=50 + AI赛道17×2=34 + 非AI主题≥8 + 7维补充。搜索词自动记录于search-log.txt，按prompt.md「搜索总量硬指标」补齐")
   fi
 else
   missing+=("搜索日志不存在（.claude/.workflow/search-log.txt）。每次MCP/WebSearch调用会自动追加一行；若无任何搜索记录说明未联网扫描")

@@ -1,0 +1,85 @@
+{
+  "hooks": {
+    "enabled": true,
+    "events": {
+      "SessionStart": [
+        {
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash F:/ai-berkshire/scripts/learnings-digest.sh",
+              "timeout": 10,
+              "statusMessage": "注入 .learnings/ 知识库摘要…"
+            }
+          ]
+        },
+        {
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash F:/ai-berkshire/scripts/workflow-session-cleanup.sh",
+              "timeout": 5
+            }
+          ]
+        }
+      ],
+      "UserPromptSubmit": [
+        {
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash F:/ai-berkshire/scripts/skill-enforcement-hook.sh",
+              "timeout": 10,
+              "statusMessage": "Skill enforcement check..."
+            }
+          ]
+        }
+      ],
+      "PostToolUse": [
+        {
+          "matcher": "Skill",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash F:/ai-berkshire/scripts/skill-tracker-hook.sh",
+              "timeout": 5,
+              "statusMessage": "Recording skill execution..."
+            }
+          ]
+        },
+        {
+          "matcher": "Write",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash F:/ai-berkshire/scripts/workflow-cleanup-hook.sh",
+              "timeout": 5
+            }
+          ]
+        },
+        {
+          "matcher": "WebSearch|mcp__web-search__search|mcp__kepler__web_search|mcp__web-search-prime__web_search_prime",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash F:/ai-berkshire/scripts/search-tracker-hook.sh",
+              "timeout": 5
+            }
+          ]
+        }
+      ],
+      "Stop": [
+        {
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash F:/ai-berkshire/scripts/workflow-gate-hook.sh",
+              "timeout": 10,
+              "statusMessage": "Workflow gate check..."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

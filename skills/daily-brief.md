@@ -31,6 +31,15 @@ Read `reports/portfolio-latest.md` 确认持仓。计算每只股票盈亏%、�
 | 重大新闻 | 并购/监管/诉讼 | 🚨 评估 |
 | 触及止损 | -12% | 🛑 预警 |
 
+### Step 3.5: 触发价扫描（watchlist + catalysts）
+
+Read `config/watchlist.md`（价格触发）与 `config/catalysts.md`（日期触发）：
+
+- 现价进入触发价区间（或距触发价 ±3% 以内）→ 🔔 在简报顶部显著标注"XX 触发/接近触发"，提示按零复用铁律重跑 `/investment-checklist {标的}` 后再决策
+- catalysts 中 7 天内到期的事件 → 🔔 同样置顶标注（事件名+判据+预设动作）
+- 条目超 30 天未重验 → 标注 `⚠️需重验`
+- 本步骤只提醒不构成买入指令（8-13 NBIS 踏空的结构性补丁）
+
 ### Step 4: 输出简报
 
 写入 `reports/daily/daily-{YYYYMMDD}.md`：
@@ -52,6 +61,9 @@ Read `reports/portfolio-latest.md` 确认持仓。计算每只股票盈亏%、�
 - 最大仓位 / 现金水平 / 止损预警 / FCF红线
 
 ### 催化剂日历（7天内）
+
+### 触发价扫描（watchlist）
+> "今日无触发" 或 🔔 触发标的+对应动作
 
 ### 操作建议
 > "今日无需操作" 或 明确动词+理由
