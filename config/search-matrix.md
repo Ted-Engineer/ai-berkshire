@@ -133,7 +133,7 @@
 | F | 用户历史关注（必选） | 三步：(1)Read MEMORY.md索引；(2)对每条相关记忆Read完整内容提取ticker；(3)特别关注反复研究但未执行的标的 | 用户花最多时间研究的标的最可能成交 |
 | G | 持仓生态链反向搜索（必选） | 对每只持仓搜索核心供应商/客户/合作伙伴（=D7） | 生态链标的有已验证的商业关系 |
 | **H** | **爆发股猎手（必选）** | 用open-websearch MCP执行4轮×≥5组关键词全网扫描；DNA 5+1画像过滤（收入≥100%/盈利拐点/市值$3-80B/赛道纯正/积压可见 + 覆盖错位） | 传统价值筛选器系统性过滤掉三位数增速股 |
-| **I** | **估值修复猎手（必选，v5.2新增）** | 搜索"好公司被恐惧打折"的标的：历史低PE+高毛利+催化剂临近；搜索词："quality stocks historically low PE 2026"、"oversold SaaS stocks strong fundamentals"、"beaten down tech stocks high margin catalyst"、"stocks 52 week low strong FCF moat"、"fear driven sellover quality companies 2026" | 估值修复是第二条超额收益路径（恐惧>现实→PE回归均值），与来源H互补：H找"增速被低估"，I找"风险被高估" |
+| **I** | **估值修复猎手（必选，v5.2新增）** | 搜索"好公司被恐惧打折"的标的：历史低PE+高毛利+催化剂临近；搜索词："quality stocks historically low PE 2026"、"oversold SaaS stocks strong fundamentals"、"beaten down tech stocks high margin catalyst"、"stocks 52 week low strong FCF moat"、"fear driven sellover quality companies 2026"；**加密修复专用词（v5.4新增）**："crypto stocks beaten down strong revenue 2026"、"bitcoin proxy stocks undervalued COIN MSTR"、"crypto mining stocks low valuation hashrate growth"、"stablecoin regulation catalyst stocks"、"crypto exchange stocks oversold fundamentals" | 估值修复是第二条超额收益路径（恐惧>现实→PE回归均值），与来源H互补：H找"增速被低估"，I找"风险被高估"；加密修复独立于AI修复（币价周期压制≠AI叙事压制） |
 
 **来源F执行证据**：必须展示"Read了哪些memory文件→提取了哪些ticker"。
 **来源G执行证据**：必须展示"对哪些持仓搜索了供应商/客户"。
