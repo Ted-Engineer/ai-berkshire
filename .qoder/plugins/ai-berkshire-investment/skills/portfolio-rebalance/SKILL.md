@@ -3,24 +3,6 @@ name: portfolio-rebalance
 description: "组合调仓全流程:持仓重研+行业分布体检+全市场候选扫描(300只)+双重准入验证,产出操作信号。当用户想做周期性调仓决策、生成买卖方案时调用(全量/lite/子集三种模式)。"
 ---
 
-## DSH adapter note
-
-This skill is generated from `skills/portfolio-rebalance.md` so Claude Code, Codex, TRAE, and DSH users share one canonical workflow. DSH discovers it as a project-level skill at `.dsh/skills/portfolio-rebalance/SKILL.md` (rank 100, highest local priority).
-
-- Treat `$ARGUMENTS` as the user's request in the current DSH session.
-- Map Claude-only surfaces to the DSH tools available in this session:
-  - `Task`(单个后台子代理)→ DSH `subagent`(默认后台运行,可在同一条消息里并行启动多个)。
-  - `TaskCreate`(创建多个并行子任务)→ 并行启动多个 `subagent`;当需要大规模 fan-out 编排(几十个 agent、多阶段、结构化结果)时用 `workflow`。
-  - `WebSearch` / `WebFetch` → DSH `web_search`(始终可用,无需 `.claude/settings.local.json` 白名单;`WebFetch` 抓全文的能力用 `web_search` 返回的来源 URL + snippet 替代)。
-  - `Bash` → DSH `bash`。
-  - `Read` / `Write` / `Edit` / `Glob` / `Grep` → DSH 同名工具。
-  - `Skill` → DSH `skill`(用于调用其他 ai-berkshire skill)。
-  - `TodoWrite` → DSH `todo_write`。
-- 配套 Python 工具原地可用:在仓库根目录运行 `python3 tools/financial_rigor.py ...` / `python3 tools/report_audit.py ...` 等(零外部依赖,见 CLAUDE.md 工具表)。DSH skill 为项目级部署,工具路径相对项目根直接生效。
-- 引用其他 skill(如 `skills/financial-data.md`)时,优先用 `skill` 工具按名字加载(如 `financial-data`),而非读相对路径文件。
-- 研究质量规则保留:开始研究前先 `date` 确认今天日期作为「最新数据」基准并在报告头部标注截止日期;关键财务数据至少 2 个独立来源交叉验证;估值/算术用 `tools/financial_rigor.py`精确计算;诚实标注低置信结论与数据缺口。
-- 报告输出沿用既有命名规范:`reports/{公司名}/` 目录 或 `reports/{公司名}-{type}-{YYYYMMDD}.md`。
-
 # 组合调仓：全流程调仓研究与操作信号
 
 对 $ARGUMENTS 执行全流程调仓研究（prompt.md v4 的 skill 化执行入口）。投资期限 1-6 个月，目标是捕捉可兑现的大额收益（催化剂/事件驱动）。

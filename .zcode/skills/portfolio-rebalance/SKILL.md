@@ -64,9 +64,10 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code, Cod
 ### Skill执行铁律
 - 直接用WebSearch分析股票=未执行，必须通过Skill/Agent工具调用
 - 持仓分析必须启动 /investment-team（4个并行Agent），不得用WebSearch替代
+- **每只持仓=4个独立Agent×1只股票**：禁止合并多只股票到同一批Agent，禁止将4个视角压缩到1个Agent（详见第二步“四大师并行执行规范”）
 - 候选标的必须过 /investment-checklist + /investment-team 双重验证，缺一不可
-- /industry-funnel 和 /bottleneck-hunter 必须正式调用skill，不得用"已扫描数据"替代
-- 判断标准：✅"调用/investment-checklist BR，Agent ID: xxx，六关全过"=已执行；❌"我用WebSearch搜了BR财务数据"=未执行；❌"WebSearch配额尽所以跳过"=未执行（必须换MCP工具）
+- /industry-funnel 和 /bottleneck-hunter 必须正式调用skill，不得用“已扫描数据”替代
+- 判断标准：✅“调用/investment-checklist BR，Agent ID: xxx，六关全过”=已执行；❌“我用WebSearch搜了BR财务数据”=未执行；❌“WebSearch配额尽所以跳过”=未执行（必须换MCP工具）；❌“1个Agent分析3只股票”=未执行；❌“1个Agent四维度合并分析”=未执行
 
 ### 推荐准入铁律
 - 最终方案中推荐"买入/新建/换仓"的新标的，必须先通过 /investment-checklist 验证
@@ -78,21 +79,50 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code, Cod
 
 ## 执行流程
 
-### 第零步：异动快速反应协议（最先执行，防隔夜大涨来不及反应）
+### 第零步：异动快速反应协议 + 市场温度判定（最先执行）
 - **首先**搜索 "biggest stock movers today" / "stocks surge earnings beat today" 检查当日重大异动
+- **延时交易异动（必须）**：用 Yahoo v8 chart API（`includePrePost=true`）获取全部持仓的夜盘/盘前最后成交价，与收盘价对比；延时变动>±1%的标的立即标注为异动信号，纳入优先评估
 - 用户关注过的标的（memory有记录）异动>10% → 立即纳入候选并评估
 - 持仓的供应商/客户/合作伙伴异动>15% → 评估对持仓的影响
+- **市场温度判定（v5.0新增，必须）**：按 `config/portfolio-targets.md` "现金动态规则"执行5个信号搜索（NDX距高点/VIX/市场广度/Fear&Greed/IPO情绪），确认当前温度档位（🔴🟠🟡🟢🔵），输出到报告头部并决定现金下限。禁止凭训练知识判断市场温度，必须实时搜索。
 
 ### 第一步：核实当前持仓（必须逐项确认）
 - 必须先 Read `reports/portfolio-latest.md`；若用户提供了持仓清单，以用户数据为准
 - 写入任何文件前，必须逐项向用户确认：股数、成本价、现金余额；绝不基于假设写持仓文件
-- **提取"待执行/观察/计划买入"项**：持仓文件中所有标记为"待执行""计划""观察"但尚未执行的标的，必须在第三步作为候选来源A纳入（不可遗漏）
+- **提取“待执行/观察/计划买入”项**：持仓文件中所有标记为“待执行”“计划”“观察”但尚未执行的标的，必须在第三步作为候选来源A纳入（不可遗漏）
+- **延时价格口径**：组合市值与分布计算必须使用最新可得价格（优先级：盘前 > 夜盘 > 收盘价）；报告持仓表必须同时展示「收盘价」「夜盘/盘前价」「延时vs收盘」三列；延时价格获取方法：`https://query1.finance.yahoo.com/v8/finance/chart/{TICKER}?interval=1m&range=1d&includePrePost=true`，取 timestamp+close 序列最后一个有效成交，判断时段（≥16:00 ET=夜盘，<9:30 ET=盘前）
 
-### 第二步：持仓股分析（全部从零研究，禁止复用）
+## 第二步：持仓股分析（全部从零研究，禁止复用）
 - 每只持仓股都必须在本次执行中重新启动 /investment-team（4并行Agent）实时研究（lite模式降级为：行情+催化剂快查+分布体检）
 - 必须展示Agent ID或搜索证据，证明是本次执行新建的研究
 - 分析重点（1-6个月视角）：FCF是否为正/增速/ROE；重大催化剂（财报/新品/监管）；下行风险（悲观场景-X%）；仓位是否合理（<3%=机会成本，>25%=集中风险）
 - 输出：每只一句话判断 + 明确操作信号（清仓/买入/持有/加仓/减仓，单一动词+触发条件，禁止模糊建议）
+
+#### 四大师并行执行规范（铁律·不可绕过·2026-08-18教训新增）
+
+**执行方式（唯一合法方式）**：
+1. **一次只分析一只股票**——按仓位从大到小逐只执行，完成一只再开始下一只
+2. **每只股票必须启动4个独立GeneralPurpose subagent**（在同一条消息中并行调用4次Agent工具），分别对应：
+   - Agent 1：商业分析师（段永平视角）——商业模式、护城河、定价权
+   - Agent 2：财务分析师（巴菲特视角）——财务数据、估值、FCF、安全边际
+   - Agent 3：行业研究员（芒格视角）——行业格局、竞争态势、逆向思维
+   - Agent 4：风险评估师（李录视角）——风险矩阵、管理层、催化剂、仓位合理性
+3. **4个Agent收回后由team-lead（主Agent）综合**，输出四维评分表+一句话判断+操作信号
+4. 每只完成后创建 `.done` 标记：`investment-team-{TICKER}-{YYYYMMDD}.done`
+
+**绝对禁止（违规=该股票分析无效，必须重做）**：
+- ❌ 将多只股票合并到1个Agent中分析（如"分析ADBE+AVGO+BRK.B"）
+- ❌ 将4个视角合并到1个Agent中（如"同时完成四个维度的分析"）
+- ❌ 用WebSearch直接分析替代4-Agent并行研究
+- ❌ 以"配额不足""效率考虑"为由减少Agent数量
+- ❌ 以"本会话已分析过"为由跳过任何一只
+
+**违规判定标准**：
+- ✅合法："启动4个Agent分析BABA，Agent ID: xxx/yyy/zzz/www"=已执行
+- ❌违规："启动1个Agent分析BABA+MSFT+ADBE"=未执行，必须重做
+- ❌违规："启动1个Agent同时完成四维度分析BABA"=未执行，必须重做
+
+**教训存档（2026-08-18）**：META正确使用了4个独立subagent（段永平/巴菲特/芒格/李录各自独立搜索、独立验证、独立结论），暴露了"仓位超风险预算1.34%>1%"这一关键风险；后续BABA/MSFT/ADBE退化为单agent合并分析后，四维张力消失，风险暴露能力严重降级。根因：独立执行产生的视角碰撞是暴露结构性风险的唯一途径，合并执行=自欺欺人。
 
 ### 第二步半：行业分布评估（必须执行，不可跳过）
 - 按 `config/portfolio-targets.md` 的分类规则归类每只持仓，计算当前分布，输出对比表（目标/当前/偏差/✅⚠️🔴状态）
@@ -104,9 +134,43 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code, Cod
 
 **候选累积追踪**：维护 `.claude/.workflow/candidates.csv`（ticker,company,gics_sector,source），下限300只、理想350只唯一候选；25个GICS组每组≥4只，7维每维≥5只；候选不足时gate脚本会拦截。
 
-**7路候选来源A-G并行**（缺一不可，详细执行方式见 `config/search-matrix.md` 第五节）：A=持仓文件待执行项、B=全市场多维搜索（GICS 25组×2视角+7维）、C=/industry-funnel、D=/bottleneck-hunter、E=分布缺口反向映射、F=用户历史关注（必选，须展示Read了哪些memory文件→提取了哪些ticker）、G=持仓生态链反向搜索（必选，须展示对哪些持仓搜了供应商/客户）。
+*8路候选来源A-H并行**（缺一不可，详细执行方式见 `config/search-matrix.md` 第五节）：A=持仓文件待执行项、B=全市场多维搜索（GICS 25组×2视角+7维）、C=/industry-funnel、D=/bottleneck-hunter、E=分布缺口反向映射、F=用户历史关注（必选，须展示Read了哪些memory文件→提取了哪些ticker）、G=持仓生态链反向搜索（必选，须展示对哪些持仓搜了供应商/客户）、**H=爆发股猎手（必选，全网覆盖式扫描寻找"被灰尘掩盖的金子"）**。
 
-**搜索执行**：按 `config/search-matrix.md` 的词库——GICS 25组全部×2视角（≥50次）、AI 17赛道全部×≥2视角（≥34次）、非AI 14主题选≥8（主题13/14优先）、7维各≥1次（D6/D7必做）；合计≥80次；AI候选≤65%；每次搜索后追加search-log.txt。
+#### 来源H：爆发股猎手（2026-08-18新增，全量模式必做）
+
+**目的**：寻找"NBIS@$70""CRCL@$50"级别的早期爆发标的——收入三位数增长、盈利拐点刚至、赛道唯一纯正、华尔街尚未充分覆盖、1-6个月有50-300%上行空间。
+
+**爆发股DNA画像（6条全满足才入池）**：
+1. **收入增速≥100% YoY**（最近一季，非预测）
+2. **盈利拐点**：EBITDA/净利润刚转正或即将转正（≤2个季度）
+3. **市值$3B-$50B**（太小=流动性风险；太大=弹性不足）
+4. **赛道纯正**：主业收入≥70%来自单一高增长主题（AI Cloud/AI网络/HBM/光互连/机器人等）
+5. **合同/积压可见性**：backlog≥年收入1.5x 或 大额合同公告（>$1B）
+6. **卖方覆盖不足**：分析师≤15人 或 最近3个月新增覆盖≤3家
+
+**扫描工具（强制）**：使用 open-websearch MCP（`CallMcpTool server_name="open-websearch" tool_name="search"`）执行全网覆盖式搜索，默认duckduckgo引擎；每轮搜索≥10组不同关键词，每组返回结果逐条审查。
+
+**必搜关键词矩阵（≥20次搜索，分4轮）**：
+
+| 轮次 | 搜索词（每组独立搜索） | 目的 |
+|------|----------------------|------|
+| 第1轮·增速发现 | "revenue growth over 100% stocks 2026 earnings"、"triple digit revenue growth AI stocks quarterly"、"fastest growing companies revenue 2026 stock"、"500% revenue growth stock 2026"、"revenue doubled year over year stocks 2026" | 按增速横切全市场 |
+| 第2轮·拐点发现 | "EBITDA positive first time 2026 stock AI"、"profitability inflection point stocks 2026"、"breakeven quarter AI company stock 2026"、"backlog billion dollars AI stocks 2026"、"contract wins billion AI infrastructure 2026" | 按盈利拐点+积压筛选 |
+| 第3轮·赛道纯正 | "pure play AI cloud stock 2026"、"AI networking only company stock"、"HBM memory pure play stocks"、"optical interconnect AI pure play"、"humanoid robot pure play stock 2026"、"AI inference chip pure play" | 按赛道纯正度筛选 |
+| 第4轮·被忽视发现 | "undercovered AI stocks institutional ownership low"、"small cap AI stocks analyst coverage under 10"、"recent IPO AI stocks 2025 2026 revenue growth"、"hidden AI stocks not owned by hedge funds"、"AI stocks Wall Street hasn't discovered yet 2026" | 按覆盖不足/被忽视筛选 |
+
+**筛选流程**：
+1. 4轮搜索汇总所有出现的ticker（去重）
+2. 对每只候选用Yahoo v8 API获取现价/市值，过滤市值不在$3-50B区间的
+3. 对剩余候选逐一验证6条DNA（搜索"{ticker} revenue growth Q2 2026"确认增速）
+4. 6条全满足 → 写入candidates.csv（source列标注"H-爆发股"）
+5. 从H来源候选中选Top 3-5 → 进入双重验证（/investment-checklist + /investment-team）
+
+**输出要求**：报告末尾输出"爆发股猎手扫描矩阵"——4轮×搜索词×结果数×入池数；标注哪些ticker通过了6条DNA、哪些被哪条拦截。
+
+**绝对禁止**：以"已搜过类似词"为由跳过H轮搜索；只看前2条搜索结果就声称扫描完成；用训练知识列举"已知爆发股"替代实时搜索（NBIS/CRWV/CRDO等已知标的仍须实时验证最新数据）。
+
+**搜索执行**：按 `config/search-matrix.md` 的词库——GICS 25组全部×2视角（≥50次）、AI 17赛道全部×≥2视角（≥34次）、非AI 14主题选≥8（主题13/14优先）、7维各≥1次（D6/D7必做）、**来源H爆发股猎手≥20次（open-websearch MCP）**；合计≥100次；AI候选≤65%；每次搜索后追加search-log.txt。
 
 **筛选流程**（不得跳过、不得引用旧结果）：
 1. 并行执行7路来源，汇总去重、按分布缺口优先级排序
@@ -114,7 +178,7 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code, Cod
 3. 对Top候选逐一双重验证：/investment-checklist（六关准入）+ /investment-team（四大师评估）——两者都通过才能进入终选
 4. 冒泡排序找Top 2（见第四步）
 
-**绝对禁止**：以"之前已执行过漏斗/瓶颈扫描"为由跳过；只搜2-3个行业就声称全市场扫描完成；跳过来源A/F/G；所有搜索词全部带"undervalued"。
+**绝对禁止**：以"之前已执行过漏斗/瓶颈扫描"为由跳过；只搜2-3个行业就声称全市场扫描完成；跳过来源A/F/G/H；所有搜索词全部带"undervalued"；来源H用内置WebSearch替代open-websearch MCP（必须走MCP以确保覆盖度）。
 
 ### 第四步：冒泡排序终选
 对所有候选两两比较：护城河★、估值fPE、下行风险（悲观-X%小者优先）、催化剂（3个月内有财报/新品者优先）、行业分布契合度（能修正硬约束偏差者优先）。
@@ -144,12 +208,12 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code, Cod
 | 阶段完成点 | 运行 | 必须通过 |
 |-----------|------|---------|
 | 第二步后（lite模式在此结束） | bash scripts/workflow-gate-hook.sh | investment-team ≥1个.done |
-| 第三步后 | bash scripts/workflow-gate-hook.sh | +checklist/funnel/bottleneck .done、candidates≥300、搜索≥80、used标记存在 |
+| 第三步后 | bash scripts/workflow-gate-hook.sh | +checklist/funnel/bottleneck .done、candidates≥300、搜索≥100（含H≥20）、used标记存在、mcp-open-websearch.used标记存在 |
 | 第五步后 | bash scripts/workflow-gate-hook.sh | +recommended-buys全覆盖 |
 
 ## 质量标准
 
-**必须做到**：每只股票明确操作信号；FCF分类处理（长期持仓FCF为负=清仓红线；短期"基建期成长股"单标的≤8%、合计≤12%、强制止损）；买入前双重验证；评分标注框架来源；关键数据用financial_rigor.py验证+双源交叉；写文件前逐项确认实际持仓；全部研究实时搜索；报告输出候选发现来源矩阵；来源F/G执行证据；搜索词多样性证据（≥10组不含"undervalued"）。
+**必须做到**：每只股票明确操作信号；FCF分类处理（长期持仓FCF为负=清仓红线；短期"基建期成长股"单标的≤8%、合计≤12%、强制止损）；买入前双重验证；评分标注框架来源；关键数据用financial_rigor.py验证+双源交叉；写文件前逐项确认实际持仓；全部研究实时搜索；报告输出候选发现来源矩阵；来源F/G/H执行证据；搜索词多样性证据（≥10组不含"undervalued"）；**来源H爆发股猎手必须输出4轮扫描矩阵+6条DNA验证表**。
 
 **禁止事项**：模糊建议；未核实持仓就给建议；复用旧评分/旧研究；以"本会话已执行"为由跳过步骤；批量分析多只股票在1个skill调用中；只搜与缺口匹配的行业就声称全市场扫描；忽略持仓文件待执行项；混用不同框架分数不标注；仅用checklist就决定买入；跳过行业分布评估或忽略硬约束>10%偏差；来源F走过场；忽略持仓生态链。
 
