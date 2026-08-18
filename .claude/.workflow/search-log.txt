@@ -1,13 +1,13 @@
-2026-08-18T11:26Z | WebSearch | biggest stock movers today August 18 2026
-2026-08-18T11:26Z | WebSearch | CBOE VIX index today August 2026
-2026-08-18T11:27Z | WebSearch | Nasdaq 100 NDX distance from 52 week high August 2026
-2026-08-18T11:27Z | WebSearch | S&P 500 percent stocks above 200 day moving average August 2026
-2026-08-18T11:27Z | WebSearch | CNN fear greed index today August 2026
-2026-08-18T11:28Z | WebSearch | IPO market August 2026 new listings first day performance
-2026-08-18T11:35Z | WebSearch | AI cloud GPU rental neocloud providers revenue growth 2026
-2026-08-18T11:35Z | WebSearch | 800G 1.6T optical module demand growth stocks 2026
-2026-08-18T11:35Z | WebSearch | China consumer stimulus recovery stocks 2026
-2026-08-18T11:35Z | WebSearch | gold miners precious metals royalty stocks 2026
-2026-08-18T11:36Z | Agent-H | 爆发股猎手4轮×5组=20+次搜索(增速/拐点/赛道/被忽视)
-2026-08-18T11:36Z | Agent-B | GICS 12行业×2视角=19次搜索
-2026-08-18T11:36Z | Agent-G | 生态链6次+D6财报催化5次=11次搜索
+
+2026-08-18T15:16:07Z | open-websearch | fear greed index today CNN August 2026
+2026-08-18T15:16:07Z | open-websearch | biggest stock movers today August 18 2026 surge earnings
+2026-08-18T15:16:07Z | open-websearch | S&P 500 percent above 200 day moving average August 2026
+2026-08-18T15:16:07Z | open-websearch | IPO market August 2026 new listings first day performance
+2026-08-18T15:16:07Z | yahoo-api | NDX VIX holdings price check
+2026-08-18T15:17:38Z | open-websearch | AI capex guidance 2026 hyperscaler spending increase
+2026-08-18T15:17:38Z | open-websearch | CoWoS HBM supply shortage 2026 TSM monthly revenue
+2026-08-18T15:17:38Z | open-websearch | bitcoin price all time high distance crypto fear greed
+2026-08-18T15:17:38Z | open-websearch | TSM TSMC stock drop semiconductor selloff
+2026-08-18T15:17:38Z | open-websearch | AI software ARR revenue growth SaaS Copilot adoption
+2026-08-18T15:17:38Z | open-websearch | bitcoin ETF flows weekly August 2026
+2026-08-18T15:17:38Z | fetchWebContent | dothingtrade.com market recap aug 18
