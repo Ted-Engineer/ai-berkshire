@@ -1,6 +1,6 @@
 schema_version: 1
 module_path: claude_workspace
-title: 多AI编辑器工作区与技能共享配置
+title: 多 AI 编辑器投研工作区配置
 scope:
     - .claude/
     - .dsh/
