@@ -3,11 +3,11 @@ schema_version: 1
 locale: zh-CN
 branch: main
 nodes_managed: true
-exported_at: "2026-08-18T15:59:00Z"
+exported_at: "2026-08-19T03:23:19Z"
 modules:
     "":
-        dir_name: AI-berkshire 投研流水线与多客户端 Skill 分发根
-        title: AI-berkshire 投研流水线与多客户端 Skill 分发根
+        dir_name: AI Berkshire 投研框架根仓库
+        title: AI Berkshire 投研框架根仓库
         scope:
             - README.md
             - CODE_OF_CONDUCT.md
@@ -30,8 +30,8 @@ modules:
         depends_on: []
         related_to: []
     agent_skills:
-        dir_name: Claude Code 技能集（skills_）
-        title: Claude Code 技能集（skills/）
+        dir_name: Claude Code 技能与投研 Prompt 集
+        title: Claude Code 技能与投研 Prompt 集
         scope:
             - skills/
         source_files: []
@@ -42,8 +42,8 @@ modules:
         depends_on: []
         related_to: []
     agent_skills/coding_design_skills:
-        dir_name: Claude Code 可插拔技能集（编码与设计）
-        title: Claude Code 可插拔技能集（编码与设计）
+        dir_name: Claude Code 可插拔技能集合（skills）
+        title: Claude Code 可插拔技能集合（skills）
         scope:
             - skills/
         source_files: []
@@ -117,8 +117,8 @@ modules:
         depends_on: []
         related_to: []
     claude_workspace:
-        dir_name: 多AI编辑器工作区与技能共享配置
-        title: 多AI编辑器工作区与技能共享配置
+        dir_name: 多 AI 编辑器投研工作区配置
+        title: 多 AI 编辑器投研工作区配置
         scope:
             - .claude/
             - .dsh/

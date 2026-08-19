@@ -1,6 +1,6 @@
 schema_version: 1
 module_path: agent_skills
-title: Claude Code 技能集（skills/）
+title: Claude Code 技能与投研 Prompt 集
 scope:
     - skills/
 source_files: []
