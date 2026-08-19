@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name='robots' content='noindex, follow' />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Vous avez cherché Triggerfish - ECIKS.org</title><link rel="preload" href="https://eciks.org/wp-content/cache/perfmatters/eciks.org/css/search.used.css?ver=1784777502" as="style" /><link rel="stylesheet" id="perfmatters-used-css" href="https://eciks.org/wp-content/cache/perfmatters/eciks.org/css/search.used.css?ver=1784777502" media="all" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Vous avez cherché Triggerfish - ECIKS.org" />
+	<meta property="og:url" content="https://eciks.org/search/Triggerfish" />
+	<meta property="og:site_name" content="ECIKS.org" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Vous avez cherché Triggerfish - ECIKS.org" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":["CollectionPage","SearchResultsPage"],"@id":"https:\/\/eciks.org\/?s=Triggerfish","url":"https:\/\/eciks.org\/?s=Triggerfish","name":"Vous avez cherché Triggerfish - ECIKS.org","isPartOf":{"@id":"https:\/\/eciks.org\/#website"},"primaryImageOfPage":{"@id":"#primaryimage"},"image":{"@id":"#primaryimage"},"thumbnailUrl":"https:\/\/eciks.org\/wp-content\/uploads\/2026\/06\/60513-google-taps-mediatek-for-upgraded-triggerfish-ai-chip-with-3x-memory-boost.jpg-scaled.png","breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"#primaryimage","url":"https:\/\/eciks.org\/wp-content\/uploads\/2026\/06\/60513-google-taps-mediatek-for-upgraded-triggerfish-ai-chip-with-3x-memory-boost.jpg-scaled.png","contentUrl":"https:\/\/eciks.org\/wp-content\/uploads\/2026\/06\/60513-google-taps-mediatek-for-upgraded-triggerfish-ai-chip-with-3x-memory-boost.jpg-scaled.png","width":1200,"height":800,"caption":"Google taps MediaTek for upgraded Triggerfish AI chip with 3x memory boost"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/eciks.org\/"},{"@type":"ListItem","position":2,"name":"You searched for Triggerfish"}]},{"@type":"WebSite","@id":"https:\/\/eciks.org\/#website","url":"https:\/\/eciks.org\/","name":"ECIKS.org","description":"","publisher":{"@id":"https:\/\/eciks.org\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/eciks.org\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/eciks.org\/#organization","name":"ECIKS.org","url":"https:\/\/eciks.org\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/eciks.org\/#\/schema\/logo\/image\/","url":"https:\/\/eciks.org\/wp-content\/uploads\/2026\/02\/Logo-ECIKS.png","contentUrl":"https:\/\/eciks.org\/wp-content\/uploads\/2026\/02\/Logo-ECIKS.png","width":295,"height":89,"caption":"ECIKS.org"},"image":{"@id":"https:\/\/eciks.org\/#\/schema\/logo\/image\/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="ECIKS.org &raquo; Feed" href="https://eciks.org/feed" />
+<link rel="preload" data-generateperf-preload href="https://eciks.org/wp-content/plugins/generateperf/fonts/poppins-variable.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel="stylesheet" id="font-poppins-css" href="https://eciks.org/wp-content/cache/perfmatters/eciks.org/minify/f2dd7f6e5402.poppins.min.css?ver=3.0.9" media="all">
+<link rel='stylesheet' id='wp-block-library-css' href='https://eciks.org/wp-includes/css/dist/block-library/common.min.css?ver=6.9.7' media='all' />
+
+<link rel="stylesheet" id="wp-block-navigation-css" media="all" data-pmdelayedstyle="https://eciks.org/wp-includes/blocks/navigation/style.min.css?ver=6.9.7">
+<link rel="stylesheet" id="wp-block-navigation-link-css" media="all" data-pmdelayedstyle="https://eciks.org/wp-includes/blocks/navigation-link/style.min.css?ver=6.9.7">
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--color--accent-2: var(--accent-2);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='generate-style-css' href='https://eciks.org/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.1' media='all' />
+<style id='generate-style-inline-css'>
+:root{--border-radius:0;}@media(prefers-reduced-motion:no-preference){@view-transition{navigation:auto;}}
+body{background-color:var(--base-3);color:var(--contrast);}a{color:var(--accent);}a:hover, a:focus{text-decoration:underline;}.entry-title a, .site-branding a, a.button, .wp-block-button__link, .main-navigation a{text-decoration:none;}a:hover, a:focus, a:active{color:var(--accent-2);}.grid-container{max-width:1280px;}.wp-block-group__inner-container{max-width:1280px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:220px;}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#5153e4;--accent-2:#6465A3;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}:root .has-accent-2-color{color:var(--accent-2);}:root .has-accent-2-background-color{background-color:var(--accent-2);}.gp-modal:not(.gp-modal--open):not(.gp-modal--transition){display:none;}.gp-modal--transition:not(.gp-modal--open){pointer-events:none;}.gp-modal-overlay:not(.gp-modal-overlay--open):not(.gp-modal--transition){display:none;}.gp-modal__overlay{display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.2);display:flex;justify-content:center;align-items:center;z-index:10000;backdrop-filter:blur(3px);transition:opacity 500ms ease;opacity:0;}.gp-modal--open:not(.gp-modal--transition) .gp-modal__overlay{opacity:1;}.gp-modal__container{max-width:100%;max-height:100vh;transform:scale(0.9);transition:transform 500ms ease;padding:0 10px;}.gp-modal--open:not(.gp-modal--transition) .gp-modal__container{transform:scale(1);}.search-modal-fields{display:flex;}.gp-search-modal .gp-modal__overlay{align-items:flex-start;padding-top:25vh;background:var(--gp-search-modal-overlay-bg-color);}.search-modal-form{width:500px;max-width:100%;background-color:var(--gp-search-modal-bg-color);color:var(--gp-search-modal-text-color);}.search-modal-form .search-field, .search-modal-form .search-field:focus{width:100%;height:60px;background-color:transparent;border:0;appearance:none;color:currentColor;}.search-modal-fields button, .search-modal-fields button:active, .search-modal-fields button:focus, .search-modal-fields button:hover{background-color:transparent;border:0;color:currentColor;width:60px;}body, button, input, select, textarea{font-family:Poppins, Poppins-fallback, sans-serif;font-size:18px;}body{line-height:1.7em;}@media (max-width:768px){body, button, input, select, textarea{font-size:18px;}}h2{font-weight:500;text-transform:initial;font-size:25px;line-height:1.5em;}@media (max-width:768px){h2{font-size:22px;}}h1{font-weight:600;text-transform:initial;font-size:35px;line-height:1.5em;}h3{font-weight:500;text-transform:initial;font-size:22px;line-height:1.5em;}h6{font-weight:400;text-transform:initial;font-size:18px;letter-spacing:1px;line-height:1em;margin-bottom:13px;}h4{font-weight:600;text-transform:initial;font-size:20px;letter-spacing:1px;line-height:1.5em;margin-bottom:0px;}.main-navigation a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{font-weight:500;font-size:20px;}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:var(--base-2);}.main-title a,.main-title a:hover{color:var(--contrast);}.site-description{color:var(--contrast-2);}.main-navigation,.main-navigation ul ul{background-color:rgba(255,255,255,0);}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:var(--contrast);}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:var(--accent);}button.menu-toggle:hover,button.menu-toggle:focus{color:var(--contrast);}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:var(--accent);}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:var(--accent);}.main-navigation ul ul{background-color:var(--base);}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{color:#000000;background-color:var(--base-3);}.inside-article a,.paging-navigation a,.comments-area a,.page-header a{color:var(--accent);}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:var(--accent-2);}.entry-header h1,.page-header h1{color:var(--contrast);}.entry-title a{color:var(--contrast);}.entry-title a:hover{color:var(--contrast-2);}.entry-meta{color:var(--contrast);}.sidebar .widget{background-color:var(--base-3);}.footer-widgets{background-color:var(--base-3);}.site-info{background-color:var(--base-3);}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:var(--contrast);background-color:var(--base-2);border-color:var(--base);}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:var(--contrast);background-color:var(--base-2);border-color:var(--contrast-3);}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:var(--accent);}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:var(--accent-2);}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width: 768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:var(--contrast);}}.inside-header{padding:10px 30px 10px 30px;}.nav-below-header .main-navigation .inside-navigation.grid-container, .nav-above-header .main-navigation .inside-navigation.grid-container{padding:0px 10px 0px 10px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:20px 40px 40px 40px;}.site-main .wp-block-group__inner-container{padding:20px 40px 40px 40px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:10px 10px 30px 10px;}.site-main .wp-block-group__inner-container{padding:10px 10px 30px 10px;}.inside-top-bar{padding-right:30px;padding-left:30px;}.inside-header{padding-right:30px;padding-left:30px;}.widget-area .widget{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.footer-widgets-container{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.inside-site-info{padding-right:30px;padding-left:30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-10px;width:calc(100% + 20px);max-width:calc(100% + 20px);}.one-container .site-main .paging-navigation{margin-bottom:20px;}}/* End cached CSS */.is-right-sidebar{width:30%;}.is-left-sidebar{width:30%;}.site-content .content-area{width:100%;}@media (max-width: 768px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}.has-inline-mobile-toggle .mobile-menu-control-wrapper{display:flex;flex-wrap:wrap;}.has-inline-mobile-toggle .inside-header{flex-direction:row;text-align:left;flex-wrap:wrap;}.has-inline-mobile-toggle .header-widget,.has-inline-mobile-toggle #site-navigation{flex-basis:100%;}.nav-float-left .has-inline-mobile-toggle #site-navigation{order:10;}}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+@media (max-width: 768px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items a,.main-navigation .menu-bar-item > a{padding-left:7px;padding-right:7px;}}
+/*# sourceURL=generate-style-inline-css */
+</style>
+<link rel="stylesheet" id="generate-child-css" media="all" data-pmdelayedstyle="https://eciks.org/wp-content/cache/perfmatters/eciks.org/minify/d75976f6139b.style.min.css?ver=1770918776">
+<link rel="stylesheet" id="generateperf-reset-css" href="https://eciks.org/wp-content/cache/perfmatters/eciks.org/minify/5b7e0fa63762.reset.min.css?ver=3.0.9" media="all">
+<link rel="stylesheet" id="generateperf-articles-cards-css" href="https://eciks.org/wp-content/cache/perfmatters/eciks.org/minify/e5ba17d341a6.articles-reset.min.css?ver=3.0.9" media="all">
+<link rel="stylesheet" id="generateperf-sticky-sidebar-css" media="all" data-pmdelayedstyle="https://eciks.org/wp-content/cache/perfmatters/eciks.org/minify/fad121c2c32e.sticky-sidebar.min.css?ver=3.0.9">
+<link rel="stylesheet" id="generateperf-overlay-css" media="all" data-pmdelayedstyle="https://eciks.org/wp-content/cache/perfmatters/eciks.org/minify/ae55a53e979e.overlay.min.css?ver=3.0.9">
+<style id='generateblocks-inline-css'>
+.gb-container.gb-tabs__item:not(.gb-tabs__item-open){display:none;}.gb-container-ba3d87b1{padding-bottom:0px;margin-top:10px;margin-bottom:0px;}.gb-container-3a29d203{height:100%;min-height:300px;display:flex;flex-direction:column;row-gap:12px;padding-bottom:0px;margin-bottom:0px;color:var(--contrast);}.gb-container-3a29d203 a{color:var(--contrast);}.gb-grid-wrapper > .gb-grid-column-3a29d203{width:33%;}.gb-container-583c9eec{display:flex;column-gap:20px;}.gb-container-925a2a1e{background-color:var(--contrast);}.gb-container-cbee1dca{max-width:1280px;padding:40px 40px 10px;margin-right:auto;margin-left:auto;}.gb-container-68b619a0{display:flex;align-items:center;justify-content:space-between;column-gap:40px;padding-top:20px;padding-bottom:20px;margin-top:20px;border-top:1px solid var(--contrast-3);}.gb-container-e75af732{display:flex;align-items:center;justify-content:center;column-gap:40px;border-top:1px none var(--contrast-3);}.gb-grid-wrapper-5cbf6a7d{display:flex;flex-wrap:wrap;row-gap:20px;margin-left:-20px;}.gb-grid-wrapper-5cbf6a7d > .gb-grid-column{box-sizing:border-box;padding-left:20px;}.gb-image-628deb9f{width:100%;height:180px;object-fit:cover;vertical-align:middle;}.gb-image-628deb9f:hover{transform:scale(1) perspective(1000px);}div.gb-headline-c66a2b1e{font-size:13px;font-weight:600;text-transform:initial;}div.gb-headline-c66a2b1e a{color:var(--accent);}p.gb-headline-1032a3b9{font-size:18px;line-height:1.5em;font-weight:600;text-align:left;margin-bottom:-10px;}p.gb-headline-1032a3b9 a:hover{color:var(--accent);}div.gb-headline-897f85e5{display:inline-block;font-size:13px;text-transform:capitalize;}p.gb-headline-368a465b{font-size:15px;margin-bottom:0px;color:var(--base-3);}p.gb-headline-368a465b a{color:var(--accent-2);}p.gb-headline-368a465b a:hover{color:var(--accent);}.gb-button-wrapper{display:flex;flex-wrap:wrap;align-items:flex-start;justify-content:flex-start;clear:both;}.gb-button-wrapper-3691db20{margin-top:20px;}.gb-accordion__item:not(.gb-accordion__item-open) > .gb-button .gb-accordion__icon-open{display:none;}.gb-accordion__item.gb-accordion__item-open > .gb-button .gb-accordion__icon{display:none;}.gb-button-wrapper a.gb-button-58025241{display:inline-flex;align-items:center;justify-content:center;font-size:15px;text-align:center;padding:10px;margin-right:5px;border-radius:10px;border:1px solid var(--contrast-3);background-color:var(--base-3);color:var(--contrast);text-decoration:none;}.gb-button-wrapper a.gb-button-58025241:hover, .gb-button-wrapper a.gb-button-58025241:active, .gb-button-wrapper a.gb-button-58025241:focus{background-color:var(--base-3);color:var(--accent);}.gb-button-wrapper a.gb-button-58025241.gb-block-is-current, .gb-button-wrapper a.gb-button-58025241.gb-block-is-current:hover, .gb-button-wrapper a.gb-button-58025241.gb-block-is-current:active, .gb-button-wrapper a.gb-button-58025241.gb-block-is-current:focus{background-color:var(--base-3);color:var(--accent-2);}.gb-button-wrapper .gb-button-1be5c84d{display:inline-flex;align-items:center;justify-content:center;font-size:15px;text-align:center;padding:10px 15px;margin-right:2.5px;margin-left:2.5px;border-radius:10px;border:1px solid var(--contrast-3);background-color:var(--base-3);color:var(--contrast);text-decoration:none;}.gb-button-wrapper .gb-button-1be5c84d:hover, .gb-button-wrapper .gb-button-1be5c84d:active, .gb-button-wrapper .gb-button-1be5c84d:focus{background-color:var(--base-3);color:var(--accent);}.gb-button-wrapper .gb-button-1be5c84d.gb-block-is-current, .gb-button-wrapper .gb-button-1be5c84d.gb-block-is-current:hover, .gb-button-wrapper .gb-button-1be5c84d.gb-block-is-current:active, .gb-button-wrapper .gb-button-1be5c84d.gb-block-is-current:focus{background-color:var(--base-3);color:var(--accent-2);}.gb-button-wrapper a.gb-button-4c4c412c{display:inline-flex;align-items:center;justify-content:center;font-size:15px;text-align:center;padding:10px;margin-left:5px;border-radius:10px;border:1px solid var(--contrast-3);background-color:var(--base-3);color:var(--contrast);text-decoration:none;}.gb-button-wrapper a.gb-button-4c4c412c:hover, .gb-button-wrapper a.gb-button-4c4c412c:active, .gb-button-wrapper a.gb-button-4c4c412c:focus{background-color:var(--base-3);color:var(--accent);}.gb-button-wrapper a.gb-button-4c4c412c.gb-block-is-current, .gb-button-wrapper a.gb-button-4c4c412c.gb-block-is-current:hover, .gb-button-wrapper a.gb-button-4c4c412c.gb-block-is-current:active, .gb-button-wrapper a.gb-button-4c4c412c.gb-block-is-current:focus{background-color:var(--base-3);color:var(--accent-2);}a.gb-button-1d5e2213{display:inline-flex;align-items:center;padding:5px;border-radius:50px;border:1px solid var(--base-3);color:var(--base-3);text-decoration:none;}a.gb-button-1d5e2213:hover, a.gb-button-1d5e2213:active, a.gb-button-1d5e2213:focus{border-color:var(--accent-button);color:var(--contrast-3);}a.gb-button-1d5e2213 .gb-icon{line-height:0;}a.gb-button-1d5e2213 .gb-icon svg{width:15px;height:15px;fill:currentColor;}a.gb-button-0eea27c5{display:inline-flex;align-items:center;padding:5px;border-radius:50px;border:1px solid var(--base-3);color:var(--base-3);text-decoration:none;}a.gb-button-0eea27c5:hover, a.gb-button-0eea27c5:active, a.gb-button-0eea27c5:focus{border-color:var(--accent-button);color:var(--contrast-3);}a.gb-button-0eea27c5 .gb-icon{line-height:0;}a.gb-button-0eea27c5 .gb-icon svg{width:15px;height:15px;fill:currentColor;}a.gb-button-4f9bb9b8{display:inline-flex;align-items:center;padding:5px;border-radius:50px;border:1px solid var(--base-3);color:var(--base-3);text-decoration:none;}a.gb-button-4f9bb9b8:hover, a.gb-button-4f9bb9b8:active, a.gb-button-4f9bb9b8:focus{border-color:var(--accent-button);color:var(--contrast-3);}a.gb-button-4f9bb9b8 .gb-icon{line-height:0;}a.gb-button-4f9bb9b8 .gb-icon svg{width:15px;height:15px;fill:currentColor;}a.gb-button-e7460224{display:inline-flex;align-items:center;column-gap:0.5em;padding:5px;border-radius:50px;border:1px solid var(--base-3);color:var(--base-3);text-decoration:none;}a.gb-button-e7460224:hover, a.gb-button-e7460224:active, a.gb-button-e7460224:focus{border-color:var(--accent-button);color:var(--contrast-3);}a.gb-button-e7460224 .gb-icon{line-height:0;}a.gb-button-e7460224 .gb-icon svg{width:15px;height:15px;fill:currentColor;}@media (min-width: 1025px) {div.gb-headline-c66a2b1e{display:none !important;}}@media (max-width: 1024px) {.gb-container-68b619a0{flex-direction:column;row-gap:20px;}.gb-container-e75af732{flex-direction:column;row-gap:20px;}.gb-grid-wrapper-5cbf6a7d{row-gap:40px;}}@media (max-width: 1024px) and (min-width: 768px) {div.gb-headline-c66a2b1e{display:none !important;}.gb-button-wrapper-3691db20{flex-direction:column;}.gb-button-wrapper-3691db20 > .gb-button{flex:1;width:100%;box-sizing:border-box;}}@media (max-width: 767px) {.gb-container-ba3d87b1{padding-top:0px;padding-right:0px;padding-left:0px;margin-right:0px;margin-left:0px;}.gb-grid-wrapper > .gb-grid-column-3a29d203{width:100%;}.gb-container-cbee1dca{padding-right:30px;padding-left:30px;}.gb-container-e75af732{flex-direction:row;justify-content:center;}.gb-grid-wrapper-5cbf6a7d{row-gap:40px;}.gb-image-628deb9f{width:100%;height:240px;object-fit:cover;}div.gb-headline-c66a2b1e{display:none !important;}p.gb-headline-368a465b{font-size:13px;text-align:center;}.gb-button-wrapper-3691db20{flex-direction:column;}.gb-button-wrapper-3691db20 > .gb-button{flex:1;width:100%;box-sizing:border-box;}}:root{--gb-container-width:1280px;}.gb-container .wp-block-image img{vertical-align:middle;}.gb-grid-wrapper .wp-block-image{margin-bottom:0;}.gb-highlight{background:none;}.gb-shape{line-height:0;}.gb-container-link{position:absolute;top:0;right:0;bottom:0;left:0;z-index:99;}
+/*# sourceURL=generateblocks-inline-css */
+</style>
+<link rel="stylesheet" id="generate-blog-images-css" media="all" data-pmdelayedstyle="https://eciks.org/wp-content/plugins/gp-premium/blog/functions/css/featured-images.min.css?ver=2.5.5">
+<link rel='stylesheet' id='generate-offside-css' href='https://eciks.org/wp-content/plugins/gp-premium/menu-plus/functions/css/offside.min.css?ver=2.5.5' media='all' />
+<style id='generate-offside-inline-css'>
+:root{--gp-slideout-width:265px;}.slideout-navigation.main-navigation{background-color:var(--accent);}.slideout-navigation.main-navigation .main-nav ul li a{color:var(--base-3);}.slideout-navigation.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .slideout-navigation.main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .slideout-navigation.main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a{color:var(--base-3);background-color:var(--accent);}.slideout-navigation.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:var(--accent-2);background-color:var(--accent);}.slideout-navigation, .slideout-navigation a{color:var(--base-3);}.slideout-navigation button.slideout-exit{color:var(--base-3);padding-left:20px;padding-right:20px;}.slide-opened nav.toggled .menu-toggle:before{display:none;}@media (max-width: 768px){.menu-bar-item.slideout-toggle{display:none;}}
+/*# sourceURL=generate-offside-inline-css */
+</style>
+<link rel="https://api.w.org/" href="https://eciks.org/wp-json/" />
+<style class="wpcode-css-snippet">html, body {
+  overflow: auto !important;
+  height: auto !important;
+}
+.gb-container-ba3d87b1 {
+	margin-top : -15px !important;
+}
+
+.titre-archive h1 {
+	margin-bottom : 5px !important;
+}
+
+.yoast-breadcrumbs {
+	margin-bottom : 40px !important;
+	margin-left : 40px !important;
+}
+
+body.single.single-post figure.post-thumbnail-with-caption .featured-image-caption::before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0; height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid #f3f4f6; /* même couleur que le fond */
+}
+
+footer.entry-meta {
+	display : none;
+}
+
+div > a {
+	text-decoration : none !important;
+	color : black !important;
+}
+
+div > a:hover {
+	color : #5153e4 !important;
+}
+
+.lien-footer a {
+	padding-right : 20px !important;
+}
+
+.lien-footer a:hover {
+	color : #5153e4 !important;
+}
+
+.liens-rs, .gb-icon {
+	color : white !important;
+}
+
+figcaption {
+	background-color : #f5f5f5 !important;
+}
+
+.toc {
+	border : 2px solid #f5f5f5;
+}
+
+.entry-content p a {
+	text-decoration : none !important;
+}
+
+@media (max-width: 768px) {
+	.is-logo-image {
+	width : 200px !important;
+	height : 60px !important;
+  }
+	
+	.entry-title {
+		margin-bottom : 40px !important;
+	}
+	
+	.meta-separator {
+  		display: none;
+	}
+	
+	.entry-meta {
+  	display: block !important;
+  	text-align: left !important;
+	}
+	
+	.featured-image {
+		margin-top : 60px !important;
+	}
+	
+}
+
+
+/***EMBED***/
+blockquote.wp-embedded-content::before,
+blockquote.wp-embedded-content:before,
+blockquote.wp-embedded-content::after,
+blockquote.wp-embedded-content:after,
+blockquote.wp-embedded-content a::before,
+blockquote.wp-embedded-content a:before {
+  content: none !important;
+  display: none !important;
+}
+body:not(.home) .entry-content a:not(.simple):not(.wp-block-latest-posts__post-title) {
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: var(--darkest);
+    text-underline-offset: .25em;
+}
+body:not(.home) .entry-content a:not(.simple):not(.wp-block-latest-posts__post-title):hover{
+	text-decoration-color:var(--primary)}.separator{background-color:var(--darkest)
+}
+
+.wp-embedded-content a {
+    color: var(--accent) !important;
+}
+
+/***END EMBED***/
+
+/* Meta sous le titre – mobile : 1 ligne = 1 bloc */
+@media (max-width: 640px) {
+  .entry-meta {
+    display: grid;
+    grid-template-columns: 1fr auto;            /* 2 colonnes pour la 3e ligne (★ | temps) */
+    grid-template-areas:
+      "date date"
+      "author author"
+      "rating readtime";
+    row-gap: 0.25rem;
+    column-gap: 0.5rem;
+    align-items: center;
+  }
+
+  /* Masquer les points séparateurs sur mobile */
+  .entry-meta .o50 { display: none !important; }
+
+  /* Lignes */
+  .entry-meta .posted-on { 
+		font-size: 75%;
+    grid-area: date; 
+    display: block; 
+    width: 100%;
+  }
+  .entry-meta .byline { 
+    grid-area: author; 
+    display: block; 
+    width: 100%;
+  }
+
+  /* 3e ligne : ★ à gauche, temps de lecture à droite */
+  .entry-meta a.meta-item { grid-area: rating; }
+  .entry-meta span.meta-item { grid-area: readtime; }
+
+  /* Optionnel : taille/espacement un peu plus confortables */
+  .entry-meta .posted-on time,
+  .entry-meta .byline,
+  .entry-meta .meta-item { line-height: 1.3; }
+}
+</style><style class="wpcode-css-snippet">/*LEGEND IMAGE UNE */
+/* Légende de l'image à la une — seulement sur les single posts */
+body.single.single-post figure.post-thumbnail-with-caption {
+  display: block;
+  margin: 0;          /* pas d'espace latéral/vertical autour de la figure */
+  line-height: 0;     /* évite le petit gap sous l'image */
+}
+
+body.single.single-post figure.post-thumbnail-with-caption img {
+  display: block;
+  margin: 0;
+}
+
+/* Style de la légende seule */
+body.single.single-post figure.post-thumbnail-with-caption .featured-image-caption {
+  font-size: .9rem;
+  position: relative;
+  display: block;
+  width: 100%;
+  margin: 0;                 /* collée à l'image */
+  padding: 10px 14px;
+  background-color: #f3f4f6; /* fond gris pleine largeur */
+  color: #374151;
+  line-height: 1.4;
+  text-align: center;
+  box-shadow: 0 1px 2px rgba(0,0,0,.06);
+  border-radius: 0;
+}
+
+/* Petite flèche centrée vers l'image */
+body.single.single-post figure.post-thumbnail-with-caption .featured-image-caption::before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0; height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid #f3f4f6; /* même couleur que le fond */
+}
+
+/* Mode sombre optionnel */
+@media (prefers-color-scheme: dark) {
+  body.single.single-post figure.post-thumbnail-with-caption .featured-image-caption {
+    background-color: #2a2f36;
+    color: #e5e7eb;
+  }
+  body.single.single-post figure.post-thumbnail-with-caption .featured-image-caption::before {
+    border-bottom-color: #2a2f36;
+  }
+}
+/*FIN LEGEND IMAGE UNE */</style><script>// Attendre que le DOM soit entièrement chargé avant d’exécuter le script
+document.addEventListener("DOMContentLoaded", function () {
+
+  // Fonction qui rend un élément entier cliquable
+  const handleLinkClick = function (e) {
+    // Vérifie si la cible du clic n’est PAS un lien
+    if (!e.target.href) {
+      // Trouve le premier <a> à l’intérieur de l’élément cliqué et simule un clic
+      this.querySelector("a").click();
+    }
+  };
+
+  // Fonction qui gère les clics sur les éléments avec un attribut [data-goto]
+  const handleGotoClick = function (e) {
+    // Décoder l’URL encodée en Base64 stockée dans l’attribut data-goto
+    const goto = window.atob(this.dataset.goto);
+
+    // Si l’utilisateur fait Ctrl+clic, Cmd+clic ou si data-external est présent
+    if (e.ctrlKey || e.metaKey || this.dataset.external) {
+      // Ouvre le lien dans un nouvel onglet
+      window.open(goto, "_blank", "noopener").focus();
+    } else {
+      // Sinon, redirige la page actuelle vers le lien
+      window.location.href = goto;
+    }
+  };
+
+  // Liste des éléments WordPress à rendre entièrement cliquables
+  const expandClickElements = [
+    ".wp-block-latest-posts > li",         // Liste d’articles récents
+    ".generate-columns-container > article", // Articles dans GeneratePress
+    ".gb-query-loop-item",                 // Élément de boucle de requête
+    ".gb-loop-item",                       // Élément de boucle
+    ".wp-block-post-template > .wp-block-post", // Template de posts
+    ".site-branding-container",            // Zone de branding (logo, titre)
+  ];
+
+  // Pour chaque sélecteur, rendre les éléments concernés cliquables
+  expandClickElements.forEach((selector) => {
+    document.querySelectorAll(selector).forEach((el) => {
+      el.addEventListener("click", handleLinkClick, { passive: true });
+    });
+  });
+
+  // Pour tous les éléments avec l’attribut [data-goto],
+  // ajouter un événement de clic qui applique la logique de redirection
+  document.querySelectorAll("[data-goto]").forEach((el) => {
+    el.addEventListener("click", handleGotoClick, { passive: true });
+  });
+
+});
+</script><link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">
+<link rel="icon" href="https://eciks.org/wp-content/uploads/2026/02/Favicon-ECIKS.png" sizes="32x32" />
+<link rel="icon" href="https://eciks.org/wp-content/uploads/2026/02/Favicon-ECIKS.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://eciks.org/wp-content/uploads/2026/02/Favicon-ECIKS.png" />
+<meta name="msapplication-TileImage" content="https://eciks.org/wp-content/uploads/2026/02/Favicon-ECIKS.png" />
+
+<style>#commentform .comment-form-url,#respond .comment-form-url,#commentform input[name="url"],#respond input[name="url"],form.comment-form input[name="url"]{display:none!important;}</style>
+<noscript><style>.perfmatters-lazy[data-src]{display:none !important;}</style></noscript><style>.perfmatters-lazy-youtube{position:relative;width:100%;max-width:100%;height:0;padding-bottom:56.23%;overflow:hidden}.perfmatters-lazy-youtube img{position:absolute;top:0;right:0;bottom:0;left:0;display:block;width:100%;max-width:100%;height:auto;margin:auto;border:none;cursor:pointer;transition:.5s all;-webkit-transition:.5s all;-moz-transition:.5s all}.perfmatters-lazy-youtube img:hover{-webkit-filter:brightness(75%)}.perfmatters-lazy-youtube .play{position:absolute;top:50%;left:50%;right:auto;width:68px;height:48px;margin-left:-34px;margin-top:-24px;background:url(https://eciks.org/wp-content/plugins/perfmatters/img/youtube.svg) no-repeat;background-position:center;background-size:cover;pointer-events:none;filter:grayscale(1)}.perfmatters-lazy-youtube:hover .play{filter:grayscale(0)}.perfmatters-lazy-youtube iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:99}.wp-has-aspect-ratio .wp-block-embed__wrapper{position:relative;}.wp-has-aspect-ratio .perfmatters-lazy-youtube{position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;padding-bottom:0}</style><style id='core-block-supports-inline-css'>
+.wp-container-core-navigation-is-layout-5590e8cb{justify-content:center;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+<body class="search search-results wp-custom-logo wp-embed-responsive wp-theme-generatepress wp-child-theme-eciks sticky-sidebar post-image-below-header post-image-aligned-center slideout-enabled slideout-mobile sticky-menu-fade no-sidebar nav-float-right one-container header-aligned-left dropdown-hover" itemtype="https://schema.org/SearchResultsPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<header class="site-header has-inline-mobile-toggle" id="masthead" aria-label="Site"  itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container">
+				<div class="site-logo"><a href="https://eciks.org/" title="ECIKS.org" rel="home" aria-label="Back to home page"><img  class="header-image is-logo-image" alt="ECIKS.org" src="https://eciks.org/wp-content/uploads/2026/02/Logo-ECIKS.png" srcset="https://eciks.org/wp-content/uploads/2026/02/Logo-ECIKS.png 1x, https://eciks.org/wp-content/uploads/2026/02/Logo-ECIKS.png 2x" width="295" height="89" loading="eager" decoding="async" fetchpriority="high" data-skip-lazy="true"></a></div>	<nav class="main-navigation mobile-menu-control-wrapper" id="mobile-menu-control-wrapper" aria-label="Mobile Toggle">
+		<div class="menu-bar-items">	<span class="menu-bar-item">
+		<a href="#" role="button" aria-label="Open search" aria-haspopup="dialog" aria-controls="gp-search" data-gpmodal-trigger="gp-search"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span></a>
+	</span>
+	</div>		<button data-nav="site-navigation" class="menu-toggle" aria-controls="generate-slideout-menu" aria-expanded="false">
+			<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="screen-reader-text">Menu</span>		</button>
+	</nav>
+			<nav class="main-navigation has-menu-bar-items sub-menu-right" id="site-navigation" aria-label="Primary"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container">
+								<button class="menu-toggle" aria-controls="generate-slideout-menu" aria-expanded="false">
+					<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="screen-reader-text">Menu</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-primary" class=" menu sf-menu"><li id="menu-item-3214" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3214"><a href="https://eciks.org/news">News</a></li>
+<li id="menu-item-3286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3286"><a href="https://eciks.org/society">Society</a></li>
+<li id="menu-item-840" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-840"><a href="https://eciks.org/economy">Economy</a></li>
+<li id="menu-item-1858" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1858"><a href="https://eciks.org/business">Business</a></li>
+<li id="menu-item-1859" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1859"><a href="https://eciks.org/markets">Markets</a></li>
+<li id="menu-item-1860" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1860"><a href="https://eciks.org/tech">Tech</a></li>
+<li id="menu-item-1861" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1861"><a href="https://eciks.org/politics">Politics</a></li>
+</ul></div><div class="menu-bar-items">	<span class="menu-bar-item">
+		<a href="#" role="button" aria-label="Open search" aria-haspopup="dialog" aria-controls="gp-search" data-gpmodal-trigger="gp-search"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span></a>
+	</span>
+	</div>			</div>
+		</nav>
+					</div>
+		</header>
+		
+	<div class="site grid-container container hfeed" id="page">
+				<div class="site-content" id="content">
+			
+	<div class="content-area" id="primary">
+		<main class="site-main" id="main">
+			<div class="gb-container gb-container-ba3d87b1">
+
+<div class="gb-grid-wrapper gb-grid-wrapper-5cbf6a7d gb-query-loop-wrapper">
+<div class="gb-grid-column gb-grid-column-3a29d203 gb-query-loop-item post-10217 post type-post status-publish format-standard has-post-thumbnail hentry category-news is-loop-template-item"><div class="gb-container gb-container-3a29d203">
+<figure class="gb-block-image gb-block-image-628deb9f"><a href="https://eciks.org/10217-50300-google-mediatek-triggerfish-tpu-chip"><img width="1200" height="800" src="https://eciks.org/wp-content/uploads/2026/06/60513-google-taps-mediatek-for-upgraded-triggerfish-ai-chip-with-3x-memory-boost.jpg-scaled.png" class="gb-image-628deb9f" alt="Google taps MediaTek for upgraded Triggerfish AI chip with 3x memory boost" decoding="async" /></a></figure>
+
+<div class="gb-headline gb-headline-c66a2b1e gb-headline-text"><span class="post-term-item term-news"><a href="https://eciks.org/news">News</a></span></div>
+
+<p class="gb-headline gb-headline-1032a3b9 gb-headline-text"><a href="https://eciks.org/10217-50300-google-mediatek-triggerfish-tpu-chip">Google taps MediaTek for upgraded Triggerfish AI chip with 3x memory boost</a></p>
+
+<div class="gb-container gb-container-583c9eec">
+<div class="gb-headline gb-headline-897f85e5 gb-headline-text"><time class="entry-date published" datetime="2026-06-22T10:17:43-04:00">22 June 2026</time></div>
+</div>
+</div></div>
+</div>
+
+<div class="gb-button-wrapper gb-button-wrapper-3691db20 gb-query-loop-pagination">
+
+
+
+
+
+</div>
+
+</div>		</main>
+	</div>
+
+	
+	</div>
+</div>
+
+
+<div class="site-footer">
+	<footer class="gb-container gb-container-925a2a1e">
+<div class="gb-container gb-container-cbee1dca">
+<nav class="has-text-color has-base-3-color items-justified-center lien-footer wp-block-navigation is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-5590e8cb wp-block-navigation-is-layout-flex" aria-label="Links"><ul class="wp-block-navigation__container has-text-color has-base-3-color items-justified-center lien-footer wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/about-us1"><span class="wp-block-navigation-item__label">About Us</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/team"><span class="wp-block-navigation-item__label">Team</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/contact"><span class="wp-block-navigation-item__label">Contact</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/projects"><span class="wp-block-navigation-item__label">Projects</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/services1"><span class="wp-block-navigation-item__label">Services</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/publications"><span class="wp-block-navigation-item__label">Publications</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/history"><span class="wp-block-navigation-item__label">History</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/newsletter"><span class="wp-block-navigation-item__label">Newsletter</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/login"><span class="wp-block-navigation-item__label">Login</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/legal-notice"><span class="wp-block-navigation-item__label">Legal notice</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/news-events"><span class="wp-block-navigation-item__label">News &#038; Events</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/our-code-of-conduct"><span class="wp-block-navigation-item__label">Our code of conduct</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/patronage"><span class="wp-block-navigation-item__label">Patronage</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/portfolio"><span class="wp-block-navigation-item__label">Portfolio</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://eciks.org/en/sitemap"><span class="wp-block-navigation-item__label">Sitemap</span></a></li></ul></nav>
+
+<div class="gb-container gb-container-68b619a0">
+
+<p class="gb-headline gb-headline-368a465b gb-headline-text">@ 2026 | All rights reserved | <a href="https://eciks.org" data-type="page" data-id="29">ECIKS.org</a></p>
+
+
+<div class="gb-container gb-container-e75af732">
+
+<a class="gb-button gb-button-1d5e2213 liens-rs" href="https://www.facebook.com/groups/217764490695/?fref=ts" target="_blank" rel="noopener noreferrer"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span></a>
+
+
+
+<a class="gb-button gb-button-0eea27c5" href="https://x.com/" target="_blank" rel="nofollow noopener noreferrer"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></span></a>
+
+
+
+<a class="gb-button gb-button-4f9bb9b8" href="https://www.instagram.com/" target="_blank" rel="nofollow noopener noreferrer"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span></a>
+
+
+
+<a class="gb-button gb-button-e7460224" href="https://eciks.org/feed" target="_blank" rel="noopener noreferrer"><span class="gb-icon"><svg fill="#5f6368" width="24px" viewBox="0 -960 960 960" height="24px" xmlns="http://www.w3.org/2000/svg"><path d="M200-120q-33 0-56.5-23.5T120-200q0-33 23.5-56.5T200-280q33 0 56.5 23.5T280-200q0 33-23.5 56.5T200-120Zm480 0q0-117-44-218.5T516-516q-76-76-177.5-120T120-680v-120q142 0 265 53t216 146q93 93 146 216t53 265H680Zm-240 0q0-67-25-124.5T346-346q-44-44-101.5-69T120-440v-120q92 0 171.5 34.5T431-431q60 60 94.5 139.5T560-120H440Z"></path></svg></span></a>
+
+</div>
+</div>
+</div>
+</footer></div>
+
+		<nav id="generate-slideout-menu" class="main-navigation slideout-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container grid-parent">
+				<div class="main-nav"><ul id="menu-primary-1" class=" slideout-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3214"><a href="https://eciks.org/news">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3286"><a href="https://eciks.org/society">Society</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-840"><a href="https://eciks.org/economy">Economy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1858"><a href="https://eciks.org/business">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1859"><a href="https://eciks.org/markets">Markets</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1860"><a href="https://eciks.org/tech">Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1861"><a href="https://eciks.org/politics">Politics</a></li>
+</ul></div>			</div><!-- .inside-navigation -->
+		</nav><!-- #site-navigation -->
+
+					<div class="slideout-overlay">
+									<button class="slideout-exit has-svg-icon">
+						<span class="gp-icon pro-close">
+				<svg viewBox="0 0 512 512" aria-hidden="true" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em">
+					<path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+				</svg>
+			</span>						<span class="screen-reader-text">Close</span>
+					</button>
+							</div>
+			<script type="speculationrules">
+{"prerender":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/eciks/*","/wp-content/themes/generatepress/*","/*\\?(.+)","/panier/*"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prerender, .no-prerender a"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"moderate"}]}
+</script>
+<script data-cfasync="false" async type="text/javascript" src="https://go.trvdp.com/init/17972.js?pid=14052"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8509871116631275" crossorigin="anonymous" type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-09TVMQF1LT" type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-09TVMQF1LT');
+</script>
+<script id="generate-a11y">
+!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("pointerdown",(function(){e.classList.add("using-mouse")}),{passive:!0}),e.addEventListener("keydown",(function(){e.classList.remove("using-mouse")}),{passive:!0})}}();
+</script>
+	<div class="gp-modal gp-search-modal" id="gp-search" role="dialog" aria-modal="true" aria-label="Search">
+		<div class="gp-modal__overlay" tabindex="-1" data-gpmodal-close>
+			<div class="gp-modal__container">
+					<form role="search" method="get" class="search-modal-form" action="https://eciks.org/">
+		<label for="search-modal-input" class="screen-reader-text">Search for:</label>
+		<div class="search-modal-fields">
+			<input id="search-modal-input" type="search" class="search-field" placeholder="Search &hellip;" value="Triggerfish" name="s" />
+			<button aria-label="Search"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" /></svg></span></button>
+		</div>
+			</form>
+				</div>
+		</div>
+	</div>
+	<div class="gp-modal gp-video-modal" id="gp-video"><div class="gp-modal__overlay" tabindex="-1" data-gpmodal-close=""><div class="gp-modal__container"></div></div></div><script id="generate-offside-js-extra">
+var offSide = {"side":"left"};
+//# sourceURL=generate-offside-js-extra
+</script>
+<script src="https://eciks.org/wp-content/plugins/gp-premium/menu-plus/functions/js/offside.min.js?ver=2.5.5" id="generate-offside-js" defer></script>
+<script src="https://eciks.org/wp-content/plugins/generateperf/js/scripts.js?ver=3.0.9" id="generateperf-scripts-js" defer></script>
+<script src="https://eciks.org/wp-content/plugins/generateperf/js/overlay.js?ver=3.0.9" id="generateperf-overlay-js" defer></script>
+<script src="https://eciks.org/wp-content/plugins/generateperf/js/videos-overlay.js?ver=3.0.9" id="generateperf-videos-overlay-js" defer></script>
+<script id="generate-menu-js-before">
+var generatepressMenu = {"toggleOpenedSubMenus":true,"openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+//# sourceURL=generate-menu-js-before
+</script>
+<script src="https://eciks.org/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1" id="generate-menu-js" defer></script>
+<script src="https://eciks.org/wp-content/themes/generatepress/assets/dist/modal.js?ver=3.6.1" id="generate-modal-js" defer></script>
+<script id="perfmatters-lazy-load-js-before">
+window.lazyLoadOptions={elements_selector:"img[data-src],.perfmatters-lazy,.perfmatters-lazy-css-bg",thresholds:"0px 0px",class_loading:"pmloading",class_loaded:"pmloaded",callback_loaded:function(element){if(element.tagName==="IFRAME"){if(element.classList.contains("pmloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener("LazyLoad::Initialized",function(e){var lazyLoadInstance=e.detail.instance;});function perfmattersLazyLoadYouTube(e){var t=document.createElement("iframe"),r="ID?";r+=0===e.dataset.query.length?"":e.dataset.query+"&",r+="autoplay=1",t.setAttribute("src",r.replace("ID",e.dataset.src)),t.setAttribute("frameborder","0"),t.setAttribute("allowfullscreen","1"),t.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),e.replaceChild(t,e.firstChild)}
+//# sourceURL=perfmatters-lazy-load-js-before
+</script>
+<script async src="https://eciks.org/wp-content/plugins/perfmatters/js/lazyload.min.js?ver=2.5.5" id="perfmatters-lazy-load-js"></script>
+<script>(function(){document.querySelectorAll("form").forEach(function(f){if(!f.querySelector("textarea[name=comment]")||f.querySelector("[name=securite]"))return;var s=f.querySelector("[type=submit]");var d=document.createElement("div");d.innerHTML="<p class=\"comment-form-securite\"><label for=\"securite\">Type the word <strong>ECIKS<\/strong> to submit <span class=\"required\">*<\/span><\/label> <input id=\"securite\" name=\"securite\" type=\"text\" size=\"12\" autocomplete=\"off\" required=\"required\" \/><\/p>";var p=d.firstChild;if(s&&s.parentNode){s.parentNode.insertBefore(p,s);}else{f.appendChild(p);}});})();</script>
+		
+<script id="perfmatters-delayed-scripts-js">(function(){window.pmDC=0;window.pmDT=15;if(window.pmDT){var e=setTimeout(d,window.pmDT*1e3)}const t=["keydown","mousedown","mousemove","wheel","touchmove","touchstart","touchend"];const n={normal:[],defer:[],async:[]};const o=[];const i=[];var r=false;var a="";window.pmIsClickPending=false;t.forEach(function(e){window.addEventListener(e,d,{passive:true})});if(window.pmDC){window.addEventListener("touchstart",b,{passive:true});window.addEventListener("mousedown",b)}function d(){if(typeof e!=="undefined"){clearTimeout(e)}t.forEach(function(e){window.removeEventListener(e,d,{passive:true})});if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",s)}else{s()}}async function s(){c();u();f();m();await w(n.normal);await w(n.defer);await w(n.async);await p();document.querySelectorAll("link[data-pmdelayedstyle]").forEach(function(e){e.setAttribute("href",e.getAttribute("data-pmdelayedstyle"))});window.dispatchEvent(new Event("perfmatters-allScriptsLoaded")),E().then(()=>{h()})}function c(){let o={};function e(t,e){function n(e){return o[t].delayedEvents.indexOf(e)>=0?"perfmatters-"+e:e}if(!o[t]){o[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},delayedEvents:[]};t.addEventListener=function(){arguments[0]=n(arguments[0]);o[t].originalFunctions.add.apply(t,arguments)};t.removeEventListener=function(){arguments[0]=n(arguments[0]);o[t].originalFunctions.remove.apply(t,arguments)}}o[t].delayedEvents.push(e)}function t(t,n){const e=t[n];Object.defineProperty(t,n,{get:!e?function(){}:e,set:function(e){t["perfmatters"+n]=e}})}e(document,"DOMContentLoaded");e(window,"DOMContentLoaded");e(window,"load");e(document,"readystatechange");t(document,"onreadystatechange");t(window,"onload")}function u(){let n=window.jQuery;Object.defineProperty(window,"jQuery",{get(){return n},set(t){if(t&&t.fn&&!o.includes(t)){t.fn.ready=t.fn.init.prototype.ready=function(e){if(r){e.bind(document)(t)}else{document.addEventListener("perfmatters-DOMContentLoaded",function(){e.bind(document)(t)})}};const e=t.fn.on;t.fn.on=t.fn.init.prototype.on=function(){if(this[0]===window){function t(e){e=e.split(" ");e=e.map(function(e){if(e==="load"||e.indexOf("load.")===0){return"perfmatters-jquery-load"}else{return e}});e=e.join(" ");return e}if(typeof arguments[0]=="string"||arguments[0]instanceof String){arguments[0]=t(arguments[0])}else if(typeof arguments[0]=="object"){Object.keys(arguments[0]).forEach(function(e){delete Object.assign(arguments[0],{[t(e)]:arguments[0][e]})[e]})}}return e.apply(this,arguments),this};o.push(t)}n=t}})}function f(){document.querySelectorAll("script[type=pmdelayedscript]").forEach(function(e){if(e.hasAttribute("src")){if(e.hasAttribute("defer")&&e.defer!==false){n.defer.push(e)}else if(e.hasAttribute("async")&&e.async!==false){n.async.push(e)}else{n.normal.push(e)}}else{n.normal.push(e)}})}function m(){var o=document.createDocumentFragment();[...n.normal,...n.defer,...n.async].forEach(function(e){var t=e.getAttribute("src");if(t){var n=document.createElement("link");n.href=t;if(e.getAttribute("data-perfmatters-type")=="module"){n.rel="modulepreload"}else{n.rel="preload";n.as="script"}o.appendChild(n)}});document.head.appendChild(o)}async function w(e){var t=e.shift();if(t){await l(t);return w(e)}return Promise.resolve()}async function l(t){await v();return new Promise(function(e){const n=document.createElement("script");[...t.attributes].forEach(function(e){let t=e.nodeName;if(t!=="type"){if(t==="data-perfmatters-type"){t="type"}n.setAttribute(t,e.nodeValue)}});if(t.hasAttribute("src")){n.addEventListener("load",e);n.addEventListener("error",e)}else{n.text=t.text;e()}t.parentNode.replaceChild(n,t)})}async function p(){r=true;await v();document.dispatchEvent(new Event("perfmatters-DOMContentLoaded"));await v();window.dispatchEvent(new Event("perfmatters-DOMContentLoaded"));await v();document.dispatchEvent(new Event("perfmatters-readystatechange"));await v();if(document.perfmattersonreadystatechange){document.perfmattersonreadystatechange()}await v();window.dispatchEvent(new Event("perfmatters-load"));await v();if(window.perfmattersonload){window.perfmattersonload()}await v();o.forEach(function(e){e(window).trigger("perfmatters-jquery-load")})}async function v(){return new Promise(function(e){requestAnimationFrame(e)})}function h(){window.removeEventListener("touchstart",b,{passive:true});window.removeEventListener("mousedown",b);i.forEach(e=>{if(e.target.outerHTML===a){e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:true,cancelable:true}))}})}function E(){return new Promise(e=>{window.pmIsClickPending?g=e:e()})}function y(){window.pmIsClickPending=true}function g(){window.pmIsClickPending=false}function L(e){e.target.removeEventListener("click",L);C(e.target,"pm-onclick","onclick");i.push(e),e.preventDefault();e.stopPropagation();e.stopImmediatePropagation();g()}function b(e){if(e.target.tagName!=="HTML"){if(!a){a=e.target.outerHTML}window.addEventListener("touchend",A);window.addEventListener("mouseup",A);window.addEventListener("touchmove",k,{passive:true});window.addEventListener("mousemove",k);e.target.addEventListener("click",L);C(e.target,"onclick","pm-onclick");y()}}function k(e){window.removeEventListener("touchend",A);window.removeEventListener("mouseup",A);window.removeEventListener("touchmove",k,{passive:true});window.removeEventListener("mousemove",k);e.target.removeEventListener("click",L);C(e.target,"pm-onclick","onclick");g()}function A(e){window.removeEventListener("touchend",A);window.removeEventListener("mouseup",A);window.removeEventListener("touchmove",k,{passive:true});window.removeEventListener("mousemove",k)}function C(e,t,n){if(e.hasAttribute&&e.hasAttribute(t)){event.target.setAttribute(n,event.target.getAttribute(t));event.target.removeAttribute(t)}}})();</script></body>
+</html>

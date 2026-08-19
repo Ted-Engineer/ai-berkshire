@@ -1,0 +1,26 @@
+ticker,company,gics_sector,source
+CEG,Constellation Energy,Utilities,来源A-watchlist
+AMAT,Applied Materials,Semiconductors,来源A-watchlist
+GOOGL,Alphabet,Communication,来源A-watchlist
+MU,Micron Technology,Semiconductors,来源A-watchlist
+NVDA,NVIDIA,Semiconductors,来源A-watchlist
+COHR,Coherent,Technology,来源A-watchlist
+CRWV,CoreWeave,Technology,来源A-watchlist
+NBIS,Nebius Group,Technology,来源A-watchlist
+TLN,Talen Energy,Utilities,来源A-watchlist
+PGR,Progressive Insurance,Insurance,来源A-watchlist
+NBIS,Nebius Group,Technology,H-爆发股
+CRWV,CoreWeave,Technology,H-爆发股
+IREN,Iris Energy,Technology,H-爆发股+加密修复
+CRCL,Circle Internet,Financials,I-加密修复
+COIN,Coinbase,Financials,I-加密修复
+CLSK,CleanSpark,Financials,I-加密修复
+HUT,Hut 8,Technology,H-爆发股+加密修复
+MARA,Marathon Digital,Financials,I-加密修复
+CORZ,Core Scientific,Technology,H-爆发股+加密修复
+COHR,Coherent,Technology,G-生态链(AVGO)
+CRDO,Credo Technology,Technology,G-生态链(AVGO)
+PLTR,Palantir,Technology,B-GICS软件
+SOUN,SoundHound AI,Technology,B-AI赛道11
+VRT,Vertiv,Technology,B-AI赛道9
+ORCL,Oracle,Technology,B-GICS软件

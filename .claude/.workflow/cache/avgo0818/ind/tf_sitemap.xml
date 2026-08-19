@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.trendforce.com/insights</loc>
+    <lastmod>2026-06-30T15:11:55+08:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.trendforce.com/insights"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.trendforce.com.tw/insights"/>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/mlcc-silicon-capacitor-power-integrity</loc>
+    <lastmod>2026-06-22T16:00:30+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/ai-inference-chip-architecture</loc>
+    <lastmod>2026-06-11T13:13:16+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/oled-monitor</loc>
+    <lastmod>2026-06-03T16:07:27+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/amoled-war</loc>
+    <lastmod>2026-02-25T10:18:14+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/memory-wall</loc>
+    <lastmod>2026-01-19T14:20:57+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/asml-euv</loc>
+    <lastmod>2026-02-09T17:36:07+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/glass-silicon-based-micro-led</loc>
+    <lastmod>2025-12-23T17:44:05+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/infiniband-vs-ethernet</loc>
+    <lastmod>2025-10-30T13:57:49+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/nvidia-scale-up-technology</loc>
+    <lastmod>2025-10-30T11:23:10+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/data-center-power</loc>
+    <lastmod>2025-12-31T10:19:45+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendforce.com/insights/ai-infrasturcture</loc>
+    <lastmod>2025-12-24T16:04:10+08:00</lastmod>
+  </url>
+</urlset>

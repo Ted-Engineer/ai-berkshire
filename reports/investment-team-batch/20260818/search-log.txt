@@ -1,0 +1,561 @@
+=== v54-MSFT-risk (2026-08-18 16:49-18:15 ET, 30 ops, all fresh) ===
+2026-08-18 16:49 ET | v54-MSFT-risk/gnews | Microsoft earnings Azure growth quarter when:30d
+2026-08-18 16:50 ET | v54-MSFT-risk/gnews | Microsoft Azure 45% growth forecast
+2026-08-18 16:51 ET | v54-MSFT-risk/gnews | Microsoft Q4 FY26 Azure RPO capex links (atom)
+2026-08-18 16:51 ET | v54-MSFT-risk/gnews | Microsoft RPO OpenAI remaining performance
+2026-08-18 16:52 ET | v54-MSFT-risk/curl-microsoft | FY26 Q4 press release page (JS shell, failed)
+2026-08-18 16:52 ET | v54-MSFT-risk/curl-geekwire | Azure tops $100B annual revenue capex FCF (full body OK)
+2026-08-18 16:53 ET | v54-MSFT-risk/gnews | Amy Hood FY27 Q1 Azure guidance forecast
+2026-08-18 16:53 ET | v54-MSFT-risk/gnews | Microsoft FY27 Q1 Azure guidance 45%
+2026-08-18 16:54 ET | v54-MSFT-risk/yahoo-chart | MSFT price verify (query1 fail)
+2026-08-18 16:54 ET | v54-MSFT-risk/yahoo-chart | MSFT price retry UA query2 (OK $481.92)
+2026-08-18 16:54 ET | v54-MSFT-risk/curl-biggo | Q4 earnings call summary (Next.js SPA, blocked)
+2026-08-18 16:57 ET | v54-MSFT-risk/gnews | Nadella insider selling stock 2026
+2026-08-18 16:57 ET | v54-MSFT-risk/gnews | Microsoft OpenAI stake equity value
+2026-08-18 16:57 ET | v54-MSFT-risk/gnews | Apple sues OpenAI Microsoft Oracle
+2026-08-18 16:58 ET | v54-MSFT-risk/sec-edgar | MSFT Form 4 list atom (16 filings)
+2026-08-18 16:59 ET | v54-MSFT-risk/curl-cnbc | boosts capital spending plans (CSS noise, partial)
+2026-08-18 17:00 ET | v54-MSFT-risk/sec-edgar | Form 4 owners detail x3 (Althoff/Numoto/Coleman)
+2026-08-18 17:01 ET | v54-MSFT-risk/gnews | Quiver director MSFT buys 5000 shares (redirect, unverified)
+2026-08-18 17:01 ET | v54-MSFT-risk/sec-edgar | June 12 Form 4 cluster owners
+2026-08-18 17:02 ET | v54-MSFT-risk/sec-edgar | remaining Form4 XML parse (Hoffman A-code)
+2026-08-18 17:05 ET | v54-MSFT-risk/curl-forbes | OpenAI cap table 18x (captcha blocked)
+2026-08-18 17:05 ET | v54-MSFT-risk/gnews | Microsoft Anthropic Azure deal billion HSBC
+2026-08-18 17:06 ET | v54-MSFT-risk/curl-msftblog | MS NVIDIA Anthropic partnerships (403)
+2026-08-18 17:06 ET | v54-MSFT-risk/gnews | OpenAI restructuring Microsoft shareholder percent + IPO
+2026-08-18 17:08 ET | v54-MSFT-risk/gnews | source urls extract (domains only)
+2026-08-18 17:09 ET | v54-MSFT-risk/ddg | OpenAI IPO Microsoft 27% (blocked)
+2026-08-18 17:10 ET | v54-MSFT-risk/gnews-decode | base64 redirect decode attempt (encrypted)
+2026-08-18 17:12 ET | v54-MSFT-risk/bing | yellow.com article (blocked)
+2026-08-18 17:14 ET | v54-MSFT-risk/sec-edgar | MSFT 8-K list
+2026-08-18 17:15 ET | v54-MSFT-risk/sec-edgar | 8-K indexes near 20260729
+2026-08-18 17:16 ET | v54-MSFT-risk/sec-edgar | msft-ex99_1.htm FY26Q4 press release FULL TEXT (primary)
+2026-08-18 17:17 ET | v54-MSFT-risk/local-parse | capex/OCF/buyback from PR tables
+2026-08-18 17:20 ET | v54-MSFT-risk/gnews | Microsoft capex fiscal 2027 billion guidance
+2026-08-18 17:20 ET | v54-MSFT-risk/gnews | AWS cloud growth Amazon earnings when:20d
+2026-08-18 17:20 ET | v54-MSFT-risk/gnews | Google Cloud growth Alphabet earnings when:25d
+2026-08-18 17:24 ET | v54-MSFT-risk/curl-geekwire | AWS booming FCF negative (full body OK)
+2026-08-18 17:24 ET | v54-MSFT-risk/curl-cnbc | Amazon capex 220B memory costs (404)
+2026-08-18 17:28 ET | v54-MSFT-risk/gnews | Google Cloud Q2 2026 growth percent (82% multi-source)
+2026-08-18 17:29 ET | v54-MSFT-risk/curl-eciks | Alphabet cloud 82 body (CSS only)
+2026-08-18 17:29 ET | v54-MSFT-risk/gnews | Microsoft stock falls AI when:5d (pullback attribution)
+2026-08-18 17:31 ET | v54-MSFT-risk/curl-sdu | AI chip doubts 190B bet (empty)
+2026-08-18 17:32 ET | v54-MSFT-risk/gnews | Microsoft $190 billion capex verify (6 sources)
+2026-08-18 17:36 ET | v54-MSFT-risk/curl-geekwire | earnings preview supply constraints (arch redirect)
+2026-08-18 17:36 ET | v54-MSFT-risk/gnews | Apple OpenAI lawsuit trade secrets timeline
+2026-08-18 17:40 ET | v54-MSFT-risk/curl-techzine | MS legal action OpenAI Amazon (empty)
+2026-08-18 17:41 ET | v54-MSFT-risk/gnews | Microsoft Maia 300 chip
+2026-08-18 17:41 ET | v54-MSFT-risk/gnews | Microsoft guides Azure 45 first quarter call
+2026-08-18 17:43 ET | v54-MSFT-risk/gnews | constellation + qz.com Maia 300 (qz fetch failed)
+2026-08-18 17:45 ET | v54-MSFT-risk/gnews | constellation Q4 + om.co 10-Q links
+2026-08-18 17:47 ET | v54-MSFT-risk/curl-om | 10-Q OpenAI analysis (CSS only, date 8/15 confirmed)
+2026-08-18 17:52 ET | v54-MSFT-risk/opt-attempt | yahoo v7 options 401 BLOCKED / cboe 200 OK 1.7MB
+2026-08-18 17:53 ET | v54-MSFT-risk/gnews | Microsoft 27% OpenAI + Citi 600 + Morgan Stanley
+2026-08-18 17:57 ET | v54-MSFT-risk/cboe-opt | parse straddles by expiry (Oct/Nov/Dec/Jan)
+2026-08-18 18:00 ET | v54-MSFT-risk/cboe-opt | inspect json keys + spot/iv30
+2026-08-18 18:05 ET | v54-MSFT-risk/gnews | OpenAI caps revenue share Microsoft (Apr 27 restructure)
+2026-08-18 18:06 ET | v54-MSFT-risk/gnews | Q1 FY27 revenue guidance billion (no direct)
+2026-08-18 18:08 ET | v54-MSFT-risk/curl-redmondmag | restructure details (Cloudflare blocked)
+2026-08-18 18:10 ET | v54-MSFT-risk/curl-openai | next phase partnership (JS, blocked)
+2026-08-18 18:14 ET | v54-MSFT-risk/gnews | Azure 45% guidance echo verify + 25% surge repricing
+=== end v54-MSFT-risk ===
+ | v54-ADBE-business/gnews | Adobe FQ2 2026 earnings revenue AI ARR
+ | v54-ADBE-business/curl-stockanalysis | ADBE overview+financials
+=== v54-ADBE-industry (2026-08-18 13:10-? ET, >=8 ops, all fresh) ===
+2026-08-18 13:11 ET | v54-ADBE-industry/gnews | Adobe creative software AI competition market share 2026
+2026-08-18 13:13 ET | v54-ADBE-industry/gnews | OpenAI Sora app video strategy enterprise pivot 2026
+2026-08-19 01:11:24 | v54-ADBE-financial/date | 确认研究基线日期=2026-08-18(美东周二盘中,本机08-19 01:11)
+2026-08-18 13:15 ET | v54-ADBE-industry/gnews | Google Veo Flow AI video creators enterprise 2026
+2026-08-18 13:17 ET | v54-ADBE-industry/gnews | Canva revenue 2026 AI costs guidance users
+2026-08-18 13:19 ET | v54-ADBE-industry/gnews | Figma Q2 2026 earnings AI agents design stock
+2026-08-18 13:21 ET | v54-ADBE-industry/gnews | AI agents marketing adoption enterprise survey 2026 Gartner
+ | v54-ADBE-business/curl-SEC | ADBE 10-Q FQ2 2026
+2026-08-18 13:23 ET | v54-ADBE-industry/gnews | Adobe Experience Cloud vs Salesforce Agentforce GenStudio 2026
+2026-08-18 13:25 ET | v54-ADBE-industry/gnews | Salesforce Agentforce revenue customers 2026
+2026-08-18 17:11 ET | v54-ADBE-financial/curl-stockanalysis | ADBE quote page (price/PE/fwdPE/52wk/earnings date OK)
+2026-08-18 17:11 ET | v54-ADBE-financial/curl-stockanalysis | ADBE financials+cashflow+forecast+quarterly pages
+2026-08-18 13:27 ET | v54-ADBE-industry/gnews | Adobe MAX 2026 October keynote Firefly ChatGPT Gemini
+2026-08-18 13:29 ET | v54-ADBE-industry/gnews | Adobe new CEO announcement 2026 Narayen successor
+2026-08-18 13:31 ET | v54-ADBE-industry/gnews | Adobe Q3 fiscal 2026 earnings September 10 date guidance
+2026-08-18 13:32 ET | v54-ADBE-industry/yahoo-chart | ADBE price verify
+2026-08-18 13:34 ET | v54-ADBE-industry/gnews | Adobe to report Q3 FY2026 results date announcement
+2026-08-18 13:36 ET | v54-ADBE-industry/bing-rss | Adobe for ChatGPT announcement direct urls
+2026-08-18 13:37 ET | v54-ADBE-industry/bing-rss | retry follow redirect Adobe ChatGPT urls
+2026-08-18 13:39 ET | v54-ADBE-industry/curl-adobeblog | Adobe for ChatGPT post body fetch
+ | v54-ADBE-business/gnews | Adobe new CEO Shantanu Narayen succession 2026
+2026-08-18 13:41 ET | v54-ADBE-industry/curl-adobenewsroom | newsroom index grep ChatGPT/Firefly links
+ | v54-ADBE-business/gnews | Adobe CEO successor candidates August 2026
+2026-08-18 13:43 ET | v54-ADBE-industry/gnews-link-decode | extract+decode Adobe for ChatGPT item url
+ | v54-ADBE-business/gnews | OpenAI Sora app takedown App Store
+ | v54-ADBE-business/curl-SEC | ADBE FQ1 26 press release AI-first ARR baseline
+2026-08-18 17:13 ET | v54-ADBE-financial/curl-stockanalysis | ADBE forecast page FY26 EPS 24.41 FY27 27.49 + hist fwdPE row
+2026-08-18 17:13 ET | v54-ADBE-financial/yahoo-chart | ADBE 6y monthly closes for fwd-PE band calc
+2026-08-18 13:45 ET | v54-ADBE-industry/gnews-batchexec | decode Adobe for ChatGPT publisher url
+2026-08-18 17:13 ET | v54-ADBE-financial/yahoo-chart | ADBE monthly query2 fail, retry query1
+ | v54-ADBE-business/websearch | Adobe AI-first ARR 500 million Q2 FY26 analyst
+ | v54-ADBE-business/gnews | Adobe AI-first ARR Firefly Express analysts raise
+ | v54-ADBE-business/gnews | Canva IPO competition Adobe 2026
+2026-08-18 17:14 ET | v54-ADBE-financial/ddg-news | Adobe Q2 fiscal 2026 earnings non-GAAP EPS RPO guidance
+ | v54-ADBE-business/curl | Fortune ADBE Q2 2026 earnings call transcript
+2026-08-18 13:48 ET | v54-ADBE-industry/curl-stockanalysis | ADBE overview next earnings date + price cross-check
+2026-08-18 17:14 ET | v54-ADBE-financial/gnews-rss | Adobe Q2 FY2026 earnings press release details
+2026-08-18 13:52 ET | v54-ADBE-industry/curl-pubs | martech/ppcland/diginomica/aibusiness body fetches
+ | v54-ADBE-business/gnews | Adobe Q3 fiscal 2026 earnings date September 10
+ | v54-ADBE-business/websearch | Adobe forward PE 5 year average median
+2026-08-18 17:15 ET | v54-ADBE-financial/curl-adobenews | Q2 FY26 press release full text (non-GAAP EPS/RPO/guidance)
+2026-08-18 13:56 ET | v54-ADBE-industry/sec-edgar | Figma CIK + 8-K Q2 FY26 filing index
+2026-08-18 13:58 ET | v54-ADBE-industry/sec-edgar | Figma Q2 FY26 press release full text
+ | v54-ADBE-business/gnews | Google Gemini Flow threat Adobe creative Photoshop AI
+ | v54-ADBE-business/gnews | Morgan Stanley downgrade Adobe Sell July 2026
+ | v54-ADBE-business/gnews | Adobe Topaz Labs acquisition announcement
+2026-08-18 14:01 ET | v54-ADBE-industry/curl-stockanalysis | ADBE quarterly financials table
+ | v54-ADBE-business/gnews | Adobe names appoints CEO August 2026
+ | v54-ADBE-business/gnews | Adobe CEO search candidates David Wadhwani Anil Chakravarthy
+2026-08-18 14:04 ET | v54-ADBE-industry/gnews | Canva cuts forecast third AI costs details numbers
+2026-08-18 14:07 ET | v54-ADBE-industry/curl-pubs | smartcompany/startupdaily Canva body fetch
+ | v54-ADBE-business/gnews | Google Nano Banana Gemini image editor Photoshop date
+ | v54-ADBE-business/gnews | Adobe stock news this week August 17 2026
+ | v54-ADBE-business/curl-macrotrends | ADBE PE ratio history
+2026-08-18 14:11 ET | v54-ADBE-industry/gnews | OpenAI enterprise video API Sora model availability after shutdown
+2026-08-18 14:14 ET | v54-ADBE-industry/curl-pubs | techcrunch Sora + the-decoder creative agent bodies
+2026-08-18 14:17 ET | v54-ADBE-industry/sec-edgar | ADBE latest 10-Q segment revenue
+2026-08-18 14:22 ET | v54-ADBE-industry/gnews | Adobe Semrush acquisition close + Topaz Labs deal value
+2026-08-18 14:25 ET | v54-ADBE-industry/gnews | Salesforce Q1 FY27 Agentforce ARR paid customers number
+2026-08-18 14:26 ET | v54-ADBE-industry/gnews | Adobe MAX 2026 conference dates Los Angeles
+2026-08-18 14:29 ET | v54-ADBE-industry/curl-max | max.adobe.com dates scrape
+2026-08-18 14:30 ET | v54-ADBE-industry/curl-pubs | ppcland Typeface + tnw Agentforce bodies
+2026-08-18 14:33 ET | v54-ADBE-industry/gnews | Agentforce ARR dollar figure Q1 FY27
+2026-08-18 14:34 ET | v54-ADBE-industry/curl-max | max.adobe.com na page date grep retry
+2026-08-18 | v54-ADBE-business/final | report written ADBE-business.md
+=== end v54-ADBE-business ===
+2026-08-18 14:38 ET | v54-ADBE-industry/gnews | Adobe CEO successor named status August 2026
+2026-08-18 14:39 ET | v54-ADBE-industry/gnews | Adobe Creative Cloud Pro tier launch pricing
+2026-08-18 17:19 ET | v54-ADBE-financial/curl-macrotrends | ADBE pe-ratio + free-cash-flow + stock-based-compensation 5y
+2026-08-18 17:20 ET | v54-ADBE-financial/sec-edgar | ADBE 10-Q (May-29-2026) primary source RPO/SBC/buyback
+2026-08-18 | v54-ADBE-risk/gnews | Adobe new CEO 30d
+2026-08-18 | v54-ADBE-risk/gnews | Adobe CFO leadership 30d
+2026-08-18 | v54-ADBE-risk/gnews | Adobe Narayen 30d
+2026-08-18 | v54-ADBE-risk/gnews | Adobe insider Form4 30d + earnings preview Sep26
+2026-08-18 | v54-ADBE-risk/gnews | Adobe AI ARR 60d + AI-first ARR 120d
+2026-08-18 | v54-ADBE-risk/ddg+bing+stocktitan+marketbeat+simplywall+thestreet+adobe-blog | 直连被拦(标缺口)
+2026-08-18 | v54-ADBE-risk/curl-247 | bullish-40pct + 8/6 + 8/14 三篇正文
+2026-08-18 | v54-ADBE-risk/gnews | Morgan Stanley Adobe 40d + interim CFO + CEO candidates 45d
+2026-08-18 | v54-ADBE-risk/curl-futurum | Q1+Q2 FY26 正文(管理层措辞)
+2026-08-18 | v54-ADBE-risk/gnews | MS/BofA/BNP + Semrush口径 + ChatGPT插件/Sora竞品
+2026-08-18 | v54-ADBE-risk/cboe | ADBE期权IV期限结构+隐含财报波动12.5pct(成功)
+2026-08-18 | v54-ADBE-risk/stockanalysis | 实时报价266.08+forecast共识
+2026-08-18 | v54-ADBE-risk/gnews | Adobe when:2d/7d 当日catalyst+CEO近况
+2026-08-18 | v54-ADBE-risk/curl-startupfortune | 双空缺时间线正文
+2026-08-18 14:52 ET | v54-ADBE-industry/final | report written, 19 ops total, scratch cleaned
+2026-08-18 17:22 ET | v54-ADBE-financial/curl-futurum | Adobe Q2 FY26 non-GAAP EPS guidance AI ARR details
+2026-08-18 17:23 ET | v54-ADBE-financial/sec-edgar | Q4FY22-25 press releases (8-K EX-99.1) non-GAAP EPS verify
+2026-08-18  | v54-AVGO-business/gnews | Broadcom FQ2 2026 earnings AI revenue results June 2026
+2026-08-18  | v54-AVGO-business/gnews | Hock Tan 100 billion AI forecast six customers
+2026-08-18  | v54-AVGO-business/gnews | Broadcom earnings preview September 2026 analyst
+2026-08-18  | v54-AVGO-business/websearch | Broadcom Q2 FY2026 June 3 results AI revenue breakdown direct
+2026-08-18  | v54-AVGO-business/gnews | MediaTek Google TPU supplier 2026
+2026-08-18  | v54-AVGO-business/gnews | MediaTek TPU v9 SerDes TrendForce dates
+2026-08-18  | v54-AVGO-business/websearch | Broadcom AI 72 percent growth next quarter TechStock
+2026-08-18  | v54-AVGO-business/websearch | TrendForce MediaTek TPU v9 SerDes four partner supply chain
+2026-08-18  | v54-AVGO-business/websearch | TrendForce MediaTek raising prices wins TPU v9 orders
+2026-08-18  | v54-AVGO-business/gnews | SemiAnalysis cuts Google TPU shipment forecast MediaTek
+2026-08-18  | v54-AVGO-business/gnews | Broadcom downgrade Google reduce reliance chip supplier
+2026-08-18  | v54-AVGO-business/websearch | SemiAnalysis cuts Google TPU forecast biggo August 17
+2026-08-18  | v54-AVGO-business/websearch | Investing.com Broadcom downgraded June 4 broker
+2026-08-18  | v54-AVGO-business/sec-edgar | AVGO 10-Q FQ2 2026 segment revenue verification
+2026-08-18  | v54-AVGO-business/gnews | hyperscaler capex 2026 Microsoft Google Amazon Meta AI data center
+2026-08-18  | v54-AVGO-business/websearch | hyperscalers hiked capex numbers July 2026
+2026-08-18  | v54-AVGO-business/gnews | Broadcom OpenAI chips only systems strategy change
+2026-08-18  | v54-AVGO-business/websearch | ts2 Broadcom 370 billion financing challenge 30 billion AI orders
+2026-08-18  | v54-AVGO-business/final | report written, 18 logged searches, SEC 10-Q + 12 article bodies, dual-source verified
+2026-08-18 15:10 ET | v54-AVGO-risk/final | report written (22 searches, SEC-first-party E9/E4/Apple-8K/Form4), gaps marked, scratch cleaned
+=== v54-BRK-financial (2026-08-18 13:42-13:55 ET, 10 ops, all fresh; WebSearch配额耗尽转curl直连) ===
+2026-08-18 13:42 ET | v54-BRK-financial/WebSearch | Berkshire Hathaway Q2 2026 earnings operating profit segments (配额429, 弃用)
+2026-08-18 13:43 ET | v54-BRK-financial/curl | berkshirehathaway.com/news (403反爬, 弃用)
+2026-08-18 13:43 ET | v54-BRK-financial/gnews-rss | Berkshire Hathaway second quarter 2026 earnings
+2026-08-18 13:43 ET | v54-BRK-financial/curl | data.sec.gov submissions CIK0001067983 (10-Q/8-K定位)
+2026-08-18 13:44 ET | v54-BRK-financial/curl | SEC 10-Q brka-20260630.htm + Q1 10-Q + 8-K EX-99.1 全文
+2026-08-18 13:46 ET | v54-BRK-financial/curl | SEC 13F-HR 2026-08-14 信息表56757.xml (89行持仓)
+2026-08-18 13:48 ET | v54-BRK-financial/ddg | fool.com Abel 35 billion (无结果)
+2026-08-18 13:48 ET | v54-BRK-financial/curl | stockanalysis.com/stocks/brk.b/ 估值双源
+2026-08-18 13:48-49 ET | v54-BRK-financial/bing | CNBC/AOL文章定位×2 (未命中直链)
+2026-08-18 13:49 ET | v54-BRK-financial/yahoo-rss | BRK-B headlines -> 247wallst两篇全文+fool(404)
+2026-08-18 13:55 ET | v54-BRK-financial/financial_rigor | verify-market-cap/verify-valuation/cross-validate/calc×14/three-scenario
+2026-08-18 17:54 ET | v54-INTU-industry/stockanalysis | INTU quote snapshot
+2026-08-18 17:54 ET | v54-INTU-industry/gnews | Intuit stock news when:7d
+2026-08-19 01:55 ET | v54-INTU-risk/curl | stockanalysis.com INTU quote+估值
+2026-08-19 01:55 ET | v54-INTU-risk/gnews | Intuit earnings preview (gnews RSS)
+2026-08-18 17:55 ET | v54-INTU-industry/yahoo-chart | INTU price verify
+2026-08-19 01:55 ET | v54-INTU-risk/curl | stockanalysis.com INTU 正文数据提取
+2026-08-19 01:55 ET | v54-INTU-risk/gnews | Intuit Goodarzi 管理层新闻
+2026-08-18 17:55 ET | v54-INTU-industry/gnews | software stocks rally August 2026 AI fears when:7d
+2026-08-18 17:55 ET | v54-INTU-industry/gnews | Intuit MongoDB Cloudflare Palantir soaring
+2026-08-19 01:55 ET | v54-INTU-risk/curl | SEC EDGAR INTU Form 4 内部人交易列表
+2026-08-18 17:55 ET | v54-INTU-industry/ddg | ServiceNow historic month AI fears fade software moomoo
+2026-08-18 17:55 ET | v54-INTU-industry/ddg | Workday 51 billion takeover talks reset software trade thestreet
+2026-08-18 17:56 ET | v54-INTU-industry/finviz | INTU quote + newslinks (curl OK)
+2026-08-19 01:56 ET | v54-INTU-risk/curl | data.sec.gov submissions CIK0000896878 JSON (Form4/10-Q定位)
+2026-08-19 01:56 ET | v54-INTU-risk/gnews | Intuit canceled insider stock sales Goodarzi 链接定位
+2026-08-18 17:56 ET | v54-INTU-industry/finviz | INTU page (blocked, 0 bytes)
+2026-08-19 01:56 ET | v54-INTU-risk/curl | SEC Form 4 8/17两份 XML 抽样
+2026-08-18 17:56 ET | v54-INTU-industry/bingnews-rss | ServiceNow AI fears fade software
+2026-08-19 01:56 ET | v54-INTU-risk/ddg | Goodarzi canceled insider stock sales CNBC正文
+2026-08-19 01:56 ET | v54-INTU-risk/bing | Intuit insider selling cancelled 10b5-1 CNBC/Semafor定位
+2026-08-18 17:56 ET | v54-INTU-industry/fool | INTU quote page news list
+2026-08-18 17:57 ET | v54-INTU-industry/techcrunch | site search intuit AI agents
+2026-08-18 17:57 ET | v54-INTU-industry/curl-techcrunch | OpenAI ChatGPT personal finance full text
+2026-08-19 01:57 ET | v54-INTU-risk/curl | CNBC queryly API Goodarzi canceled insider
+2026-08-19 01:57 ET | v54-INTU-risk/gnews | TurboTax 2026 tax season customers
+2026-08-18 17:57 ET | v54-INTU-industry/curl-techcrunch | Intuit layoffs 3000 refocus AI full text
+2026-08-19 01:57 ET | v54-INTU-risk/curl | CNBC 5/20裁员17%+Q3财报正文
+2026-08-18 17:57 ET | v54-INTU-industry/gnews | H&R Block AI Tax Assist 2026 filing season
+2026-08-18 17:57 ET | v54-INTU-industry/gnews | IRS Direct File discontinued free file vacuum
+2026-08-19 01:57 ET | v54-INTU-risk/gnews | Intuit Anthropic OpenAI 合作
+2026-08-18 17:57 ET | v54-INTU-industry/gnews | HR Block Tax Software AI season results
+2026-08-19 01:57 ET | v54-INTU-risk/gnews | IRS Direct File 2026 TurboTax威胁
+2026-08-18 17:57 ET | v54-INTU-industry/curl-cbpp | Three Strikes Against Filers full text
+2026-08-18 17:58 ET | v54-INTU-industry/curl-joc | IRS ends Direct File Free File upgrades
+2026-08-19 01:58 ET | v54-INTU-risk/gnews | Direct File shutdown 定位原文链接
+2026-08-19 01:58 ET | v54-INTU-risk/ddg | Zacks Intuit poised beat earnings estimates 8月3日正文
+2026-08-18 17:58 ET | v54-INTU-industry/gnews | Block AI Tax Assist results season
+2026-08-18 17:58 ET | v54-INTU-industry/curl-thestreet | Workday 51B takeover reset software trade
+2026-08-19 01:58 ET | v54-INTU-risk/ddg | MarketBeat Intuit projected earnings Tuesday 正文定位
+2026-08-19 01:58 ET | v54-INTU-risk/curl | qz.com Direct File killed 2026 season 正文
+2026-08-19 01:58 ET | v54-INTU-risk/bing-news | Intuit August 25 earnings preview 估计值定位
+2026-08-18 17:58 ET | v54-INTU-industry/curl-stocktitan | HRB AI tax helpers millions of questions
+2026-08-18 17:58 ET | v54-INTU-industry/curl-hrblock | fiscal Q3 FY26 tax season results
+2026-08-19 01:58 ET | v54-INTU-risk/curl | stocktitan INTU 新闻流(8/25预览/内部人)
+2026-08-19 01:58 ET | v54-INTU-risk/curl | stockanalysis INTU forecast页(FY26/27/28共识)
+2026-08-19 01:59 ET | v54-INTU-risk/curl | stockanalysis INTU earnings页(Q4预期)
+2026-08-19 01:59 ET | v54-INTU-risk/curl | CNBC视频页 Goodarzi canceled insider sales 摘要
+2026-08-19 01:59 ET | v54-INTU-risk/curl | cboe delayed quotes INTU 期权IV尝试
+2026-08-19 01:59 ET | v54-INTU-risk/curl | query1.finance.yahoo.com INTU期权链IV尝试
+2026-08-19 01:59 ET | v54-INTU-risk/curl | TechCrunch 5/20裁员+AI正文
+2026-08-19 02:00 ET | v54-INTU-risk/curl | semafor Goodarzi market wrong on AI 正文定位
+2026-08-19 02:00 ET | v54-INTU-risk/curl | CX Dive Intuit customers spending 正文定位
+2026-08-19 02:00 ET | v54-INTU-risk/bing-rss | Semafor Goodarzi AI + CX Dive税季文章定位
+2026-08-19 02:00 ET | v54-INTU-risk/curl | semafor sitemap 2026/02 定位文章
+2026-08-19 02:00 ET | v54-INTU-risk/curl | customerexperiencedive feed 税季客户数据
+2026-08-18 18:00 ET | v54-INTU-industry/sec-edgar | HRB 8-K filings list (Q3 FY26)
+2026-08-19 02:00 ET | v54-INTU-risk/curl | qz.com IRS kills Direct File 2026 season 正文
+2026-08-18 18:00 ET | v54-INTU-industry/sec-edgar-fulltext | HRB Q3 FY26 earnings 8-K
+2026-08-19 02:01 ET | v54-INTU-risk/gnews | IRS Direct File shutdown 全文条目(标题+摘要)
+2026-08-19 02:01 ET | v54-INTU-risk/gnews | H&R Block AI tax 竞品信号
+2026-08-19 02:01 ET | v54-INTU-risk/gnews | Intuit August 25 preview 摘要抓取
+2026-08-18 18:01 ET | v54-INTU-industry/sec-edgar | HRB prelim FY26 results 8-K body
+2026-08-19 02:01 ET | v54-INTU-risk/curl | feeds.finance.yahoo INTU headline RSS直链
+2026-08-19 02:01 ET | v54-INTU-risk/curl | Yahoo/Zacks 8/18预览正文(Q4共识)
+2026-08-19 02:01 ET | v54-INTU-risk/curl | Trefis 8/14期权定价正文(IV缺口补救)
+2026-08-18 18:01 ET | v54-INTU-industry/gnews | Workday takeover talks private equity software M&A
+2026-08-18 18:01 ET | v54-INTU-industry/gnews | Intuit Investor Day September 17 2026
+2026-08-19 02:02 ET | v54-INTU-risk/curl | Barchart 8/12 'Mark Your Calendars' 正文(Q4共识)
+2026-08-18 18:02 ET | v54-INTU-industry/curl-futurum | AI disruption fears overshot full text
+2026-08-19 02:02 ET | v54-INTU-risk/curl | MarketBeat originals Q4预览正文尝试
+2026-08-18 18:02 ET | v54-INTU-industry/curl-fool | Should You Buy Intuit Before Huge Investor Update
+2026-08-19 02:02 ET | v54-INTU-risk/curl | SEC 8-K 5/20 EX-99 Q3分部数据全文
+2026-08-19 02:02 ET | v54-INTU-risk/curl | SEC 8-K 4/28与6/11事件确认
+2026-08-18 18:02 ET | v54-INTU-industry/curl-intuit-ir | events page investor day date
+2026-08-18 18:03 ET | v54-INTU-industry/gnews | Intuit fourth quarter fiscal 2026 results August 25
+2026-08-19 02:03 ET | v54-INTU-risk/curl | SEC 8-K 5/20 EX-99.01 Q3新闻稿分部数据
+2026-08-18 18:03 ET | v54-INTU-industry/gnews | Xero QuickBooks small business accounting AI 2026
+2026-08-18 18:03 ET | v54-INTU-industry/gnews | outcome-based pricing AI agents enterprise software
+2026-08-18 18:03 ET | v54-INTU-industry/curl-cio | Great Enterprise Pricing Reset full text
+2026-08-18 18:03 ET | v54-INTU-industry/gnews | QuickBooks news when:30d
+2026-08-18 18:03 ET | v54-INTU-industry/curl-pymnts | QuickBooks credit hub SMB
+2026-08-18 18:03 ET | v54-INTU-industry/curl-intuit-blog | AI principles OpenAI Anthropic partnership
+2026-08-19 02:04 ET | v54-INTU-risk/curl | MarketBeat INTU forecast页 FY27共识
+2026-08-19 02:04 ET | v54-INTU-risk/gnews | AI替代税务师/ChatGPT报税威胁
+2026-08-18 18:04 ET | v54-INTU-industry/gnews | Intuit OpenAI Anthropic partnership agents
+2026-08-19 02:04 ET | v54-INTU-risk/gnews | Intuit fiscal 2027 guidance consensus
+2026-08-19 02:04 ET | v54-INTU-risk/gnews | Intuit class action + insider selling
+2026-08-18 18:04 ET | v54-INTU-industry/curl-tradingview | software stocks sharp rebound July
+2026-08-18 18:04 ET | v54-INTU-industry/curl-itjungle | Does AI mark end of ERP era
+2026-08-19 02:04 ET | v54-INTU-risk/curl | SEC submissions全量 8-K/SC13 2026年2-4月定位
+2026-08-19 02:04 ET | v54-INTU-risk/curl | stockanalysis statistics页 forward锚
+2026-08-18 18:04 ET | v54-INTU-industry/curl-bessemer | AI pricing monetization playbook
+2026-08-19 02:05 ET | v54-INTU-risk/curl | SEC 8-K 2026-03-16 停售+回购正文
+2026-08-18 18:05 ET | v54-INTU-industry/sec-edgar | INTU 10-Q cover share count
+2026-08-18 18:05 ET | v54-INTU-industry/curl-futurum2 | Zendesk outcome pricing agents
+2026-08-19 02:05 ET | v54-INTU-risk/curl | Q3新闻稿回购/分红/现金数据
+2026-08-19 02:05 ET | v54-INTU-risk/curl | advnhub Intuit Conversational AI Mid-Market正文
+2026-08-18 18:05 ET | v54-INTU-industry/gnews | Mizuho Intuit price target FY27 reset details
+2026-08-18 18:05 ET | v54-INTU-industry/gnews | Xero full year results 2026 subscribers
+2026-08-18 18:05 ET | v54-INTU-industry/gnews | Michael Burry software not dead LLMs
+2026-08-18 18:05 ET | v54-INTU-industry/gnews | Xero annual result FY26
+2026-08-18 18:05 ET | v54-INTU-industry/curl-kalkine | Xero AI agent push strong results
+2026-08-18 18:06 ET | v54-INTU-industry/stockanalysis-api | INTU overview stats
+2026-08-18 18:06 ET | v54-INTU-industry/gnews | Intuit securities class action allegations
+2026-08-18 18:06 ET | v54-INTU-industry/globenewswire | Levi Korsinsky Intuit class action
+2026-08-19 02:06 ET | v54-INTU-risk/financial_rigor | verify-market-cap/valuation/three-scenario
+2026-08-18 18:07 ET | v54-INTU-industry/gnews-desc | INTU earnings preview consensus estimate
+2026-08-18 18:07 ET | v54-INTU-industry/curl-tikr | INTU down 45 fuller picture valuation
+2026-08-18 18:07 ET | v54-INTU-industry/curl-tradingview-reuters | vibe coding low-key threat software
+--- v54-INTU-industry timestamp correction (2026-08-18 14:10 ET) ---
+NOTE: timestamps in the v54-INTU-industry segment above were written with a broken
+Git Bash TZ database (TZ=America/New_York ignored). Values shown are actually UTC.
+True ET = shown value minus 4 hours (session ran ~09:54-14:08 ET, US market intraday).
+No other fields affected. 55 log lines, ~40 distinct operations incl. noted failures
+(finviz 0-byte block, DDG/Bing/Bing-RSS/Google-HTML blocked, thestreet/cbpp/cio/pymnts/
+intuit-blog 404 or JS-wall, tikr/tradingview-reuters paywall, HRB IR hang, stocktitan block,
+globenewswire timeout; all documented inline).
+2026-08-18 18:10 UTC | v54-INTU-industry/write | INTU-industry.md written (report)
+2026-08-18 18:11 UTC | v54-TSM-industry/gnews | TSMC foundry market share Q2 2026
+2026-08-18 18:11 UTC | v54-TSM-industry/gnews | Nvidia Q2 FY27 earnings August 26 preview data center
+ | v54-TSM-financial/curl-stockanalysis | TSM overview page (price/PE/market cap/body)
+2026-08-18 18:11 UTC | v54-TSM-industry/gnews | TSMC CoWoS capacity 2027 expansion
+2026-08-18 18:11 UTC | v54-TSM-industry/gnews | 光模块 大跌 CoWoS 砍单 光通信
+ | v54-TSM-financial/curl-stockanalysis | TSM financials page (quarterly GM/FCF/body)
+2026-08-18 18:12 UTC | v54-TSM-industry/gnews | CoWoS order cut rumor 215000 250000 wafers
+ | v54-TSM-financial/gnews | TSMC Q2 2026 results capex free cash flow
+2026-08-18 18:12 UTC | v54-TSM-industry/gnews | hyperscaler capex 2026 Microsoft Google Amazon Meta 400 billion
+2026-08-18 18:12 UTC | v54-TSM-industry/gnews-link | SemiAnalysis Google TPU cut MediaTek
+2026-08-18 18:12 UTC | v54-TSM-industry/curl-counterpoint | Q1 2026 foundry share article
+ | v54-TSM-financial/curl-tsmc-ir | TSMC Q2 2026 official press release
+2026-08-18 18:12 UTC | v54-TSM-industry/bing | finance.biggo.com SemiAnalysis TPU MediaTek
+2026-08-18 18:12 UTC | v54-TSM-industry/curl-trendforce | 1Q26 top10 foundry press release
+ | v54-TSM-financial/curl-qz | TSMC Q2 2026 record profit Arizona capex article body
+ | v54-TSM-financial/curl-stockanalysis | TSM forecast page (consensus EPS FY26/FY27)
+ | v54-TSM-financial/gnews | TSMC July 2026 monthly revenue record
+2026-08-18 18:13 UTC | v54-TSM-industry/curl-taipeitimes | TSMC 70% of 2025 foundry market
+2026-08-18 18:13 UTC | v54-TSM-industry/bing | semiecosystem TSMC gains foundry share Q1 26
+2026-08-18 18:14 UTC | v54-TSM-industry/curl-substack | TSMC Gains Foundry Share in Q1 26 (Counterpoint data)
+2026-08-18 18:14 UTC | v54-TSM-industry/curl-tsmc-ir | July 2026 monthly revenue
+2026-08-18 18:14 UTC | v54-TSM-industry/gnews-src | Nvidia earnings preview analysts numbers
+ | v54-TSM-financial/gnews | TSMC July 2026 revenue NT billion YoY official
+2026-08-18 18:14 UTC | v54-TSM-industry/curl-biggo | homepage/article search TPU SemiAnalysis
+ | v54-TSM-financial/curl-stockanalysis | TSM statistics page (EV/EBITDA/FCF yield/band)
+2026-08-18 18:15 UTC | v54-TSM-industry/curl-biggo | SOX plunges 6% chip stocks hammered article
+2026-08-18 14:2x ET | v54-TSM-financial/gnews | optical transceiver CPO stocks selloff AI hardware pullback August 17 2026
+2026-08-18 14:2x ET | v54-TSM-financial/gnews | TSMC stock cycle top overvalued forward PE 2026
+2026-08-18 14:2x ET | v54-TSM-financial/gnews | TSMC earnings call transcript Q3 guidance gross margin third quarter 2026
+2026-08-18 18:15 UTC | v54-TSM-industry/gnews | SemiAnalysis TPU forecast cut August 2026
+2026-08-18 18:15 UTC | v54-TSM-industry/curl-tomshardware | Google taps AMD next-gen TPU
+2026-08-18 14:3x ET | v54-TSM-financial/gnews | 光模块 CPO 大跌 回调 2026年8月 AI硬件
+2026-08-18 14:3x ET | v54-TSM-financial/gnews | semiconductor stocks tumble AI selloff August 18 2026 Nvidia AMD
+2026-08-18 18:16 UTC | v54-TSM-industry/curl-tomshardware-search | site search TPU AMD
+ | v54-TSM-financial/curl-sec-edgar | TSMC 6-K filings list Q2 2026
+2026-08-18 18:16 UTC | v54-TSM-industry/gnews | TSMC July 2026 revenue monthly
+2026-08-18 18:16 UTC | v54-TSM-industry/curl-dataconomy | Google AMD 10th-gen TPU
+2026-08-18 18:16 UTC | v54-TSM-industry/curl-eenews | TSMC July revenue 467.58bn
+2026-08-18 18:16 UTC | v54-TSM-industry/curl-techtimes | Foxconn CEO CoWoS 2027 AI server ceiling
+2026-08-18 18:17 UTC | v54-TSM-industry/gnews-zh | 台积电 CoWoS 砍单 21.5万 25万
+2026-08-18 18:17 UTC | v54-TSM-industry/gnews | CoWoS capacity 2026 wafers per month million
+2026-08-18 18:17 UTC | v54-TSM-industry/gnews-link | TrendForce insights advanced packaging outlook
+2026-08-18 18:17 UTC | v54-TSM-industry/curl-trendforce-insights | advanced packaging outlook page
+ | v54-TSM-financial/curl-sec-edgar | TSM July 2026 monthly revenue 6-K official
+ | v54-TSM-financial/curl-stockanalysis | NVDA overview fwd PE peer check
+2026-08-18 18:18 UTC | v54-TSM-industry/curl-yahoo-rss | NVDA headline feed
+2026-08-18 18:18 UTC | v54-TSM-industry/curl-yahoo | market today Credo plunges chip names
+2026-08-18 18:18 UTC | v54-TSM-industry/curl-yahoo | BofA calls Nvidia valuation compelling ahead of earnings
+2026-08-18 18:19 UTC | v54-TSM-industry/gnews | hyperscaler capex guidance Q2 2026 earnings season
+2026-08-18 18:19 UTC | v54-TSM-industry/gnews | Broadcom AI revenue TPU custom silicon XPU
+ | v54-TSM-financial/write | TSM-financial.md written (report, 16 ops: edgar x3 + stockanalysis x5 + gnews x8, dual-sourced on all key figures)
+2026-08-18 18:19 UTC | v54-TSM-industry/curl-aol | Big4 hiked AI capex benefits one stock
+2026-08-18 18:19 UTC | v54-TSM-industry/gnews | TSMC Q2 2026 results capex guidance 64 billion
+2026-08-18 18:20 UTC | v54-TSM-industry/curl-stockanalysis | TSM quote
+2026-08-18 18:20 UTC | v54-TSM-industry/curl-semianalysis | Gemini is Cooked but GCP is Cooking (TPU demand)
+2026-08-18 18:21 UTC | v54-TSM-industry/write | TSM-industry.md written (report)
+2026-08-18 18:23 UTC | v54-PYPL-industry/gnews | Stripe Advent acquisition payments
+2026-08-18 18:23 UTC | v54-PYPL-industry/gnews | PayPal news August 2026
+2026-08-18 18:24 UTC | v54-PYPL-industry/curl-pymnts | PayPal Reopens Sale Talks With Stripe After Rejecting First Offer
+2026-08-18 18:24 UTC | v54-PYPL-industry/curl-247ws | PayPal in talks to sell itself after rejecting 60.50 bid
+2026-08-18 18:24 UTC | v54-PYPL-risk/yahoo-chart | PYPL live quote intraday verify
+2026-08-18 18:24 UTC | v54-PYPL-risk/sec-edgar | PYPL 8-K/merger filings atom check
+2026-08-18 18:24 UTC | v54-PYPL-financial/gnews | PayPal acquisition offer takeover bid 2026
+2026-08-18 18:24 UTC | v54-PYPL-financial/gnews | PayPal Q2 2026 earnings results revenue EPS
+2026-08-18 18:24 UTC | v54-PYPL-risk/gnews | PayPal Stripe Advent acquisition talks when:3d
+2026-08-18 18:24 UTC | v54-PYPL-industry/curl-ddg | Stripe Advent PayPal 60.50 bid talks
+2026-08-18 18:24 UTC | v54-PYPL-financial/curl-stockanalysis | PYPL quote key stats share count fwd PE
+2026-08-18 18:24 UTC | v54-PYPL-industry/curl-stockanalysis | PYPL quote
+2026-08-18 18:24 UTC | v54-PYPL-financial/curl-sec-edgar | PYPL 10-Q Q2 2026 filings list
+2026-08-18 18:24 UTC | v54-PYPL-risk/sec-edgar | PYPL filing types detail 8/17
+2026-08-18 18:24 UTC | v54-PYPL-risk/gnews | PayPal antitrust EU DOJ regulator review premerger when:7d
+2026-08-18 18:24 UTC | v54-PYPL-risk/polymarket | Stripe acquire PayPal market odds API
+2026-08-18 18:24 UTC | v54-PYPL-industry/gnews | Adyen H1 2026 results
+2026-08-18 18:24 UTC | v54-PYPL-industry/gnews | Block SQ Q2 2026 earnings
+2026-08-18 18:24 UTC | v54-PYPL-financial/curl-yahoo-api | PYPL quote regularMarketPrice
+2026-08-18 18:24 UTC | v54-PYPL-risk/sec-edgar | Form4 8/17 owner detail + Form144 7/29-30 owners
+2026-08-18 18:24 UTC | v54-PYPL-industry/gnews | stablecoin PayPal PYUSD payments
+2026-08-18 18:24 UTC | v54-PYPL-industry/gnews | agentic commerce payments protocol
+2026-08-18 18:24 UTC | v54-PYPL-risk/polymarket2 | search=stripe markets retry
+2026-08-18 18:24 UTC | v54-PYPL-risk/gnews | Stripe financing debt commitment $50 billion bank when:14d
+2026-08-18 18:25 UTC | v54-PYPL-industry/curl-bing | Stripe Advent PayPal takeover details antitrust
+2026-08-18 18:25 UTC | v54-PYPL-industry/gnews | Apple Pay 2026 wallet share
+2026-08-18 18:25 UTC | v54-PYPL-industry/gnews | payments profit pools wallets networks 2026
+2026-08-18 18:25 UTC | v54-PYPL-risk/sec-edgar | Form4 8/17 raw xml owner parse
+2026-08-18 18:25 UTC | v54-PYPL-risk/polymarket3 | search=PayPal all markets
+2026-08-18 18:25 UTC | v54-PYPL-risk/gnews | PayPal Piper Sandler value worth article link
+2026-08-18 18:25 UTC | v54-PYPL-industry/gnews | Global Payments Worldpay Fiserv integration 2026
+2026-08-18 18:25 UTC | v54-PYPL-industry/gnews | digital wallets 2030 share of e-commerce projection
+2026-08-18 18:25 UTC | v54-PYPL-risk/sec-edgar | Form4 filing index primary doc
+2026-08-18 18:25 UTC | v54-PYPL-risk/polymarket4 | events endpoint PayPal search
+2026-08-18 18:25 UTC | v54-PYPL-risk/gnews-redirect | ADHOC waiting game article resolve
+2026-08-18 18:25 UTC | v54-PYPL-industry/curl-ddglite | WSJ Stripe Advent PayPal talks sell itself
+2026-08-18 18:25 UTC | v54-PYPL-risk/sec-edgar | Form4 rendered XML owner+transaction
+2026-08-18 18:25 UTC | v54-PYPL-risk/polymarket5 | data-api events query paypal stripe final attempt
+2026-08-18 18:26 UTC | v54-PYPL-risk/curl-tnw | thenextweb venmo stripe article fetch
+2026-08-18 18:26 UTC | v54-PYPL-industry/curl-paymentsdive | Stripe Advent PayPal takeover
+2026-08-18 18:26 UTC | v54-PYPL-industry/gnews | PayPal Stripe deal regulators antitrust review
+2026-08-18 18:26 UTC | v54-PYPL-industry/gnews | PayPal Q3 2026 earnings date October
+2026-08-18 18:26 UTC | v54-PYPL-financial/gnews | Stripe Advent PayPal negotiations sweetened bid price August 2026
+2026-08-18 18:26 UTC | v54-PYPL-risk/polymarket6 | public-search full parse stripe paypal + any part
+2026-08-18 18:26 UTC | v54-PYPL-risk/sec-edgar | Form4 pipe parse owner
+2026-08-18 18:26 UTC | v54-PYPL-risk/gnews-decode | base64 decode article redirect IDs
+2026-08-18 18:26 UTC | v54-PYPL-industry/curl-tnw | Stripe PayPal deal Venmo price
+2026-08-18 18:26 UTC | v54-PYPL-risk/sec-edgar | Form4 rendered html name extract
+2026-08-18 18:26 UTC | v54-PYPL-risk/curl-startupfortune | Stripe Advent pushing buy article
+2026-08-18 18:26 UTC | v54-PYPL-risk/gnews | PayPal rival bidder second bidder white knight check when:14d
+2026-08-18 18:26 UTC | v54-PYPL-industry/curl-paymentsdive | how-paypal-may-benefit-stripe + ceo-intact + board-ex-square-exec
+2026-08-18 18:26 UTC | v54-PYPL-financial/curl-sec-edgar | PYPL 8-K EX-99.1 Q2 earnings release guidance
+2026-08-18 18:27 UTC | v54-PYPL-risk/sec-json | submissions API recent filings primary docs
+2026-08-18 18:27 UTC | v54-PYPL-risk/curl-startupfortune-body | article text extract
+2026-08-18 18:27 UTC | v54-PYPL-risk/gnews | PayPal Braintree Venmo divestiture antitrust remedy
+2026-08-18 18:27 UTC | v54-PYPL-financial/gnews | PayPal $60.50 per share bid WSJ details structure financing
+2026-08-18 18:27 UTC | v54-PYPL-industry/curl-paymentsdive | apple payments AI + benefit stripe part2
+2026-08-18 18:27 UTC | v54-PYPL-industry/curl-stockanalysis | V MA FI GPN XYZ ADYEN quotes
+2026-08-18 18:27 UTC | v54-PYPL-risk/sec-edgar | Form4 raw edgardoc.xml parse
+2026-08-18 18:27 UTC | v54-PYPL-financial/curl-pymnts | PayPal reopens sale talks Stripe article body
+2026-08-18 18:27 UTC | v54-PYPL-risk/gnews | ION Analytics Stripe PayPal regulatory test link
+2026-08-18 18:27 UTC | v54-PYPL-risk/curl-tnw2 | thenextweb search venmo stripe
+2026-08-18 18:27 UTC | v54-PYPL-financial/curl-inc | PayPal back in play buyout talks rekindled article
+2026-08-18 18:27 UTC | v54-PYPL-financial/curl-thefintechtimes | PayPal board calls bid inadequate details
+2026-08-18 18:27 UTC | v54-PYPL-financial/gnews | Polymarket PayPal deal odds probability Stripe
+2026-08-18 18:27 UTC | v54-PYPL-risk/sec-edgar | Form4 full owner+tx parse
+2026-08-18 18:27 UTC | v54-PYPL-risk/sec-edgar | SCHEDULE 13G/A holder identity
+2026-08-18 18:27 UTC | v54-PYPL-risk/ddg-html | TNW + BusinessPost URL resolve attempt
+2026-08-18 18:27 UTC | v54-PYPL-financial/curl-polymarket-gamma | PayPal Stripe acquisition market odds realtime
+2026-08-18 18:28 UTC | v54-PYPL-industry/curl-paymentsdive | adyen + wallet 2030 + pyusd site search
+2026-08-18 18:28 UTC | v54-PYPL-risk/sec-edgar | 13G/A submitter name retry full text
+2026-08-18 18:28 UTC | v54-PYPL-risk/gnews | PayPal Q3 2026 guidance third quarter EPS revenue
+2026-08-18 18:28 UTC | v54-PYPL-risk/gnews | Nuvei Advent completed + Capital One Discover timeline analogs
+2026-08-18 18:28 UTC | v54-PYPL-industry/gnews | Block Q2 2026 gross profit + Stripe OpenRouter + PayPal investor day
+2026-08-18 18:28 UTC | v54-PYPL-financial/curl-startupfortune | Stripe Advent pushing to buy PayPal 53 billion details
+2026-08-18 18:28 UTC | v54-PYPL-financial/gnews | PayPal standalone value analyst price target if deal breaks
+2026-08-18 18:28 UTC | v54-PYPL-risk/sec-edgar | 13G/A beneficial owner name
+2026-08-18 18:28 UTC | v54-PYPL-risk/gnews | PayPal checkout market share loss erosion Apple Pay
+2026-08-18 18:28 UTC | v54-PYPL-risk/yahoo-options | PYPL options chain attempt (expect blocked, gap)
+2026-08-18 18:28 UTC | v54-PYPL-risk/yahoo-options2 | crumb workaround attempt
+2026-08-18 18:28 UTC | v54-PYPL-industry/curl-paymentsdive | stablecoin use surges + fiserv stablecoin + apple google wallets
+2026-08-18 18:28 UTC | v54-PYPL-risk/yahoo-rss | PYPL headline feed with links
+2026-08-18 18:28 UTC | v54-PYPL-industry/gnews | PayPal Q2 2026 TPV branded checkout
+2026-08-18 18:28 UTC | v54-PYPL-industry/gnews | wallets share global e-commerce 2030 projection
+2026-08-18 18:28 UTC | v54-PYPL-risk/curl-stocktwits | Piper Sandler valuation body
+2026-08-18 18:28 UTC | v54-PYPL-risk/curl-247wallst | talks to sell itself body
+2026-08-18 18:28 UTC | v54-PYPL-risk/curl-yahoo-ibd | OpenRouter deal impact body
+2026-08-18 18:29 UTC | v54-PYPL-industry/curl-paymentsdive | US digital wallet use 2030 Worldpay
+2026-08-18 18:30 UTC | v54-PYPL-risk/yahoo-chart | final price snapshot before write
+2026-08-18 18:30 UTC | v54-PYPL-risk/write | PYPL-risk.md written (report, ~25 ops: gnews x8 + curl x7 + sec x7 + polymarket x6-attempts-1-success + yahoo x3, dual-sourced key figures)
+2026-08-18 18:31 UTC | v54-PYPL-industry/write | PYPL-industry.md written (gnews x13 + paymentsdive x6 + stockanalysis x2 + ddg x2 + bing x1 + 247ws x1 = 25 ops; dual-sourced: deal timeline, Q2 metrics, valuations, stablecoin volumes; gaps marked: Q3 date, Stripe TPV estimate, PYUSD Aug supply single-source)
+2026-08-18 18:32 UTC | v54-PYPL-financial/write | PYPL-financial.md written (15 ops: gnews x6 + edgar x3 + yahoo x1 + polymarket x1 + pymnts/inc/ftt/startupfortune x4; 10-Q+8-K primary, dual-sourced key figures)
+2026-08-18 19:08 UTC | v54-team-CRDO-industry/curl-gnews | Ciena Coherent optical stocks plunge AEC copper
+2026-08-18 19:08 UTC | v54-team-CRDO-industry/curl-gnews | Credo AEC copper cable NVIDIA Rubin
+2026-08-19 03:08 UTC | v54-team-CRDO-financial/yahoo-chart | CRDO ALAB AVGO MRVL same-day quotes for PS/growth matrix
+2026-08-19 03:08 UTC | v54-team-CRDO-financial/curl-stockanalysis | CRDO financials FY26 revenue growth CFO net cash
+2026-08-18 19:09 UTC | v54-team-CRDO-industry/curl-gnews | Fabrinet selloff optical AI when:3d
+2026-08-18 19:09 UTC | v54-team-CRDO-industry/curl-gnews | AEC copper Broadcom Marvell threat Credo
+2026-08-18 19:09 UTC | v54-team-CRDO-industry/curl-gnews | optical transceiver stocks selloff when:7d
+2026-08-18 19:09 UTC | v54-team-CRDO-industry/curl-gnews | Broadcom AEC Tomahawk 6
+2026-08-19 03:09 UTC | v54-team-CRDO-financial/sec-edgar | company_tickers.json CIK map CRDO ALAB AVGO MRVL
+2026-08-19 03:09 UTC | v54-team-CRDO-financial/curl-jina-reader | stockanalysis CRDO statistics PS PE forward (cloudflare direct blocked, reader attempt)
+2026-08-19 03:09 UTC | v54-team-CRDO-financial/sec-edgar | CRDO companyfacts revenue CFO cash capex FY26 10-K
+2026-08-19 03:09 UTC | v54-team-CRDO-financial/curl-jina-reader | stockanalysis ALAB statistics PS growth
+2026-08-19 03:10 UTC | v54-team-CRDO-financial/curl-jina-reader | stockanalysis AVGO MRVL statistics PS growth same-day
+2026-08-18 19:11 UTC | v54-team-CRDO-industry/webfetch-247wallst | Optics Stocks Drop Anthropic WSJ body + Fabrinet earnings body
+2026-08-18 19:11 UTC | v54-team-CRDO-industry/curl-yahoo-chart | CRDO 10d closes (8/17=282.82 8/18=244.04 -13.7pct)
+2026-08-18 19:11 UTC | v54-team-CRDO-industry/webfetch-substack | AI Interconnect War Copper Fights Back body
+2026-08-19 03:11 UTC | v54-team-CRDO-financial/sec-edgar | ALAB AVGO MRVL quarterly revenue TTM YoY same-source
+2026-08-18 19:12 UTC | v54-team-CRDO-industry/curl-gnews | NVIDIA Rubin Kyber NVLink scale-up copper CPO Quantum-X
+2026-08-18 19:12 UTC | v54-team-CRDO-industry/webfetch-nvidia-blog | Vera Rubin POD seven chips five racks body
+2026-08-18 19:12 UTC | v54-team-CRDO-industry/webfetch-counterpoint | Blackwell to Feynman optics roadmap body
+2026-08-18 19:12 UTC | v54-team-CRDO-industry/curl-gnews | Credo earnings Sept 1 preview + NVDA AVGO dates
+2026-08-19 03:12 UTC | v54-team-CRDO-financial/sec-edgar | CRDO 8-K 2026-06-01 Q4 FY26 press release Q1 FY27 guidance
+2026-08-19 03:12 UTC | v54-team-CRDO-financial/curl-jina-reader | stockanalysis ALAB AVGO MRVL quarterly revenue TTM YoY
+2026-08-19 03:13 UTC | v54-team-CRDO-financial/curl-jina-reader | stockanalysis CRDO quarterly revenue FY26 Q1-Q4
+2026-08-18 19:13 UTC | v54-team-CRDO-risk/yahoo-chart | CRDO 5d OHLC: 8-18 close 244.12 (-13.7% vs 282.82)
+2026-08-18 19:13 UTC | v54-team-CRDO-risk/sec-fts | Credo Technology Form 4 filings 2026-05-01..08-18 (39 hits)
+2026-08-18 19:13 UTC | v54-team-CRDO-risk/sec-form4 | Cheng Chi Fung 8 filings XML: S=46.67M (6/23-7/31, 196k sh) +F 0.6M; 10b5-1 plan 2025-09-05
+2026-08-18 19:13 UTC | v54-team-CRDO-risk/sec-form4 | Lam Yat Tung 7 filings XML: S=46.37M (7/15+7/31, 211k sh); 10b5-1 plan 2026-04-15
+2026-08-18 19:13 UTC | v54-team-CRDO-risk/sec-form4 | Brennan CEO 5 filings: S=0, F-withhold 13.1M only; Laufman/Fleming routine
+2026-08-18 19:13 UTC | v54-team-CRDO-risk/sec-8k | DustPhotonics 8-K 2026-04-13 EX-99.1: SiPho PIC acquisition 800G/1.6T/3.2T
+2026-08-18 19:13 UTC | v54-team-CRDO-risk/sec-edad | Equity Distribution Agreement 2025-10-06 GS: ATM up to 750M
+2026-08-18 19:13 UTC | v54-team-CRDO-risk/sec-10k | FY26 10-K: ATM completed 736.3M net/4.8M sh; DustPhotonics 770M cash+0.8M sh +earnout 2.8M sh+31.6M; end-customer D33%/B32%/E19%; RPO 31.9M; CEO Special PSU 6 tranches rev 2.5B->7.5B + price 244.70->489.40
+2026-08-19 03:14 UTC | v54-team-CRDO-financial/sec-edgar | CRDO Q4 FY26 EX-99.1 press release guidance non-GAAP
+2026-08-19 03:15 UTC | v54-team-CRDO-financial/sec-edgar | CRDO 10-K subsequent events DustPhotonics acquisition 770M
+2026-08-19 03:15 UTC | v54-team-CRDO-financial/financial_rigor | mcap PS/G matrix three-scenario trigger EV calcs
+2026-08-18 19:17 UTC | v54-team-CRDO-industry/curl-yahoo-search-api | CRDO/NVDA/AVGO news lists x3 (IBD live, Insider Monkey preview, AVGO Sept2 PR)
+2026-08-18 19:17 UTC | v54-team-CRDO-industry/webfetch-zacks-stockanalysis-credosemi | CRDO FY27 outlook + OmniConnect scale-in OCP + PT raises
+2026-08-18 19:17 UTC | v54-team-CRDO-industry/curl-yahoo-chart | final quotes CRDO 243.49 -13.9pct NVDA -2.4 AVGO -3.4 MRVL -8.8 COHR -12.1
+2026-08-19 03:17 UTC | v54-team-CRDO-financial/write | CRDO-team-financial.md written (13 log entries: edgar x6 + jina-reader x4 + yahoo x1 + stockanalysis x1 + financial_rigor x1; dual-sourced: revenue/CFO/cash/growth/PS matrix; gaps marked: FY27E derived, non-GAAP single-source, Q2 $520M construct, net-cash staleness corrected)
+2026-08-18 19:18 UTC | v54-team-CRDO-industry/write | CRDO-team-industry.md written (ops: curl-gnews x15 + yahoo-api x6 + webfetch x13 bodies; dual-sourced: crash attribution, Rubin roadmap, CRDO guidance; gaps marked: Broadcom OFC2026 body 403, lawsuit single-source, MS70B secondary, NVDA 8/26 indirect)
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/gnews | CRDO news RSS x4: 9/1盘后财报确认(StockTitan 8-11)+Zacks preview+周一Mizuho VR200 note大涨
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/websearch-tool | QUOTA EXHAUSTED (reset 8-22) - gap marked
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/webreader-mcp | QUOTA EXHAUSTED - gap marked
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/ddg-lite+html | BOT-CAPTCHA BLOCKED x3 - gap marked
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/curl-8k-q4 | CRDO Q4FY26 8-K 6-1: rev 437.0M +157%, GM 68.2, Q1FY27 guide 465-475M
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/curl-yahoo-zacks | Zacks preview body: guide 465-475=+108-113% YoY vs 223.1M; hedge funds 59(-10) holdings -24% to 1.9B
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/curl-marketbeat | 19 analysts 1SB/15B/3H PT avg 268.39 (200-350); TD Cowen 300 (8-18); Zacks downgrade Hold (8-3); Barclays 300 (7-20); Susquehanna 250 (7-21); Evercore init 325 (6-22)
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/curl-openinsider | CRDO insider table: Cheng CTO weekly 27.5k sh mechanical since Jan (owns 5.91M=$1.45B); Lam COO 7-15+7-31 blocks; CFO Fleming 14.6M YTD; no sales filed since 8-4
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/curl-globeandmail | CTO sale article: 10b5-1 Cheng Huang Family Trust 2025-09-05; remaining stake $1.56B at 7-8
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/curl-247wallst | Monday rally cause: Mizuho VR200 supply chain note, CoWoS +75%, networking layer demand
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/gnews-x3 | 8-18 selloff: FN -20.8% on beat+guide (MRVL-8.8 LITE-10.1 ALAB-6.6); WSJ 3T hidden AI spend + Burry; optics drop on Anthropic news+WSJ; neoclouds -5~7%
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/gnews-x2 | Customer capex: MSFT boosts capex +8% (7-29) Azure>100B RPO 678B+84%; AMZN 2026 capex 220B (7-30); GOOG/META raised again (8-17)
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/yahoo-chart-x2 | Final closes 8-18: CRDO 244.71(-13.5%) FN 473.93(-20.8%) MRVL 213.66 ANET 194.79 AVGO 379.05 NVDA 219.61 ALAB 298.95 LITE 871.21
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/cboe-options | OPTIONS SUCCESS: 9-4 weekly ATM straddle 47.00=19.3% (vs 11.8% 8-28); Sep18 IV~100-113%; OI 240C=1738
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/yahoo-options+quoteSummary | 401/404 blocked x2 - superseded by CBOE
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/curl-fn-8k | Fabrinet Q4FY26 8-K 8-17: rev 1315.8M +45% beat guide; Q1 guide 1375-1425M yet stock -20.8% (expectations overshoot)
+2026-08-18 19:21 UTC | v54-team-CRDO-risk/gaps | Gaps: WebSearch/webReader/DDG/Zacks直连/StockTitan/TIKR/Fool transcript 404(Q4电话会措辞仅用PR引语)/卖方Q1一致营收数未直接取得
+2026-08-18 19:23 UTC | v54-team-CRDO-risk/write | CRDO-team-risk.md written (report; 25 ops: sec x12 + gnews x7 + curl x6 + cboe x1 + yahoo x2 dual-source; gaps marked: quota-blocked tools, transcript, consensus number)
+ | 819b3-team-APLD-financial/gnews | Applied Digital fourth quarter fiscal 2026 results revenue
+ | 819b3-team-APLD-financial/stockanalysis | 8/18 close 28.51 -8.562026-08-19 09:10 UTC | 819b3-team-APLD-financial/stockanalysis | 8/18 close 28.51 -8.56pct; mktcap 8.31B; shares 291.47M; FY26 rev 611.31M +167.45pct; NI -250.26M; EPS -0.91; 52w 13.16-50.73; PT avg 74.23 x11; next ER 10/8/26
+2026-08-19 01:10 UTC | 819b3-team-APLD-risk/gnews | Applied Digital CEO 2026 Wes Cummins or Gumprich
+2026-08-19 09:11 UTC | 819b3-team-APLD-financial/edgar-submissions | 10-K FY26 filed 7-29 (apld-20260531.htm); 8-K earnings 7-27 acc 0001144879-26-000044
+2026-08-19 01:10 UTC | 819b3-team-APLD-industry/gnews | q1 Applied Digital news
+2026-08-19 01:10 UTC | 819b3-team-APLD-industry/gnews | q2 Applied Digital gigawatt power gas
+2026-08-19 01:10 UTC | 819b3-team-APLD-industry/gnews | q3 Applied Digital Delta Forge Louisiana
+2026-08-19 01:10 UTC | 819b3-team-APLD-industry/gnews | q4 Polaris Forge 3 hyperscaler 1GW
+2026-08-19 01:10 UTC | 819b3-team-APLD-risk/gnews | "Applied Digital CEO" 12条：Wes Cummins全部2026年报道（CNBC 5/27、IBD 4/9、Yahoo/247wallst 6/29、StockTitan 8/4 PSU vesting、DCF 1/27）——无任何"Gumprich任CEO"迹象
+2026-08-19 01:10 UTC | 819b3-team-APLD-risk/gnews | "Applied Digital Gumprich" 0条——谷歌新闻无此名与APLD关联
+2026-08-19 01:10 UTC | 819b3-team-APLD-industry/gnews | q5 Meta Compute data center vertical integration
+2026-08-19 01:10 UTC | 819b3-team-APLD-risk/sec-edgar | browse-edgar 8-K list UA-blocked 403, retry declared UA
+2026-08-19 01:10 UTC | 819b3-team-APLD-industry/gnews | q6 Google Intersect Power data center
+2026-08-19 01:11 UTC | 819b3-team-APLD-industry/gnews | q7 Prime Data Centers expansion
+2026-08-19 01:11 UTC | 819b3-team-APLD-industry/gnews | q8 Chirisa Generation AI data center
+2026-08-19 01:11 UTC | 819b3-team-APLD-industry/gnews | q9 CoreWeave Nebius leasing capacity 2026
+2026-08-19 01:11 UTC | 819b3-team-APLD-industry/gnews | q10 Digital Realty Equinix AI leasing 2026
+2026-08-19 01:11 UTC | 819b3-team-APLD-industry/yahoo-api | quotes APLD CRWV NBIS DLR EQIX VRT MUSA
+2026-08-19 01:11 UTC | 819b3-team-APLD-industry/curl-stocktitan | APLD news list
+2026-08-19 01:11 UTC | 819b3-team-APLD-risk/sec-edgar | FY26 10-K full text 3.1MB downloaded (accession 0001144879-26-000048)
+2026-08-19 01:11 UTC | 819b3-team-APLD-industry/curl-stocktitan-rss | APLD feed
+2026-08-19 01:12 UTC | 819b3-team-APLD-industry/curl-apld-ir | APLD IR newsroom
+2026-08-19 01:12 UTC | 819b3-team-APLD-industry/gnews | q11 Meta Compute warning CoreWeave Nebius details
+2026-08-19 01:13 UTC | 819b3-team-APLD-industry/bing-rss | Meta Compute article URLs
+2026-08-19 01:13 UTC | 819b3-team-APLD-industry/jina-stocktitan | APLD release URLs
+2026-08-19 01:14 UTC | 819b3-team-APLD-risk/sec-edgar-form4 | 8月4份Form4 XML逐笔：Cummins 7/31 PSU归属1.6M股+F代扣629,600+J分配714,685(272 Capital)，直接持股17,590,238股≈6.0%股本(另IRA 742,166+家族Ltd+1.5M RSU，10-K称">7%")；Mohmand A 245K/F 96K/J 13K；Laltrello A 600K/F 260K；董事Nottenburg 8/4卖出75,000股@$31.00-31.22(余直接133,378+7,747 RSU，脚注无10b5-1标识)
+2026-08-19 01:14 UTC | 819b3-team-APLD-risk/gnews | FQ1/27财报日搜索：得历史节奏(FQ2 26/1/7、FQ3 26/4/8、FQ4 26/7/27)未直接命中10/8公告
+2026-08-19 09:25 UTC | 819b3-team-APLD-financial/gnews | APLD Q4 FY26 earnings call cash interest guidance FY27 search
+2026-08-19 01:14 UTC | 819b3-team-APLD-risk/stockanalysis | APLD实页：Earnings Oct 8 2026/Beta 5.77/PT 74.23(+160%)/52W 13.16-50.73/前收31.18→8/18收28.51(-8.56%)交叉一致
+2026-08-19 01:14 UTC | 819b3-team-APLD-risk/yahoo-chart | APLD 8月日线：8/12 $31.15→8/14 $31.20→8/17 $31.18→8/18 $28.51(-8.56%,17.5M股)——8/18为板块级暴跌日(与CRDO-13.5%/FN-20.8%同日)
+2026-08-19 09:27 UTC | 819b3-team-APLD-financial/brave | Applied Digital 473.8 cash interest origin search
+2026-08-19 01:15 UTC | 819b3-team-APLD-risk/gnews | PF2/进度线索：7/1 PF1二号楼交付(GNW+DCD 7/2)、3/10 $2.15B票据交割建Harwood、7/13 KFYR:PF3 Oliver County选址——再查10-K正文PF2施工状态
+2026-08-19 01:15 UTC | 819b3-team-APLD-risk/sec-10k | PF2一手状态(10-K 7/29)：2025-8-18动工Harwood 200MW，"anticipate initial capacity 2H CY2026, full capacity early CY2027"，两栋楼2026年内分阶段上线；5/31/26时点1.5GW签约/在建中仅~100MW运营生息
+2026-08-19 01:15 UTC | 819b3-team-APLD-risk/gnews | 租户capex-CoreWeave：Q2/26(8/11)收入翻倍/backlog $129B(六周+$29.6B)/股价+19.5%，"AI基建需求加速"；CNBC/247wallst/TechTimes多源
+2026-08-19 01:15 UTC | 819b3-team-APLD-risk/gnews | 租户capex-Oracle：6/10 Q4FY26纪录+Reuters"AI支出超预期债务担忧"；6/8 capex或达$100B(Stargate)；**7/13 S&P因$70B数据中心支出降级Oracle、股价跌至$140**——PF2锚租户信用观察项；TIKR:$553B签约backlog
+2026-08-19 01:16 UTC | 819b3-team-APLD-industry/gnews | q12 Babcock Wilcox Applied Digital 1GW gas LNTP
+2026-08-19 01:16 UTC | 819b3-team-APLD-risk/webfetch-fred | ICE BofA HY OAS：8/17收2.70%（近五日2.67-2.72窄幅），无趋势性走阔——融资市场对APLD类高杠杆发行人仍处历史友好区
+2026-08-19 01:17 UTC | 819b3-team-APLD-risk/cboe | APLD期权全链(CBOE延迟)：现价28.49；8/21周±7.4%、9/18月±19.0%、10/16月(含10/8财报)ATM跨式$8.32=±29.2%，方差分解法财报事件溢价约±7-12%(无10/9周度合约，标注方法缺口)；IV 77-103%；OI大头在1/2027 LEAPS 25-50C与1/2028 8C(65,674张)
+2026-08-19 01:17 UTC | 819b3-team-APLD-risk/gnews | 卖方/新闻面：7/30 TechTimes"FQ4超预期$164M但股价因债务负担下跌"+Barchart"稳健季报后怎么看"；11家Strong Buy/PT$74.23(stockanalysis)；TIKR 4/29"超预期61%市场未充分注意"
+2026-08-19 01:17 UTC | 819b3-team-APLD-industry/gnews | q13 Delta Forge 2 fifth campus location
+2026-08-19 09:31 UTC | 819b3-team-APLD-financial/ir-applieddigital | PF2 lease PR (IR detail/132): 2025-10-22 $5B 15y lease 200MW with US investment-grade hyperscaler at Polaris Forge 2 (dual-source vs 10-K lease table)
+2026-08-19 09:31 UTC | 819b3-team-APLD-financial/globenewswire | PF3 PR fetch TIMEOUT(000) - single-source gap marked; PF3 $7.5B/300MW covered by 10-K table + FQ4 PR (dual-source ok)
+2026-08-19 01:17 UTC | 819b3-team-APLD-industry/gnews | q14 Crusoe Fermi powered land AI campus competitors
+2026-08-19 01:18 UTC | 819b3-team-APLD-industry/gnews | q15 grid interconnection queue years data center power scarcity
+2026-08-19 01:18 UTC | 819b3-team-APLD-industry/gnews | q16 Fermi Project Matador largest data center trouble
+2026-08-19 09:40 UTC | 819b3-team-APLD-financial/gnews | APLD 8/18 selloff context: HPC/AI-infra sector pullback (sector beta, not company-specific news found)
+2026-08-19 09:41 UTC | 819b3-team-APLD-financial/financial_rigor | tools: verify-market-cap(8.31B 0.00pct) + cross-validate x2(price 28.51 dual-src 0pct; FY26 rev 611.3 0pct) + calc x12(473.8/232.69/46.14M/35.66pct dilution/PIK-5.80B-2035/EV 12.74B=0.35x of 36.2B/coverage 1.40x-1.74x/MOIC 3.285B) + three-scenario x3(bull 44.3 +55.2pct / base 13.3 -53.2pct / bear impaired)
+2026-08-19 01:19 UTC | 819b3-team-APLD-industry/gnews | q17 Vertiv AI backlog power cooling
+2026-08-19 01:19 UTC | 819b3-team-APLD-risk/yahoo-beta-selfcalc | Beta双源：stockanalysis 5.77(方法未注明) vs 自算6个月日频(Yahoo数据)β=4.18 vs SPY/2.63 vs QQQ、corr 0.60、年化波动100%(≈6.3%/日σ)——"5.77"处于合理区间上沿，波动量级结论不变
+2026-08-19 01:19 UTC | 819b3-team-APLD-risk/gnews | 8月新闻面：8/18无公司负面（GuruFocus仅记-8.6%+GF Score 44）；同日SeekingAlpha上调评级；8/17 simplywall.st"4.2x涨幅后估值充分"——8/18暴跌定性=板块贝塔(Fabrinet日)
+2026-08-19 09:55 UTC | 819b3-team-APLD-financial/write | APLD-team-financial.md written (13 searches: edgar x5 + gnews x3 + stockanalysis + brave + ir + globenewswire-timeout + yahoo; financial_rigor x22 ops embedded; dual-sourced: price/shares/revenue/36.2B/PF2-lease/convert-terms; gaps marked: transcript 403, restricted-cash split, CHRN value, PF3-PR timeout, PF2 tenant unnamed, warrant strikes)
+2026-08-19 01:21 UTC | 819b3-team-APLD-industry/write | APLD-team-industry.md written (ops: gnews-rss x17 + yahoo-chart x6 + stocktitan x2 + jina x5 + bing/webfetch attempts; dual-sourced: 1.4GW/$36B/2.15GW portfolio, PF3 $7.5B 300MW, DF2 $5.2B 210MW x Reuters, B&W >=1GW LNTP + Cleco 756MW, Meta Compute chain 5/27+7/1, Intersect $4.75B + Meitner 1GW+, TX 474GW pause; gaps marked: 1.2GW single-source, "修正案数字" unlocatable, DF2 site, tenant identity, paywalled WSJ/Bloomberg bodies)
+2026-08-19 01:24 UTC | 819b3-team-APLD-risk/sec-8k-fq4 | FQ4 PR原文核对：FQ4收入$258.7M(+407%)/Adj EBITDA $42.4M；CRWV信用增强(springing担保+$50M LC)；$2.15B 6.75%票据专款PF2+MEC贷款购变压器；DF2 $5.2B第三连签
+2026-08-19 01:24 UTC | 819b3-team-APLD-risk/write | APLD-team-risk.md written (report; 18 ops: sec x8 + gnews x8 + stockanalysis x1 + yahoo x3 + cboe x1 + fred/webfetch x1; risk 7.5/10; odds 1.60:1@$28.51 vs 4.09:1@$26; gaps marked)

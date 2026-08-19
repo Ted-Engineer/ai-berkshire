@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<!--
+Development:
+JULIO FOULQUIE, @j3j5@hachyderm.io, ✈Montevideo, UY
+MARC TORAL, ✈Amsterdam, NL
+JULIAN SZNAIDER, ✈Buenos Aires, AR
+——————————
+Concept and Design by:
+ALEXANDER GRIFFIOEN, @oscaralexander, ✈Amsterdam, NL
+SÄINA SEEDORF, ✈Amsterdam, NL
+——————————
+Alumni:
+JACK DUNN, ✈Amsterdam, NL
+JULIAN AIJAL, @Jaijal, ✈Amsterdam, NL
+SAM BLOK, ✈Amsterdam, NL
+LAURA GENNO, ✈Amsterdam, NL
+IRENE DE NICOLO, ✈Amsterdam, NL
+DANIEL TARA, ✈Amsterdam, NL
+EVGENY ASTAPOV, ✈Rotterdam, NL
+RONAN O'LEARY, @ro_oleary, ✈Amsterdam, NL
+PABLO ROMÁN, ✈Amsterdam, NL
+JAMES SCOTT, ✈Amsterdam, NL
+JELLE VAN WIJHE, ✈Amsterdam, NL
+MATTHEW ELWORTHY, ✈Amsterdam, NL
+OSCAR VAN ZIJVERDEN, ✈Amsterdam, NL
+STEPHAN LAGERWAARD, ✈Amsterdam, NL
+-->
+
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta content="telephone=no" name="format-detection">
+    <meta content="unsafe-url" name="referrer">
+    <meta content="The Next Web" name="apple-mobile-web-app-title">
+
+    <link rel="preload" href="https://static.thenextweb.com/assets/next/css/base.css" as="style">
+
+        <link rel="preload" as="script" href="https://static.thenextweb.com/assets/next/js/base.js">
+    <link rel="preload" href="https://static.thenextweb.com/assets/next/css/media.css" as="style">
+        <link rel="preload" href="https://static.thenextweb.com/assets/next/fonts/graphik-wide-black.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+    
+    
+    
+    <title>TNW | The heart of tech™</title>
+
+    
+    <link rel="apple-touch-icon" sizes="57x57"   href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60"   href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72"   href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76"   href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.thenextweb.com/assets/img/favicon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="https://static.thenextweb.com/assets/img/favicon/favicon-32x32.png"   sizes="32x32">
+    <link rel="icon" type="image/png" href="https://static.thenextweb.com/assets/img/favicon/favicon-48x48.png"   sizes="48x48">
+    <link rel="icon" type="image/png" href="https://static.thenextweb.com/assets/img/favicon/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="https://static.thenextweb.com/assets/img/favicon/favicon-96x96.png"   sizes="96x96">
+    <link rel="icon" type="image/png" href="https://static.thenextweb.com/assets/img/favicon/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="https://static.thenextweb.com/assets/img/favicon/favicon-16x16.png"   sizes="16x16">
+    <link rel="shortcut icon" href="https://static.thenextweb.com/assets/img/favicon/favicon-16x16.png">
+    <link rel="icon" href="/favicon.ico">
+
+        
+        <meta name="sentry-trace" content="29544d8c08844dacbe548c2b348035d9-c8e94dae8f274893-0">
+    <meta name="baggage" content="sentry-trace_id=29544d8c08844dacbe548c2b348035d9,sentry-sample_rate=0.05,sentry-transaction=%2F%28%3FP%3Ccategory%3E%5Ba-z0-9-%5D%2B%29,sentry-public_key=81bb88a95644174b604c886066aaf74f,sentry-org_id=4511545378996224,sentry-release=0.8.2,sentry-environment=production,sentry-sampled=false,sentry-sample_rand=0.107215">
+    <script>
+      window.sentryOnLoad = function () {
+                const integrations = [];
+        
+        if (typeof Sentry.browserTracingIntegration === 'function') {
+          integrations.push(Sentry.browserTracingIntegration());
+        }
+        
+                if (typeof Sentry.feedbackIntegration === 'function') {
+          integrations.push(Sentry.feedbackIntegration({
+            autoInject: false,
+          }));
+        }
+
+        Sentry.init({
+            debug: false,             integrations: integrations,
+            tracesSampleRate: 0.05,
+                        tracePropagationTargets: ["https://thenextweb.com", /^\//],
+        });
+      };
+    </script>
+
+        <script src="https://js-de.sentry-cdn.com/d52df69e456a8115c7e7cc72cb816a63.min.js" crossorigin="anonymous"></script>
+
+        
+    <script src="https://static.thenextweb.com/assets/js/lib/modernizr-custom.js" async></script>
+    <link rel="manifest" href="https://static.thenextweb.com/assets/manifest.json">
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.3.1/lite-youtube.js"></script>
+
+    <style>body{visibility:hidden;}</style>
+
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NNKTCH4W');</script>
+
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+    </script>
+
+    <script>
+        !function(t,e){var o,n,p,r;e.__SV||(window.posthog && window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init ts ns yi rs os Qr es capture Hi calculateEventProperties hs register register_once register_for_session unregister unregister_for_session fs getFeatureFlag getFeatureFlagPayload isFeatureEnabled reloadFeatureFlags updateFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSurveysLoaded onSessionId getSurveys getActiveMatchingSurveys renderSurvey displaySurvey cancelPendingSurvey canRenderSurvey canRenderSurveyAsync identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException startExceptionAutocapture stopExceptionAutocapture loadToolbar get_property getSessionProperty vs us createPersonProfile cs Yr ps opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing get_explicit_consent_status is_capturing clear_opt_in_out_capturing ls debug O ds getPageViewId captureTraceFeedback captureTraceMetric Vr".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+        posthog.init('phc_U6GxCW1e025EJZwgZdk8dI6LjxInuuygM3K2AswPHYW', {
+            api_host: 'https://eu.i.posthog.com',
+            defaults: '2025-11-30',
+            person_profiles: 'identified_only'
+        })
+    </script>
+
+        <link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
+
+        <link href="https://static.thenextweb.com/assets/next/css/base.css" rel="stylesheet" type="text/css">
+    <link href="https://static.thenextweb.com/assets/next/css/media.css" rel="stylesheet" type="text/css">
+    
+    
+    <noscript>
+           <link href="https://static.thenextweb.com/assets/next/css/media.css" rel="stylesheet" type="text/css">
+        </noscript>
+
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <link rel="dns-prefetch" href="//static.thenextweb.com/">
+    <link rel="dns-prefetch" href="//media.thenextweb.com/">
+    <link rel="preconnect" href="//static.thenextweb.com/">
+    <link rel="preconnect" href="//media.thenextweb.com/">
+    <link rel="stylesheet preload" as="style" href="//use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" async>
+
+    <link rel="canonical" href="https://thenextweb.com/search" />
+
+    
+    
+    
+    <script>
+        var APP_ENV = {
+            'site_url': 'https://thenextweb.com',
+            'cookie_domain': '.thenextweb.com'
+        };
+    </script>
+</head>
+
+
+<body class="site-tnwNext four-oh-four" id="next-top">
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNKTCH4W"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <div id="fb-root"></div>
+
+    
+    <nav class="c-nav has-level2" id="nav" role="navigation" style="top: 0;">
+    <div class="c-nav__level1">
+        <button class="c-nav__menuToggle c-nav__menuToggle--level-1 js-menuToggleLevel" data-nav-level="1" id="nav-menuLevel1" type="button" aria-haspopup="true" aria-controls="overlay__hook" aria-expanded="false">
+            <span class="visually-hidden">Toggle Navigation</span>
+        </button>
+
+        <div class="navLabel_dt">
+            <a class="c-nav__logo" href="/" data-event-category="Article" data-event-action="Navigation bar" data-event-label="TNW Logo" name="TNW Logo" data-event-non-interaction="false">
+                <svg preserveAspectRatio="xMidYMid meet" viewBox="0 0 66 16">
+                    <path d="M32.23993 5A6.00284 6.00284 0 0 1 34 9.24261V16h-6v-5.929a2.00249 2.00249 0 0 0-.58856-1.41424l-2.07239-2.07101A2.00315 2.00315 0 0 0 23.92346 6H22v10h-6V0h8.75189a6 6 0 0 1 4.24268 1.75739zM60 0v5.929a2.00245 2.00245 0 0 1-.58856 1.41418l-2.07385 2.071A1.99969 1.99969 0 0 1 55.9234 10h-2.88214A5.99166 5.99166 0 0 0 54 6.75732V0h-6v5.929a2.00245 2.00245 0 0 1-.58856 1.41418l-2.07385 2.071A1.99969 1.99969 0 0 1 43.9234 10H42V0h-6v16h8.75189a6.003 6.003 0 0 0 4.244-1.75739L51 12.23938V16h5.75189a6.003 6.003 0 0 0 4.244-1.75739l3.244-3.24267A6.00264 6.00264 0 0 0 66 6.75732V0zM0 6h4v10h6V6h4V0H0z"></path>
+                </svg>
+            </a>
+        </div>
+
+        <div class="c-nav__menuContainer c-nav__menuContainer--1" id="overlay__hook">
+            <ul class="c-nav__menu">
+                            </ul>
+
+            
+            <footer class="c-nav__footer">
+                <ul class="c-nav__social">
+                    <li class="c-nav__socialItem"><a class="c-nav__socialLink" href="https://facebook.com/thenextweb" target="_blank" rel="noopener noreferrer" name="Facebook Social Link"><img src="https://static.thenextweb.com/assets/icons/facebook.svg" /></a></li>
+                    <li class="c-nav__socialItem"><a class="c-nav__socialLink" href="https://www.instagram.com/thenextweb" target="_blank" rel="noopener noreferrer" name="Instagram Social Link"><img src="https://static.thenextweb.com/assets/icons/instagram.svg" /></a></li>
+                    <li class="c-nav__socialItem"><a class="c-nav__socialLink" href="https://x.com/thenextweb" target="_blank" rel="noopener noreferrer" name="Twitter Social Link"><img src="https://static.thenextweb.com/assets/icons/twitter.svg"></use></img></li>
+                    <li class="c-nav__socialItem"><a class="c-nav__socialLink" href="https://youtube.com/user/thenextweb" target="_blank" rel="noopener noreferrer" name="Youtube Social Link"><img src="https://static.thenextweb.com/assets/icons/youtube.svg" /></a></li>
+                    <li class="c-nav__socialItem"><a class="c-nav__socialLink" href="https://flipboard.com/@thenextweb" target="_blank" rel="noopener noreferrer" name="Flipboard Social Link"><img src="https://static.thenextweb.com/assets/icons/flipboard.svg" /></a></li>
+                    <li class="c-nav__socialItem"><a class="c-nav__socialLink" href="/newsletters" name="Email Social Link"><img src="https://static.thenextweb.com/assets/icons/mail.svg" /></a></li>
+                </ul>
+                <ul class="c-nav__company">
+                    <li class="c-nav__companyItem"><a class="c-nav__companyLink" href="https://thenextweb.homerun.co/" target="_blank" rel="noopener noreferrer">Jobs</a></li>
+                    <li class="c-nav__companyItem"><a class="c-nav__companyLink" href="/cdn-cgi/l/email-protection#177478797172657279747257637f7279726f636072753974787a">Contact</a></li>
+                </ul>
+            </footer>
+        </div>
+    </div>
+
+    <div class="c-nav__level2 tnw news">
+        <div class="c-nav__pwd">
+            <h1 class="mb-none">            <a class="c-nav__pwdLogo" href="/">
+                <img src="https://static.thenextweb.com/assets/icons/tnw.svg" width="66" height="16" />
+                <!-- <img src="https://static.thenextweb.com/assets/icons/tnw.svg" /> -->
+            </a>
+            </h1>
+            <span class="c-nav__pwdSection">News</span>
+
+            <a class="c-nav__pwdSite" href="/" title="">
+                <span class="sm:hidden" id="channelName_abbr">Search</span>
+                <span class="max-sm:hidden xl:hidden">Search</span>
+                <span class="max-xl:hidden" id="channelName_mob">Search</span>
+            </a>
+        </div>
+
+ 
+        <div class="c-nav__menuContainer c-nav__menuContainer--2 hidden">
+            <ul class="c-nav__menu">
+                            </ul>
+            <button class="c-nav__menuScroller" type="button" aria-hidden="true"></button>
+        </div>
+
+
+        
+       
+    </div>
+</nav>
+
+    
+    <div class="o-page" id="main">
+        <div class="o-page__main">
+            <section class="c-pageBlock o-wrapper flex max-lg:flex-col md:flex-row-reverse">
+    <div class="o-wrapper">
+        <h1 class="c-pageBodyText__heading">
+            Greetings flesh bag, you have unearthed a 404 error.
+        </h1>
+        <p class="text-xl mb-xl text font-graphik">
+            That page? The one you were looking for? Not here.
+        </p>
+        <p class="text-m max-lg:mb-4xl">
+            There's a silver lining though: you can <a href="https://thenextweb.com/newsletters" rel="noopener" class="text-brand-pink">sign up for our newsletter</a>. Yes, it's written by humans, but don't hold that against it.
+        </p>
+    </div>
+
+    <div class="o-wrapper self-center">
+        <img src="https://static.thenextweb.com/assets/img/hello.webp" class="gif-404">
+    </div>
+</section>
+        </div>
+    </div>
+
+    <footer class="c-footer">
+        <div class="o-wrapper">
+            <div class="o-grid o-grid--gap-l">
+                <div class="o-grid__col lg:o-grid__col--1/2">
+                    <div class="c-footer__logoContact">
+                        <div>
+                            <a class="c-footer__logo" data-event-category="Footer" data-event-action="TNW Logo" data-event-label="Navigation" data-event-non-interaction="false" href="/" title="TNW" tabindex="-1">
+				<img src="https://static.thenextweb.com/assets/icons/tnw-white.svg" width="160" height="39" /> 
+                            </a>
+                            <p class="c-footer__tagline">The heart of tech</p>
+                        </div>
+                        <div>
+                            <ul class="c-footer__contact">
+                                <li class="c-footer__contactItem"><a class="c-footer__contactLink" data-event-category="Footer" data-event-action="Socials" data-event-label="Facebook" href="https://facebook.com/thenextweb" target="_blank" rel="noopener noreferrer" name="Facebook Contact Icon"><img src="https://static.thenextweb.com/assets/icons/facebook-white.svg" width="24" height="24" /></a></li>
+                                <li class="c-footer__contactItem"><a class="c-footer__contactLink" data-event-category="Footer" data-event-action="Socials" data-event-label="Instagram" href="https://www.instagram.com/thenextweb/" target="_blank" rel="noopener noreferrer" name="Instagram Contact Icon"><img src="https://static.thenextweb.com/assets/icons/instagram-white.svg" width="24" height="24" /></a></li>
+                                <li class="c-footer__contactItem"><a class="c-footer__contactLink" data-event-category="Footer" data-event-action="Socials" data-event-label="X" href="https://x.com/thenextweb" target="_blank" rel="noopener noreferrer" name="X Contact Icon"><img src="https://static.thenextweb.com/assets/icons/twitter-white.svg" width="24" height="24" /></a></li>
+                                <li class="c-footer__contactItem"><a class="c-footer__contactLink" data-event-category="Footer" data-event-action="Socials" data-event-label="Youtube" href="https://youtube.com/user/thenextweb" target="_blank" rel="noopener noreferrer" name="Youtube Contact Icon"><img src="https://static.thenextweb.com/assets/icons/youtube-white.svg" width="24" height="24" /></li>
+                                <li class="c-footer__contactItem"><a class="c-footer__contactLink" data-event-category="Footer" data-event-action="Socials" data-event-label="Flipboard" href="https://flipboard.com/@thenextweb" target="_blank" rel="noopener noreferrer" name="Flipboard Contact Icon"><img src="https://static.thenextweb.com/assets/icons/flipboard-white.svg" width="24" height="24" /></a></li>
+                                <li class="c-footer__contactItem"><a class="c-footer__contactLink" data-event-category="Footer" data-event-action="Socials" data-event-label="Mail" href="/newsletters" name="Email Footer Link"><img src="https://static.thenextweb.com/assets/icons/mail-white.svg" width="24" height="24" /></a></li>
+                                <li class="c-footer__contactItem"><a class="c-footer__contactLink" data-event-category="Footer" data-event-action="Socials" data-event-label="Linkedin" href="https://www.linkedin.com/company/the-next-web" target="_blank" rel="noopener noreferrer" name="LinkedIn Contact Icon"><img src="https://static.thenextweb.com/assets/icons/linkedin-white.svg" width="24" height="24" /></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <br>
+
+                <div class="o-grid__col--1/2 lg:o-grid__col--1/4 more">
+                    <h2 class="c-footer__heading">More TNW</h2>
+                    <ul class="c-footer__menu">
+                        <li><a class="c-footer__menuLink" href="/latest" data-event-category="Footer" data-event-action="More TNW" data-event-label="Media" data-event-non-interaction="false">Media</a></li>
+                        <li><a class="c-footer__menuLink" href="/events" data-event-category="Footer" data-event-action="More TNW" data-event-label="Events" data-event-non-interaction="false">Events</a></li>
+                        <li><a class="c-footer__menuLink" href="/newsletters" data-event-category="Footer" data-event-action="More TNW" data-event-label="Newsletters" data-event-non-interaction="false">Newsletters</a></li>
+                    </ul>
+                </div>
+
+                <div class="o-grid__col--1/2 lg:o-grid__col--1/4 about">
+                    <h2 class="c-footer__heading">About TNW</h2>
+                    <ul class="c-footer__menu">
+                        <li><a class="c-footer__menuLink" data-event-category="Footer" data-event-action="About TNW" data-event-label="Advertise with us" data-event-non-interaction="false" href="/partnerships" name="Advertise with us">Advertise with us</a></li>
+                        <li><a class="c-footer__menuLink" data-event-category="Footer" data-event-action="About TNW" data-event-label="Terms &amp; Conditions" data-event-non-interaction="false" href="/terms-and-conditions" name="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                        <li><a class="c-footer__menuLink" data-event-category="Footer" data-event-action="About TNW" data-event-label="Cookie Statement" data-event-non-interaction="false" href="/cookie-statement" name="Cookie Statement">Cookie Statement</a></li>
+                        <li><a class="c-footer__menuLink" data-event-category="Footer" data-event-action="About TNW" data-event-label="Privacy Statement" data-event-non-interaction="false" href="/privacy-statement" name="Privacy Statement">Privacy Statement</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="c-footer__legal max-md:px-l">
+            <p>A Tekpon Company</p>
+            <p>Copyright &copy; 2006&mdash;2026, Cogneve, INC. Made with &lt;3 in Amsterdam.</p> 
+        </div>
+    </footer>
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://static.thenextweb.com/assets/next/js/base.js" async defer></script>
+
+    <script>
+        var ENV = {
+            "paths": {
+                "assets": "/assets"
+            }
+        };
+    </script>
+
+            
+    <script>
+        (function() {
+            function initCalendlyButtons() {
+                const calendlyButtons = document.querySelectorAll('.book-call[data-platform="calendly"][data-calendly]');
+                if (!calendlyButtons.length) return;
+                calendlyButtons.forEach(button => {
+                    button.addEventListener('click', openCalendly);
+                });
+            }
+
+            function openCalendly(e) {
+                const button = e.currentTarget;
+                const url = button.dataset.calendly;
+                if (url && typeof Calendly !== 'undefined') {
+                    Calendly.initPopupWidget({url: url});
+                } else {
+                    console.error('Calendly URL missing or Calendly not loaded');
+                }
+            }
+
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', initCalendlyButtons);
+            } else {
+                initCalendlyButtons();
+            }
+        })();
+    </script>
+</body>
+</html>

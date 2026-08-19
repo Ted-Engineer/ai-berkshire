@@ -1,0 +1,217 @@
+2026-08-18(US) | v54-META-industry/curl-ddg | Meta Q2 2026 earnings advertising revenue growth
+2026-08-18(US) | v54-META-industry/curl-meta-ir | Meta Q2 2026 results press release
+2026-08-19 00:23 | v54-META-financial/curl-stockanalysis | META annual financials income statement FY2021-2025
+2026-08-19 00:23 | v54-META-financial/curl-stockanalysis | META cash flow statement FCF capex D&A FY2021-2025
+2026-08-18(US) | v54-META-industry/curl-ddg | Alphabet Q2 2026 results Google advertising revenue YouTube
+2026-08-19 00:24 | v54-META-risk/gnews | Meta trial opening statements Oakland jury August 18
+2026-08-19 00:24 | v54-META-risk/gnews | Meta 29 states lawsuit Gonzalez Rogers judge trial
+2026-08-18(US) | v54-META-industry/curl-yahoo | Alphabet Q2 2026 revenue up 24 percent Cloud 82 percent
+2026-08-19 00:24 | v54-META-risk/websearch-brave | Meta trial day 1 opening statements state lawyers Meta response
+2026-08-19 00:24 | v54-META-risk/gnews | Zuckerberg insider selling Meta shares 2026
+2026-08-18(US) | v54-META-industry/curl-sec-edgar | Alphabet 8-K Q2 2026 earnings exhibit
+2026-08-19 00:24 | v54-META-financial/curl-stockanalysis | META quarterly financials Q2-2026 Q1-2026 revenue EPS net income
+2026-08-19 00:24 | v54-META-financial/curl-ddg | Meta Q2 2026 earnings results press release capex guidance
+2026-08-19 00:24 | v54-META-risk/curl-yh-options | META options IV query1 attempt
+2026-08-19 00:24 | v54-META-risk/gnews | Meta Q2 2026 capex free cash flow guidance superintelligence
+2026-08-18(US) | v54-META-industry/curl-abcxyz-pdf | Alphabet 2026 Q2 earnings release PDF
+2026-08-19 00:25 | v54-META-financial/curl-sec-edgar | META 10-Q Q2 2026 filing index CIK 1326801
+2026-08-18(US) | v54-META-industry/curl-sec-edgar | Alphabet 10-Q Q2 2026 full text search
+2026-08-19 00:25 | v54-META-financial/curl-sec-10q | META 10-Q 2026-06-30 primary document financial statements
+2026-08-18(US) | v54-META-industry/curl-ddg | Amazon Q2 2026 advertising services revenue growth
+2026-08-19 00:25 | v54-META-risk/curl-sec | META 8-K Q2 2026 EDGAR filing index
+2026-08-18(US) | v54-META-industry/curl-sec-edgar | Amazon 8-K Q2 2026 exhibit 99.1
+2026-08-19 00:26 | v54-META-risk/gnews | site:apnews.com Meta trial opening
+2026-08-19 00:26 | v54-META-risk/gnews | site:theguardian.com Meta trial
+2026-08-18(US) | v54-META-industry/curl-ddg | TikTok ad revenue 2026 forecast US market share latest
+2026-08-19 00:27 | v54-META-risk/curl-sec | META Q2 2026 press release exhibit 99.1 financials
+2026-08-18(US) | v54-META-industry/curl-warc | TikTok US ad revenue forecast 14.5bn 2026 38 percent of global
+2026-08-18(US) | v54-META-industry/curl-ddg | worldwide digital ad spend 2026 market share Meta Google Amazon forecast
+2026-08-19 00:27 | v54-META-financial/curl-atmeta-ir | Meta Reports Second Quarter 2026 Results press release Q3 outlook
+2026-08-18(US) | v54-META-industry/curl-techstartups | Meta overtake Google ad revenue 2026 243 billion eMarketer
+2026-08-19 00:28 | v54-META-financial/curl-stockanalysis | META statistics PE forward PE market cap EPS forecast
+2026-08-19 00:28 | v54-META-risk/curl-ddg | Meta trial opening statements day 1 details direct URLs
+2026-08-18(US) | v54-META-industry/curl-ddg | Advantage+ AI ad spend share Meta 2026 adoption percentage
+2026-08-19 00:28 | v54-META-financial/curl-bing | Meta 2026 depreciation guidance Susan Li earnings call AI capex 2027
+2026-08-18(US) | v54-META-industry/curl-ddg | Meta Advantage+ AI ad tools adoption 2026 share of ad spend
+2026-08-19 00:28 | v54-META-financial/curl-fool | Meta Q2 2026 earnings call transcript depreciation guidance
+2026-08-18(US) | v54-META-industry/curl-paceads | Meta ads statistics 2026 Advantage+ share
+2026-08-19 00:29 | v54-META-risk/curl-oag | CA AG Bonta press release Meta trial case framing
+2026-08-18(US) | v54-META-industry/curl-ddg | Google AI Mode advertising monetization 2026 AI Overviews ads query growth
+2026-08-19 00:29 | v54-META-financial/curl-bing-rss | Meta 2026 depreciation and amortization guidance billion Susan Li
+2026-08-18(US) | v54-META-industry/curl-cicero | Google AI Mode ads monetization 2026
+2026-08-18(US) | v54-META-industry/curl-ddg | smart glasses shipments 2026 H1 Ray-Ban Meta market share IDC Counterpoint
+2026-08-19 00:30 | v54-META-financial/curl-sec-10q | META Q1 2026 10-Q income tax benefit explanation
+%Y-%m-%d %H:%M | v54-META-financial/curl-stockanalysis | GOOGL statistics PE forward PE market cap
+%Y-%m-%d %H:%M | v54-META-financial/curl-stockanalysis | MSFT statistics PE forward PE market cap
+2026-08-18(US) | v54-META-industry/curl-idc | smart glasses surge XR market 2026 shipments
+%Y-%m-%d %H:%M | v54-META-financial/curl-stockanalysis | AAPL statistics PE forward PE market cap
+%Y-%m-%d %H:%M | v54-META-financial/curl-stockanalysis | AMZN statistics PE forward PE market cap
+2026-08-18(US) | v54-META-industry/curl-dymesty | smart glasses 2026 13.6M shipments forecast
+2026-08-19 00:30 | v54-META-risk/curl-ddg | Judge Yvonne Gonzalez Rogers Meta MDL Epic Apple record
+2026-08-19 00:30 | v54-META-risk/curl-yh-options2 | query2 options IV retry attempt
+2026-08-19 00:30 | v54-META-financial/curl-macrotrends | META revenue net income free cash flow PE ratio history
+2026-08-18(US) | v54-META-industry/curl-ddg | Meta Connect 2026 September expectations Ray-Ban Display Oakley announcements
+2026-08-19 00:30 | v54-META-risk/curl-courthousenews | judge denies Meta summary judgment states claims
+2026-08-18(US) | v54-META-industry/curl-uploadvr | What might Meta Connect 2026 bring
+2026-08-18(US) | v54-META-industry/curl-vr-org | Meta Connect 2026 date September glasses tease
+2026-08-19 00:31 | v54-META-risk/curl-sec-form4 | Zuckerberg Form 4 Aug 2026 insider transactions
+2026-08-18(US) | v54-META-industry/curl-ddg | Meta FTC antitrust trial 2026 ruling Instagram WhatsApp status
+2026-08-19 00:31 | v54-META-risk/gnews | Meta New Mexico 567 million August ruling appeal
+2026-08-19 00:31 | v54-META-financial/curl-fool | Meta Platforms Q2 2026 earnings call transcript URL variants
+2026-08-18(US) | v54-META-industry/curl-ddg | Meta youth addiction trials 2026 state attorneys general school districts schedule
+2026-08-18(US) | v54-META-industry/curl-ddg | Meta EU DMA pay or consent decision 2026 fine less personalized
+2026-08-19 00:32 | v54-META-financial/curl-bing-rss | Meta Q3 2026 earnings date October 2026 depreciation outlook
+2026-08-18(US) | v54-META-industry/curl-cnbc | Meta attorneys general California federal trial astronomical consequences
+2026-08-19 00:32 | v54-META-risk/curl-openinsider | META insider sales summary 2026
+2026-08-18(US) | v54-META-industry/curl-ddg | Meta DMA European Commission pay or consent 2026 decision fine
+2026-08-19 00:32 | v54-META-risk/gnews | Meta bond sale debt AI data center 2026
+2026-08-19 00:32 | v54-META-risk/gnews | TikTok ChatGPT competition Meta AI threat 2026
+2026-08-18(US) | v54-META-industry/curl-ddg | EU digital markets act Meta less personalized ads ruling 2026
+2026-08-18(US) | v54-META-industry/curl-bing | Meta DMA pay or consent Commission decision fine 2026
+2026-08-19 00:33 | v54-META-risk/gnews | FTC Meta antitrust monopoly case ruling status 2026
+2026-08-19 00:33 | v54-META-risk/gnews | Meta EU DMA fine pay or consent 2026
+2026-08-18(US) | v54-META-industry/curl-ddg-lite | Meta DMA less personalized ads European Commission 2026
+2026-08-19 00:34 | v54-META-risk/curl-ddg | CNBC astronomical consequences Meta legal fight article
+2026-08-18(US) | v54-META-industry/curl-mojeek | Meta DMA pay or consent European Commission 2026 decision
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | Meta DMA European Commission decision 2026
+2026-08-18(US) | v54-META-industry/curl-ppcland | Meta 2026 DMA report WhatsApp ads 200m fine
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | WhatsApp ads tabs Europe launch 2026
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | TikTok US joint venture Oracle status 2026
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | ChatGPT ads OpenAI advertising 2026
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | Apple smart glasses 2026 2027 rumor Meta rivalry
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | Ray-Ban Meta glasses sales million units 2026
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | Threads ads rollout 2026
+2026-08-18(US) | v54-META-industry/curl-yahoo-chart | META stock price latest
+2026-08-18(US) | v54-META-industry/curl-bing-rss | Meta smart glasses daily usage tripled
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | Supreme Court Section 230 ruling Meta YouTube 2026
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | daily time spent social media 2026 attention
+2026-08-18(US) | v54-META-industry/curl-cnbc | jury Los Angeles Meta YouTube negligent addiction trial
+2026-08-18(US) | v54-META-industry/curl-pbs | Meta YouTube liable youth addiction jury verdict
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | Meta glasses Gemini Google partnership 2026
+2026-08-18(US) | v54-META-industry/curl-gnews-rss | EssilorLuxottica Ray-Ban Meta units sold 2026 results
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Broadcom AI revenue backlog Q3 earnings September 2026
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Google TPU v8 v9 Broadcom MediaTek Marvell supplier
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | OpenAI Broadcom Jalapeno custom ASIC Anthropic Meta MTIA
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Anthropic ARR Lumentum Fabrinet optical stocks selloff
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Google TPU v9 v10 Broadcom split dual source
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | AI capex 3 trillion off balance sheet debt 30 year Treasury 5.33
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Meta MTIA custom silicon Broadcom 2026
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | ASIC vs GPU share AI accelerator market 2027 2028 forecast
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | site:datacenterdynamics.com TPU v10 AMD
+2026-08-18(US) | v54-AVGO-industry/curl-dcd | Google rumored AMD TPU v10 partnership shipments revised down
+2026-08-18(US) | v54-AVGO-industry/curl-bing-rss | Anthropic ARR Lumentum Fabrinet optics drop WSJ
+2026-08-18(US) | v54-AVGO-industry/curl-stockanalysis | AVGO LITE FN price history Monday Tuesday
+2026-08-18(US) | v54-AVGO-industry/curl-247wallst | optics stocks drop Anthropic WSJ report Lumentum 10 Corning 8 AXT 12
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Broadcom Q3 fiscal 2026 earnings date September AI semiconductor revenue
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Broadcom Q2 2026 AI semiconductor revenue billion backlog Hock Tan
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | OpenAI Jalapeno Broadcom 1 million GPUs 2027 inference
+2026-08-18(US) | v54-AVGO-industry/curl-tikr | Broadcom AI chip bookings 30 billion Q3 earnings preview
+2026-08-18(US) | v54-AVGO-industry/curl-techinsider | Broadcom AI revenue 10.8B Q2 stock falls 13
+2026-08-18(US) | v54-AVGO-industry/curl-venturebeat | OpenAI Jalapeno first custom inference chip Broadcom nine-month
+2026-08-18(US) | v54-AVGO-industry/curl-tomshardware | custom AI ASIC state of play Broadcom Google TPU Meta MTIA
+2026-08-18(US) | v54-AVGO-industry/curl-247wallst | custom silicon king Broadcom Marvell comparison
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | MediaTek Google TPU v8 second source share split
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | 30-year Treasury yield 5.3 multi-year high Monday
+2026-08-18(US) | v54-AVGO-industry/curl-wccftech | Google MediaTek TPU v9 Triggerfish CPU compute die agentic AI
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Broadcom stock drop Friday August 14 reason AI 72 percent growth
+2026-08-18(US) | v54-AVGO-industry/curl-gnews-rss | Samsung Broadcom AI chip partnership hundreds of billions
+2026-08-18(US) | v54-AVGO-industry/curl-cnbc | Samsung 200 billion Broadcom AI chip partnership foundry 2030
+2026-08-19 | v54-BRK-risk/curl-gnews-rss | Berkshire Hathaway Buffett Abel latest news August 2026
+2026-08-19 | v54-BRK-risk/curl-gnews-rss | PacifiCorp wildfire lawsuit Oregon Supreme Court 2026
+2026-08-19 | v54-BRK-risk/curl-gnews-rss | Todd Combs Ted Weschler Berkshire investment lieutenants departure
+2026-08-19 | v54-BRK-risk/curl-gnews-rss | Oregon Supreme Court PacifiCorp November 3 oral argument
+2026-08-18(US) | v54-BRK-industry/curl-yahoo | BRK-B chart 10d price
+2026-08-18(US) | v54-BRK-industry/curl-fred | DGS30 DGS10 DGS2 August 2026
+2026-08-18(US) | v54-BRK-industry/curl-treasurygov | daily treasury yield curve 2026
+2026-08-19 | v54-BRK-risk/curl-opb | OPB 2.2 billion wildfire survivors Oregon Supreme Court article body
+2026-08-19 | v54-BRK-risk/curl-sec-edgar | BRK Form 4 insider transactions 2026 latest
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | Berkshire Hathaway news cash buyback
+2026-08-19 | v54-BRK-risk/curl-ddg-html | OPB Oregon Supreme Court PacifiCorp 2.2 billion article url
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | PacifiCorp Oregon Supreme Court November 3 oral argument
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | commercial insurance soft market property casualty rates 2026
+2026-08-19 | v54-BRK-risk/curl-kellerrohrback | Keller Rohrback PacifiCorp fire litigation timeline
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | PacifiCorp oral argument November 3 2026 Oregon Supreme Court schedule
+2026-08-19 | v54-BRK-risk/curl-gnews-rss | Berkshire Hathaway Q2 2026 earnings operating earnings cash pile buyback
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | 3 trillion off balance sheet AI data center debt WSJ
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | BNSF railroad volumes weekly carloads 2026
+2026-08-19 | v54-BRK-risk/curl-cnbc | Berkshire Q2 2026 earnings operating earnings cash buybacks Abel
+2026-08-18(US) | v54-BRK-industry/curl-freightwaves | BNSF Q2 2026 earnings volume revenue
+2026-08-19 | v54-BRK-risk/curl-247wallst | Abel broke 14-quarter selling streak 35 billion deployed Alphabet
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | Berkshire Hathaway cash pile Q2 2026 earnings 10-Q
+2026-08-19 | v54-BRK-risk/curl-brk-news | Berkshire Hathaway news index Q2 2026 press release
+2026-08-19 | v54-BRK-risk/curl-stockanalysis | BRK.B insider transactions recent
+2026-08-18(US) | v54-BRK-industry/curl-reuters | Berkshire accelerates buybacks lowers cash Q2
+2026-08-18(US) | v54-BRK-industry/curl-insurancebusiness | rates falling car casualty D&O soft market fraying
+2026-08-18(US) | v54-BRK-industry/curl-kfgo | Berkshire shares rise highest since Abel buybacks strong earnings
+2026-08-18(US) | v54-BRK-industry/curl-carriermanagement | Swiss Re soft market shallower previous cycles
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | Berkshire Q2 operating earnings insurance underwriting Geico details
+2026-08-18(US) | v54-BRK-industry/curl-berkshirehathaway | Q2 2026 earnings press release aug0826
+2026-08-19 | v54-BRK-risk/curl-gnews-rss | Buffett 96 birthday August 30 chairman role 2026
+2026-08-19 | v54-BRK-risk/curl-pulse2 | Berkshire Q2 2026 cash level operating earnings buyback numbers
+2026-08-18(US) | v54-BRK-industry/curl-edgar | Berkshire 10-Q Q2 2026 index
+2026-08-18(US) | v54-BRK-industry/curl-edgar | Berkshire 10-Q brka-20260630 cash treasury bills
+2026-08-19 | v54-BRK-risk/curl-sec-ownership | BRK Form 4 Aug 13 2026 ownership xml reporting owners
+2026-08-19 | v54-BRK-risk/curl-ddg-html | Berkshire Q2 2026 cash 334 billion insurance operating earnings 5 billion
+2026-08-18(US) | v54-BRK-industry/curl-gisreports | AI build-out rests on hidden debt 3 trillion
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | reinsurance renewal rates July 2026 property casualty softening
+2026-08-18(US) | v54-BRK-industry/curl-yahoo-finance | Alphabet Meta Microsoft hiding 3 trillion debt hidden ledger
+2026-08-18(US) | v54-BRK-industry/curl-ddg | Alphabet Meta Microsoft hiding 3 trillion debt hidden ledger
+2026-08-19 | v54-BRK-risk/curl-bing | Berkshire Q2 2026 operating earnings 16 percent cash 334 billion exact figures
+2026-08-18(US) | v54-BRK-industry/curl-techtimes | Meta 420B off-balance-sheet AI debt EY flagged
+2026-08-19 | v54-BRK-risk/curl-ddg-lite | Berkshire Hathaway Q2 2026 results fool.com operating earnings cash
+2026-08-18(US) | v54-BRK-industry/curl-ddg-lite | Meta 420 billion off-balance-sheet AI debt EY
+2026-08-19 | v54-BRK-risk/curl-gnews-rss-links | Berkshire Q2 operating earnings exact billion links
+2026-08-18(US) | v54-BRK-industry/curl-bing | Big Tech 3 trillion off balance sheet AI debt WSJ details
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | AI spending 2026 railroad problem hidden fine print memeburn
+2026-08-19 | v54-BRK-risk/curl-gnews-rss | Berkshire Alphabet 10 billion private placement June 2026
+2026-08-19 | v54-BRK-risk/curl-gnews-rss | Geico CEO after Combs and Weschler investment team 2026
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | AAR weekly rail traffic intermodal carloads August 2026
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | Fed rate cut September 2026 probability fed funds
+2026-08-18(US) | v54-BRK-industry/curl-freightwaves | rail freight stretches lead over 2025 week ending August 8
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | Berkshire Hathaway Energy data center power demand utility 2026
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | Fed funds rate cut expectations Jackson Hole August 2026
+2026-08-18(US) | v54-BRK-industry/curl-gnews-rss | Berkshire Hathaway acquisition 2026 completed billion
+2026-08-18(US) | v54-TSM-risk/curl-sec-edgar | TSM submissions CIK 1046179 recent Form 4/144 insider filings
+2026-08-18(US) | v54-TSM-risk/curl-cnbc-quote | TSM real-time quote price change
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | TSMC stock drop August 18 2026 reason
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | TSMC news today semiconductor
+2026-08-18(US) | v54-TSM-risk/curl-bing-rss | TSMC shares fall August 18 2026 selloff reason
+2026-08-18(US) | v54-TSM-risk/curl-wgb | Taiwan 5 year CDS spread worldgovernmentbonds
+2026-08-18(US) | v54-TSM-risk/curl-ddg-lite | TSMC stock down 4.7 percent August 18 2026
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | Taiwan credit default swap CDS spread basis points
+2026-08-18(US) | v54-TSM-risk/curl-wgb-cds-list | worldgovernmentbonds CDS country list check Taiwan
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss-links | TSMC insider buying wave Yahoo article resolve
+2026-08-18(US) | v54-TSM-risk/curl-sec-form4 | TSM Form 4 primary docs transaction codes check
+2026-08-18(US) | v54-TSM-risk/curl-gnews-redirect | Yahoo TSMC insider buying wave article body
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | Nasdaq chip stocks selloff August 18 2026 AI valuation
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | TSMC overseas fabs profit 1H26 Arizona 663 percent digitimes
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | Intel 18A Panther Lake production status August 2026
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | Samsung 2nm SF2 yield Tesla Exynos 2026 foundry competition
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | TSMC overseas fabs profit flip Arizona 663 digitimes
+2026-08-18(US) | v54-TSM-risk/curl-gnews-redirect-full | digitimes overseas fabs Taipei Times minister Seoul Economic Samsung Broadcom full bodies
+2026-08-18(US) | v54-TSM-risk/curl-ddg-html | US unlikely to match TSMC Taiwan production capacity minister taipeitimes
+2026-08-18(US) | v54-TSM-risk/curl-taipeitimes | TSMC Taiwan capacity minister article July 3 2026
+2026-08-18(US) | v54-TSM-risk/curl-mojeek | Broadcom Samsung 200 billion order TSMC too costly too slow
+2026-08-18(US) | v54-TSM-risk/curl-taipeitimes | outbound investments soar 200 percent led by TSMC article body
+2026-08-18(US) | v54-TSM-risk/curl-focustaiwan | outbound investments soar 200 percent TSMC August 18
+2026-08-18(US) | v54-TSM-risk/curl-digitimes | TSMC overseas fabs 1H26 profit flip Arizona 663
+2026-08-18(US) | v54-TSM-risk/curl-trendforce | TSMC Arizona 100 billion four fabs 2nm advanced packaging
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | TSMC Q2 2026 earnings capex guidance gross margin July 16
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | Broadcom Samsung 200 billion order second source verification
+2026-08-18(US) | v54-TSM-risk/curl-trendforce | TSMC Q2 2026 results Arizona four fabs details
+2026-08-18(US) | v54-TSM-risk/curl-cnbc | Samsung Broadcom 200 billion partnership article body
+2026-08-18(US) | v54-TSM-risk/curl-sec-edgar-6k | TSM 6-K monthly revenue July 2026 filings
+2026-08-18(US) | v54-TSM-risk/curl-sec-6k-body | July 2026 revenue tsm-revenue20260810
+2026-08-18(US) | v54-TSM-risk/curl-sec-6k-body | Q2 2026 earnings 6-K tsm-20260716
+2026-08-18(US) | v54-TSM-risk/curl-sec-6k-body | Sony semiconductor JV 6-K August 11
+2026-08-18(US) | v54-TSM-risk/curl-sec-6k-body | board resolutions August 11 ESPP capex appropriations
+2026-08-18(US) | v54-TSM-risk/curl-sec-exhibit | Q2 2026 press release exhibit 99.1 full text
+2026-08-18(US) | v54-TSM-risk/curl-yahoo-chart | 2330.TW price for ADR premium CDS proxy
+2026-08-18(US) | v54-TSM-risk/curl-sec-exhibit-body | Q2 2026 press release with guidance full figures
+2026-08-18(US) | v54-TSM-risk/curl-yahoo-fx | TWD=X exchange rate for ADR premium calc
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | TSMC 2026 capex guidance 64 billion raised July
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | TSMC ASML High-NA EUV lithography rejected August
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | foundry overcapacity 2027 AI digestion utilization risk
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | Intel 14A timeline 2027 2028 foundry external customers
+2026-08-18(US) | v54-TSM-risk/curl-gnews-rss | TSMC A14 1.4nm 2028 roadmap fab schedule
+2026-08-18(US) | v54-TSM-risk/curl-sec-6k-body | August 14 6-K fsx filing contents

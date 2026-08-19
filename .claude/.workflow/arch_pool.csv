@@ -1,0 +1,324 @@
+ticker,company,gics_sector,source
+PGR,Progressive,Financials-Insurance,A-watchlist
+CEG,Constellation Energy,Utilities,A-watchlist
+AMAT,Applied Materials,InfoTech-SemiEquipment,A-watchlist
+GOOGL,Alphabet,CommServices,A-watchlist
+MU,Micron,InfoTech-Semis,A-watchlist
+NVDA,NVIDIA,InfoTech-Semis,A-watchlist
+COHR,Coherent,InfoTech-Hardware,A-watchlist
+CRWV,CoreWeave,InfoTech-ITServices,A-watchlist
+NBIS,Nebius,InfoTech-ITServices,A-watchlist
+TLN,Talen Energy,Utilities,A-watchlist
+ANET,Arista Networks,InfoTech-Hardware,A-watchlist
+AMKR,Amkor Technology,InfoTech-Semis,A-watchlist
+CRDO,Credo Technology,InfoTech-Semis,A-watchlist
+LRCX,Lam Research,InfoTech-SemiEquipment,A-watchlist
+LEU,Centrus Energy,Energy-NuclearFuel,A-watchlist
+EXEL,Exelixis,HealthCare-Biotech,A-watchlist
+TMUS,T-Mobile US,CommServices-Telecom,A-watchlist
+DAL,Delta Air Lines,Industrials-Airlines,A-watchlist
+HUBB,Hubbell,Industrials-ElectricalEquip,A-watchlist
+GEV,GE Vernova,Industrials-ElectricalEquip,A-watchlist
+VRT,Vertiv,Industrials-Cooling,A-watchlist
+MELI,MercadoLibre,ConsDiscretionary-Retail,A-watchlist
+CRCL,Circle,Financials-Fintech,A-watchlist
+BE,Bloom Energy,Utilities-FuelCell,B-GICS能源
+ALB,Albemarle,Materials-Lithium,B-GICS材料
+FCX,Freeport-McMoRan,Materials-Copper,B-GICS材料
+MTRN,Materion,Materials-Specialty,B-GICS材料
+ROL,Rollins,CommServ-PestControl,B-GICS商业服务
+NSC,Norfolk Southern,Industrials-Railroad,B-GICS运输
+UNP,Union Pacific,Industrials-Railroad,B-GICS运输
+RIVN,Rivian,ConsDisc-Autos,B-GICS汽车
+NIO,NIO,ConsDisc-Autos,B-GICS汽车
+TSLA,Tesla,ConsDisc-Autos,B-GICS汽车
+BIRK,Birkenstock,ConsDisc-Footwear,B-GICS耐用消费
+RL,Ralph Lauren,ConsDisc-Apparel,B-GICS耐用消费
+GAP,Gap,ConsDisc-Apparel,B-GICS耐用消费
+BOOT,Boot Barn,ConsDisc-Retail,B-GICS零售
+ROST,Ross Stores,ConsDisc-OffPrice,B-GICS零售
+VZ,Verizon,CommServ-Telecom,B-GICS电信
+NFLX,Netflix,CommServ-Streaming,B-GICS媒体
+DIS,Disney,CommServ-Media,B-GICS媒体
+LNTH,Lantheus,HealthCare-Diagnostics,B-GICS医疗设备
+LLY,Eli Lilly,HealthCare-Pharma,B-GICS制药
+JNJ,Johnson & Johnson,HealthCare-Pharma,B-GICS制药
+SLS,SELLAS Life Sciences,HealthCare-Biotech,B-GICS生物
+PB,Prosperity Bancshares,Financials-RegionalBank,B-GICS银行
+CFG,Citizens Financial,Financials-RegionalBank,B-GICS银行
+TFC,Truist,Financials-Bank,B-GICS银行
+JPM,JPMorgan,Financials-MoneyCenter,B-GICS银行
+GS,Goldman Sachs,Financials-InvestmentBank,B-GICS银行
+BAC,Bank of America,Financials-MoneyCenter,B-GICS银行
+AII,American Integrity,Financials-Insurance,B-GICS保险
+AIG,AIG,Financials-Insurance,B-GICS保险
+MKL,Markel,Financials-Insurance,B-GICS保险
+LNC,Lincoln National,Financials-Life,B-GICS保险
+AFG,American Financial,Financials-Insurance,B-GICS保险
+WMB,Williams,Energy-Midstream,B-GICS能源
+EPD,Enterprise Products,Energy-Midstream,B-GICS能源
+KMI,Kinder Morgan,Energy-Midstream,B-GICS能源
+OKE,ONEOK,Energy-Midstream,B-GICS能源
+CRWD,CrowdStrike,InfoTech-Cybersecurity,B-GICS软件
+WDAY,Workday,InfoTech-Software,B-GICS软件
+MNDY,monday.com,InfoTech-Software,B-GICS软件
+NICE,NICE,InfoTech-Software,B-GICS软件
+AVPT,AvePoint,InfoTech-Software,B-GICS软件
+SNOW,Snowflake,InfoTech-Software,B-GICS软件
+DELL,Dell,InfoTech-Hardware,B-GICS硬件
+CDW,CDW,InfoTech-ITDistributor,B-GICS硬件
+HPE,HPE,InfoTech-Hardware,B-GICS硬件
+SMCI,Super Micro,InfoTech-Servers,B-GICS硬件
+AMD,AMD,InfoTech-Semis,B-GICS半导体
+SNDK,Sandisk,InfoTech-Memory,B-GICS半导体
+KLAC,KLA,InfoTech-SemiEquipment,B-GICS半导体
+ASML,ASML,InfoTech-SemiEquipment,B-GICS半导体
+ETR,Entergy,Utilities,B-GICS公用
+NEE,NextEra,Utilities-Renewables,B-GICS公用
+FLNC,Fluence Energy,Utilities-Storage,B-GICS公用
+WLDN,Willdan,Industrials-GridServices,B-GICS公用
+ENLT,Enlight Renewable,Utilities-Renewables,B-GICS公用
+DLR,Digital Realty,REIT-DataCenter,B-GICS地产
+EQIX,Equinix,REIT-DataCenter,B-GICS地产
+O,Realty Income,REIT-NetLease,B-GICS地产
+PLD,Prologis,REIT-Industrial,B-GICS地产
+DBD,Diebold Nixdorf,InfoTech-Hardware,B-GICS硬件
+PLUG,Plug Power,Industrials-Hydrogen,B-GICS硬件
+CAT,Caterpillar,Industrials-Machinery,B-GICS工业
+GNRC,Generac,Industrials-PowerGen,B-GICS工业
+MRVL,Marvell,InfoTech-Semis,B-AI2-ASIC
+AAOI,Applied Optoelectronics,InfoTech-Optics,B-AI3-光模块
+LITE,Lumentum,InfoTech-Optics,B-AI3-光模块
+AXTI,AXT,Materials-CompoundSemi,B-AI3-光模块
+CIEN,Ciena,InfoTech-Networking,B-AI3-光网络
+ALAB,Astera Labs,InfoTech-Connectivity,H-burst
+CBRS,Cerebras,InfoTech-AICompute,H-burst
+SKHY,SK hynix ADR,InfoTech-Memory,B-AI4-HBM
+LGN,Legence,Industrials-Mechanical,B-AI10-DC建设
+PLTR,Palantir,InfoTech-Software,B-AI11
+CRM,Salesforce,InfoTech-Software,B-AI11
+NOW,ServiceNow,InfoTech-Software,B-AI11
+QCOM,Qualcomm,InfoTech-Semis,B-AI16-端侧
+PONY,Pony AI,InfoTech-Robotaxi,B-AI14
+IREN,IREN,InfoTech-AICloud,B-AI15-矿企转型
+WULF,TeraWulf,InfoTech-AICloud,B-AI15
+APLD,Applied Digital,InfoTech-AICloud,B-AI15
+HIVE,HIVE Digital,InfoTech-AICloud,B-AI15
+HUT,Hut 8,InfoTech-AICloud,B-AI15
+RIOT,Riot Platforms,InfoTech-AICloud,B-AI15
+BTBT,Bit Digital,InfoTech-AICloud,B-AI15
+BTDR,Bitdeer,InfoTech-AICloud,B-AI15
+BIDU,Baidu,CommServices-Search,B-AI12
+JD,JD.com,ConsDisc-Ecommerce,B-nonAI13
+PDD,PDD Holdings,ConsDisc-Ecommerce,B-nonAI13
+ERO,Ero Copper,Materials-Copper,B-nonAI14相关
+NEM,Newmont,Materials-Gold,B-nonAI14
+FNV,Franco-Nevada,Materials-GoldRoyalty,B-nonAI14
+WPM,Wheaton Precious,Materials-GoldRoyalty,B-nonAI14
+GOLD,Barrick Gold,Materials-Gold,B-nonAI14
+DKNG,DraftKings,ConsDisc-iGaming,B-nonAI9
+FLUT,Flutter,ConsDisc-iGaming,B-nonAI9
+PENN,PENN Entertainment,ConsDisc-iGaming,B-nonAI9
+CENT,Central Garden & Pet,Staples-Pet,B-nonAI10
+SATL,Satellogic,Industrials-Satellite,H-burst
+HON,Honeywell,Industrials-Conglomerate,D3-spinoff
+KBR,KBR,Industrials-Defense,D3-spinoff
+SNAP,Snap,CommServices-Social,D4-activist
+APP,AppLovin,CommServices-AdTech,D4-52wklow
+SOFI,SoFi,Financials-Fintech,D4-52wklow
+ATEC,Alphatec,HealthCare-MedDevice,D5-13F
+IONQ,IonQ,InfoTech-Quantum,B-AI17相关
+LMND,Lemonade,Financials-InsurTech,H-burst拐点
+CSGP,CoStar,Industrials-REData,H-burst拐点
+HTHT,H World,ConsDisc-Hotels,B-GICS消费服务
+FIGR,Figure Technology,Financials-Fintech,D6-IPO异动
+RUM,Rumble,CommServices-Media,D6-异动
+AEHR,Aehr Test Systems,InfoTech-SemiTest,D6-异动
+VICR,Vicor,InfoTech-PowerModules,D6-异动
+ACMR,ACM Research,InfoTech-SemiEquipment,D6-异动
+LUNR,Intuitive Machines,Industrials-Space,D6-异动
+VIAV,Viavi Solutions,InfoTech-Optics,D6-异动
+SMTC,Semtech,InfoTech-Optics,D6-异动
+ARGX,argenx,HealthCare-Biotech,D6-异动
+TER,Teradyne,InfoTech-SemiEquipment,C-funnel-AI硬件
+ONTO,Onto Innovation,InfoTech-SemiEquipment,C-funnel-AI硬件
+CAMT,Camtek,InfoTech-SemiEquipment,C-funnel-AI硬件
+FN,Fabrinet,InfoTech-Optics,C-funnel-AI硬件
+ETN,Eaton,Industrials-Electrical,C-funnel-AI硬件
+POWL,Powell Industries,Industrials-Electrical,C-funnel-AI硬件
+OKLO,Oklo,Utilities-Nuclear,C-funnel-AI硬件
+CCJ,Cameco,Energy-Uranium,C-funnel-AI硬件
+SMR,NuScale Power,Utilities-Nuclear,C-funnel-AI硬件
+BWXT,BWX Technologies,Industrials-Defense,C-funnel-AI硬件
+NXT,Nextracker,Industrials-SolarTracker,C-funnel-AI硬件
+QBTS,D-Wave Quantum,InfoTech-Quantum,C-funnel-爆发仓
+RGTI,Rigetti Computing,InfoTech-Quantum,C-funnel-爆发仓
+RKLB,Rocket Lab,Industrials-Space,C-funnel-爆发仓
+FLY,Firefly Aerospace,Industrials-Space,C-funnel-爆发仓
+ASTS,AST SpaceMobile,CommServices-Satellite,C-funnel-爆发仓
+RDW,Redwire,Industrials-Space,C-funnel-爆发仓
+ACHR,Archer Aviation,Industrials-eVTOL,C-funnel-爆发仓
+RGLD,Royal Gold,Materials-GoldRoyalty,C-funnel-尾部对冲
+OR,OR Royalties,Materials-GoldRoyalty,C-funnel-尾部对冲
+SAND,Sandstorm Gold,Materials-GoldRoyalty,C-funnel-尾部对冲
+GROY,Gold Royalty,Materials-GoldRoyalty,C-funnel-尾部对冲
+B,Barrick Mining,Materials-Gold,C-funnel-尾部对冲
+AEM,Agnico Eagle,Materials-Gold,C-funnel-尾部对冲
+BTG,B2Gold,Materials-Gold,C-funnel-尾部对冲
+PG,Procter & Gamble,Staples-Household,C-funnel-尾部对冲
+WM,Waste Management,Industrials-Waste,C-funnel-尾部对冲
+BR,Broadridge,InfoTech-Fintech,F-memory(verdict库4PASS)
+HIG,Hartford,Financials-Insurance,F-memory(冒泡第一4.20)
+CLSK,CleanSpark,InfoTech-AICloud,F-memory(矿转AI赛道)
+UBER,Uber,Industrials-Ridehail,F-memory(曾持有后清仓)
+VECO,Veeco Instrument,InfoTech-SemiEquipment,D-bottleneck
+FORM,FormFactor,InfoTech-SemiEquipment,D-bottleneck
+BELFB,Bel Fuse,InfoTech-ElectronicComponents,D-bottleneck
+NRG,NRG Energy,Utilities-IPP,D-bottleneck
+AEP,American Electric Power,Utilities,G-生态链(BRK合资)
+BILL,BILL Holdings,InfoTech-Fintech,G-生态链(INTU对标)
+AXP,American Express,Financials-Payments,G-生态链(PYPL对标)
+SPCX,SpaceX,Industrials-Space,D6-IPO
+INTC,Intel,InfoTech-Semis,B-补量screener
+ONDS,Ondas,InfoTech-Drone,B-补量screener
+AUR,Aurora Innovation,Industrials-AV,B-AI14
+NU,Nu Holdings,Financials-FintechLatam,B-补量screener
+KEEL,Keel? Keel Computing?,Industrials-Marine,B-补量screener
+KLAR,Klarway?,Financials-Fintech,B-补量screener
+AAPL,Apple,InfoTech-Hardware,B-补量screener
+PATH,UiPath,InfoTech-Software,B-AI11
+AMLX,Amylyx,HealthCare-Biotech,B-补量screener
+CIFR,Cipher Mining,InfoTech-AICloud,B-AI15
+GRAB,Grab,ConsDisc-Ridehail,B-补量screener
+AAL,American Airlines,Industrials-Airlines,B-GICS运输
+DT,Dynatrace,InfoTech-Software,B-补量screener
+PFE,Pfizer,HealthCare-Pharma,B-GICS制药
+NKE,Nike,ConsDisc-Apparel,B-GICS耐用消费
+KURA,Kura Oncology,HealthCare-Biotech,B-补量screener
+ALEC,Alector,HealthCare-Biotech,B-补量screener
+MNTN,MNTN,CommServices-AdTech,B-补量screener
+DH,Definitive Healthcare,HealthCare-HIT,B-补量screener
+CDE,Coeur Mining,Materials-Silver,B-nonAI14
+T,AT&T,CommServices-Telecom,B-GICS电信
+AGNC,AGNC Investment,REIT-Mortgage,B-GICS地产
+WBS,Webster Financial,Financials-RegionalBank,B-GICS银行
+OXY,Occidental,Energy-Oil,B-GICS能源
+KGC,Kinross,Materials-Gold,B-nonAI14
+BMY,Bristol-Myers,HealthCare-Pharma,B-GICS制药
+UMC,United Microelectronics,InfoTech-Foundry,B-AI5
+HBM,Hudbay Minerals,Materials-Copper,B-GICS材料
+HST,Host Hotels,REIT-Lodging,B-GICS地产
+APA,APA Corp,Energy-Oil,B-GICS能源
+NLY,Annaly,REIT-Mortgage,B-GICS地产
+FSM,Fortuna Mining,Materials-Gold,B-nonAI14
+AR,Antero Resources,Energy-Gas,B-GICS能源
+TAL,TAL Education,ConsDisc-EduChina,B-补量screener
+NOK,Nokia,InfoTech-Networking,B-AI3
+PBR,Petrobras,Energy-Oil,B-补量screener
+CNQ,Cenovus,Energy-Oil,B-补量screener
+ABT,Abbott,HealthCare-MedDevice,B-GICS医疗设备
+MDT,Medtronic,HealthCare-MedDevice,B-GICS医疗设备
+SYK,Stryker,HealthCare-MedDevice,B-GICS医疗设备
+DHR,Danaher,HealthCare-MedTech,B-GICS医疗设备
+GTLS,Chart Industries,Industrials-GasEquip,B-GICS工业
+ROK,Rockwell Automation,Industrials-Automation,B-nonAI4
+FDX,FedEx,Industrials-Logistics,B-GICS运输
+UPS,UPS,Industrials-Logistics,B-GICS运输
+ODFL,Old Dominion,Industrials-Trucking,B-GICS运输
+XOM,Exxon,Energy-Oil,B-GICS能源
+CVX,Chevron,Energy-Oil,B-GICS能源
+COP,ConocoPhillips,Energy-Oil,B-GICS能源
+SLB,SLB,Energy-Oilfield,B-GICS能源
+DVN,Devon,Energy-Oil,B-GICS能源
+FANG,Diamondback,Energy-Oil,B-GICS能源
+LMT,Lockheed Martin,Industrials-Defense,B-nonAI2
+NOC,Northrop Grumman,Industrials-Defense,B-nonAI2
+GD,General Dynamics,Industrials-Defense,B-nonAI2
+RTX,RTX,Industrials-Defense,B-nonAI2
+HWM,Howmet,Industrials-Aerospace,B-nonAI2
+TDG,TransDigm,Industrials-Aerospace,B-nonAI2
+AXON,Axon,Industrials-DefenseTech,B-nonAI2
+KKR,KKR,Financials-AltMgr,B-GICS金融
+BX,Blackstone,Financials-AltMgr,B-GICS金融
+APO,Apollo,Financials-AltMgr,B-GICS金融
+BLK,BlackRock,Financials-AssetMgr,B-GICS金融
+SCHW,Schwab,Financials-Brokers,B-GICS金融
+RJF,Raymond James,Financials-Brokers,B-GICS金融
+MO,Altria,Staples-Tobacco,B-GICS食品饮料
+PM,Philip Morris,Staples-Tobacco,B-GICS食品饮料
+KO,Coca-Cola,Staples-Beverage,B-GICS食品饮料
+GIS,General Mills,Staples-Food,B-GICS食品饮料
+CAG,Conagra,Staples-Food,B-GICS食品饮料
+EL,Estee Lauder,Staples-Beauty,B-GICS家居个护
+CLX,Clorox,Staples-Household,B-GICS家居个护
+KMB,Kimberly-Clark,Staples-Household,B-GICS家居个护
+CMCSA,Comcast,CommServices-Cable,B-GICS媒体
+WBD,Warner Bros Discovery,CommServices-Media,B-GICS媒体
+PARA,Paramount,CommServices-Media,B-GICS媒体
+SPOT,Spotify,CommServices-Streaming,B-GICS媒体
+EA,Electronic Arts,CommServices-Gaming,B-GICS媒体
+TTWO,Take-Two,CommServices-Gaming,B-GICS媒体
+AMOV,America Movil,CommServices-Telecom,B-GICS电信
+AAON,AAON,Industrials-HVAC,E-缺口
+XNCR,Xencor,HealthCare-Biotech,E-缺口
+FSLR,First Solar,Industrials-Solar,E-缺口
+PCG,PG&E,Utilities,E-缺口
+ADI,Analog Devices,InfoTech-Semis,E-缺口
+SELV,Solaris Energy,Energy-PowerServ,E-缺口
+GLW,Corning,Industrials-OpticalGlass,E-缺口
+EAT,Brinker,ConsDisc-Restaurant,E-缺口
+CAVA,Cava,ConsDisc-Restaurant,E-缺口
+CAKE,Cheesecake Factory,ConsDisc-Restaurant,E-缺口
+BRO,Brown & Brown,Financials-InsBroker,E-缺口
+RYAN,Ryan Specialty,Financials-InsBroker,E-缺口
+WTW,Willis Towers Watson,Financials-InsBroker,E-缺口
+AON,Aon,Financials-InsBroker,E-缺口
+AJG,Arthur J Gallagher,Financials-InsBroker,E-缺口
+VKTX,Viking Therapeutics,HealthCare-Biotech,E-缺口
+BCRX,BioCryst,HealthCare-Biotech,E-缺口
+CRNX,Crinetics,HealthCare-Biotech,E-缺口
+QUBT,Quantum Computing,InfoTech-Quantum,E-缺口
+W,Waya? Wayfair,ConsDisc-Ecommerce,E-缺口
+CHTR,Charter,CommServices-Cable,B-GICS媒体
+QSR,Restaurant Brands,ConsDisc-Restaurant,B-GICS消费服务
+YUM,Yum Brands,ConsDisc-Restaurant,B-GICS消费服务
+DPZ,Dominos,ConsDisc-Restaurant,B-GICS消费服务
+MCD,McDonalds,ConsDisc-Restaurant,B-GICS消费服务
+RCL,Royal Caribbean,ConsDisc-Cruise,B-GICS消费服务
+CCL,Carnival,ConsDisc-Cruise,B-GICS消费服务
+MAR,Marriott,ConsDisc-Hotels,B-GICS消费服务
+HLT,Hilton,ConsDisc-Hotels,B-GICS消费服务
+WYND,ConsDisc-Hotels,B-GICS消费服务,
+TJX,TJX,ConsDisc-OffPrice,B-GICS零售
+COST,Costco,Staples-Retail,B-GICS零售
+WMT,Walmart,Staples-Retail,B-GICS零售
+TGT,Target,Staples-Retail,B-GICS零售
+DG,Dollar General,Staples-Retail,B-GICS零售
+DLTR,Dollar Tree,Staples-Retail,B-GICS零售
+KR,Kroger,Staples-Retail,B-GICS零售
+SFIX,ConsDisc-Retail,B-GICS零售,
+FIVE,ConsDisc-Retail,B-GICS零售,
+ULS,ConsDisc-Retail,B-GICS零售,
+CHWY,Chewy,ConsDisc-Retail,B-nonAI10宠物
+TRUP,Trupanion,Financials-PetIns,B-nonAI10宠物
+IDXX,IDEXX,HealthCare-PetMed,B-nonAI10宠物
+UBSI,Financials-RegionalBank,B-GICS银行,
+FNB,F.N.B. Corp,Financials-RegionalBank,B-GICS银行
+WAL,Western Alliance,Financials-RegionalBank,B-GICS银行
+EWBC,East West Bancorp,Financials-RegionalBank,B-GICS银行
+HWC,Hancock Whitney,Financials-RegionalBank,B-GICS银行
+SNV,Synovus,Financials-RegionalBank,B-GICS银行
+VRTX,Vertex,HealthCare-Pharma,B-GICS制药
+MRK,Merck,HealthCare-Pharma,B-GICS制药
+ABBV,AbbVie,HealthCare-Pharma,B-GICS制药
+NVO,Novo Nordisk,HealthCare-Pharma,B-GICS制药
+REGN,Regeneron,HealthCare-Pharma,B-GICS制药
+ALNY,Alnylam,HealthCare-Biotech,B-GICS生物
+SGEN,HealthCare-Biotech,B-GICS生物,
+NTRA,Natera,HealthCare-Diagnostics,B-GICS医疗设备
+TXG,HealthCare-Tools,B-GICS医疗设备,
+RMD,ResMed,HealthCare-MedDevice,B-GICS医疗设备
+ZBH,Zimmer Biomet,HealthCare-MedDevice,B-GICS医疗设备
+BSX,Boston Scientific,HealthCare-MedDevice,B-GICS医疗设备
+CI,Cigna,HealthCare-Insurer,B-GICS医疗
+UNH,UnitedHealth,HealthCare-Insurer,B-GICS医疗

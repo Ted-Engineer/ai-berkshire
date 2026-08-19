@@ -1,0 +1,98 @@
+ticker,company,gics_sector,source
+ENB,Enbridge,Energy,GICS组1-B1
+EPD,Enterprise Products Partners,Energy,GICS组1-B1
+MPLX,MPLX LP,Energy,GICS组1-B1
+KMI,Kinder Morgan,Energy,GICS组1-B1
+WMB,Williams Companies,Energy,GICS组1-B1
+ET,Energy Transfer,Energy,GICS组1-B1
+OKE,ONEOK,Energy,GICS组1-B1
+TLN,Talen Energy,Energy,GICS组1-B1
+CEG,Constellation Energy,Energy,GICS组1-B1
+BE,Bloom Energy,Energy,GICS组1-B1
+PLUG,Plug Power,Energy,GICS组1-B1
+FMC,FMC,Materials,GICS组2-B1
+CE,Celanese,Materials,GICS组2-B1
+DOW,Dow,Materials,GICS组2-B1
+LYB,LyondellBasell,Materials,GICS组2-B1
+EMN,Eastman Chemical,Materials,GICS组2-B1
+SMG,Scotts Miracle-Gro,Materials,GICS组2-B1
+ALB,Albemarle,Materials,GICS组2-B1
+IFF,International Flavors & Fragrances,Materials,GICS组2-B1
+MOS,Mosaic,Materials,GICS组2-B1
+LMT,Lockheed Martin,Capital Goods,GICS组3-B1
+RTX,RTX Corp,Capital Goods,GICS组3-B1
+NOC,Northrop Grumman,Capital Goods,GICS组3-B1
+GD,General Dynamics,Capital Goods,GICS组3-B1
+LHX,L3Harris Technologies,Capital Goods,GICS组3-B1
+LDOS,Leidos,Capital Goods,GICS组3-B1
+AVAV,AeroVironment,Capital Goods,GICS组3-B1
+BA,Boeing,Capital Goods,GICS组3-B1
+RDW,Redwire,Capital Goods,GICS组3-B1
+MTRN,Materion,Materials,GICS组3-B1
+ROL,Rollins,Commercial & Professional Services,GICS组4-B1
+BBSI,Barrett Business Services,Commercial & Professional Services,GICS组4-B1
+PESI,Perma-Fix Environmental Services,Commercial & Professional Services,GICS组4-B1
+VCIG,VCI Global,Commercial & Professional Services,GICS组4-B1
+UNP,Union Pacific,Transportation,GICS组5-B1
+NSC,Norfolk Southern,Transportation,GICS组5-B1
+ODFL,Old Dominion Freight Line,Transportation,GICS组5-B1
+UPS,UPS,Transportation,GICS组5-B1
+KEX,Kirby,Transportation,GICS组5-B1
+CNI,Canadian National Railway,Transportation,GICS组5-B1
+JBHT,J.B. Hunt,Transportation,GICS组5-B1
+WAB,Wabtec,Capital Goods,GICS组5-B1
+GNTX,Gentex,Automobiles & Components,GICS组6-B1
+GM,General Motors,Automobiles & Components,GICS组6-B1
+F,Ford,Automobiles & Components,GICS组6-B1
+RIVN,Rivian,Automobiles & Components,GICS组6-B1
+NIO,NIO,Automobiles & Components,GICS组6-B1
+TSLA,Tesla,Automobiles & Components,GICS组6-B1
+RL,Ralph Lauren,Consumer Durables & Apparel,GICS组7-B1
+LVMUY,LVMH ADR,Consumer Durables & Apparel,GICS组7-B1
+ADNT,Adient,Automobiles & Components,GICS组7-B1
+KMX,CarMax,Retailing,GICS组7-B1
+SE,Sea Ltd,Retailing,GICS组7-B1
+BBWI,Bath & Body Works,Consumer Staples,GICS组7-B1
+DKNG,DraftKings,Consumer Services,GICS组7-B1
+FLUT,Flutter Entertainment,Consumer Services,GICS组7-B1
+TNL,Travel + Leisure,Consumer Services,GICS组8-B1
+NCLH,Norwegian Cruise Line,Consumer Services,GICS组8-B1
+RCL,Royal Caribbean,Consumer Services,GICS组8-B1
+TJX,TJX Companies,Retailing,GICS组9-B1
+KSS,Kohls,Retailing,GICS组9-B1
+AMZN,Amazon,Retailing,GICS组9-B1
+BOOT,Boot Barn,Retailing,GICS组9-B1
+GPS,GAP,Retailing,GICS组9-B1
+ROST,Ross Stores,Retailing,GICS组9-B1
+VVV,Valvoline,Retailing,GICS组9-B1
+COST,Costco,Consumer Staples,GICS组9-B1
+SBUX,Starbucks,Consumer Services,GICS组9-B1
+AMT,American Tower,Telecommunication Services,GICS组10-B1
+AD,Array Digital Infrastructure,Telecommunication Services,GICS组10-B1
+TMUS,T-Mobile US,Telecommunication Services,GICS组10-B1
+T,AT&T,Telecommunication Services,GICS组10-B1
+BCE,BCE,Telecommunication Services,GICS组10-B1
+DOX,Amdocs,Information Technology,GICS组10-B1
+NFLX,Netflix,Media & Entertainment,GICS组11-B1
+DIS,Disney,Media & Entertainment,GICS组11-B1
+TTD,The Trade Desk,Media & Entertainment,GICS组11-B1
+PINS,Pinterest,Media & Entertainment,GICS组11-B1
+RDDT,Reddit,Media & Entertainment,GICS组11-B1
+OMC,Omnicom,Media & Entertainment,GICS组11-B1
+CHTR,Charter Communications,Media & Entertainment,GICS组11-B1
+NTES,NetEase,Media & Entertainment,GICS组11-B1
+TME,Tencent Music,Media & Entertainment,GICS组11-B1
+MGM,MGM Resorts,Consumer Services,GICS组11-B1
+TU,Telus,Telecommunication Services,GICS组11-B1
+RCI,Rogers Communications,Telecommunication Services,GICS组11-B1
+WFC,Wells Fargo,Banks,GICS组12-B1
+BAC,Bank of America,Banks,GICS组12-B1
+JPM,JPMorgan Chase,Banks,GICS组12-B1
+GS,Goldman Sachs,Banks,GICS组12-B1
+RF,Regions Financial,Banks,GICS组12-B1
+CFG,Citizens Financial,Banks,GICS组12-B1
+TFC,Truist,Banks,GICS组12-B1
+COLB,Columbia Banking System,Banks,GICS组12-B1
+NU,Nu Holdings,Banks,GICS组12-B1
+NWG,NatWest Group ADR,Banks,GICS组12-B1
+BNS,Bank of Nova Scotia,Banks,GICS组12-B1

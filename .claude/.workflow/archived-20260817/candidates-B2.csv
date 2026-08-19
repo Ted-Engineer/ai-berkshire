@@ -1,0 +1,123 @@
+ticker,company,gics_sector,source
+COST,Costco Wholesale,Staples Distribution & Retail,GICS组13-B2
+KR,Kroger Company,Staples Distribution & Retail,GICS组13-B2
+SYY,Sysco Corporation,Staples Distribution & Retail,GICS组13-B2
+USFD,US Foods Holding,Staples Distribution & Retail,GICS组13-B2
+CASY,Casey's General Stores,Staples Distribution & Retail,GICS组13-B2
+ACI,Albertsons Companies,Staples Distribution & Retail,GICS组13-B2
+SFM,Sprouts Farmers Market,Staples Distribution & Retail,GICS组13-B2
+DG,Dollar General,Staples Distribution & Retail,GICS组13-B2
+KHC,The Kraft Heinz Company,Food Beverage & Tobacco,GICS组14-B2
+PEP,PepsiCo Inc,Food Beverage & Tobacco,GICS组14-B2
+BF-B,Brown-Forman Corporation,Food Beverage & Tobacco,GICS组14-B2
+STZ,Constellation Brands,Food Beverage & Tobacco,GICS组14-B2
+MO,Altria Group,Food Beverage & Tobacco,GICS组14-B2
+PM,Philip Morris International,Food Beverage & Tobacco,GICS组14-B2
+GIS,General Mills,Food Beverage & Tobacco,GICS组14-B2
+HRL,Hormel Foods,Food Beverage & Tobacco,GICS组14-B2
+UL,Unilever PLC,Household & Personal Products,GICS组15-B2
+ELF,e.l.f. Beauty,Household & Personal Products,GICS组15-B2
+EL,The Estee Lauder Companies,Household & Personal Products,GICS组15-B2
+CL,Colgate-Palmolive,Household & Personal Products,GICS组15-B2
+KMB,Kimberly-Clark,Household & Personal Products,GICS组15-B2
+CHD,Church & Dwight,Household & Personal Products,GICS组15-B2
+BAX,Baxter International,Health Care Equipment & Services,GICS组16-B2
+ZBH,Zimmer Biomet Holdings,Health Care Equipment & Services,GICS组16-B2
+MDT,Medtronic plc,Health Care Equipment & Services,GICS组16-B2
+EW,Edwards Lifesciences,Health Care Equipment & Services,GICS组16-B2
+ISRG,Intuitive Surgical,Health Care Equipment & Services,GICS组16-B2
+HCA,HCA Healthcare,Health Care Equipment & Services,GICS组16-B2
+VEEV,Veeva Systems,Health Care Equipment & Services,GICS组16-B2
+HUM,Humana Inc,Health Care Equipment & Services,GICS组16-B2
+GILD,Gilead Sciences,Pharma Biotech & Life Sciences,GICS组17-B2
+TMO,Thermo Fisher Scientific,Pharma Biotech & Life Sciences,GICS组17-B2
+DHR,Danaher Corporation,Pharma Biotech & Life Sciences,GICS组17-B2
+PFE,Pfizer Inc,Pharma Biotech & Life Sciences,GICS组17-B2
+BMY,Bristol-Myers Squibb,Pharma Biotech & Life Sciences,GICS组17-B2
+REGN,Regeneron Pharmaceuticals,Pharma Biotech & Life Sciences,GICS组17-B2
+NVO,Novo Nordisk ADR,Pharma Biotech & Life Sciences,GICS组17-B2
+VRTX,Vertex Pharmaceuticals,Pharma Biotech & Life Sciences,GICS组17-B2
+CRCL,Circle Internet Group,Diversified Financials,GICS组18-B2
+MA,Mastercard Incorporated,Diversified Financials,GICS组18-B2
+V,Visa Inc,Diversified Financials,GICS组18-B2
+XYZ,Block Inc,Diversified Financials,GICS组18-B2
+GPN,Global Payments Inc,Diversified Financials,GICS组18-B2
+ICE,Intercontinental Exchange,Diversified Financials,GICS组18-B2
+MSCI,MSCI Inc,Diversified Financials,GICS组18-B2
+BX,Blackstone Inc,Diversified Financials,GICS组18-B2
+AIG,American International Group,Insurance,GICS组19-B2
+LNC,Lincoln National,Insurance,GICS组19-B2
+PGR,The Progressive Corporation,Insurance,GICS组19-B2
+KNSL,Kinsale Capital Group,Insurance,GICS组19-B2
+RLI,RLI Corp,Insurance,GICS组19-B2
+AXS,Axis Capital Holdings,Insurance,GICS组19-B2
+GL,Globe Life Inc,Insurance,GICS组19-B2
+AJG,Arthur J. Gallagher & Co,Insurance,GICS组19-B2
+RBRK,Rubrik Inc,Software & Services,GICS组20-B2
+DDOG,Datadog Inc,Software & Services,GICS组20-B2
+MDB,MongoDB Inc,Software & Services,GICS组20-B2
+NET,Cloudflare Inc,Software & Services,GICS组20-B2
+CRWD,CrowdStrike Holdings,Software & Services,GICS组20-B2
+ZS,Zscaler Inc,Software & Services,GICS组20-B2
+PANW,Palo Alto Networks,Software & Services,GICS组20-B2
+WDAY,Workday Inc,Software & Services,GICS组20-B2
+DELL,Dell Technologies,Technology Hardware & Equipment,GICS组21-B2
+SMCI,Super Micro Computer,Technology Hardware & Equipment,GICS组21-B2
+CDW,CDW Corporation,Technology Hardware & Equipment,GICS组21-B2
+CSCO,Cisco Systems,Technology Hardware & Equipment,GICS组21-B2
+NTAP,NetApp Inc,Technology Hardware & Equipment,GICS组21-B2
+PSTG,Pure Storage,Technology Hardware & Equipment,GICS组21-B2
+HPE,Hewlett Packard Enterprise,Technology Hardware & Equipment,GICS组21-B2
+STX,Seagate Technology,Technology Hardware & Equipment,GICS组21-B2
+LRCX,Lam Research Corporation,Semiconductors & Semi Equipment,GICS组22-B2
+AMAT,Applied Materials,Semiconductors & Semi Equipment,GICS组22-B2
+MU,Micron Technology,Semiconductors & Semi Equipment,GICS组22-B2
+MRVL,Marvell Technology,Semiconductors & Semi Equipment,GICS组22-B2
+AMD,Advanced Micro Devices,Semiconductors & Semi Equipment,GICS组22-B2
+KLAC,KLA Corporation,Semiconductors & Semi Equipment,GICS组22-B2
+ENTG,Entegris Inc,Semiconductors & Semi Equipment,GICS组22-B2
+ALAB,Astera Labs,Semiconductors & Semi Equipment,GICS组22-B2
+PPL,PPL Corporation,Utilities,GICS组23-B2
+CEG,Constellation Energy,Utilities,GICS组23-B2
+TLN,Talen Energy,Utilities,GICS组23-B2
+NRG,NRG Energy,Utilities,GICS组23-B2
+NEE,NextEra Energy,Utilities,GICS组23-B2
+D,Dominion Energy,Utilities,GICS组23-B2
+SO,Southern Company,Utilities,GICS组23-B2
+CCJ,Cameco Corporation,Utilities,GICS组23-B2
+DLR,Digital Realty Trust,Real Estate,GICS组24+25-B2
+EQIX,Equinix Inc,Real Estate,GICS组24+25-B2
+PLD,Prologis Inc,Real Estate,GICS组24+25-B2
+SPG,Simon Property Group,Real Estate,GICS组24+25-B2
+O,Realty Income,Real Estate,GICS组24+25-B2
+WELL,Welltower Inc,Real Estate,GICS组24+25-B2
+VICI,VICI Properties,Real Estate,GICS组24+25-B2
+ARE,Alexandria Real Estate Equities,Real Estate,GICS组24+25-B2
+T,AT&T Inc,Communication Services,D1
+OXY,Occidental Petroleum,Energy,D1
+PBR,Petroleo Brasileiro Petrobras,Energy,D1
+UMC,United Microelectronics,Information Technology,D1
+WBS,Webster Financial,Financials,D1
+CORZ,Core Scientific,Information Technology,D1
+IONQ,IonQ Inc,Information Technology,D1
+NBIS,Nebius Group,Information Technology,D1
+CRDO,Credo Technology Group,Information Technology,D1
+CLS,Celestica Inc,Information Technology,D1
+PLTR,Palantir Technologies,Information Technology,D1
+VZ,Verizon Communications,Communication Services,D1
+ABBV,AbbVie Inc,Health Care,D1
+CVX,Chevron Corporation,Energy,D1
+BTI,British American Tobacco,Consumer Staples,D1
+HON,Honeywell International,Industrials,D3
+SOLS,Solstice Advanced Materials,Materials,D3
+REZI,Resideo Technologies,Industrials,D3
+TGT,Target Corporation,Consumer Discretionary,D3
+EBAY,eBay Inc,Consumer Discretionary,D3
+WBD,Warner Bros. Discovery,Communication Services,D3
+NFLX,Netflix Inc,Communication Services,D4
+INTC,Intel Corporation,Information Technology,D4
+ADT,ADT Inc,Industrials,D4
+ENR,Energizer Holdings,Consumer Staples,D4
+NKE,Nike Inc,Consumer Discretionary,D4
+GOOGL,Alphabet Inc,Communication Services,D5
+BTDR,Bitdeer Technologies,Information Technology,D5
