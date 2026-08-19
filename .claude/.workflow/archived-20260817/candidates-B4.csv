@@ -1,0 +1,75 @@
+ticker,company,gics_sector,source
+TDOC,Teladoc Health,Health Care,非AI主题#1
+HIMS,Hims & Hers Health,Health Care,非AI主题#1
+DOCS,Doximity,Health Care,非AI主题#1
+SAABY,Saab AB (ADR),Industrials,非AI主题#2
+BAESY,BAE Systems (ADR),Industrials,非AI主题#2
+RNK.DE,RENK AG,Industrials,非AI主题#2
+PWR,Quanta Services,Industrials,非AI主题#3
+MYRG,MYR Group,Industrials,非AI主题#3
+HUBB,Hubbell,Industrials,非AI主题#3
+GEV,GE Vernova,Industrials,非AI主题#3+D7-生态链(VST)
+AIT,Applied Industrial Technologies,Industrials,非AI主题#4
+ROK,Rockwell Automation,Industrials,非AI主题#4
+MCO,Moody's,Financials,非AI主题#5
+ICE,Intercontinental Exchange,Financials,非AI主题#5
+LLY,Eli Lilly,Health Care,非AI主题#6
+NVO,Novo Nordisk,Health Care,非AI主题#6
+LYB,LyondellBasell,Materials,非AI主题#6
+AWK,American Water Works,Utilities,非AI主题#7
+WTRG,Essential Utilities,Utilities,非AI主题#7
+XYL,Xylem,Industrials,非AI主题#7
+CNH,CNH Industrial,Industrials,非AI主题#8
+DE,Deere & Company,Industrials,非AI主题#8
+AGCO,AGCO Corporation,Industrials,非AI主题#8
+DKNG,DraftKings,Consumer Discretionary,非AI主题#9
+FLUT,Flutter Entertainment,Consumer Discretionary,非AI主题#9
+RSI,Rush Street Interactive,Consumer Discretionary,非AI主题#9
+CENT,Central Garden & Pet,Consumer Staples,非AI主题#10
+CHWY,Chewy,Consumer Discretionary,非AI主题#10
+TRUP,Trupanion,Financials,非AI主题#10
+LVMUY,LVMH (ADR),Consumer Discretionary,非AI主题#11
+RMS.PA,Hermes International,Consumer Discretionary,非AI主题#11
+RL,Ralph Lauren,Consumer Discretionary,非AI主题#11
+TPR,Tapestry,Consumer Discretionary,非AI主题#11
+HRTG,Heritage Insurance Holdings,Financials,非AI主题#12
+KNSL,Kinsale Capital Group,Financials,非AI主题#12
+RNR,RenaissanceRe Holdings,Financials,非AI主题#12
+JD,JD.com,Consumer Discretionary,非AI主题#13
+PDD,PDD Holdings,Consumer Discretionary,非AI主题#13
+YUMC,Yum China Holdings,Consumer Discretionary,非AI主题#13
+0941.HK,China Mobile,Communication Services,非AI主题#13
+NEM,Newmont,Materials,非AI主题#14
+FNV,Franco-Nevada,Materials,非AI主题#14
+WPM,Wheaton Precious Metals,Materials,非AI主题#14
+ERO,Ero Copper,Materials,非AI主题#14
+PAAS,Pan American Silver,Materials,非AI主题#14
+QCOM,Qualcomm,Information Technology,D7-生态链(META)
+GLW,Corning,Information Technology,D7-生态链(META)
+NVDA,NVIDIA,Information Technology,D7-生态链(META/BABA/ADBE)
+ANET,Arista Networks,Information Technology,D7-生态链(META)
+AAPL,Apple,Information Technology,D7-生态链(BABA)
+DELL,Dell Technologies,Information Technology,D7-生态链(MSFT)
+CDW,CDW Corporation,Information Technology,D7-生态链(MSFT)
+SMCI,Super Micro Computer,Information Technology,D7-生态链(MSFT)
+HPE,Hewlett Packard Enterprise,Information Technology,D7-生态链(MSFT)
+MMM,3M Company,Industrials,D7-生态链(MSFT)
+GOOGL,Alphabet,Communication Services,D7-生态链(AVGO/BRK.B/INTU/ADBE)
+2454.TW,MediaTek,Information Technology,D7-生态链(AVGO/TSM)
+DAL,Delta Air Lines,Industrials,D7-生态链(BRK.B)
+AMZN,Amazon,Consumer Discretionary,D7-生态链(INTU)
+AMAT,Applied Materials,Information Technology,D7-生态链(TSM)
+INTC,Intel,Information Technology,D7-生态链(TSM)
+MA,Mastercard,Financials,D7-生态链(PYPL)
+COIN,Coinbase,Financials,D7-生态链(PYPL)
+FI,Fiserv,Financials,D7-生态链(PYPL)
+UNH,UnitedHealth Group,Health Care,D7-生态链(CI)
+CVS,CVS Health,Health Care,D7-生态链(CI)
+KKR,KKR & Co,Financials,D7-生态链(VST)
+ETN,Eaton,Industrials,D7-生态链(VST)
+VRT,Vertiv,Information Technology,E-缺口映射(AI硬件)
+TXN,Texas Instruments,Information Technology,E-缺口映射(AI硬件)
+CRDO,Credo Technology,Information Technology,E-缺口映射(AI硬件)
+CSCO,Cisco Systems,Information Technology,E-缺口映射(AI平台)
+PLTR,Palantir,Information Technology,E-缺口映射(AI平台)
+INOD,Innodata,Information Technology,E-缺口映射(AI平台)

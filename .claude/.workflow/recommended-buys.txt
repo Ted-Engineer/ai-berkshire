@@ -1,2 +1,4 @@
-CRWV
-CRCL
+# 第10槽位触发型推荐（🟠档只触发价）
+# 槽位分配：PGR今晚判据优先；不过→APLD $26-26.5；CRDO $230-以下9/1前
+# 触发型登记（8-18验证链沿用，成交前按watchlist规则重验）：CRDO/PGR/MSTR/NVDA
+APLD

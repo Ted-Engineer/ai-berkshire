@@ -1,0 +1,3 @@
+# conditional buys - pending triggers
+PGR  # 条件：8/19月报CR≤88.5+NPW≥5%+PIF≥6%+腾位
+CEG  # 条件：触发+腾位

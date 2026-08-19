@@ -1,0 +1,374 @@
+ticker,company,gics_sector,source
+PGR,Progressive,Financials-Insurance,A-watchlist
+CEG,Constellation Energy,Utilities,A-watchlist
+CRDO,Credo Technology,InfoTech-Semis,A-watchlist
+FNV,Franco-Nevada,Materials-GoldRoyalty,A-watchlist(I对冲)
+AMAT,Applied Materials,InfoTech-SemiEquipment,A-watchlist
+GOOGL,Alphabet,CommServices,A-watchlist
+MU,Micron,InfoTech-Semis,A-watchlist
+NVDA,NVIDIA,InfoTech-Semis,A-watchlist
+COHR,Coherent,InfoTech-Optics,A-watchlist
+CRWV,CoreWeave,InfoTech-ITServices,A-watchlist
+NBIS,Nebius,InfoTech-ITServices,A-watchlist
+TLN,Talen Energy,Utilities,A-watchlist
+ANET,Arista Networks,InfoTech-Hardware,A-watchlist
+AMKR,Amkor Technology,InfoTech-Semis,A-watchlist
+LRCX,Lam Research,InfoTech-SemiEquipment,A-watchlist
+LEU,Centrus Energy,Energy-NuclearFuel,A-watchlist
+EXEL,Exelixis,HealthCare-Biotech,A-watchlist
+TMUS,T-Mobile US,CommServices-Telecom,A-watchlist
+DAL,Delta Air Lines,Industrials-Airlines,A-watchlist
+HUBB,Hubbell,Industrials-ElectricalEquip,A-watchlist
+GEV,GE Vernova,Industrials-ElectricalEquip,A-watchlist
+VRT,Vertiv,Industrials-Cooling,A-watchlist
+MELI,MercadoLibre,ConsDiscretionary-Retail,A-watchlist
+CRCL,Circle,Financials-Stablecoin,A-watchlist(I加密修复)
+COIN,Coinbase,Financials-Crypto,A-watchlist(I加密修复)
+CLSK,CleanSpark,InfoTech-Mining,A-watchlist(I加密修复)
+HUT,Hut 8,InfoTech-Mining,A-watchlist(I加密修复)
+IREN,IREN,InfoTech-AICloud,A-watchlist
+MSTR,MicroStrategy,Financials-BTCProxy,A-watchlist(I加密修复)
+FN,Fabrinet,InfoTech-OpticsEMS,D-bottleneck
+VECO,Veeco Instruments,InfoTech-SemiEquipment,D-bottleneck
+ASML,ASML Holding,InfoTech-SemiEquipment,C-funnel-硬件
+KLAC,KLA Corporation,InfoTech-SemiEquipment,C-funnel-硬件
+ONTO,Onto Innovation,InfoTech-SemiEquipment,C-funnel-硬件
+LITE,Lumentum,InfoTech-Optics,C-funnel-硬件
+APLD,Applied Digital,InfoTech-DataCenterREIT,C-funnel-爆发
+ALAB,Astera Labs,InfoTech-Semis,C-funnel-爆发
+ASTS,AST SpaceMobile,CommServices-Satellite,C-funnel-爆发
+IONQ,IonQ,InfoTech-Quantum,C-funnel-爆发
+WPM,Wheaton Precious Metals,Materials-GoldRoyalty,C-funnel-加密对冲
+OR,OR Royalties,Materials-GoldRoyalty,C-funnel-加密对冲
+BE,Bloom Energy,Utilities-FuelCell,v54-B-GICS
+ALB,Albemarle,Materials-Lithium,v54-B-GICS
+FCX,Freeport,Materials-Copper,v54-B-GICS
+MTRN,Materion,Materials-Specialty,v54-B-GICS
+CASA,Casella,Industrials-Waste,v54-B-GICS
+CWST,Clean Harbors,Industrials-Waste,v54-B-GICS
+LUNR,Intuitive Machines,Industrials-Space,v54-B-GICS
+BA,Boeing,Industrials-Aerospace,v54-B-GICS
+NSC,Norfolk Southern,Industrials-Railroad,v54-B-GICS
+UNP,Union Pacific,Industrials-Railroad,v54-B-GICS
+GNTX,Gentex,ConsDisc-AutoParts,v54-B-GICS
+F,Ford,ConsDisc-Autos,v54-B-GICS
+RIVN,Rivian,ConsDisc-Autos,v54-B-GICS
+NIO,NIO,ConsDisc-Autos,v54-B-GICS
+TSLA,Tesla,ConsDisc-Autos,v54-B-GICS
+TNL,Travel+Leisure,ConsDisc-Travel,v54-B-GICS
+NCLH,Norwegian Cruise,ConsDisc-Cruise,v54-B-GICS
+RL,Ralph Lauren,ConsDisc-Apparel,v54-B-GICS
+GAP,Gap,ConsDisc-Apparel,v54-B-GICS
+BOOT,Boot Barn,ConsDisc-Retail,v54-B-GICS
+ROST,Ross Stores,ConsDisc-OffPrice,v54-B-GICS
+TGT,Target,Staples-Retail,v54-B-GICS
+VZ,Verizon,CommServ-Telecom,v54-B-GICS
+NFLX,Netflix,CommServ-Streaming,v54-B-GICS
+DIS,Disney,CommServ-Media,v54-B-GICS
+EA,Electronic Arts,CommServ-Gaming,v54-B-GICS
+TTWO,Take-Two,CommServ-Gaming,v54-B-GICS
+KHC,Kraft Heinz,Staples-Food,v54-B-GICS
+BF,Brown-Forman,Staples-Bev,v54-B-GICS
+EPC,Edgewell,Staples-PersonalCare,v54-B-GICS
+ELF,e.l.f. Beauty,Staples-Beauty,v54-B-GICS
+MO,Altria,Staples-Tobacco,v54-B-GICS
+PM,Philip Morris,Staples-Tobacco,v54-B-GICS
+KO,Coca-Cola,Staples-Bev,v54-B-GICS
+GIS,General Mills,Staples-Food,v54-B-GICS
+LNTH,Lantheus,HealthCare-Diag,v54-B-GICS
+LLY,Eli Lilly,HealthCare-Pharma,v54-B-GICS
+JNJ,J&J,HealthCare-Pharma,v54-B-GICS
+PFE,Pfizer,HealthCare-Pharma,v54-B-GICS
+MRK,Merck,HealthCare-Pharma,v54-B-GICS
+ABBV,AbbVie,HealthCare-Pharma,v54-B-GICS
+NVO,Novo,HealthCare-Pharma,v54-B-GICS
+REGN,Regeneron,HealthCare-Pharma,v54-B-GICS
+VKTX,Viking,HealthCare-Biotech,v54-B-GICS
+BCRX,BioCryst,HealthCare-Biotech,v54-B-GICS
+CRNX,Crinetics,HealthCare-Biotech,v54-B-GICS
+ABT,Abbott,HealthCare-MedDevice,v54-B-GICS
+MDT,Medtronic,HealthCare-MedDevice,v54-B-GICS
+SYK,Stryker,HealthCare-MedDevice,v54-B-GICS
+DHR,Danaher,HealthCare-MedTech,v54-B-GICS
+ISRG,Intuitive Surgical,HealthCare-MedDevice,v54-B-GICS
+RMD,ResMed,HealthCare-MedDevice,v54-B-GICS
+BSX,Boston Scientific,HealthCare-MedDevice,v54-B-GICS
+NTRA,Natera,HealthCare-Diag,v54-B-GICS
+UNH,UnitedHealth,HealthCare-Insurer,v54-B-GICS
+STT,State Street,Financials-Bank,v54-B-GICS
+PB,Prosperity,Financials-RegionalBank,v54-B-GICS
+JPM,JPMorgan,Financials-Bank,v54-B-GICS
+GS,Goldman,Financials-Bank,v54-B-GICS
+BAC,BofA,Financials-Bank,v54-B-GICS
+WBS,Webster,Financials-RegionalBank,v54-B-GICS
+KKR,KKR,Financials-AltMgr,v54-B-GICS
+BX,Blackstone,Financials-AltMgr,v54-B-GICS
+APO,Apollo,Financials-AltMgr,v54-B-GICS
+BLK,BlackRock,Financials-AssetMgr,v54-B-GICS
+PANW,Palo Alto,InfoTech-Cyber,v54-B-GICS
+CRWD,CrowdStrike,InfoTech-Cyber,v54-B-GICS
+ZS,Zscaler,InfoTech-Cyber,v54-B-GICS
+OKTA,Okta,InfoTech-Cyber,v54-B-GICS
+FTNT,Fortinet,InfoTech-Cyber,v54-B-GICS
+TEAM,Atlassian,InfoTech-Software,v54-B-GICS
+PLTR,Palantir,InfoTech-Software,v54-B-GICS
+CRM,Salesforce,InfoTech-Software,v54-B-GICS
+NOW,ServiceNow,InfoTech-Software,v54-B-GICS
+WDAY,Workday,InfoTech-Software,v54-B-GICS
+MNDY,monday.com,InfoTech-Software,v54-B-GICS
+SNOW,Snowflake,InfoTech-Software,v54-B-GICS
+DT,Dynatrace,InfoTech-Software,v54-B-GICS
+DELL,Dell,InfoTech-Hardware,v54-B-GICS
+CDW,CDW,InfoTech-ITDist,v54-B-GICS
+HPE,HPE,InfoTech-Hardware,v54-B-GICS
+SMCI,Super Micro,InfoTech-Servers,v54-B-GICS
+INTC,Intel,InfoTech-Semis,v54-B-GICS
+AMD,AMD,InfoTech-Semis,v54-B-GICS
+QCOM,Qualcomm,InfoTech-Semis,v54-B-GICS
+MRVL,Marvell,InfoTech-Semis,v54-B-GICS
+SNDK,Sandisk,InfoTech-Memory,v54-B-GICS
+MU,Micron,InfoTech-Semis,v54-B-GICS
+SKHY,SK hynix ADR,InfoTech-Memory,v54-B-AI4
+AAOI,Applied Opto,InfoTech-Optics,v54-B-AI3
+LITE,Lumentum,InfoTech-Optics,v54-B-AI3
+AXTI,AXT,Materials-CompoundSemi,v54-B-AI3
+CIEN,Ciena,InfoTech-Networking,v54-B-AI3
+COHR,Coherent,InfoTech-Optics,v54-B-AI3
+FN,Fabrinet,InfoTech-Optics,v54-D-bottleneck
+GLW,Corning,Industrials-Optical,v54-B-AI3
+ALAB,Astera Labs,InfoTech-Connect,v54-H爆发
+CBRS,Cerebras,InfoTech-AICompute,v54-H爆发
+PONY,Pony AI,InfoTech-Robotaxi,v54-H爆发
+IREN,IREN,InfoTech-AICloud,v54-H爆发
+CRWV,CoreWeave,InfoTech-Neocloud,v54-H爆发
+NBIS,Nebius,InfoTech-Neocloud,v54-H爆发
+CIFR,Cipher,InfoTech-Mining,v54-I加密
+HUT,Hut 8,InfoTech-Mining,v54-I加密
+MSTR,MicroStrategy,Financials-BTC,v54-I加密
+XYZ,Block,Financials-Fintech,v54-I加密
+HOOD,Robinhood,Financials-Broker,v54-I加密
+GTTY? G? Galaxy,Financials-Crypto,v54-I加密
+SE? SE? Skip,Galaxy Digital,Financials-Crypto,v54-I加密
+BW,Babcock&Wilcox,Industrials-Power,v54-B-AI7
+BWXT,BWX Tech,Industrials-Nuclear,v54-B-AI7
+OKLO,Oklo,Utilities-SMR,v54-B-AI7
+SMR,NuScale,Utilities-SMR,v54-B-AI7
+CCJ,Cameco,Utilities-Uranium,v54-B-AI7
+LEU,Centrus,Energy-NuclearFuel,v54-B-AI7
+PWR,Quanta,Industrials-Grid,v54-B-AI8
+ETR,Entergy,Utilities,v54-B-GICS
+NEE,NextEra,Utilities,v54-B-GICS
+SRE,Sempra,Utilities,v54-D6
+FLNC,Fluence,Utilities-Storage,v54-B-GICS
+VRT,Vertiv,Industrials-Cooling,v54-B-AI9
+LGN,Legence,Industrials-Mech,v54-B-AI10
+CAT,Caterpillar,Industrials-Machinery,v54-B-AI10
+GNRC,Generac,Industrials-PowerGen,v54-B-AI10
+DLR,Digital Realty,REIT-DC,v54-B-GICS
+EQIX,Equinix,REIT-DC,v54-B-GICS
+O,Realty Income,REIT,v54-B-GICS
+PLD,Prologis,REIT,v54-B-GICS
+AHR,American Healthcare REIT,REIT-Health,v54-B-GICS
+NEM,Newmont,Materials-Gold,v54-nonAI14
+GOLD,Barrick,Materials-Gold,v54-nonAI14
+ERO,Ero Copper,Materials-Copper,v54-nonAI14
+KGC,Kinross,Materials-Gold,v54-nonAI14
+FSM,Fortuna,Materials-Gold,v54-nonAI14
+CDE,Coeur,Materials-Silver,v54-nonAI14
+DKNG,DraftKings,ConsDisc-iGaming,v54-nonAI9
+FLUT,Flutter,ConsDisc-iGaming,v54-nonAI9
+PENN,PENN,ConsDisc-iGaming,v54-nonAI9
+CENT,Central Garden,Staples-Pet,v54-nonAI10
+CHWY,Chewy,ConsDisc-Pet,v54-nonAI10
+TRUP,Trupanion,Financials-PetIns,v54-nonAI10
+JD,JD.com,ConsDisc-Ecommerce,v54-nonAI13
+PDD,PDD,ConsDisc-Ecommerce,v54-nonAI13
+AUR,Aurora,Industrials-AV,v54-B-AI14
+LMT,Lockheed,Industrials-Defense,v54-nonAI2
+NOC,Northrop,Industrials-Defense,v54-nonAI2
+GD,General Dynamics,Industrials-Defense,v54-nonAI2
+RTX,RTX,Industrials-Defense,v54-nonAI2
+HWM,Howmet,Industrials-Aero,v54-nonAI2
+GE,GE Aerospace,Industrials-Aero,v54-D6
+GENI,Genius Sports,ConsDisc-Betting,v54-D6
+CSTM,Constellium,Materials-Aluminum,v54-D6
+XOM,Exxon,Energy-Oil,v54-B-GICS
+CVX,Chevron,Energy-Oil,v54-B-GICS
+OXY,Occidental,Energy-Oil,v54-B-GICS
+SLB,SLB,Energy-Oilfield,v54-B-GICS
+WMB,Williams,Energy-Midstream,v54-B-GICS
+EPD,Enterprise,Energy-Midstream,v54-B-GICS
+KMI,Kinder Morgan,Energy-Midstream,v54-B-GICS
+OKE,ONEOK,Energy-Midstream,v54-B-GICS
+SPCX,SpaceX,Industrials-Space,v54-D5
+AEHR,Aehr Test,InfoTech-SemiTest,v54-D6
+VICR,Vicor,InfoTech-Power,v54-D6
+ACMR,ACM Research,InfoTech-SemiEquip,v54-D6
+AMKR,Amkor,InfoTech-Semi,v54-D-bottleneck
+ONTO,Onto,InfoTech-SemiEquip,v54-C-funnel
+TER,Teradyne,InfoTech-SemiTest,v54-D7
+VECO,Veeco,InfoTech-SemiEquip,v54-D-bottleneck
+FORM,FormFactor,InfoTech-ProbeCard,v54-D7
+IONQ,IonQ,InfoTech-Quantum,v54-C-funnel
+ASTS,AST SpaceMobile,CommServ-Sat,v54-H爆发
+RKLB,Rocket Lab,Industrials-Space,v54-C-funnel
+LMND,Lemonade,Financials-InsurTech,v54-H爆发
+CSGP,CoStar,Industrials-REData,v54-H爆发
+APLD,Applied Digital,InfoTech-AICloud,v54-C-funnel
+GRAB,Grab,ConsDisc-Ride,v54-D6
+NU,Nu Holdings,Financials-FinTech,v54-D6
+AXP,Amex,Financials-Payments,v54-G生态链
+AEP,AEP,Utilities,v54-G生态链
+BILL,BILL,InfoTech-Fintech,v54-G生态链
+CLSK,CleanSpark,InfoTech-Mining,v54-A-watchlist
+ROL,Rollins,CommServ-PestControl,v54-并入池(B)
+BIRK,Birkenstock,ConsDisc-Footwear,v54-并入池(B)
+SLS,SELLAS Life Sciences,HealthCare-Biotech,v54-并入池(B)
+CFG,Citizens Financial,Financials-RegionalBank,v54-并入池(B)
+TFC,Truist,Financials-Bank,v54-并入池(B)
+AII,American Integrity,Financials-Insurance,v54-并入池(B)
+AIG,AIG,Financials-Insurance,v54-并入池(B)
+MKL,Markel,Financials-Insurance,v54-并入池(B)
+LNC,Lincoln National,Financials-Life,v54-并入池(B)
+AFG,American Financial,Financials-Insurance,v54-并入池(B)
+NICE,NICE,InfoTech-Software,v54-并入池(B)
+AVPT,AvePoint,InfoTech-Software,v54-并入池(B)
+WLDN,Willdan,Industrials-GridServices,v54-并入池(B)
+ENLT,Enlight Renewable,Utilities-Renewables,v54-并入池(B)
+DBD,Diebold Nixdorf,InfoTech-Hardware,v54-并入池(B)
+PLUG,Plug Power,Industrials-Hydrogen,v54-并入池(B)
+WULF,TeraWulf,InfoTech-AICloud,v54-并入池(B)
+HIVE,HIVE Digital,InfoTech-AICloud,v54-并入池(B)
+RIOT,Riot Platforms,InfoTech-AICloud,v54-并入池(B)
+BTBT,Bit Digital,InfoTech-AICloud,v54-并入池(B)
+BTDR,Bitdeer,InfoTech-AICloud,v54-并入池(B)
+BIDU,Baidu,CommServices-Search,v54-并入池(B)
+SATL,Satellogic,Industrials-Satellite,v54-并入池(H)
+HON,Honeywell,Industrials-Conglomerate,v54-并入池(D3)
+KBR,KBR,Industrials-Defense,v54-并入池(D3)
+SNAP,Snap,CommServices-Social,v54-并入池(D4)
+APP,AppLovin,CommServices-AdTech,v54-并入池(D4)
+SOFI,SoFi,Financials-Fintech,v54-并入池(D4)
+ATEC,Alphatec,HealthCare-MedDevice,v54-并入池(D5)
+HTHT,H World,ConsDisc-Hotels,v54-并入池(B)
+FIGR,Figure Technology,Financials-Fintech,v54-并入池(D6)
+RUM,Rumble,CommServices-Media,v54-并入池(D6)
+VIAV,Viavi Solutions,InfoTech-Optics,v54-并入池(D6)
+SMTC,Semtech,InfoTech-Optics,v54-并入池(D6)
+ARGX,argenx,HealthCare-Biotech,v54-并入池(D6)
+CAMT,Camtek,InfoTech-SemiEquipment,v54-并入池(C)
+ETN,Eaton,Industrials-Electrical,v54-并入池(C)
+POWL,Powell Industries,Industrials-Electrical,v54-并入池(C)
+NXT,Nextracker,Industrials-SolarTracker,v54-并入池(C)
+QBTS,D-Wave Quantum,InfoTech-Quantum,v54-并入池(C)
+RGTI,Rigetti Computing,InfoTech-Quantum,v54-并入池(C)
+FLY,Firefly Aerospace,Industrials-Space,v54-并入池(C)
+RDW,Redwire,Industrials-Space,v54-并入池(C)
+ACHR,Archer Aviation,Industrials-eVTOL,v54-并入池(C)
+RGLD,Royal Gold,Materials-GoldRoyalty,v54-并入池(C)
+SAND,Sandstorm Gold,Materials-GoldRoyalty,v54-并入池(C)
+GROY,Gold Royalty,Materials-GoldRoyalty,v54-并入池(C)
+B,Barrick Mining,Materials-Gold,v54-并入池(C)
+AEM,Agnico Eagle,Materials-Gold,v54-并入池(C)
+BTG,B2Gold,Materials-Gold,v54-并入池(C)
+PG,Procter & Gamble,Staples-Household,v54-并入池(C)
+WM,Waste Management,Industrials-Waste,v54-并入池(C)
+BR,Broadridge,InfoTech-Fintech,v54-并入池(F)
+HIG,Hartford,Financials-Insurance,v54-并入池(F)
+UBER,Uber,Industrials-Ridehail,v54-并入池(F)
+BELFB,Bel Fuse,InfoTech-ElectronicComponents,v54-并入池(D)
+NRG,NRG Energy,Utilities-IPP,v54-并入池(D)
+ONDS,Ondas,InfoTech-Drone,v54-并入池(B)
+KEEL,Keel? Keel Computing?,Industrials-Marine,v54-并入池(B)
+KLAR,Klarway?,Financials-Fintech,v54-并入池(B)
+AAPL,Apple,InfoTech-Hardware,v54-并入池(B)
+PATH,UiPath,InfoTech-Software,v54-并入池(B)
+AMLX,Amylyx,HealthCare-Biotech,v54-并入池(B)
+AAL,American Airlines,Industrials-Airlines,v54-并入池(B)
+NKE,Nike,ConsDisc-Apparel,v54-并入池(B)
+KURA,Kura Oncology,HealthCare-Biotech,v54-并入池(B)
+ALEC,Alector,HealthCare-Biotech,v54-并入池(B)
+MNTN,MNTN,CommServices-AdTech,v54-并入池(B)
+DH,Definitive Healthcare,HealthCare-HIT,v54-并入池(B)
+T,AT&T,CommServices-Telecom,v54-并入池(B)
+AGNC,AGNC Investment,REIT-Mortgage,v54-并入池(B)
+BMY,Bristol-Myers,HealthCare-Pharma,v54-并入池(B)
+UMC,United Microelectronics,InfoTech-Foundry,v54-并入池(B)
+HBM,Hudbay Minerals,Materials-Copper,v54-并入池(B)
+HST,Host Hotels,REIT-Lodging,v54-并入池(B)
+APA,APA Corp,Energy-Oil,v54-并入池(B)
+NLY,Annaly,REIT-Mortgage,v54-并入池(B)
+AR,Antero Resources,Energy-Gas,v54-并入池(B)
+TAL,TAL Education,ConsDisc-EduChina,v54-并入池(B)
+NOK,Nokia,InfoTech-Networking,v54-并入池(B)
+PBR,Petrobras,Energy-Oil,v54-并入池(B)
+CNQ,Cenovus,Energy-Oil,v54-并入池(B)
+GTLS,Chart Industries,Industrials-GasEquip,v54-并入池(B)
+ROK,Rockwell Automation,Industrials-Automation,v54-并入池(B)
+FDX,FedEx,Industrials-Logistics,v54-并入池(B)
+UPS,UPS,Industrials-Logistics,v54-并入池(B)
+ODFL,Old Dominion,Industrials-Trucking,v54-并入池(B)
+COP,ConocoPhillips,Energy-Oil,v54-并入池(B)
+DVN,Devon,Energy-Oil,v54-并入池(B)
+FANG,Diamondback,Energy-Oil,v54-并入池(B)
+TDG,TransDigm,Industrials-Aerospace,v54-并入池(B)
+AXON,Axon,Industrials-DefenseTech,v54-并入池(B)
+SCHW,Schwab,Financials-Brokers,v54-并入池(B)
+RJF,Raymond James,Financials-Brokers,v54-并入池(B)
+CAG,Conagra,Staples-Food,v54-并入池(B)
+EL,Estee Lauder,Staples-Beauty,v54-并入池(B)
+CLX,Clorox,Staples-Household,v54-并入池(B)
+KMB,Kimberly-Clark,Staples-Household,v54-并入池(B)
+CMCSA,Comcast,CommServices-Cable,v54-并入池(B)
+WBD,Warner Bros Discovery,CommServices-Media,v54-并入池(B)
+PARA,Paramount,CommServices-Media,v54-并入池(B)
+SPOT,Spotify,CommServices-Streaming,v54-并入池(B)
+AMOV,America Movil,CommServices-Telecom,v54-并入池(B)
+AAON,AAON,Industrials-HVAC,v54-并入池(E)
+XNCR,Xencor,HealthCare-Biotech,v54-并入池(E)
+FSLR,First Solar,Industrials-Solar,v54-并入池(E)
+PCG,PG&E,Utilities,v54-并入池(E)
+ADI,Analog Devices,InfoTech-Semis,v54-并入池(E)
+SELV,Solaris Energy,Energy-PowerServ,v54-并入池(E)
+EAT,Brinker,ConsDisc-Restaurant,v54-并入池(E)
+CAVA,Cava,ConsDisc-Restaurant,v54-并入池(E)
+CAKE,Cheesecake Factory,ConsDisc-Restaurant,v54-并入池(E)
+BRO,Brown & Brown,Financials-InsBroker,v54-并入池(E)
+RYAN,Ryan Specialty,Financials-InsBroker,v54-并入池(E)
+WTW,Willis Towers Watson,Financials-InsBroker,v54-并入池(E)
+AON,Aon,Financials-InsBroker,v54-并入池(E)
+AJG,Arthur J Gallagher,Financials-InsBroker,v54-并入池(E)
+QUBT,Quantum Computing,InfoTech-Quantum,v54-并入池(E)
+W,Waya? Wayfair,ConsDisc-Ecommerce,v54-并入池(E)
+CHTR,Charter,CommServices-Cable,v54-并入池(B)
+QSR,Restaurant Brands,ConsDisc-Restaurant,v54-并入池(B)
+YUM,Yum Brands,ConsDisc-Restaurant,v54-并入池(B)
+DPZ,Dominos,ConsDisc-Restaurant,v54-并入池(B)
+MCD,McDonalds,ConsDisc-Restaurant,v54-并入池(B)
+RCL,Royal Caribbean,ConsDisc-Cruise,v54-并入池(B)
+CCL,Carnival,ConsDisc-Cruise,v54-并入池(B)
+MAR,Marriott,ConsDisc-Hotels,v54-并入池(B)
+HLT,Hilton,ConsDisc-Hotels,v54-并入池(B)
+WYND,ConsDisc-Hotels,B-GICS消费服务,v54-并入池()
+TJX,TJX,ConsDisc-OffPrice,v54-并入池(B)
+COST,Costco,Staples-Retail,v54-并入池(B)
+WMT,Walmart,Staples-Retail,v54-并入池(B)
+DG,Dollar General,Staples-Retail,v54-并入池(B)
+DLTR,Dollar Tree,Staples-Retail,v54-并入池(B)
+KR,Kroger,Staples-Retail,v54-并入池(B)
+SFIX,ConsDisc-Retail,B-GICS零售,v54-并入池()
+FIVE,ConsDisc-Retail,B-GICS零售,v54-并入池()
+ULS,ConsDisc-Retail,B-GICS零售,v54-并入池()
+IDXX,IDEXX,HealthCare-PetMed,v54-并入池(B)
+UBSI,Financials-RegionalBank,B-GICS银行,v54-并入池()
+FNB,F.N.B. Corp,Financials-RegionalBank,v54-并入池(B)
+WAL,Western Alliance,Financials-RegionalBank,v54-并入池(B)
+EWBC,East West Bancorp,Financials-RegionalBank,v54-并入池(B)
+HWC,Hancock Whitney,Financials-RegionalBank,v54-并入池(B)
+SNV,Synovus,Financials-RegionalBank,v54-并入池(B)
+VRTX,Vertex,HealthCare-Pharma,v54-并入池(B)
+ALNY,Alnylam,HealthCare-Biotech,v54-并入池(B)
+SGEN,HealthCare-Biotech,B-GICS生物,v54-并入池()
+TXG,HealthCare-Tools,B-GICS医疗设备,v54-并入池()
+ZBH,Zimmer Biomet,HealthCare-MedDevice,v54-并入池(B)
+CI,Cigna,HealthCare-Insurer,v54-并入池(B)

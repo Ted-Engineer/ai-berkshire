@@ -1,0 +1,62 @@
+ticker,company,gics_sector,source
+CRWV,CoreWeave,IT Services,AI赛道#1
+NBIS,Nebius Group,IT Services,AI赛道#1
+SFTBY,SoftBank Group ADR,Diversified Financials,AI赛道#1
+MRVL,Marvell Technology,Semiconductors,AI赛道#2
+MDTKY,MediaTek ADR,Semiconductors,AI赛道#2
+AAOI,Applied Optoelectronics,Communications Equipment,AI赛道#3
+MU,Micron Technology,Semiconductors,AI赛道#4
+SNDK,Sandisk,Semiconductors,AI赛道#4
+HXSCL,SK hynix ADR,Semiconductors,AI赛道#4
+ASX,ASE Technology (SPIL CoWoS expansion),Semiconductors,AI赛道#5
+INTC,Intel (EMIB advanced packaging),Semiconductors,AI赛道#5
+ASML,ASML Holding (EUR13.2B orders),Semiconductors,AI赛道#6
+AMAT,Applied Materials,Semiconductors,AI赛道#6
+KLAC,KLA Corp,Semiconductors,AI赛道#6
+LRCX,Lam Research (record revenue),Semiconductors,AI赛道#6
+ENLT,Enlight Renewable Energy,Utilities (Renewables),AI赛道#7
+NRGV,Energy Vault (1.1GW AI assets),Industrials (Electrical Equipment),AI赛道#7
+BE,Bloom Energy,Industrials (Electrical Equipment),AI赛道#7
+POWL,Powell Industries,Industrials (Electrical Equipment),AI赛道#8
+BELFB,Bel Fuse,Electronic Components,AI赛道#8
+VRT,Vertiv ($15B backlog raised guidance),Industrials (Electrical Equipment),AI赛道#9
+ECL,Ecolab (CoolIT liquid cooling acquisition),Materials,AI赛道#9
+DLR,Digital Realty (raised FFO forecast),REITs,AI赛道#10
+PLD,Prologis (data center demand),REITs,AI赛道#10
+LGN,Legence (data center E&C +111% rev),Industrials (Construction & Engineering),AI赛道#10
+CAT,Caterpillar (AI buildout raised outlook),Industrials (Machinery),AI赛道#10
+PLTR,Palantir Technologies,Software,AI赛道#11
+NICE,NICE Ltd (HMRC AI CX deal),Software,AI赛道#11
+DT,Dynatrace (Arize AI eval acquisition),Software,AI赛道#11
+AVPT,AvePoint,Software,AI赛道#11
+GOOGL,Alphabet (Gemini token/API ecosystem),Interactive Media & Services,AI赛道#12
+TSLA,Tesla (Optimus/Cybercab),Consumer Discretionary (Automobiles),AI赛道#13
+VPG,Vishay Precision Group (robot sensors),Electronic Equipment,AI赛道#13
+SCHLY,Schaeffler ADR (humanoid robotics Tier1),Automobile Components,AI赛道#13
+PONY,Pony.ai (Uber Europe 2000+ robotaxi),Software (Autonomous Tech),AI赛道#14
+WRD,WeRide (global robotaxi expansion),Software (Autonomous Tech),AI赛道#14
+MBLY,Mobileye (integrated robotaxi business),Automobile Components,AI赛道#14
+UBER,Uber Technologies (AV network),Industrials,AI赛道#14
+IREN,IREN (AI/HPC data centers),IT Services,AI赛道#15
+WULF,TeraWulf (HPC rev > BTC mining),IT Services,AI赛道#15
+APLD,Applied Digital,IT Services,AI赛道#15
+HUT,Hut 8 ($9.8B Beacon Point AI contract),IT Services,AI赛道#15
+RIOT,Riot Platforms ($9.1B Anthropic deal),Financials (Digital Infrastructure),AI赛道#15
+QCOM,Qualcomm (NPU + OpenAI phones),Semiconductors,AI赛道#16
+AMD,AMD (AI PC cycle),Semiconductors,AI赛道#16
+NVDA,NVIDIA (RTX Spark edge AI),Semiconductors,AI赛道#16
+INOD,Innodata (AI data services),IT Services,AI赛道#17
+AETH,Aether Holdings (AI data JV with OORT),Financials (Digital Assets),AI赛道#17
+GE,GE Aerospace (+26% 3mo beat),Industrials (Aerospace),D6
+AGL,agilon health (Q2 beat raised guidance),Health Care,D6
+CBRS,Cerebras (Q2 guidance raise),Semiconductors,D6
+LLY,Eli Lilly (beat and raised),Health Care,D6
+PLUG,Plug Power (earnings beat lifted 2026 rev),Industrials (Electrical Equipment),D6
+AEHR,Aehr Test Systems (optics earnings surge),Semiconductors,D6
+AAPL,Apple (earnings watch mover),Tech Hardware,D6
+ALAB,Astera Labs (+200% 3mo),Semiconductors,D6
+SATL,Satellogic (high revenue growth),Industrials (Aerospace & Defense),D6
+ORCL,Oracle ($638B backlog),Software,D6
+BBAI,BigBear.ai (backlog expansion),IT Services,D6
+GRC,Gorman-Rupp (analyst upgrades),Industrials (Machinery),D6
+DVN,Devon Energy (upgraded estimates),Energy,D6
