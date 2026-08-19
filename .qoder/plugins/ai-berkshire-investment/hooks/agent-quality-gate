@@ -1,0 +1,71 @@
+#!/usr/bin/env bash
+# PostToolUse hook: Agent调用质量门禁
+# 每次Agent工具调用后触发，检测是否存在"偷懒合并"行为
+# 如果检测到违规，输出拦截信息要求模型回头重做
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PLUGIN_ROOT="$(cd "${SCRIPT_DIR}/.." && pwd)"
+REPO_ROOT="$(cd "${PLUGIN_ROOT}/../../.." && pwd)"
+
+# 只在活跃的rebalance workflow中生效
+WORKFLOW_ACTIVE="${REPO_ROOT}/.claude/.workflow/active"
+if [ ! -f "$WORKFLOW_ACTIVE" ]; then
+  exit 0
+fi
+
+# 读取hook输入（工具调用的JSON数据，通过stdin或环境变量）
+TOOL_INPUT="${TOOL_INPUT:-}"
+if [ -z "$TOOL_INPUT" ] && [ ! -t 0 ]; then
+  TOOL_INPUT=$(cat 2>/dev/null || echo "")
+fi
+
+# 如果无法获取输入，静默退出（不阻塞正常工作流）
+if [ -z "$TOOL_INPUT" ]; then
+  exit 0
+fi
+
+# 检测违规模式：
+# 1. prompt中同时包含多个ticker（合并多只股票到1个Agent）
+# 2. prompt中包含"同时分析"/"四个维度"/"合并"等关键词（合并视角）
+# 3. prompt中同时包含"段永平"+"巴菲特"+"芒格"+"李录"（1个Agent做4个视角）
+
+VIOLATION=""
+
+# 检测多ticker合并（在prompt字段中查找多个持仓ticker）
+REAL_TICKERS=$(echo "$TOOL_INPUT" | grep -oE '(META|BABA|MSFT|ADBE|AVGO|BRK|INTU|TSM|PYPL|VST|NRG|COIN|CRCL|MSTR|APLD|NBIS|CRDO|SMCI)' | sort -u | wc -l | xargs || echo "0")
+if [ "$REAL_TICKERS" -gt 1 ] 2>/dev/null; then
+  VIOLATION="检测到单个Agent中包含${REAL_TICKERS}只股票。每只股票必须独立4个Agent分析。"
+fi
+
+# 检测视角合并（1个Agent试图做4个视角）
+PERSPECTIVE_COUNT=0
+echo "$TOOL_INPUT" | grep -q "段永平" && PERSPECTIVE_COUNT=$((PERSPECTIVE_COUNT + 1)) || true
+echo "$TOOL_INPUT" | grep -q "巴菲特" && PERSPECTIVE_COUNT=$((PERSPECTIVE_COUNT + 1)) || true
+echo "$TOOL_INPUT" | grep -q "芒格" && PERSPECTIVE_COUNT=$((PERSPECTIVE_COUNT + 1)) || true
+echo "$TOOL_INPUT" | grep -q "李录" && PERSPECTIVE_COUNT=$((PERSPECTIVE_COUNT + 1)) || true
+
+if [ "$PERSPECTIVE_COUNT" -ge 3 ]; then
+  VIOLATION="检测到单个Agent被要求同时执行${PERSPECTIVE_COUNT}个大师视角。每个视角必须是独立Agent。"
+fi
+
+# 检测"效率"借口关键词
+if echo "$TOOL_INPUT" | grep -qiE "节省时间|save time|for efficiency|合并分析|同时完成.*维度" 2>/dev/null; then
+  VIOLATION="检测到以效率为理由的合并行为。质量 > 速度。这是投资，不是赶作业。"
+fi
+
+# 如果检测到违规，输出拦截信息
+if [ -n "$VIOLATION" ]; then
+  # 记录违规到日志
+  echo "$(date -u '+%Y-%m-%dT%H:%M:%SZ') | VIOLATION | ${VIOLATION}" >> "${REPO_ROOT}/.claude/.workflow/quality-violations.log"
+  
+  # 输出拦截JSON（告知模型回头重做）
+  cat << EOF
+{"decision": "warn", "message": "🔴 质量门禁拦截：${VIOLATION}\n\n⚠️ 你正在偷懒。请立即停止当前行为，回头按要求完整执行：\n1. 每只股票 = 4个独立GeneralPurpose Agent（段永平/巴菲特/芒格/李录各自独立）\n2. 在同一条消息中并行调用4次Agent工具\n3. 第N只股票和第1只股票的分析质量必须完全一致\n4. 以'效率'为理由合并 = 对用户资金的不负责任\n\n请重新执行，使用4个独立Agent。"}
+EOF
+  exit 0
+fi
+
+# 无违规，静默通过
+exit 0
