@@ -1,6 +1,6 @@
 schema_version: 1
 module_path: ""
-title: AI-berkshire 投研流水线与多客户端 Skill 分发根
+title: AI Berkshire 投研框架根仓库
 scope:
     - README.md
     - CODE_OF_CONDUCT.md
