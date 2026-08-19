@@ -21,6 +21,16 @@
               "timeout": 5
             }
           ]
+        },
+        {
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash .qoder/plugins/ai-berkshire-investment/hooks/rebalance-context",
+              "timeout": 5,
+              "statusMessage": "Rebalance质量契约注入…"
+            }
+          ]
         }
       ],
       "UserPromptSubmit": [
@@ -44,6 +54,17 @@
               "command": "bash F:/ai-berkshire/scripts/skill-tracker-hook.sh",
               "timeout": 5,
               "statusMessage": "Recording skill execution..."
+            }
+          ]
+        },
+        {
+          "matcher": "Agent|GeneralPurpose|Task",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash .qoder/plugins/ai-berkshire-investment/hooks/agent-quality-gate",
+              "timeout": 5,
+              "statusMessage": "Agent质量门禁检查…"
             }
           ]
         },
