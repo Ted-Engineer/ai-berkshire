@@ -1,258 +1,568 @@
-2026-08-19T00:26:19Z | 819b3-B-GICS/gnews | undervalued energy oil gas pipeline midstream stocks 2026
-2026-08-19T00:26:21Z | 819b3-B-GICS/gnews | energy stocks earnings beat guidance raised 2026
-2026-08-19T00:26:22Z | 819b3-B-GICS/gnews | undervalued chemical metals mining specialty materials stocks 2026
-2026-08-19T00:26:23Z | 819b3-B-GICS/gnews | lithium uranium copper miners production growth 2026
-2026-08-19T00:26:24Z | 819b3-B-GICS/gnews | undervalued industrial machinery defense aerospace stocks 2026
-2026-08-19T00:26:26Z | 819b3-B-GICS/gnews | defense stocks record backlog order growth 2026
-2026-08-19T00:26:27Z | 819b3-B-GICS/gnews | undervalued airline railroad trucking logistics shipping stocks 2026
-2026-08-19T00:26:28Z | 819b3-B-GICS/gnews | shipping railroad stocks earnings recovery 2026
-2026-08-19T00:26:30Z | 819b3-B-GICS/gnews | undervalued auto EV auto parts dealer stocks 2026
-2026-08-19T00:26:31Z | 819b3-B-GICS/gnews | EV stocks deliveries growth 2026
-2026-08-19T00:26:32Z | 819b3-B-GICS/gnews | undervalued consumer electronics luxury apparel stocks 2026
-2026-08-19T00:26:34Z | 819b3-B-GICS/gnews | luxury brand pricing power revenue growth 2026
-2026-08-19T00:26:35Z | 819b3-B-GICS/gnews | undervalued restaurant hotel casino cruise travel stocks 2026
-2026-08-19T00:26:36Z | 819b3-B-GICS/gnews | travel leisure cruise stocks earnings beat 2026
-2026-08-19T00:26:37Z | 819b3-B-GICS/gnews | undervalued ecommerce grocery discount retail stocks 2026
-2026-08-19T00:26:38Z | 819b3-B-GICS/gnews | retail stocks same store sales margin expansion 2026
-2026-08-19T00:26:48Z | 819b3-B-GICS/gnews | undervalued telecom wireless tower stocks 2026
-2026-08-19T00:26:49Z | 819b3-B-GICS/gnews | telecom stocks FCF dividend growth 2026
-2026-08-19T00:26:51Z | 819b3-B-GICS/gnews | undervalued streaming media gaming advertising stocks 2026
-2026-08-19T00:26:52Z | 819b3-B-GICS/gnews | streaming gaming stocks subscriber growth profitability 2026
-2026-08-19T00:26:53Z | 819b3-B-GICS/gnews | undervalued grocery food retail drug store stocks 2026
-2026-08-19T00:26:54Z | 819b3-B-GICS/gnews | grocery drugstore stocks defensive recession stable 2026
-2026-08-19T00:26:55Z | 819b3-B-GICS/gnews | undervalued food beverage tobacco alcohol stocks 2026
-2026-08-19T00:26:56Z | 819b3-B-GICS/gnews | food beverage dividend aristocrats pricing power 2026
-2026-08-19T00:26:58Z | 819b3-B-GICS/gnews | undervalued household personal care beauty stocks 2026
-2026-08-19T00:26:59Z | 819b3-B-GICS/gnews | consumer staples quality moat margin stability 2026
-2026-08-19T00:27:00Z | 819b3-B-GICS/gnews | undervalued medical device hospital health IT stocks 2026
-2026-08-19T00:27:01Z | 819b3-B-GICS/gnews | medical device FDA approvals new product cycle 2026
-2026-08-19T00:27:03Z | 819b3-B-GICS/gnews | undervalued pharma biotech drug manufacturing stocks 2026
-2026-08-19T00:27:04Z | 819b3-B-GICS/gnews | biotech pipeline catalysts FDA approvals 2026
-2026-08-19T00:27:05Z | 819b3-B-GICS/gnews | undervalued bank regional bank money center stocks 2026
-2026-08-19T00:27:06Z | 819b3-B-GICS/gnews | bank stocks NIM expansion earnings growth 2026
-2026-08-19T00:27:08Z | 819b3-B-GICS/gnews | undervalued fintech payment asset manager exchange stocks 2026
-2026-08-19T00:27:09Z | 819b3-B-GICS/gnews | fintech transaction volume TPV growth 2026
-2026-08-19T00:27:10Z | 819b3-B-GICS/gnews | undervalued insurance P&C life reinsurance broker stocks 2026
-2026-08-19T00:27:11Z | 819b3-B-GICS/gnews | insurance hard market combined ratio improvement 2026
-2026-08-19T00:27:12Z | 819b3-B-GICS/gnews | undervalued software SaaS cybersecurity AI software stocks 2026
-2026-08-19T00:27:14Z | 819b3-B-GICS/gnews | SaaS NRR 120 net revenue retention 2026
-2026-08-19T00:27:15Z | 819b3-B-GICS/gnews | undervalued tech hardware server storage networking stocks 2026
-2026-08-19T00:27:17Z | 819b3-B-GICS/gnews | server storage networking AI demand surge 2026
-2026-08-19T00:27:20Z | 819b3-B-GICS/gnews | undervalued semiconductor design foundry memory equipment 2026
-2026-08-19T00:27:21Z | 819b3-B-GICS/gnews | semiconductor revenue growth 50% AI 2026
-2026-08-19T00:27:22Z | 819b3-B-GICS/gnews | undervalued utility electric power gas nuclear stocks 2026
-2026-08-19T00:27:23Z | 819b3-B-GICS/gnews | utility data center power demand IPP 2026
-2026-08-19T00:27:25Z | 819b3-B-GICS/gnews | undervalued REIT industrial data center healthcare 2026
-2026-08-19T00:27:26Z | 819b3-B-GICS/gnews | data center REIT FFO growth 2026
-2026-08-19T00:27:28Z | 819b3-B-GICS/gnews | REIT dividend yield discount NAV 2026
-2026-08-19T00:27:39Z | 819b3-B-AI17/gnews | AI cloud GPU rental neocloud providers 2026
-2026-08-19T00:27:40Z | 819b3-B-AI17/gnews | coreweave nebius earnings revenue growth 2026
-2026-08-19T00:27:41Z | 819b3-B-AI17/gnews | custom AI ASIC accelerator design win 2026
-2026-08-19T00:27:42Z | 819b3-B-AI17/gnews | broadcom marvell XPU customer pipeline 2026
-2026-08-19T00:27:43Z | 819b3-B-AI17/gnews | 800G 1.6T optical module demand 2026
-2026-08-19T00:27:44Z | 819b3-B-AI17/gnews | co-packaged optics CPO suppliers 2026
-2026-08-19T00:27:46Z | 819b3-B-AI17/gnews | HBM4 capacity sold out memory stocks 2026
-2026-08-19T00:27:48Z | 819b3-B-AI17/gnews | micron SK hynix HBM revenue 2026
-2026-08-19T00:27:49Z | 819b3-B-AI17/gnews | advanced packaging CoWoS capacity 2026
-2026-08-19T00:27:50Z | 819b3-B-AI17/gnews | OSAT ABF substrate shortage stocks 2026
-2026-08-19T00:27:52Z | 819b3-B-AI17/gnews | WFE wafer fab equipment record 2026
-2026-08-19T00:27:53Z | 819b3-B-AI17/gnews | ASML AMAT KLAC backlog 2026
-2026-08-19T00:27:54Z | 819b3-B-AI17/gnews | data center power IPP gigawatt 2026
-2026-08-19T00:27:55Z | 819b3-B-AI17/gnews | hyperscaler nuclear PPA signed 2026
-2026-08-19T00:27:56Z | 819b3-B-AI17/gnews | transformer grid equipment shortage 2026
-2026-08-19T00:27:58Z | 819b3-B-AI17/gnews | liquid cooling CDU Vertiv 2026
-2026-08-19T00:27:59Z | 819b3-B-AI17/gnews | data center construction E&C backlog 2026
-2026-08-19T00:28:00Z | 819b3-B-AI17/gnews | AI agent enterprise ARR growth 2026
-2026-08-19T00:28:02Z | 819b3-B-AI17/gnews | OpenAI Anthropic token revenue valuation 2026
-2026-08-19T00:28:04Z | 819b3-B-AI17/gnews | humanoid robot production ramp 2026
-2026-08-19T00:28:05Z | 819b3-B-AI17/gnews | robotaxi fleet expansion Pony Uber 2026
-2026-08-19T00:28:06Z | 819b3-B-AI17/gnews | bitcoin miner AI pivot HPC IREN Hut8 2026
-2026-08-19T00:28:07Z | 819b3-B-AI17/gnews | AI PC NPU qualcomm mediatek 2026
-2026-08-19T00:28:09Z | 819b3-B-AI17/gnews | AI data labeling synthetic data stocks 2026
-2026-08-19T00:28:10Z | 819b3-B-AI17/gnews | edge AI inference chip stocks 2026
-2026-08-19T00:28:12Z | 819b3-B-AI17/gnews | AI memory DRAM shortage beneficiaries 2026
-2026-08-19T00:28:13Z | 819b3-B-AI17/gnews | cloud spending Q2 2026 record growth
-2026-08-19T00:28:14Z | 819b3-B-AI17/gnews | agentic commerce payments 2026
-2026-08-19T00:28:16Z | 819b3-B-AI17/gnews | AI capex bubble debate August 2026
-2026-08-19T00:28:17Z | 819b3-B-AI17/gnews | neocloud debt credit financing 2026
-2026-08-19T00:28:19Z | 819b3-B-AI17/gnews | Taiwan semiconductor ecosystem suppliers 2026
-2026-08-19T00:28:20Z | 819b3-B-AI17/gnews | AI software valuation recovery 2026
-2026-08-19T00:28:34Z | 819b3-B-nonAI7维/gnews | China consumer stimulus recovery stocks 2026
-2026-08-19T00:28:36Z | 819b3-B-nonAI7维/gnews | Chinese ecommerce valuation re-rating 2026
-2026-08-19T00:28:37Z | 819b3-B-nonAI7维/gnews | gold miners real rates tail hedge 2026
-2026-08-19T00:28:38Z | 819b3-B-nonAI7维/gnews | precious metals royalty central bank buying 2026
-2026-08-19T00:28:40Z | 819b3-B-nonAI7维/gnews | aging population healthcare demand 2026
-2026-08-19T00:28:41Z | 819b3-B-nonAI7维/gnews | defense NATO rearmament stocks 2026
-2026-08-19T00:28:43Z | 819b3-B-nonAI7维/gnews | grid modernization capex stocks 2026
-2026-08-19T00:28:44Z | 819b3-B-nonAI7维/gnews | GLP-1 supply chain manufacturing 2026
-2026-08-19T00:28:46Z | 819b3-B-nonAI7维/gnews | sports betting iGaming 2026
-2026-08-19T00:28:48Z | 819b3-B-nonAI7维/gnews | pet economy stocks 2026
-2026-08-19T00:28:49Z | 819b3-B-nonAI7维/gnews | water infrastructure replacement 2026
-2026-08-19T00:28:50Z | 819b3-B-nonAI7维/gnews | stocks forward PE under 15 ROE 20 FCF yield 2026
-2026-08-19T00:28:51Z | 819b3-B-nonAI7维/gnews | revenue growth over 200% stocks 2026
-2026-08-19T00:28:53Z | 819b3-B-nonAI7维/gnews | recent spin-off activist targets 2026
-2026-08-19T00:28:54Z | 819b3-B-nonAI7维/gnews | stocks 52 week low strong fundamentals 2026
-2026-08-19T00:28:56Z | 819b3-B-nonAI7维/gnews | Berkshire Hathaway 13F Q2 2026
-2026-08-19T00:28:57Z | 819b3-B-nonAI7维/gnews | top hedge fund 13F positions 2026
-2026-08-19T00:28:58Z | 819b3-B-nonAI7维/gnews | earnings beat guidance raise August 2026
-2026-08-19T00:28:59Z | 819b3-B-nonAI7维/gnews | biggest movers this week August 2026
-2026-08-19T00:29:01Z | 819b3-B-nonAI7维/gnews | revenue growth over 100% stocks quarterly 2026
-2026-08-19T00:29:02Z | 819b3-B-nonAI7维/gnews | triple digit revenue growth AI stocks 2026
-2026-08-19T00:29:04Z | 819b3-B-nonAI7维/gnews | fastest growing companies revenue 2026
-2026-08-19T00:29:05Z | 819b3-B-nonAI7维/gnews | revenue doubled year over year stocks 2026
-2026-08-19T00:29:07Z | 819b3-B-nonAI7维/gnews | EBITDA positive first time 2026 AI
-2026-08-19T00:29:08Z | 819b3-B-nonAI7维/gnews | profitability inflection point stocks 2026
-2026-08-19T00:29:09Z | 819b3-B-nonAI7维/gnews | breakeven quarter AI company 2026
-2026-08-19T00:29:11Z | 819b3-B-nonAI7维/gnews | backlog billion AI stocks 2026
-2026-08-19T00:29:13Z | 819b3-B-nonAI7维/gnews | contract wins billion AI infrastructure 2026
-2026-08-19T00:29:15Z | 819b3-B-nonAI7维/gnews | pure play AI cloud stock 2026
-2026-08-19T00:29:17Z | 819b3-B-nonAI7维/gnews | AI networking optical pure play 2026
-2026-08-19T00:29:18Z | 819b3-B-nonAI7维/gnews | HBM memory pure play 2026
-2026-08-19T00:29:21Z | 819b3-B-nonAI7维/gnews | humanoid robot pure play 2026
-2026-08-19T00:29:23Z | 819b3-B-nonAI7维/gnews | undercovered AI stocks low ownership 2026
-2026-08-19T00:29:24Z | 819b3-B-nonAI7维/gnews | small cap AI stocks low analyst coverage 2026
-2026-08-19T00:29:25Z | 819b3-B-nonAI7维/gnews | recent IPO AI stocks revenue growth 2026
-2026-08-19T00:29:27Z | 819b3-B-nonAI7维/gnews | hidden AI stocks undiscovered 2026
-2026-08-19T00:29:28Z | 819b3-B-nonAI7维/gnews | Pony AI Cerebras Astera growth verification 2026
-2026-08-19T00:29:29Z | 819b3-B-nonAI7维/gnews | Applied Digital APLD backlog verification 2026
-2026-08-19T00:29:30Z | 819b3-B-nonAI7维/gnews | IREN CoreWeave HPC growth verification 2026
-2026-08-19T00:29:43Z | 819b3-I修复/gnews | beaten down AI stocks recovery 2026 oversold
-2026-08-19T00:29:44Z | 819b3-I修复/gnews | AI stocks PE historical low recovery 2026
-2026-08-19T00:29:45Z | 819b3-I修复/gnews | software stocks selloff recovery private equity 2026
-2026-08-19T00:29:47Z | 819b3-I修复/gnews | cybersecurity stocks recovery undervalued 2026
-2026-08-19T00:29:48Z | 819b3-I修复/gnews | AI hardware dip buy semiconductor correction 2026
-2026-08-19T00:29:49Z | 819b3-I修复/gnews | SaaS beaten down recovery 2026
-2026-08-19T00:29:51Z | 819b3-I修复/gnews | crypto exchange Coinbase recovery 2026
-2026-08-19T00:29:52Z | 819b3-I修复/gnews | stablecoin Circle USDC regulation 2026
-2026-08-19T00:29:53Z | 819b3-I修复/gnews | bitcoin mining stocks recovery 2026
-2026-08-19T00:29:55Z | 819b3-I修复/gnews | bitcoin proxy stocks correction 2026
-2026-08-19T00:29:56Z | 819b3-I修复/gnews | crypto payments stocks 2026
-2026-08-19T00:29:58Z | 819b3-I修复/gnews | DeFi stocks recovery 2026
-2026-08-19T00:29:59Z | 819b3-I修复/gnews | RWA tokenization stocks 2026
-2026-08-19T00:30:01Z | 819b3-I修复/gnews | crypto infrastructure beaten down 2026
-2026-08-19T00:30:03Z | 819b3-I修复/gnews | crypto custody stocks 2026
-2026-08-19T00:30:04Z | 819b3-I修复/gnews | bitcoin ETF flows institutional 2026
-2026-08-19T00:30:06Z | 819b3-I修复/gnews | crypto regulation SEC stablecoin legislation 2026
-2026-08-19T00:30:08Z | 819b3-I修复/gnews | crypto hardware mining equipment 2026
-2026-08-19T00:30:09Z | 819b3-I修复/gnews | blockchain gaming stocks 2026
-2026-08-19T00:30:11Z | 819b3-I修复/gnews | crypto market recovery outlook 2026
-2026-08-19T00:30:13Z | 819b3-I修复/gnews | bitcoin accumulation on-chain bottom 2026
-2026-08-19T00:30:15Z | 819b3-I修复/gnews | Alibaba Cloud Qwen customers partners 2026
-2026-08-19T00:30:17Z | 819b3-I修复/gnews | Meta AI compute suppliers partners 2026
-2026-08-19T00:30:18Z | 819b3-I修复/gnews | Microsoft Azure AI chip suppliers 2026
-2026-08-19T00:30:20Z | 819b3-I修复/gnews | Adobe Firefly distribution partners 2026
-2026-08-19T00:30:21Z | 819b3-I修复/gnews | Broadcom TPU customers pipeline 2026
-2026-08-19T00:30:23Z | 819b3-I修复/gnews | Berkshire BHE energy partners 2026
-2026-08-19T00:30:24Z | 819b3-I修复/gnews | Intuit AI agents partnerships 2026
-2026-08-19T00:30:25Z | 819b3-I修复/gnews | TSMC CoWoS suppliers partners 2026
-2026-08-19T00:30:26Z | 819b3-I修复/gnews | PayPal Stripe Advent talks 2026
-2026-08-19T00:32:16Z | 819b3-C-funnel/gnews | neocloud CoreWeave Nebius Meta compute threat 2026
-2026-08-19T00:32:22Z | 819b3-C-funnel/gnews | Applied Digital APLD hyperscaler lease contract 2026
-2026-08-19T00:32:27Z | 819b3-D-bottleneck/gnews | TSMC Kinsus EMIB packaging plan
-2026-08-19T00:32:29Z | 819b3-C-funnel/gnews | AST SpaceMobile revenue backlog 2026
-2026-08-19T00:32:29Z | 819b3-D-bottleneck/gnews | Google Intersect Power acquisition
-2026-08-19T00:32:34Z | 819b3-C-funnel/gnews | Credo CRDO AEC revenue growth customer concentration 2026
-2026-08-19T00:32:38Z | 819b3-C-funnel/gnews | IonQ quantum computing revenue bookings 2026
-2026-08-19T00:32:40Z | 819b3-C-funnel/gnews | fastest growing small cap AI stocks 100% revenue growth 2026
-2026-08-19T00:32:40Z | 819b3-D-bottleneck/gnews | Meta compute sell redundant capacity neocloud
-2026-08-19T00:32:42Z | 819b3-D-bottleneck/gnews | OpenAI CFO July annualized revenue
-2026-08-19T00:32:47Z | 819b3-C-funnel/gnews | Rocket Lab RKLB Neutron backlog 2026
-2026-08-19T00:32:54Z | 819b3-C-funnel/gnews | bitcoin price August 2026
-2026-08-19T00:32:56Z | 819b3-D-bottleneck/gnews | ABF substrate Ajinomoto shortage price
-2026-08-19T00:32:58Z | 819b3-D-bottleneck/gnews | InP substrate indium phosphide price hike optical
-2026-08-19T00:33:04Z | 819b3-C-funnel/gnews | bitcoin BTC price level market August 18 2026
-2026-08-19T00:33:06Z | 819b3-C-funnel/gnews | Coinbase COIN stock earnings August 2026
-2026-08-19T00:33:14Z | 819b3-C-funnel/gnews | MicroStrategy MSTR bitcoin premium mNAV August 2026
-2026-08-19T00:33:15Z | 819b3-C-funnel/gnews | Circle CRCL stablecoin USDC August 2026
-2026-08-19T00:33:21Z | 819b3-C-funnel/gnews | bitcoin miner AI datacenter conversion IREN Cipher CleanSpark August 2026
-2026-08-19T00:33:23Z | 819b3-C-funnel/gnews | crypto stocks recovery institutional ETF flows 2026
-2026-08-19T00:33:26Z | 819b3-D-bottleneck/gnews | CoWoS capacity TSMC advanced packaging August
-2026-08-19T00:33:28Z | 819b3-D-bottleneck/gnews | transformer shortage data center power grid equipment lead time
-2026-08-19T00:33:35Z | 819b3-C-funnel/gnews | Anthropic gigawatt Google Broadcom TPU deal 2026
-2026-08-19T00:33:42Z | 819b3-C-funnel/gnews | TSMC Kinsus EMIB substrate certified 2026
-2026-08-19T00:33:43Z | 819b3-C-funnel/gnews | OpenAI CFO July revenue exceeded Q2 2026
-2026-08-19T00:33:48Z | 819b3-D-bottleneck/gnews | fiberglass cloth low Dk AI server shortage price
-2026-08-19T00:33:51Z | 819b3-D-bottleneck/gnews | HBM DRAM shortage SK hynix Micron August
-2026-08-19T00:33:52Z | 819b3-C-funnel/gnews | Micron HBM SK Hynix memory pricing August 2026
-2026-08-19T00:33:54Z | 819b3-C-funnel/gnews | Vertiv power cooling AI datacenter orders August 2026
-2026-08-19T00:34:03Z | 819b3-D-bottleneck/gnews | optical transceiver stocks Fabrinet Coherent rebound
-2026-08-19T00:34:05Z | 819b3-D-bottleneck/gnews | Meta cloud compute service launch August
-2026-08-19T00:34:06Z | 819b3-C-funnel/brave | Anthropic Google Broadcom 3.5GW TPU deal details
-2026-08-19T00:34:25Z | 819b3-D-bottleneck/brave | TSMC quasi-EMIB Kinsus CoWoS choked 2026
-2026-08-19T00:34:28Z | 819b3-D-bottleneck/brave | OpenAI annualized revenue 40 billion IPO Friar enterprise
-2026-08-19T00:34:40Z | 819b3-C-funnel/brave | OpenAI CFO Friar July revenue exceeded Q2 enterprise bigger
-2026-08-19T00:34:51Z | 819b3-C-funnel/brave | TSMC Kinsus EMIB-like packaging TrendForce details
-2026-08-19T00:34:56Z | 819b3-D-bottleneck/gnews | EML laser Coherent Lumentum data center revenue
-2026-08-19T00:34:58Z | 819b3-D-bottleneck/gnews | Kinsus Interconnect substrate BT revenue August
-2026-08-19T00:35:15Z | 819b3-C-funnel/brave | Applied Digital three 15-year leases $20 billion Polaris Forge 3
-2026-08-19T00:35:31Z | 819b3-C-funnel/brave | Applied Digital Delta Forge 1 new tenant 430 MW August 2026
-2026-08-19T00:36:07Z | 819b3-C-funnel/brave | Meta compute neocloud CoreWeave Nebius IREN tumble details
-2026-08-19T00:36:21Z | 819b3-C-funnel/brave | Circle CRCL Morgan Stanley price target $38 CoinDesk
-2026-08-19T00:36:41Z | 819b3-C-funnel/brave | Bitcoin ETF inflows August 2026 three week streak billions
-2026-08-19T00:36:51Z | 819b3-D-bottleneck/gnews | indium China export controls supply crunch semiconductor
-2026-08-19T00:36:52Z | 819b3-D-bottleneck/gnews | 台积电 景硕 EMIB 封装
-2026-08-19T00:36:54Z | 819b3-C-funnel/brave | Vertiv backlog 642026-08-19T00:36:54Z | 819b3-C-funnel/brave | Micron stock above $1000 HBM sold out 2026
-2026-08-19T00:37:01Z | 819b3-C-funnel/brave | Vertiv backlog rally guidance 2026
-2026-08-19T00:37:27Z | 819b3-C-funnel/brave | Soros AI infrastructure stocks bought 247wallst names
-2026-08-19T00:42:24Z | 819b3-C-funnel/gnews | Coinbase Q2 2026 revenue results August
-2026-08-19T00:42:25Z | 819b3-C-funnel/gnews | Nebius Q2 2026 results RPO backlog August
-2026-08-19T00:42:35Z | 819b3-C-funnel/brave | neocloud results Q2 2026 CoreWeave Nebius Cerebras DCD
-2026-08-19T00:42:56Z | 819b3-C-funnel/gnews | Cerebras IPO stock ticker market cap 2026
-2026-08-19T00:43:03Z | 819b3-C-funnel/brave | Cerebras CBRS ticker market cap price August 2026
-2026-08-19T00:49:54Z | 819b3-ck-APLD/stockanalysis | overview page
-2026-08-19T00:50:12Z | 819b3-ck-APLD/edgar | APLD submissions CIK 1144879
-2026-08-19T00:50:43Z | 819b3-ck-MSTR/fetch_quotes | MSTR,BTC-USD,IBIT,COIN,MARA
-2026-08-19T00:50:43Z | 819b3-ck-MSTR/stockanalysis | https://stockanalysis.com/stocks/MSTR/ overview+news
-2026-08-19T00:51:46Z | 819b3-ck-APLD/edgar | June 8-K exhibits lease announcements
-2026-08-19T00:53:05Z | 819b3-ck-APLD/gnews | Applied Digital Delta Forge lease hyperscaler announcement
-2026-08-19T00:53:32Z | 819b3-ck-APLD/edgar | Delta Forge 1 lease PR exhibit 4/23
-2026-08-19T00:53:47Z | 819b3-ck-MSTR/edgar | CIK1050446 submissions JSON + 10-Q mstr-20260630.htm
-2026-08-19T00:53:49Z | 819b3-ck-APLD/brave | Polaris Forge 3 lease counterparty identity
-2026-08-19T00:54:33Z | 819b3-ck-MSTR/brave | MSTR mNAV premium discount history 2025 2026
-2026-08-19T00:54:33Z | 819b3-ck-MSTR/gnews | Strategy MSTR STRC preferred dividend bitcoin sale
-2026-08-19T00:54:50Z | 819b3-ck-MSTR/brave | MicroStrategy BTC Yield metric criticism dilution misleading
-2026-08-19T00:55:25Z | 819b3-ck-MSTR/brave | MSTR 2026 YTD -39 0x0p+0gs bitcoin ETF IBIT
-2026-08-19T00:55:25Z | 819b3-ck-MSTR/brave | MSTR mNAV below 1 first time 2026
-2026-08-19T00:55:37Z | 819b3-ck-MSTR/247wallst | Strategy Sinks 39 0n 2026 Trailing IBIT full article
-2026-08-19T00:55:56Z | 819b3-ck-MSTR/bitmex | MSTR mNAV guide history table
-2026-08-19T00:56:13Z | 819b3-ck-MSTR/gnews | bitcoin 2026 decline reasons halving cycle correction
-2026-08-19T00:56:27Z | 819b3-ck-APLD/gnews | APLD convertible notes offering 2026
-2026-08-19T00:57:16Z | 819b3-ck-APLD/stockanalysis | quarterly financials
-2026-08-19T00:57:30Z | 819b3-ck-APLD/brave | hyperscaler identity speculation
-2026-08-19T00:57:42Z | 819b3-ck-APLD/gnews | APLD convertible notes August 2026
-2026-08-19T00:58:41Z | 819b3-ck-APLD/brave | 2.75 onvertible notes 2030 principal
-2026-08-19T00:58:59Z | 819b3-ck-APLD/brave | MIP HPC Holdings UPA identity
-2026-08-19T00:59:00Z | 819b3-ck-APLD/gnews | class action short seller history
-2026-08-19T00:59:31Z | 819b3-ck-APLD/stockanalysis | peer comps CORZ IREN CRWV
-2026-08-19T01:00:35Z | 819b3-ck-APLD/gnews | NOI run rate timing earnings call
-2026-08-19T01:01:09Z | 819b3-ck-APLD/stockanalysis | statistics valuation page
-2026-08-19T01:02:18Z | 819b3-ck-MSTR/gnews | Strategy MSTR Q2 2026 earnings July 30 reaction +8.2B loss
-2026-08-19T01:09:09Z | 819b3-team-APLD-business/stockanalysis | APLD price 818 close
-2026-08-19T01:09:52Z | 819b3-team-APLD-business/gfinance | APLD price 818 close second source
-2026-08-19T01:10:18Z | 819b3-team-APLD-business/gnews | Applied Digital APLD stock drop August 18 2026 reason
-2026-08-19T01:10:28Z | 819b3-team-APLD-business/gnews | Applied Digital 20.2 billion lease anonymous customer take-or-pay 15-year
-2026-08-19T01:10:44Z | 819b3-team-APLD-business/gnews | CoreWeave Applied Digital 11 billion lease Ellen campus expansion
-2026-08-19T01:11:05Z | 819b3-team-APLD-business/gnews | Applied Digital Oracle 5 billion lease Polaris Forge cloud
-2026-08-19T01:11:07Z | 819b3-team-APLD-business/gnews | Applied Digital Meta Compute Polaris 2 tenant immunity
-2026-08-19T01:12:16Z | 819b3-team-APLD-business/stocktitan | APLD press releases list leases
-2026-08-19T01:12:22Z | 819b3-team-APLD-business/company-ir | applieddigital press releases
-2026-08-19T01:12:48Z | 819b3-team-APLD-business/bingnews | Applied Digital 7.5 billion hyperscaler lease August 2026
-2026-08-19T01:13:33Z | 819b3-team-APLD-business/brave | Applied Digital 7.5 billion hyperscaler lease August 2026
-2026-08-19T01:14:11Z | 819b3-team-APLD-business/company-ir | ir.applieddigital press release list
-2026-08-19T01:14:44Z | 819b3-team-APLD-business/company-ir | PR152 PF3 lease full text
-2026-08-19T01:15:19Z | 819b3-team-APLD-business/company-ir | PR154 Delta Forge 2 210MW lease
-2026-08-19T01:15:45Z | 819b3-team-APLD-business/company-ir | PR159 fiscal Q4 FY2026 results
-2026-08-19T01:15:47Z | 819b3-team-APLD-business/brave | CoreWeave Applied Digital 11 billion lease total
-2026-08-19T01:16:06Z | 819b3-team-APLD-business/gnews | CoreWeave Applied Digital lease expansion 11 billion total
-2026-08-19T01:16:08Z | 819b3-team-APLD-business/brave | Polaris Forge 2 Oracle tenant identity report
-2026-08-19T01:16:40Z | 819b3-team-APLD-business/brave | jsa.net lease history CoreWeave Oracle
-2026-08-19T01:16:43Z | 819b3-team-APLD-business/gnews | Meta Compute cloud announcement hyperscaler AI infrastructure
-2026-08-19T01:17:04Z | 819b3-team-APLD-business/gnews | Applied Digital fiscal first quarter 2027 conference call October
-2026-08-19T01:17:06Z | 819b3-team-APLD-business/brave | Applied Digital Oracle believed tenant Polaris Forge 2
-2026-08-19T01:17:24Z | 819b3-team-APLD-business/brave | 247wallst Oracle AI cloud APLD stock ride
-2026-08-19T01:17:27Z | 819b3-team-APLD-business/yahoo-chart | APLD daily prices Jun-Aug 2026
-2026-08-19T01:18:05Z | 819b3-team-APLD-business/247wallst | Oracle AI cloud powerhouse APLD
-2026-08-19T01:19:03Z | 819b3-team-APLD-business/brave | APLD customer concentration Zacks top customers revenue share
-2026-08-19T01:19:10Z | 819b3-team-APLD-business/zacks | APLD customer concentration article body
-2026-08-19T01:19:21Z | 819b3-team-APLD-business/brave | tradingview mirror APLD customer concentration
-2026-08-19T01:19:36Z | 819b3-team-APLD-business/tradingview | zacks APLD concentration body
+2026-08-19T10:04:13Z | gnews | TSMC stock drop reason
+2026-08-19T10:04:13Z | gnews | Broadcom AVGO stock decline
+2026-08-19T10:04:13Z | gnews | Progressive PGR July monthly results combined ratio
+2026-08-19T10:04:18Z | brave | semiconductor stocks selloff premarket August 19 2026
+2026-08-19T10:04:28Z | brave | Progressive reports July 2026 results net premiums written combined ratio
+2026-08-19T10:05:06Z | brave | Progressive Corporation July 2026 monthly results 8-K NPW
+2026-08-19T10:05:42Z | brave | CNN fear and greed index today
+2026-08-19T10:05:43Z | brave | S&P 500 percent above 200 day moving average breadth
+2026-08-19T10:06:12Z | brave | stock market fear greed index reading this week
+2026-08-19T10:06:14Z | brave | bitcoin ETF flows outflows weekly August 2026
+2026-08-19T10:06:35Z | brave | hyperscaler AI capex guidance 2026
+2026-08-19T10:06:37Z | brave | TSMC July 2026 monthly revenue growth
+2026-08-19T10:06:40Z | brave | chip stocks drop today TSMC premarket August 19
+2026-08-19T10:06:55Z | brave | AI software SaaS valuation fears software rally
+2026-08-19T10:06:57Z | brave | crypto regulation stablecoin legislation August 2026
+2026-08-19T10:07:53Z | gnews | Credo Coherent CoreWeave optical networking stocks plunge reason
+2026-08-19T10:08:42Z | yahoo-screener | day_losers+day_gainers 8-18收盘
+2026-08-19T10:10:32Z | 819e-team-BABA-industry | China ecommerce market share 2026 Taobao Tmall Pinduoduo Douyin
+2026-08-19T10:10:34Z | 819e-team-BABA-industry | Meituan Alibaba flash purchase instant retail subsidy war
+2026-08-19T10:10:35Z | 819e-team-BABA-business | Taobao Tmall take rate CMR June 2026 quarter
+2026-08-19T10:10:36Z | 819e-team-BABA-finance | BBA Q1 FY2027 earnings preview consensus revenue EPS August 2026
+2026-08-19T10:10:37Z | 819e-team-BABA-business | Taobao Shangou subsidy war Meituan JD order volume August 2026
+2026-08-19T10:10:38Z | 819e-team-BABA-finance | Alibaba share buyback repurchase 2026 quarterly pace net cash
+2026-08-19T10:10:42Z | 819e-team-BABA-industry | Alibaba Cloud vs ByteDance Volcano Engine AI price war market share 2026
+2026-08-19T10:10:43Z | 819e-team-BABA-business | instant retail price war Taobao Shangou Ele.me Meituan daily orders
+2026-08-19T10:10:43Z | 819e-team-BABA-finance | Alibaba free cash flow negative AI capex 2026 380 billion RMB
+2026-08-19T10:10:44Z | 819e-team-BABA-industry | TEMU de minimis impact Pinduoduo revenue 2026
+2026-08-19T10:10:45Z | 819e-team-BABA-finance | BABA valuation P/E vs PDD JD 2026 China e-commerce comparison
+2026-08-19T10:10:45Z | 819e-team-BABA-business | gnews Alibaba earnings preview June quarter cloud AI
+2026-08-19T10:10:50Z | 819e-team-BABA-risk | BBA Alibaba earnings August 20 2026 preview expectations analysts
+2026-08-19T10:10:57Z | 819e-team-BABA-business | PDD Temu vs Taobao market share competition 2026
+2026-08-19T10:10:57Z | 819e-team-BABA-risk | gnews: Alibaba earnings preview August 2026
+2026-08-19T10:11:05Z | 819e-team-BABA-industry | Pinduoduo Temu de minimis tariff hit Q1 2026 earnings
+2026-08-19T10:11:06Z | 819e-team-BABA-business | gnews Taobao Shangou Meituan instant retail subsidy war
+2026-08-19T10:11:07Z | 819e-team-BABA-industry | China platform economy regulation 2026 SAMR Alibaba antitrust
+2026-08-19T10:11:12Z | 819e-team-BABA-finance | Alibaba free cash flow negative AI capex cloud investment 2026
+2026-08-19T10:11:14Z | 819e-team-BABA-finance | gnews: Alibaba earnings August 2026 cloud
+2026-08-19T10:11:15Z | 819e-team-BABA-business | gnews Alibaba March quarter 2026 results cloud AI capex
+2026-08-19T10:11:15Z | 819e-team-BABA-risk | gnews: Alibaba instant commerce flash purchase Taobao losses subsidy war
+2026-08-19T10:11:16Z | 819e-team-BABA-business | gnews Meituan earnings August 2026 food delivery competition
+2026-08-19T10:11:28Z | 819e-team-BABA-risk | gnews: BABA options straddle implied move earnings bet
+2026-08-19T10:11:30Z | 819e-team-BABA-risk | gnews: Meituan quarterly loss instant retail war Taobao
+2026-08-19T10:11:48Z | 819e-team-BABA-risk | gnews: Alibaba ADR delisting risk China tech crackdown regulation 2026
+2026-08-19T10:11:52Z | 819e-team-BABA-industry | Alibaba ADR delisting risk Holding Foreign Companies Accountable Act 2026
+2026-08-19T10:11:59Z | 819e-team-BABA-risk | websearch: Meituan Q2 2026 loss food delivery war abate
+2026-08-19T10:12:07Z | 819e-team-BABA-finance | Alibaba FY2026 full year results free cash flow negative capex
+2026-08-19T10:12:11Z | 819e-team-BABA-risk | websearch: BABA implied move options straddle earnings
+2026-08-19T10:12:17Z | 819e-team-BABA-industry | Meituan Q2 2026 results flash purchase instant retail
+2026-08-19T10:12:38Z | 819e-team-BABA-finance | Alibaba March quarter 2026 results revenue cloud 40 free cash flow buyback
+2026-08-19T10:12:46Z | 819e-team-BABA-industry | China cloud market share Q1 2026 IDC Alibaba ByteDance
+2026-08-19T10:13:08Z | 819e-team-BABA-risk | websearch: BABA analyst price target revision August 2026
+2026-08-19T10:13:10Z | 819e-team-BABA-business | Alibaba Q1 FY2027 earnings preview August 20 2026 estimates cloud revenue
+2026-08-19T10:13:12Z | 819e-team-BABA-business | gnews Alibaba cloud Qwen enterprise AI customers token usage 2026
+2026-08-19T10:13:16Z | 819e-team-BABA-industry | China regulator food delivery price war SAMR summoned Alibaba Meituan JD
+2026-08-19T10:13:35Z | 819e-team-BABA-industry | CNBC Beijing summoning executives less worry than 2021 tech crackdown June 2026
+2026-08-19T10:13:48Z | 819e-team-BABA-business | Alibaba March quarter 2026 results businesswire press release
+2026-08-19T10:13:51Z | 819e-team-BABA-business | Taobao Shangou peak daily orders instant retail market share August 2026
+2026-08-19T10:14:01Z | 819e-team-BABA-industry | Taobao Tmall market share stabilizes 2026 China ecommerce GMV Douyin growth slowing
+2026-08-19T10:14:01Z | 819e-team-BABA-risk | websearch: Alibaba share buyback repurchase fiscal 2026
+2026-08-19T10:14:03Z | 819e-team-BABA-risk | websearch: Alibaba Pentagon military list delisting HFCAA 2026
+2026-08-19T10:14:16Z | 819e-team-BABA-finance | Alibaba Share Repurchase Update June 30 2026 March 31 2026 shares outstanding
+2026-08-19T10:14:16Z | 819e-team-BABA-risk | gnews: Alibaba Pentagon military designation US investors divest
+2026-08-19T10:14:22Z | 819e-team-BABA-industry | Taobao Tmall 88th VIP members growth AliExpress Alibaba domestic ecommerce recovery
+2026-08-19T10:14:32Z | 819e-team-BABA-risk | websearch: Alibaba buyback slowed FCF negative AI capex
+2026-08-19T10:14:34Z | 819e-team-BABA-risk | websearch: Alibaba earnings preview four quarters disappointment
+2026-08-19T10:14:38Z | 819e-team-BABA-industry | Alibaba earnings preview August 2026 cloud AI Taobao
+2026-08-19T10:14:56Z | 819e-team-BABA-industry | Douyin ecommerce GMV growth 2025 2026 slowdown ByteDance shopping
+2026-08-19T10:15:09Z | 819e-team-BABA-finance | Alibaba share repurchase update June 2026 shares outstanding ADS
+2026-08-19T10:15:15Z | 819e-team-BABA-business | Meituan Q1 2026 loss narrowed instant retail abate
+2026-08-19T10:15:20Z | 819e-team-BABA-risk | websearch: Zacks Alibaba Q1 earnings preview buy sell hold
+2026-08-19T10:15:20Z | 819e-team-BABA-industry | Chinese ADR delisting audit inspection 2026 PCAOB status
+2026-08-19T10:15:45Z | 819e-team-BABA-business | JD.com Q2 2026 results food delivery loss narrowed
+2026-08-19T10:15:46Z | 819e-team-BABA-business | China ecommerce market share 2026 Taobao PDD Douyin GMV
+2026-08-19T10:15:50Z | 819e-team-BABA-industry | Chinese stocks ADR delisting risk US China audit 2026
+2026-08-19T10:16:11Z | 819e-team-BABA-business | gnews JD.com quarterly profit food delivery losses narrow August 2026
+2026-08-19T10:16:24Z | 819e-team-BABA-business | gnews Pinduoduo Temu earnings competition Taobao 2026
+2026-08-19T10:16:30Z | 819e-team-BABA-industry | Pinduoduo Temu Q1 2026 results revenue growth slows
+2026-08-19T10:16:36Z | 819e-team-BABA-finance | Alibaba June 2025 quarter results revenue non-GAAP EPS ADS baseline
+2026-08-19T10:16:36Z | 819e-team-BABA-business | Nvidia H200 China export approval Alibaba July 2026
+2026-08-19T10:16:51Z | 819e-team-BABA-industry | Alibaba March quarter 2026 results customer management revenue cloud growth May 2026
+2026-08-19T10:17:07Z | 819e-team-BABA-finance | gnews: Alibaba June quarter revenue forecast analysts cloud 2026
+2026-08-19T10:17:10Z | 819e-team-BABA-industry | Markets.com Alibaba earnings August 20 AI cloud boom profit squeeze
+2026-08-19T10:17:46Z | 819e-team-BABA-industry | Alibaba earnings preview August 20 2026 consensus estimate cloud revenue growth
+2026-08-19T10:17:48Z | 819e-team-BABA-finance | Alibaba June 2025 quarter results 247575 non-GAAP net income
+2026-08-19T10:18:25Z | 819e-team-BABA-industry | Taobao Flash Purchase daily orders peak Meituan Keeta instant retail 2026
+2026-08-19T10:19:35Z | 819e-team-BABA-industry | Meituan first quarter 2026 loss food delivery war Taobao flash purchase
+2026-08-19T10:19:52Z | 819e-team-BABA-industry | Meituan quarterly loss delivery competition Alibaba instant commerce subsidy
+2026-08-19T10:20:11Z | 819e-team-BABA-finance | Alibaba June quarter 2025 results baseline 247575 16.28
+2026-08-19T10:20:21Z | 819e-team-BABA-finance | gnews: Alibaba Group Announces June Quarter 2025 Results
+2026-08-19T10:20:58Z | 819e-team-BABA-industry | Alibaba March quarter 2026 results cloud revenue CMR growth stocktitan
+2026-08-19T10:22:38Z | 819e-team-BABA-industry | Meituan Q1 2026 net loss RMB instant commerce Keeta
+2026-08-19T10:23:31Z | 819e-team-BABA-industry | DDG: Meituan Q1 2026 loss / 36kr 210 billion / Meituan cedes share
+2026-08-19T10:23:31Z | 819e-team-BABA-industry | SEC EDGAR: BABA 6-K FY26Q4 results
+2026-08-19T10:24:23Z | 819e-team-BABA-industry | Alibaba June quarter 2026 earnings preview analysts consensus cloud 40%
+2026-08-19T10:27:55Z | 819e-team-META-risk | Meta stock drop premarket August 19 2026 (brave 429 retry pending)
+2026-08-19T10:27:57Z | 819e-team-META-finance | Meta Q2 2026 free cash flow 784 million capital expenditures breakdown operating cash flow
+2026-08-19T10:28:03Z | 819e-team-META-risk | gnews: Meta Platforms stock (trial/falling/Mag7 leads)
+2026-08-19T10:28:07Z | 819e-team-META-business | Meta Q2 2026 earnings advertising revenue growth AI Advantage+ ROI
+2026-08-19T10:28:09Z | 819e-team-META-business | gnews: Meta stock drop reason
+2026-08-19T10:28:17Z | 819e-team-META-business | Meta stock falls premarket August 19 2026
+2026-08-19T10:28:21Z | 819e-team-META-risk | gnews: Meta FTC antitrust trial ruling (FTC appeal Jan 2026, $567M Aug 2026)
+2026-08-19T10:28:22Z | 819e-team-META-business | gnews: Meta Platforms AI glasses Connect
+2026-08-19T10:28:31Z | 819e-team-META-industry | digital advertising market share Meta Google Amazon
+2026-08-19T10:28:32Z | 819e-team-META-finance | Meta free cash flow capital expenditures (gnews)
+2026-08-19T10:28:34Z | 819e-team-META-risk | gnews: AI stocks selloff Nasdaq August 2026 (rate spike/bond yields)
+2026-08-19T10:28:35Z | 819e-team-META-business | gnews: Meta Platforms earnings capex
+2026-08-19T10:28:37Z | 819e-team-META-business | gnews: Ray-Ban Meta glasses million units sold
+2026-08-19T10:28:42Z | 819e-team-META-industry | eMarketer Meta Google digital ad revenue forecast
+2026-08-19T10:28:46Z | 819e-team-META-finance | Meta Q2 2026 earnings operating cash flow capex free cash flow depreciation guidance
+2026-08-19T10:28:49Z | 819e-team-META-business | gnews: Meta Connect 2026 September
+2026-08-19T10:28:50Z | 819e-team-META-business | gnews: Zuckerberg superintelligence memo
+2026-08-19T10:28:55Z | 819e-team-META-risk | gnews: Meta Delaware trial capex (only OpenAI/Musk result)
+2026-08-19T10:29:05Z | 819e-team-META-business | gnews: Meta Platforms stock when:2d
+2026-08-19T10:29:14Z | 819e-team-META-finance | Meta Q2 2026 results depreciation 2027 2028 guidance (brave retry)
+2026-08-19T10:29:32Z | 819e-team-META-business | gnews: Meta trial jury school districts addiction lawsuit
+2026-08-19T10:29:44Z | 819e-team-META-business | Meta Q2 2026 ad impressions price per ad growth
+2026-08-19T10:29:46Z | 819e-team-META-business | gnews: Meta TikTok ad market share digital advertising
+2026-08-19T10:29:54Z | 819e-team-META-industry | eMarketer ad share fetch marketingdive emarketer press release
+2026-08-19T10:29:54Z | 819e-team-META-risk | gnews: Meta stock August 18 2026 biggest drop ($1.4T youth-safety trial kicks off, Munster warning)
+2026-08-19T10:29:55Z | 819e-team-META-business | DDG: Meta Q2 2026 earnings ad revenue price per ad capex free cash flow
+2026-08-19T10:30:05Z | 819e-team-META-industry | hyperscaler AI capex 700B overcapacity data center gigawatts
+2026-08-19T10:30:21Z | 819e-team-META-business | DDG: UploadVR Meta Connect 2026 preview Gen 3 Ray-Ban display Oakley
+2026-08-19T10:30:45Z | 819e-team-META-industry | Meta Compute cloud business excess AI compute Bloomberg
+2026-08-19T10:30:50Z | 819e-team-META-business | DDG: Meta addiction trial Oakland bellwether August 2026 school districts
+2026-08-19T10:30:52Z | 819e-team-META-business | DDG: Gene Munster Meta stock bigger risks August 2026
+2026-08-19T10:31:24Z | 819e-team-META-business | DDG: Gene Munster Meta trial stock fall Deepwater
+2026-08-19T10:31:34Z | 819e-team-META-industry | Microsoft Meta Amazon Alphabet combined capex 2026 650B
+2026-08-19T10:31:34Z | 819e-team-META-business | DDG: HackerNoon Zuckerberg superintelligence memo premise
+2026-08-19T10:31:36Z | 819e-team-META-business | gnews: EssilorLuxottica Meta glasses 2026 sales doubled
+2026-08-19T10:31:45Z | 819e-team-META-business | DDG: Zuckerberg manifesto August 2026 Meta AI ambitions
+2026-08-19T10:31:47Z | 819e-team-META-business | gnews: Meta Andromeda AI ads Advantage+ advertisers
+2026-08-19T10:31:58Z | 819e-team-META-business | DDG: Meta depreciation 2027 guidance 48-65 billion
+2026-08-19T10:32:06Z | 819e-team-META-business | DDG: Meta depreciation surge 2027 2028 capex earnings headwind
+2026-08-19T10:32:25Z | 819e-team-META-finance | Meta depreciation 2027 2028 earnings impact (gnews)
+2026-08-19T10:32:27Z | 819e-team-META-industry | Meta capex 115-135B raised 145B Q2 earnings FCF decline
+2026-08-19T10:32:39Z | 819e-team-META-industry | smart glasses Meta share Samsung Galaxy Glass Apple 2026
+2026-08-19T10:32:58Z | 819e-team-META-risk | gnews: Meta youth safety trial detail search (pending)
+2026-08-19T10:33:01Z | 819e-team-META-finance | Meta AI capex ROI incremental revenue per dollar (brave retry fail)
+2026-08-19T10:33:12Z | 819e-team-META-risk | gnews: bellwether trial + Meta Connect 2026 Sep 23-24 confirmed
+2026-08-19T10:33:30Z | 819e-team-META-risk | gnews: Meta earnings dates + Zuck capex criticism timeline
+2026-08-19T10:33:36Z | 819e-team-META-industry | Counterpoint smart glasses Meta 82 percent share 139 percent growth
+2026-08-19T10:34:03Z | 819e-team-META-industry | Meta Muse Spark 1.1 API price war OpenAI Anthropic developers
+2026-08-19T10:34:07Z | 819e-team-META-risk | gnews: yields spike/oil $91/Iran + peers MSFT AVGO TSM NVDA GOOGL 1mo charts
+2026-08-19T10:34:30Z | 819e-team-META-industry | Meta Muse Code AI coding market Anthropic OpenAI
+2026-08-19T10:34:31Z | 819e-team-META-risk | gnews: FOMC Sept 2026 - market pricing possible HIKE (Chase/ABC/Polymarket hold bet)
+2026-08-19T10:34:46Z | 819e-team-META-risk | gnews: analyst PT/support + Zuck dual-class + trial timeline (Mar 2026 negligent verdict, Aug 10 appeals court, Aug 18 states trial)
+2026-08-19T10:34:51Z | 819e-team-META-finance | Meta capex ROI payback (gnews)
+2026-08-19T10:34:53Z | 819e-team-META-industry | Meta teen harm verdict 6M landmark trial August 2026
+2026-08-19T10:35:03Z | 819e-team-META-finance | Meta Q3 2026 earnings date October (gnews)
+2026-08-19T10:35:19Z | 819e-team-META-finance | stockanalysis statistics fetched
+2026-08-19T10:35:46Z | 819e-team-META-industry | Meta Q2 earnings FCF 784M legal charges capex 130-145B
+2026-08-19T10:35:47Z | 819e-team-META-finance | Meta bond BlackRock Hyperion (gnews)
+2026-08-19T10:36:06Z | 819e-team-META-industry | AI trade broke rotation not recession Burry short bond yields
+2026-08-19T10:36:21Z | 819e-team-META-industry | FTC Meta antitrust appeal monopoly ruling
+2026-08-19T10:36:30Z | 819e-team-META-industry | Meta Connect 2026 September 23 glasses tease
+2026-08-19T10:36:33Z | 819e-team-META-risk | gnews: Meta trial detail (Mar 2026 negligent verdict / Aug 10 appeals / Aug 18 states trial) + Zuck dual-class + technicals 1y chart MA50/200 + portfolio-latest.md weights
+2026-08-19T10:36:40Z | 819e-team-META-industry | 7 million smart glasses sold 2025 EssilorLuxottica gigawatts overcapacity
+2026-08-19T10:37:15Z | 819e-team-META-industry | Meta 1.4 trillion child safety trial Zuckerberg testify 375M New Mexico
+2026-08-19T10:37:38Z | 819e-team-META-finance | Meta IR Q2 press release + CFO outlook fetched
+2026-08-19T10:37:49Z | 819e-team-META-industry | NPR profits won child safety trial federal court
+2026-08-19T10:37:57Z | 819e-team-META-finance | peer dual-source stats fetched
+2026-08-19T10:39:45Z | 819e-team-META-industry | Meta New Mexico 567M abatement fund 942M total
+2026-08-19T10:43:11Z | 819e-team-MSFT-finance | Microsoft FY26 Q4 earnings operating cash flow capex free cash flow full year
+2026-08-19T10:43:14Z | 819e-team-MSFT-industry | cloud market share Q2 2026 Azure AWS GCP growth rate
+2026-08-19T10:43:23Z | 819e-team-MSFT-finance | Microsoft fiscal 2026 fourth quarter results Azure growth capital expenditures
+2026-08-19T10:43:25Z | 819e-team-MSFT-industry | Azure AWS Google Cloud market share 2026 (gnews)
+2026-08-19T10:43:25Z | 819e-team-MSFT-finance | gnews: Microsoft FY26 Q4 earnings Azure capex free cash flow
+2026-08-19T10:43:27Z | 819e-team-MSFT-risk | Microsoft stock September 2026 Fed FOMC rate hike AI selloff impact (NO_RESULTS)
+2026-08-19T10:43:27Z | 819e-team-MSFT-risk | Microsoft Azure growth deceleration risk FY2027 Q1 guidance below 40% (NO_RESULTS)
+2026-08-19T10:43:27Z | 819e-team-MSFT-risk | gnews: Microsoft Azure growth slowdown AI capex
+2026-08-19T10:43:35Z | 819e-team-MSFT-industry | OpenAI compute diversification Oracle Nvidia Microsoft Azure exclusive impact 2026
+2026-08-19T10:43:36Z | 819e-team-MSFT-business | Microsoft FY26 Q4 earnings Azure growth AI
+2026-08-19T10:43:43Z | 819e-team-MSFT-industry | OpenAI Oracle compute deal Microsoft Azure (gnews)
+2026-08-19T10:43:45Z | 819e-team-MSFT-business | Microsoft Copilot enterprise adoption seats revenue 2026
+2026-08-19T10:43:47Z | 819e-team-MSFT-business | Azure pricing increase customers pay more cloud price hike
+2026-08-19T10:43:50Z | 819e-team-MSFT-industry | AI agents SaaS apocalypse software stocks Microsoft Copilot (gnews)
+2026-08-19T10:43:51Z | 819e-team-MSFT-risk | gnews: Microsoft insider selling executives August 2026
+2026-08-19T10:43:51Z | 819e-team-MSFT-risk | gnews: OpenAI IPO valuation Microsoft stake 2026
+2026-08-19T10:43:56Z | 819e-team-MSFT-business | Microsoft OpenAI equity stake profit share restructuring 2026
+2026-08-19T10:43:56Z | 819e-team-MSFT-industry | Microsoft stock overvalued AI capex depreciation risks (gnews)
+2026-08-19T10:43:58Z | 819e-team-MSFT-business | Microsoft RPO remaining performance obligation 678 billion commercial bookings
+2026-08-19T10:44:05Z | 819e-team-MSFT-industry | Fed September rate hike technology stocks valuation impact (gnews)
+2026-08-19T10:44:08Z | 819e-team-MSFT-business | cloud market share AWS Azure Google Cloud Q2 2026 Synergy
+2026-08-19T10:44:16Z | 819e-team-MSFT-industry | FOMC September 2026 rate hike probability stocks (gnews)
+2026-08-19T10:44:27Z | 819e-team-MSFT-risk | gnews: Fed September 2026 FOMC rate hike probability market pricing
+2026-08-19T10:44:27Z | 819e-team-MSFT-risk | gnews: Microsoft fiscal Q4 2026 earnings results Azure 45 RPO commercial bookings
+2026-08-19T10:44:29Z | 819e-team-MSFT-industry | Anthropic IPO software stocks AI (gnews)
+2026-08-19T10:44:51Z | 819e-team-MSFT-risk | gnews: Microsoft capex FY2027 depreciation earnings guidance Amy Hood
+2026-08-19T10:44:51Z | 819e-team-MSFT-risk | gnews: Microsoft antitrust lawsuit FTC Google legal woes 2026
+2026-08-19T10:44:52Z | 819e-team-MSFT-finance | gnews: Microsoft FY27 guidance capex depreciation Amy Hood first quarter
+2026-08-19T10:45:07Z | 819e-team-MSFT-business | Microsoft Q4 fiscal 2026 earnings call transcript Azure AI services contributed points
+2026-08-19T10:45:13Z | 819e-team-MSFT-industry | CRN AWS Microsoft Google Cloud Q2 2026 face-off (site search attempt)
+2026-08-19T10:45:22Z | 819e-team-MSFT-industry | Azure growth 45 0X0P+0WS Google Cloud revenue quarter results July 2026 (gnews)
+2026-08-19T10:45:29Z | 819e-team-MSFT-industry | AWS revenue growth Q2 2026 earnings Amazon cloud (gnews)
+2026-08-19T10:45:33Z | 819e-team-MSFT-finance | gnews: Microsoft 190 billion capex fiscal 2027 memory prices DRAM
+2026-08-19T10:45:42Z | 819e-team-MSFT-business | Microsoft earnings call Azure growth AI services contributed points guidance FY27
+2026-08-19T10:46:23Z | 819e-team-MSFT-business | DDG: Microsoft earnings call Azure AI services contributed points FY26 Q4
+2026-08-19T10:46:34Z | 819e-team-MSFT-finance | gnews: Microsoft OpenAI equity method stake writedown carrying value
+2026-08-19T10:46:36Z | 819e-team-MSFT-risk | gnews: Microsoft first quarter fiscal 2027 earnings date October 2026 announcement
+2026-08-19T10:46:36Z | 819e-team-MSFT-risk | gnews: Microsoft FY27 capex guidance 260 billion Amy Hood quarter
+2026-08-19T10:46:55Z | 819e-team-MSFT-finance | gnews: Microsoft Q4 fiscal 2026 earnings call transcript Azure AI points gross margin Amy Hood
+2026-08-19T10:47:39Z | 819e-team-MSFT-finance | ddg: Microsoft FY26 Q4 earnings call Azure growth AI contribution gross margin FY27 capex
+2026-08-19T10:47:42Z | 819e-team-MSFT-business | Microsoft FY27 Q1 guidance Azure growth outlook Amy Hood July 2026
+2026-08-19T10:47:45Z | 819e-team-MSFT-business | Azure price increase 2026 storage compute enterprise customers
+2026-08-19T10:47:46Z | 819e-team-MSFT-finance | bing: Microsoft Q4 fiscal 2026 earnings call Azure gross margin FY27 capex guidance
+2026-08-19T10:48:10Z | 819e-team-MSFT-risk | gnews: OpenAI IPO filing when roadshow SoftBank valuation
+2026-08-19T10:48:38Z | 819e-team-MSFT-business | geekwire Microsoft Azure earnings capex
+2026-08-19T10:49:09Z | 819e-team-MSFT-risk | gnews: Microsoft Q4 Azure grew 45 percent capex 2027 outlook July 29
+2026-08-19T10:49:19Z | 819e-team-MSFT-industry | CME FedWatch September hike probability (gnews)
+2026-08-19T10:49:27Z | 819e-team-MSFT-business | Microsoft expects Azure growth first quarter FY2027 guidance capex fiscal 2027
+2026-08-19T10:49:38Z | 819e-team-MSFT-finance | gnews: Microsoft Q1 fiscal 2027 outlook Azure growth guidance first quarter
+2026-08-19T10:49:42Z | 819e-team-MSFT-finance | gnews: Fed rate hike September 2026 probability inflation
+2026-08-19T10:49:47Z | 819e-team-MSFT-industry | software stocks trillion wiped SaaS AI agents selloff (gnews)
+2026-08-19T10:50:14Z | 819e-team-MSFT-industry | Microsoft AI spending capex Copilot OpenAI concentration (tech-insider fetch)
+2026-08-19T10:51:05Z | 819e-team-MSFT-finance | gnews: Microsoft fiscal 2027 capex guidance billion July 29 earnings call Hood
+2026-08-19T10:51:36Z | 819e-team-MSFT-business | Microsoft raises prices Azure cloud services customers stay
+2026-08-19T10:51:59Z | 819e-team-MSFT-finance | gnews: Microsoft Cloud gross margin percentage AI infrastructure depreciation fiscal 2026 quarterly
+2026-08-19T10:52:02Z | 819e-team-MSFT-finance | gnews: Microsoft OpenAI stake 27 percent 134 billion equity investment profit share
+2026-08-19T10:53:11Z | 819e-team-MSFT-finance | gnews: Microsoft Azure first quarter FY27 guidance percent constant currency outlook
+2026-08-19T10:53:42Z | 819e-team-MSFT-business | Azure market share Q2 2026 AWS Google percentage
+2026-08-19T10:53:45Z | 819e-team-MSFT-business | Microsoft stock MSFT news August 2026
+2026-08-19T10:54:07Z | 819e-team-MSFT-business | Microsoft stock drop mid August 2026 reason selloff
+2026-08-19T10:57:55Z | 819e-team-ADBE-business | Adobe AI-first book of business ARR growth Q2 fiscal 2026 earnings
+2026-08-19T10:57:57Z | 819e-team-ADBE-business | Adobe CEO successor search 2026 Shantanu Narayen replacement
+2026-08-19T10:58:04Z | 819e-team-ADBE-business | gnews: Adobe AI ARR Firefly enterprise
+2026-08-19T10:58:08Z | 819e-team-ADBE-risk | Adobe ADBE options implied move September 2026 earnings
+2026-08-19T10:58:15Z | 819e-team-ADBE-business | gnews: Adobe CEO successor Shantanu Narayen
+2026-08-19T10:58:18Z | 819e-team-ADBE-business | gnews: Adobe stock rally software rebound August 2026
+2026-08-19T10:58:21Z | 819e-team-ADBE-finance | Adobe Q3 FY2026 earnings preview consensus revenue EPS September 10
+2026-08-19T10:58:21Z | 819e-team-ADBE-industry | Adobe AI competition Firefly
+2026-08-19T10:58:26Z | 819e-team-ADBE-risk | Adobe CEO succession
+2026-08-19T10:58:30Z | 819e-team-ADBE-finance | Adobe Q3 earnings preview consensus
+2026-08-19T10:58:32Z | 819e-team-ADBE-industry | Adobe Q2 earnings June 2026 Creative Cloud AI book of business
+2026-08-19T10:58:37Z | 819e-team-ADBE-business | gnews: Adobe Q2 fiscal 2026 earnings results ARR guidance June
+2026-08-19T10:58:40Z | 819e-team-ADBE-business | gnews: Adobe next CEO announcement David Wadhwani Anil Chakravarthy
+2026-08-19T10:58:41Z | 819e-team-ADBE-industry | SaaS software stocks rebound August 2026 AI selloff recovery
+2026-08-19T10:58:44Z | 819e-team-ADBE-risk | Adobe Q3 FY2026 earnings September 10 expectations AI ARR
+2026-08-19T10:58:49Z | 819e-team-ADBE-industry | Anthropic IPO valuation software sector
+2026-08-19T10:59:00Z | 819e-team-ADBE-industry | Sora AI video impact Premiere professional video editors
+2026-08-19T10:59:06Z | 819e-team-ADBE-risk | Adobe earnings AI ARR guidance
+2026-08-19T10:59:11Z | 819e-team-ADBE-industry | Adobe Firefly app monthly active users million 2026
+2026-08-19T10:59:39Z | 819e-team-ADBE-business | websearch: Adobe Q2 2026 earnings AI-first ARR record
+2026-08-19T10:59:45Z | 819e-team-ADBE-risk | Adobe insider selling executives Form 4
+2026-08-19T10:59:58Z | 819e-team-ADBE-finance | Adobe Q2 fiscal 2026 results digital media ARR AI
+2026-08-19T11:00:03Z | 819e-team-ADBE-business | gnews: Adobe Firefly enterprise customers GenStudio adoption deal
+2026-08-19T11:00:20Z | 819e-team-ADBE-risk | Adobe stock earnings reaction history quarterly move
+2026-08-19T11:00:27Z | 819e-team-ADBE-industry | Globe and Mail ADBE Q2 2026 transcript fetch
+2026-08-19T11:00:33Z | 819e-team-ADBE-business | gnews: Adobe Q1 2026 earnings AI ARR trajectory
+2026-08-19T11:00:35Z | 819e-team-ADBE-business | gnews: Canva Midjourney Sora Adobe competition 2026
+2026-08-19T11:00:48Z | 819e-team-ADBE-risk | Adobe CEO search candidates external internal 2026
+2026-08-19T11:00:58Z | 819e-team-ADBE-business | gnews: AI-first ARR Adobe million Q2 record Narayen
+2026-08-19T11:01:16Z | 819e-team-ADBE-risk | Adobe CEO search update candidates
+2026-08-19T11:01:21Z | 819e-team-ADBE-business | gnews: Adobe AI ARR triples + Firefly MAU credits
+2026-08-19T11:01:39Z | 819e-team-ADBE-risk | Adobe Wadhwani Chakravarthy CEO internal candidates
+2026-08-19T11:01:45Z | 819e-team-ADBE-risk | Adobe AI-first ARR book of business million
+2026-08-19T11:02:04Z | 819e-team-ADBE-business | gnews: Adobe CEO search update August 2026
+2026-08-19T11:02:21Z | 819e-team-ADBE-business | gnews: Adobe generative credits pricing price increase Creative Cloud
+2026-08-19T11:02:23Z | 819e-team-ADBE-business | gnews: Adobe stock today premarket gain software
+2026-08-19T11:02:29Z | 819e-team-ADBE-finance | Adobe Reports Record Q2 Fiscal 2026 Results businesswire ARR digital media
+2026-08-19T11:02:29Z | 819e-team-ADBE-risk | Adobe short interest percent float
+2026-08-19T11:02:39Z | 819e-team-ADBE-finance | Adobe Q2 2026 net new Digital Media ARR billion
+2026-08-19T11:02:41Z | 819e-team-ADBE-finance | Adobe AI-first ARR 2026 million Firefly
+2026-08-19T11:02:53Z | 819e-team-ADBE-industry | SEC EDGAR ADBE 8-K Q2 FY26 earnings release fetch
+2026-08-19T11:02:58Z | 819e-team-ADBE-business | gnews: Adobe Q3 FY2026 earnings date September
+2026-08-19T11:02:59Z | 819e-team-ADBE-business | gnews: software stocks August 19 premarket
+2026-08-19T11:03:08Z | 819e-team-ADBE-industry | Canva IPO 2026 valuation users
+2026-08-19T11:03:15Z | 819e-team-ADBE-industry | Michael Burry Adobe fat pitch SaaS analysis
+2026-08-19T11:03:20Z | 819e-team-ADBE-risk | Adobe Firefly AI ARR grew
+2026-08-19T11:03:24Z | 819e-team-ADBE-industry | software stocks rally August 18 2026 rotation AI trade chip selloff reason
+2026-08-19T11:03:25Z | 819e-team-ADBE-risk | software stocks rally rebound August 18 2026
+2026-08-19T11:03:57Z | 819e-team-ADBE-industry | 247wallst software rally article fetch
+2026-08-19T11:04:01Z | 819e-team-ADBE-risk | AI-first Adobe ARR million Q3 preview
+2026-08-19T11:04:11Z | 819e-team-ADBE-finance | Adobe Digital Media ARR ending Q2 2026 Document Cloud Creative Cloud
+2026-08-19T11:04:30Z | 819e-team-ADBE-industry | SaaStr Adobe deferred price increase article fetch
+2026-08-19T11:04:38Z | 819e-team-ADBE-industry | Canva valuation cut 11 billion secondary
+2026-08-19T11:04:48Z | 819e-team-ADBE-finance | Adobe Q2 fiscal 2026 Digital Media ending ARR net new
+2026-08-19T11:04:55Z | 819e-team-ADBE-industry | Adobe Premiere Pro AI video editors Sora Veo competition 2026
+2026-08-19T11:05:11Z | 819e-team-ADBE-industry | ADBE short interest bear case analyst price target August 2026
+2026-08-19T11:06:28Z | 819e-team-ADBE-finance | Adobe ARR 21 billion OR 22 billion ending fiscal 2026
+2026-08-19T11:07:00Z | 819e-team-ADBE-industry | Runway Midjourney valuation 2026 generative video market
+2026-08-19T11:08:43Z | 819e-team-ADBE-finance | Adobe reports fiscal 2025 fourth quarter results ARR December 2025
+2026-08-19T11:14:32Z | 819e-team-AVGO-business | Broadcom Q2 FY2026 earnings AI semiconductor revenue XPU customers
+2026-08-19T11:14:34Z | 819e-team-AVGO-industry | custom ASIC vs GPU share AI accelerator market 2026 hyperscaler TPU Trainium
+2026-08-19T11:14:34Z | 819e-team-AVGO-business | Broadcom OpenAI 10 gigawatt custom chip deal economics revenue
+2026-08-19T11:14:38Z | 819e-team-AVGO-business | gnews: Broadcom AI revenue XPU custom chip OpenAI
+2026-08-19T11:14:51Z | 819e-team-AVGO-industry | Broadcom custom AI accelerator XPU market share vs Nvidia GPU 2026
+2026-08-19T11:14:55Z | 819e-team-AVGO-business | gnews: Broadcom VMware subscription pricing customers backlash churn
+2026-08-19T11:14:57Z | 819e-team-AVGO-industry | gnews: Broadcom AI chip custom ASIC market share
+2026-08-19T11:14:58Z | 819e-team-AVGO-business | gnews: Broadcom stock drop August 2026 why AVGO falling
+2026-08-19T11:15:04Z | 819e-team-AVGO-industry | gnews: MediaTek TPU v9 Broadcom Google AI chip supply chain
+2026-08-19T11:15:07Z | 819e-team-AVGO-risk | Broadcom AVGO earnings September AI revenue (gnews)
+2026-08-19T11:15:13Z | 819e-team-AVGO-industry | gnews: Ethernet vs InfiniBand AI networking market share Broadcom Tomahawk 6
+2026-08-19T11:15:15Z | 819e-team-AVGO-business | gnews: AVGO Broadcom falls Monday AI capex concerns hyperscaler
+2026-08-19T11:15:19Z | 819e-team-AVGO-business | gnews: Broadcom Tomahawk 6 Ethernet AI networking market share Nvidia
+2026-08-19T11:15:20Z | 819e-team-AVGO-industry | gnews: AI selloff circular financing Nvidia OpenAI vendor financing systemic risk August 2026
+2026-08-19T11:15:27Z | 819e-team-AVGO-industry | gnews: hyperscaler capex guidance 2026 Microsoft Amazon Google Meta AI capital expenditure raised
+2026-08-19T11:15:33Z | 819e-team-AVGO-industry | gnews: Broadcom OpenAI 10 gigawatt custom chip new customer win Hock Tan pipeline
+2026-08-19T11:15:51Z | 819e-team-AVGO-risk | Broadcom AI chip Google TPU OpenAI custom silicon revenue concentration (gnews)
+2026-08-19T11:15:51Z | 819e-team-AVGO-risk | Hock Tan Broadcom CEO age succession (gnews)
+2026-08-19T11:15:58Z | 819e-team-AVGO-business | duckduckgo: Broadcom AVGO Q2 2026 earnings call transcript
+2026-08-19T11:15:58Z | 819e-team-AVGO-finance | Broadcom Q3 fiscal 2026 earnings September 2 consensus estimates revenue EPS
+2026-08-19T11:15:59Z | 819e-team-AVGO-industry | websearch: Marvell Alab Broadcom custom silicon market share 2026 next hyperscaler customer
+2026-08-19T11:16:01Z | 819e-team-AVGO-risk | Nvidia earnings August 26 semiconductor stocks impact (gnews)
+2026-08-19T11:16:04Z | 819e-team-AVGO-business | bing: Broadcom Q2 FY2026 earnings AI revenue 10.8 billion
+2026-08-19T11:16:04Z | 819e-team-AVGO-finance | Broadcom earnings September 2 AI revenue expectations
+2026-08-19T11:16:07Z | 819e-team-AVGO-industry | gnews: Marvell Alab Credo custom ASIC competition Broadcom next 10 gigawatt customer 2026
+2026-08-19T11:16:12Z | 819e-team-AVGO-industry | gnews: Marvell custom AI chip business 2026
+2026-08-19T11:16:18Z | 819e-team-AVGO-risk | Broadcom stock selloff AI infrastructure circular financing concerns August (gnews)
+2026-08-19T11:16:26Z | 819e-team-AVGO-finance | Broadcom AVGO Q3 FY26 earnings preview analyst consensus AI revenue guidance
+2026-08-19T11:16:37Z | 819e-team-AVGO-finance | Broadcom AI backlog OpenAI custom accelerator 10 gigawatts
+2026-08-19T11:16:52Z | 819e-team-AVGO-finance | Broadcom TPU MediaTek Google risk custom chip competition
+2026-08-19T11:16:54Z | 819e-team-AVGO-finance | AVGO stock drop selloff August 17 18 2026 why
+2026-08-19T11:17:20Z | 819e-team-AVGO-industry | gnews: AI networking Ethernet share 2026 switch sales Dell Oro
+2026-08-19T11:17:39Z | 819e-team-AVGO-business | gnews: Broadcom AI XPV platform Apollo Blackstone financing gigawatts
+2026-08-19T11:17:43Z | 819e-team-AVGO-business | gnews: Google TPU MediaTek Broadcom next generation co-design
+2026-08-19T11:17:45Z | 819e-team-AVGO-finance | Broadcom Hock Tan earnings call backlog AI orders visibility
+2026-08-19T11:18:11Z | 819e-team-AVGO-industry | gnews: Broadcom Google TPU order share MediaTek split dual source v9
+2026-08-19T11:18:39Z | 819e-team-AVGO-industry | gnews: Broadcom Q2 earnings June 2026 Google second source AI revenue guidance stock drop
+2026-08-19T11:18:51Z | 819e-team-AVGO-industry | gnews: Broadcom 370 billion financing challenge AI orders
+2026-08-19T11:19:17Z | 819e-team-AVGO-finance | Broadcom Q3 preview September 2026 what to expect AI semiconductor 16 billion
+2026-08-19T11:19:22Z | 819e-team-AVGO-industry | gnews: Broadcom AI semiconductor revenue guidance fiscal 2026 billion Hock Tan backlog
+2026-08-19T11:19:34Z | 819e-team-AVGO-finance | Broadcom 100 billion AI revenue fiscal 2027 six customers
+2026-08-19T11:19:34Z | 819e-team-AVGO-industry | gnews: Fabrinet Credo Coherent selloff August 18 2026 AI optics networking stocks plunge
+2026-08-19T11:19:38Z | 819e-team-AVGO-finance | Broadcom OpenAI 10 gigawatts custom chips partnership announcement
+2026-08-19T11:19:39Z | 819e-team-AVGO-business | bingrss: custom AI ASIC state of play Broadcom
+2026-08-19T11:19:40Z | 819e-team-AVGO-industry | gnews: AI stocks selloff optical networking Finisar Fabrinet earnings
+2026-08-19T11:19:47Z | 819e-team-AVGO-industry | gnews: Fabrinet earnings
+2026-08-19T11:19:59Z | 819e-team-AVGO-finance | Broadcom largest AI customer percent revenue Google TPU share fiscal 2026
+2026-08-19T11:20:11Z | 819e-team-AVGO-finance | Broadcom AI backlog 30 billion orders 2028 visibility Hock Tan
+2026-08-19T11:20:22Z | 819e-team-AVGO-industry | gnews: Fabrinet guidance gross margin Amazon 1.6T transition why stock fell
+2026-08-19T11:20:31Z | 819e-team-AVGO-business | googleRSS: sdxcentral ethernet AI networking switch sales double
+2026-08-19T11:20:33Z | 819e-team-AVGO-business | googleRSS: Broadcom AI financing 370 billion debt
+2026-08-19T11:20:57Z | 819e-team-AVGO-business | ddg: Broadcom AI financing 370 billion quiverquant
+2026-08-19T11:21:02Z | 819e-team-AVGO-industry | gnews: Nvidia OpenAI 100 billion guarantee Ohio data center backstop details
+2026-08-19T11:21:02Z | 819e-team-AVGO-risk | Broadcom stock jump earnings December AI guidance reaction (gnews)
+2026-08-19T11:21:05Z | 819e-team-AVGO-finance | Broadcom XPU customers Google Meta OpenAI Anthropic revenue breakdown estimate
+2026-08-19T11:21:08Z | 819e-team-AVGO-business | gnews: Broadcom bond downgrade AI data center financing debt
+2026-08-19T11:21:11Z | 819e-team-AVGO-business | gnews: VMware ESXi vulnerability CVE August 2026 patch Broadcom
+2026-08-19T11:21:12Z | 819e-team-AVGO-industry | gnews: Microsoft Amazon capex fiscal 2026 guidance billion quarterly earnings July
+2026-08-19T11:21:41Z | 819e-team-AVGO-risk | Broadcom AI revenue Google TPU largest customer percentage OpenAI Meta share (ddg)
+2026-08-19T11:21:41Z | 819e-team-AVGO-risk | Broadcom insider selling Hock Tan shares August 2026 (gnews)
+2026-08-19T11:21:51Z | 819e-team-AVGO-business | gnews: VMware price increase customers leaving Nutanix migration 2026
+2026-08-19T11:21:55Z | 819e-team-AVGO-business | gnews: Broadcom Apollo Blackstone 20GW AI platform 35 billion details
+2026-08-19T11:21:59Z | 819e-team-AVGO-industry | gnews: Amazon capex 220 billion 2026 guidance July 30 earnings
+2026-08-19T11:22:10Z | 819e-team-AVGO-industry | gnews: Microsoft capex fiscal 2026 quarterly capital expenditure billion record July 29
+2026-08-19T11:22:13Z | 819e-team-AVGO-industry | gnews: Alphabet capex guidance 200 billion second quarter 2026
+2026-08-19T11:22:22Z | 819e-team-AVGO-risk | Broadcom AI revenue Google OpenAI customer concentration percent (brave)
+2026-08-19T11:22:22Z | 819e-team-AVGO-risk | Broadcom six AI customers 100 billion 2027 XPU (gnews)
+2026-08-19T11:22:33Z | 819e-team-AVGO-industry | gnews: Broadcom September 2 earnings preview AI revenue outlook third quarter
+2026-08-19T11:22:54Z | 819e-team-AVGO-business | gnews: Broadcom September 2 earnings preview Q3 fiscal 2026
+2026-08-19T11:23:03Z | 819e-team-AVGO-risk | Hock Tan Broadcom succession CEO age 73 next leader (brave)
+2026-08-19T11:23:13Z | 819e-team-AVGO-industry | gnews: Broadcom fiscal Q2 revenue AI semiconductor billion results June
+2026-08-19T11:23:16Z | 819e-team-AVGO-industry | gnews: Broadcom 72 percent AI growth next quarter concern August 14
+2026-08-19T11:23:22Z | 819e-team-AVGO-risk | Broadcom 370 billion financing challenge 30 billion AI orders (brave)
+2026-08-19T11:23:55Z | 819e-team-AVGO-risk | Broadcom insider selling July 2026 CEO CFO stock sales Form 4 (brave)
+2026-08-19T11:26:08Z | 819e-team-AVGO-risk | MediaTek Google TPU v9 Broadcom lose order AI chip (brave)
+2026-08-19T11:30:13Z | 819e-team-BRK-business | Berkshire Hathaway Q2 2026 earnings cash pile Greg Abel
+2026-08-19T11:30:15Z | 819e-team-BRK-industry | Berkshire Hathaway performance during dot com bubble 1999 2000 relative S&P 500
+2026-08-19T11:30:17Z | 819e-team-BRK-industry | P&C insurance hard market 2026 combined ratio industry forecast pricing
+2026-08-19T11:30:21Z | 819e-team-BRK-business | Berkshire Hathaway buyback pace 2026 Greg Abel first quarter
+2026-08-19T11:30:26Z | 819e-team-BRK-risk | Berkshire Hathaway news August 2026
+2026-08-19T11:30:26Z | 819e-team-BRK-risk | PacifiCorp wildfire liability Oregon settlement 2026 Berkshire Hathaway Energy
+2026-08-19T11:30:31Z | 819e-team-BRK-business | PacifiCorp wildfire lawsuit settlement 2026 Berkshire Hathaway Energy
+2026-08-19T11:30:34Z | 819e-team-BRK-business | GEICO combined ratio 2026 underwriting results
+2026-08-19T11:30:42Z | 819e-team-BRK-industry | BNSF railroad volumes 2026 carloads earnings Berkshire railroad recovery
+2026-08-19T11:30:44Z | 819e-team-BRK-industry | Berkshire Hathaway Energy capex 2026 renewable transition Greg Abel capital expenditure
+2026-08-19T11:30:45Z | 819e-team-BRK-industry | Berkshire Hathaway underperformance S&P 500 2026 debate cash pile 365 billion Abel
+2026-08-19T11:30:57Z | 819e-team-BRK-business | Berkshire Hathaway Taylor Morrison acquisition homebuilder 2026
+2026-08-19T11:30:58Z | 819e-team-BRK-risk | Berkshire Hathaway Q3 2026 earnings date November report
+2026-08-19T11:31:20Z | 819e-team-BRK-business | Berkshire Hathaway Taylor Morrison (gnews)
+2026-08-19T11:31:22Z | 819e-team-BRK-industry | BNSF railroad 2026 volumes carloads earnings
+2026-08-19T11:31:26Z | 819e-team-BRK-industry | gnews: BNSF Berkshire railroad earnings 2026
+2026-08-19T11:31:32Z | 819e-team-BRK-business | Berkshire Hathaway price to book value ratio August 2026
+2026-08-19T11:31:34Z | 819e-team-BRK-risk | Berkshire Hathaway buyback cash Greg Abel August 2026
+2026-08-19T11:31:41Z | 819e-team-BRK-industry | gnews: Berkshire Hathaway Energy capital expenditure renewable energy 2026
+2026-08-19T11:31:53Z | 819e-team-BRK-risk | Warren Buffett health succession Greg Abel CEO transition 2026
+2026-08-19T11:31:53Z | 819e-team-BRK-industry | gnews: Berkshire Hathaway stock underperform S&P 500 2026 Abel buyback
+2026-08-19T11:32:07Z | 819e-team-BRK-business | Berkshire Hathaway book value valuation buyback (gnews)
+2026-08-19T11:32:12Z | 819e-team-BRK-risk | Warren Buffett Abel gnews succession scan
+2026-08-19T11:32:38Z | 819e-team-BRK-business | Berkshire Hathaway insurance float 2026 cost GEICO soft market
+2026-08-19T11:32:54Z | 819e-team-BRK-business | Berkshire Hathaway insurance float underwriting (gnews)
+2026-08-19T11:33:05Z | 819e-team-BRK-risk | Berkshire Hathaway Q2 2026 operating earnings buybacks cash position
+2026-08-19T11:33:54Z | 819e-team-BRK-business | Motley Fool Abel Taylor Morrison 6.8 billion capital allocation style
+2026-08-19T11:33:54Z | 819e-team-BRK-industry | Berkshire Hathaway stock 2000 2001 2002 gained while S&P 500 fell bear market
+2026-08-19T11:34:06Z | 819e-team-BRK-industry | gnews: GEICO Progressive 2026 auto insurance competition combined ratio
+2026-08-19T11:34:10Z | 819e-team-BRK-risk | Berkshire Hathaway cash pile billion second quarter
+2026-08-19T11:34:13Z | 819e-team-BRK-finance | Berkshire Hathaway Q2 2026 buyback average price per share repurchase
+2026-08-19T11:34:18Z | 819e-team-BRK-business | Berkshire Hathaway Energy data center electricity demand capital spending (gnews)
+2026-08-19T11:34:22Z | 819e-team-BRK-finance | Berkshire Hathaway Q2 earnings buyback
+2026-08-19T11:34:40Z | 819e-team-BRK-industry | gnews: Berkshire Hathaway Q2 2026 operating earnings GEICO underwriting BNSF railroad
+2026-08-19T11:35:41Z | 819e-team-BRK-finance | PacifiCorp Oregon Court of Appeals wildfire verdict reversed 2026
+2026-08-19T11:35:53Z | 819e-team-BRK-finance | Berkshire 13F Alphabet stake increased Q2
+2026-08-19T11:35:54Z | 819e-team-BRK-finance | Berkshire Hathaway Taylor Morrison acquisition homebuilder
+2026-08-19T11:35:58Z | 819e-team-BRK-risk | PacifiCorp wildfire 10-Q contingency note extraction
+2026-08-19T11:35:59Z | 819e-team-BRK-industry | Abel puts a big chunk of Berkshire cash to work CNBC August 2026 buyback acquisition
+2026-08-19T11:36:10Z | 819e-team-BRK-risk | Warren Buffett health 2026
+2026-08-19T11:36:14Z | 819e-team-BRK-finance | Berkshire Hathaway cash pile Treasury bills interest income 2026
+2026-08-19T11:36:16Z | 819e-team-BRK-risk | Berkshire Hathaway stock defensive AI selloff outperform 2026
+2026-08-19T11:36:17Z | 819e-team-BRK-finance | Berkshire Hathaway stock BRK.B August 2026
+2026-08-19T11:37:18Z | 819e-team-BRK-risk | Berkshire Hathaway third quarter earnings November Saturday
+2026-08-19T11:38:33Z | 819e-team-BRK-finance | Berkshire Hathaway share repurchases July 2026 share count
+2026-08-19T11:40:21Z | 819e-team-BRK-industry | gnews: Progressive Travelers Chubb second quarter 2026 combined ratio results
+2026-08-19T11:43:42Z | 819e-team-INTU-business | Intuit FY26 Q4 earnings August 25 2026 preview expectations
+2026-08-19T11:43:42Z | 819e-team-INTU-business | Intuit TurboTax Live customers 2026 tax season
+2026-08-19T11:43:44Z | 819e-team-INTU-industry | IRS Direct File 2026 states usage statistics tax season
+2026-08-19T11:43:44Z | 819e-team-INTU-industry | gnews: Intuit TurboTax AI competition
+2026-08-19T11:43:51Z | 819e-team-INTU-business | IRS Direct File expansion states 2026 TurboTax impact
+2026-08-19T11:43:57Z | 819e-team-INTU-finance | Intuit Q4 fiscal 2026 earnings August 25 2026 consensus EPS revenue estimate
+2026-08-19T11:44:03Z | 819e-team-INTU-finance | Intuit Q4 earnings preview August 2026 (gnews)
+2026-08-19T11:44:08Z | 819e-team-INTU-business | Intuit Assist AI agents adoption QuickBooks customers metrics 2026
+2026-08-19T11:44:23Z | 819e-team-INTU-industry | IRS Direct File 2026 tax season states users
+2026-08-19T11:44:23Z | 819e-team-INTU-industry | Goldman Sachs Intuit sell rating downgrade reason AI tax
+2026-08-19T11:44:32Z | 819e-team-INTU-business | Intuit AI agents QuickBooks agentic AI
+2026-08-19T11:44:38Z | 819e-team-INTU-finance | Intuit fiscal Q4 2026 earnings preview consensus revenue EPS TurboTax QuickBooks August 25
+2026-08-19T11:44:45Z | 819e-team-INTU-finance | Intuit third quarter fiscal 2026 results TurboTax guidance cut (gnews)
+2026-08-19T11:45:04Z | 819e-team-INTU-business | Intuit Q3 FY2026 earnings May 2026 TurboTax revenue growth results
+2026-08-19T11:45:09Z | 819e-team-INTU-finance | Intuit third quarter fiscal 2026 results press release TurboTax guidance (ddg)
+2026-08-19T11:45:42Z | 819e-team-INTU-business | Intuit TurboTax tax season 2026 slowdown priced out customers downgrade May
+2026-08-19T11:45:57Z | 819e-team-INTU-risk | Intuit Q4 FY2026 earnings August 25 2026 preview expectations
+2026-08-19T11:46:07Z | 819e-team-INTU-business | TurboTax Live growth tax season 2026 Intuit consumer group revenue
+2026-08-19T11:47:15Z | 819e-team-INTU-industry | gnews: AI tax filing startups 2026 season
+2026-08-19T11:47:27Z | 819e-team-INTU-industry | gnews: Intuit earnings TurboTax tax season returns filed
+2026-08-19T11:47:41Z | 819e-team-INTU-business | Intuit Credit Karma revenue growth Q3 2026
+2026-08-19T11:47:52Z | 819e-team-INTU-industry | gnews: Intuit layoffs restructuring guidance fiscal 2026
+2026-08-19T11:48:09Z | 819e-team-INTU-finance | Intuit fiscal 2027 guidance outlook analysts preview earnings August 25 (gnews)
+2026-08-19T11:48:10Z | 819e-team-INTU-industry | gnews: TurboTax revenue tax season decline
+2026-08-19T11:48:15Z | 819e-team-INTU-finance | Intuit expected earnings Tuesday August 25 consensus 3.5 revenue 4.2 billion MarketBeat
+2026-08-19T11:48:36Z | 819e-team-INTU-finance | Intuit valuation free cash flow yield forward P/E cheap 2026 (gnews)
+2026-08-19T11:49:39Z | 819e-team-INTU-business | software stocks rally August 18 2026 AI trade rotation
+2026-08-19T11:50:25Z | 819e-team-INTU-risk | Intuit stock plunge May 2026 guidance cut Credit Karma TurboTax
+2026-08-19T11:50:27Z | 819e-team-INTU-industry | gnews: QuickBooks Xero competition small business AI agents Intuit
+2026-08-19T11:50:38Z | 819e-team-INTU-risk | Intuit earnings August 25 guidance Credit Karma TurboTax crash
+2026-08-19T11:50:49Z | 819e-team-INTU-industry | gnews: Perplexity Tax Chime Tax filings users
+2026-08-19T11:50:59Z | 819e-team-INTU-industry | gnews: software stocks rally August 2026 SaaS valuation recovery
+2026-08-19T11:51:26Z | 819e-team-INTU-industry | QuickBooks market share vs Xero 2026 small business accounting
+2026-08-19T11:51:51Z | 819e-team-INTU-industry | Perplexity Tax 2026 filings users Chime Tax Prime Meridian
+2026-08-19T11:52:05Z | 819e-team-INTU-business | Intuit QuickBooks AI agents done-for-you bookkeeping Intuit Assist adoption
+2026-08-19T11:52:13Z | 819e-team-INTU-industry | gnews: Perplexity tax filing product returns season
+2026-08-19T11:52:20Z | 819e-team-INTU-business | TurboTax Live revenue grew Intuit earnings May 2026
+2026-08-19T11:52:25Z | 819e-team-INTU-industry | gnews: Chime Tax free filing launch
+2026-08-19T11:52:43Z | 819e-team-INTU-industry | gnews: software stocks best day rally Intuit Adobe Salesforce jump
+2026-08-19T11:53:15Z | 819e-team-INTU-industry | gnews: H&R Block earnings tax season assisted
+2026-08-19T11:53:18Z | 819e-team-INTU-business | TIKR Intuit buy 2026 67 percent high
+2026-08-19T11:53:30Z | 819e-team-INTU-risk | Sasan Goodarzi Intuit CEO succession record
+2026-08-19T11:53:31Z | 819e-team-INTU-risk | Intuit fiscal 2027 outlook Wall Street analysts price target
+2026-08-19T11:53:52Z | 819e-team-INTU-industry | Intuit stock jump August 18 2026 software rally oversold (brave blocked, fell back to article fetch)
+2026-08-19T11:53:54Z | 819e-team-INTU-business | Intuit QuickBooks mid-market AI agents August 2026
+2026-08-19T11:54:11Z | 819e-team-INTU-business | small business health index 2026 hiring recession Intuit QuickBooks
+2026-08-19T11:55:03Z | 819e-team-INTU-business | Intuit fiscal 2027 guidance revenue growth consensus analysts August 2026
+2026-08-19T11:56:03Z | 819e-team-INTU-risk | Intuit options implied move earnings straddle August 2026
+2026-08-19T12:00:24Z | 819e-team-TSM-risk | Taiwan credit default swap basis points August 2026
+2026-08-19T12:00:26Z | 819e-team-TSM-risk | Taiwan Strait tension August 2026 military drill blockade
+2026-08-19T12:00:27Z | 819e-team-TSM-business | TSMC 2nm N2 production 2026 customers Apple Qualcomm volume
+2026-08-19T12:00:27Z | 819e-team-TSM-business | TSMC foundry wafer price increase 2026 3nm 5nm percentage
+2026-08-19T12:00:28Z | 819e-team-TSM-finance | TSMC Q2 2026 earnings gross margin 67.7% EPS capex guidance
+2026-08-19T12:00:49Z | 819e-team-TSM-finance | TSMC second quarter 2026 results gross margin EPS ADR
+2026-08-19T12:00:52Z | 819e-team-TSM-industry | TSMC Samsung Intel 18A advanced node market share 2026
+2026-08-19T12:00:54Z | 819e-team-TSM-industry | TSMC CoWoS capacity 2026 2027 bottleneck advanced packaging
+2026-08-19T12:00:58Z | 819e-team-TSM-business | TSMC CoWoS capacity expansion (gnews)
+2026-08-19T12:01:07Z | 819e-team-TSM-industry | Intel 18A yield Panther Lake Apple foundry deal 2026
+2026-08-19T12:01:08Z | 819e-team-TSM-finance | gnews: TSMC Q2 2026 earnings gross margin capex
+2026-08-19T12:01:09Z | 819e-team-TSM-business | TSMC Arizona fab overseas gross margin (gnews)
+2026-08-19T12:01:13Z | 819e-team-TSM-industry | TSMC CoWoS capacity 2027 bottleneck AI packaging
+2026-08-19T12:01:15Z | 819e-team-TSM-business | Intel 18A foundry customers 2026 (gnews)
+2026-08-19T12:01:22Z | 819e-team-TSM-industry | TSMC CoWoS capacity expansion 2027 AI advanced packaging bottleneck
+2026-08-19T12:01:26Z | 819e-team-TSM-business | Taiwan tension China military drill August 2026 (gnews)
+2026-08-19T12:01:32Z | 819e-team-TSM-industry | Taiwan credit default swap CDS spread Taiwan dollar 2026
+2026-08-19T12:01:38Z | 819e-team-TSM-industry | semiconductor cycle peak 2027 AI capex bubble debate
+2026-08-19T12:01:39Z | 819e-team-TSM-business | TSMC stock drop August 18 2026 (gnews)
+2026-08-19T12:01:43Z | 819e-team-TSM-industry | optical transceiver stocks crash AI networking selloff August 2026
+2026-08-19T12:01:52Z | 819e-team-TSM-industry | China mature node overcapacity foundry price war 2026 SMIC
+2026-08-19T12:01:53Z | 819e-team-TSM-finance | TSMC 2026 capex guidance Q2 earnings call
+2026-08-19T12:01:58Z | 819e-team-TSM-industry | TSMC stock drop August 18 2026 Nvidia circular financing AI concerns
+2026-08-19T12:02:06Z | 819e-team-TSM-finance | TSMC Q3 2026 guidance gross margin
+2026-08-19T12:02:06Z | 819e-team-TSM-industry | Taiwan dollar appreciation TSMC margin impact 2026
+2026-08-19T12:02:15Z | 819e-team-TSM-industry | Taiwan strait tension 2026 China military TSMC impact
+2026-08-19T12:02:32Z | 819e-team-TSM-finance | gnews: TSMC capex 2026 guidance billion Wei
+2026-08-19T12:02:32Z | 819e-team-TSM-business | TSMC Apple chips DRAM billion (gnews)
+2026-08-19T12:03:06Z | 819e-team-TSM-finance | ddg: TSMC Q2 2026 earnings gross margin 67.7 capex 64 billion Q3 guidance
+2026-08-19T12:03:19Z | 819e-team-TSM-business | tradingkey TSM moved down 3.68% Aug 18 facts
+2026-08-19T12:03:45Z | 819e-team-TSM-industry | Nvidia 2027 order visibility TSMC wafer demand
+2026-08-19T12:03:45Z | 819e-team-TSM-business | NVIDIA 105 billion guarantee TSMC (gnews)
+2026-08-19T12:03:58Z | 819e-team-TSM-business | AI stocks selloff August 18 2026 spending fears (gnews)
+2026-08-19T12:04:12Z | 819e-team-TSM-industry | Taiwan 5 year CDS basis points sovereign risk August 2026
+2026-08-19T12:04:21Z | 819e-team-TSM-business | TSMC July revenue record 14.49 billion (gnews)
+2026-08-19T12:04:31Z | 819e-team-TSM-industry | Taiwan CDS geopolitical risk premium TSMC 2026
+2026-08-19T12:04:55Z | 819e-team-TSM-business | TSMC Q2 2026 earnings gross margin guidance record (gnews)
+2026-08-19T12:05:17Z | 819e-team-TSM-industry | Counterpoint foundry share TSMC Samsung Q1 2026 N2 yield Samsung SF2
+2026-08-19T12:05:49Z | 819e-team-TSM-business | Taiwan sovereign CDS credit default swap August 2026 (bing)
+2026-08-19T12:21:04Z | PGR读数2040/gnews | Progressive July 2026 results combined ratio
+2026-08-19T12:32:02Z | PGR读数2040/gnews | Progressive reports July results net premiums written policies in force
+2026-08-19T12:33:57Z | PGR读数/gnews | Progressive combined ratio 86.8 July
+2026-08-19T12:48:07Z | PGR复核/gnews | PayPal Stripe Advent offer price per share
+2026-08-19T13:59:35Z | curl-sentiment | init quotes CRCL via fetch_quotes.py
+2026-08-19T13:59:38Z | curl-reg | GENIUS Act implementation Treasury stablecoin rules
+2026-08-19T13:59:41Z | curl-reg | Circle OCC trust charter license application
+2026-08-19T13:59:52Z | curl-sentiment | gnews CRCL analyst rating; websearch CRCL 13F Q2 2026
+2026-08-19T13:59:55Z | curl-reg | Treasury sb0605 press release fetch
+2026-08-19T13:59:58Z | curl-reg | CLARITY Act Senate progress
+2026-08-19T14:00:02Z | curl-industry | WebSearch 429 confirmed, switch to curl channel
+2026-08-19T14:00:12Z | curl-company | EDGAR 8-K list CRCL
+2026-08-19T14:00:16Z | curl-sentiment | quiverquant trust-bank article; stockanalysis CRCL overview
+2026-08-19T14:00:26Z | curl-company | EDGAR 8K 000246 index
+2026-08-19T14:00:29Z | curl-company | Form4 Aug7-14 insiders
+2026-08-19T14:00:31Z | curl-sentiment | gnews 13F; stockanalysis statistics (short interest)
+2026-08-19T14:00:35Z | curl-reg | CLARITY Act Senate floor vote news
+2026-08-19T14:00:37Z | curl-reg | FOMC July 2026 minutes rate path
+2026-08-19T14:00:47Z | curl-sentiment | websearch index inclusion; yahoo search CRCL
+2026-08-19T14:00:59Z | curl-reg | Fed September rate cut odds Jackson Hole
+2026-08-19T14:01:03Z | curl-company | 8K index.json
+2026-08-19T14:01:04Z | curl-sentiment | yahoo russell article; websearch ARK 13F
+2026-08-19T14:01:06Z | curl-company | 4x Form4 Aug window parsed
+2026-08-19T14:01:19Z | curl-sentiment | theblock ARK article; websearch aug13 rally
+2026-08-19T14:01:21Z | curl-reg | Circle CRCL news Aug 11
+2026-08-19T14:01:35Z | curl-sentiment | kucoin arc article; brave 429 on stocktwits/reddit queries
+2026-08-19T14:01:38Z | curl-company | Form4 values parsed
+2026-08-19T14:01:39Z | curl-reg | Hong Kong stablecoin license Circle
+2026-08-19T14:02:18Z | curl-company | gnews CRCL Arc mainnet
+2026-08-19T14:02:48Z | curl-company | Yahoo CRCL news search
+2026-08-19T14:02:53Z | curl-reg | Circle NYDFS trust charter
+2026-08-19T14:02:56Z | curl-company | gnews CRCL analyst PT
+2026-08-19T14:03:00Z | curl-reg | Circle Japan MAS MiCA overseas
+2026-08-19T14:03:13Z | curl-reg | Circle Japan Singapore license
+2026-08-19T14:03:19Z | curl-reg | FOMC minutes Aug 19 2026
+2026-08-19T14:03:32Z | curl-sentiment | google news redirect resolve attempt, stocktwits site search
+2026-08-19T14:03:32Z | curl-company | CCN Neutral BTC collateral article
+2026-08-19T14:03:51Z | curl-reg | Circle USDC general news
+2026-08-19T14:03:54Z | curl-company | websearch Neutral BTC collateral
+2026-08-19T14:03:58Z | curl-sentiment | stockanalysis forecast page (ratings table)
+2026-08-19T14:04:09Z | curl-reg | EU bans 14 crypto platforms MiCA
+2026-08-19T14:04:15Z | curl-reg | Treasury yields this week
+2026-08-19T14:04:18Z | curl-company | gnews CRCL Aug11 rally
+2026-08-19T14:04:21Z | curl-company | gnews CRCL Aug19
+2026-08-19T14:04:28Z | curl-sentiment | gnews Morgan Stanley downgrade; stockanalysis ownership 404
+2026-08-19T14:04:50Z | curl-reg | HKMA stablecoin August
+2026-08-19T14:04:58Z | curl-sentiment | fintel blocked; gnews options search
+2026-08-19T14:05:00Z | curl-reg | crypto tax guidance
+2026-08-19T14:05:23Z | curl-reg | Circle Japan FSA
+2026-08-19T14:05:47Z | curl-sentiment | gnews aug17-18; bingx aug11 article
+2026-08-19T14:06:22Z | curl-reg | stablecoin yield CLARITY September
+2026-08-19T14:06:31Z | curl-sentiment | stocktwits api; stockcircle ARK tx
+2026-08-19T14:07:03Z | curl-sentiment | gnews index inclusion (none in window); gnews investor update
+2026-08-19T14:07:05Z | curl-company | DDG EURC search
+2026-08-19T14:07:06Z | curl-reg | NYDFS stablecoin guidance
+2026-08-19T14:07:41Z | curl-company | coingape EURC body
+2026-08-19T14:07:46Z | curl-sentiment | stocktitan CRCL news list
+2026-08-19T14:08:51Z | curl-sentiment | stocktitan full list; gnews machine-payments (not resolved); research complete
+2026-08-19T14:09:10Z | curl-company | thecoinrepublic EURC body
+2026-08-19T14:09:51Z | curl-company | valuethemarkets EURC
+2026-08-19T14:09:57Z | curl-company | DDG aug11 jumps
+2026-08-19T14:10:19Z | curl-company | DDG neutral collateral
+2026-08-19T14:10:25Z | curl-company | DDG aug11b
+2026-08-19T14:11:22Z | curl-company | bing neutral collateral
+2026-08-19T14:12:10Z | curl-company | gnews neutral + gn page decode
+2026-08-19T14:12:53Z | curl-company | gn page decode attempt
+2026-08-19T14:13:20Z | curl-company | Yahoo multi-query Neutral/jumps/PT
+2026-08-19T14:13:47Z | curl-company | 247+ccn site search
+2026-08-19T14:14:06Z | curl-company | 247 wp-json search
+2026-08-19T14:14:19Z | curl-company | stockanalysis CRCL page
+2026-08-19T14:14:48Z | curl-company | 247wallst Aug11 body
+2026-08-19T14:15:39Z | curl-company | circle pressroom
+2026-08-19T14:16:28Z | curl-company | circle blog list
+2026-08-19T14:16:46Z | curl-company | bingnews RSS neutral
+2026-08-19T14:17:34Z | curl-company | gnews Coinbase USDC renewal
+2026-08-19T14:18:01Z | curl-company | gnews Neutral retry
+2026-08-19T14:18:20Z | curl-company | gnews crypto card 759M
+2026-08-19T14:18:38Z | curl-company | 13G/A filer CIK2068938
+2026-08-19T14:18:40Z | curl-company | gnews index inclusion
