@@ -566,3 +566,16 @@
 2026-08-19T14:18:20Z | curl-company | gnews crypto card 759M
 2026-08-19T14:18:38Z | curl-company | 13G/A filer CIK2068938
 2026-08-19T14:18:40Z | curl-company | gnews index inclusion
+
+2026-08-19T05:45Z | WebSearch | CBOE VIX index level today August 19 2026
+2026-08-19T05:45Z | WebSearch | fear and greed index CNN today August 2026
+2026-08-19T05:45Z | WebSearch | S&P 500 percent stocks above 200 day moving average August 2026
+2026-08-19T05:45Z | YahooAPI | NDX 52wk high distance (curl)
+2026-08-19T05:46Z | WebSearch | AI capex guidance 2026 hyperscaler spending
+2026-08-19T05:46Z | WebSearch | bitcoin price today distance from all time high August 2026
+2026-08-19T05:46Z | WebSearch | crypto fear greed index today August 2026
+2026-08-19T05:46Z | WebSearch | stocks earnings beat surge movers August 19 2026
+2026-08-19T05:47Z | WebSearch | bitcoin all time high price 2025 record
+2026-08-19T05:47Z | WebSearch | CoWoS HBM supply shortage 2026 TSM monthly revenue
+2026-08-19T05:47Z | WebSearch | AI software SaaS ARR growth Copilot adoption enterprise 2026
+2026-08-19T05:48Z | YahooAPI | 9 holdings pre-market prices (includePrePost=true)
