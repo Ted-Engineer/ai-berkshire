@@ -3,7 +3,7 @@ schema_version: 1
 locale: zh-CN
 branch: main
 nodes_managed: true
-exported_at: "2026-08-19T03:23:19Z"
+exported_at: "2026-08-19T04:19:26Z"
 modules:
     "":
         dir_name: AI Berkshire 投研框架根仓库
@@ -153,8 +153,8 @@ modules:
         related_to:
             - path: stock_screening_tools/screener_ranker
     research_scripts:
-        dir_name: 研究数据抓取、工作流钩子与多 IDE Skill 同步脚本
-        title: 研究数据抓取、工作流钩子与多 IDE Skill 同步脚本
+        dir_name: 投资研究脚本与工作流钩子集
+        title: 投资研究脚本与工作流钩子集
         scope:
             - scripts/
             - tests/
