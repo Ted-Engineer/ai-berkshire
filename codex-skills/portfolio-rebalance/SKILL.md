@@ -15,7 +15,7 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 # 组合调仓：全流程调仓研究与操作信号
 
-对 $ARGUMENTS 执行全流程调仓研究（prompt.md v4 的 skill 化执行入口）。投资期限 1-6 个月，目标是捕捉可兑现的大额收益（催化剂/事件驱动）。
+对 $ARGUMENTS 执行全流程调仓研究（config/portfolio-targets.md v6.0 三大主仓+热度动态配置的执行入口）。投资期限 1-6 个月，目标是捕捉可兑现的大额收益（催化剂/事件驱动）。
 
 **支持输入格式**：
 - （空）：**全量模式**——全部持仓重研 + 全市场候选扫描 + 双重准入 + 操作方案
@@ -28,17 +28,17 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 1. 先运行 `date` 确认今天日期，作为"最新数据"基准并在报告头部标注截止日期。
 2. **Read 两个参数文件**（每次执行必须现读，禁止凭记忆——参数可能已调整）：
-   - `config/portfolio-targets.md`：目标分布、硬/软约束分级、分类判例表、风险参数、设计假设
+   - `config/portfolio-targets.md`：三大主仓目标上限（加密40%/AI平台或软件30%/AI硬件30%）、大方向热度分映射、子方向机会承接、约束分级、分类判例表、风险参数、设计假设
    - `config/search-matrix.md`：GICS 25组双视角词、AI 17赛道、非AI 14主题、7维交叉、候选来源A-I
 3. **磁盘状态模式**（本流程长，上下文会被压缩——一切中间产物即时落盘，中断后重开会话凭磁盘状态续跑）：
    - 开始时创建 `.claude/.workflow/active` 文件（激活工作流，gate脚本据此生效）
-   - 搜索：每次调用后手动追加一行 `UTC时间 | 工具名 | 搜索词` 到 `.claude/.workflow/search-log.txt`，并写对应 `.used` 标记（builtin-websearch.used / mcp-web-search.used / mcp-kepler-search.used）
+   - 搜索：每次调用后手动追加一行 `UTC时间 | 工具名 | 搜索词` 到 `.claude/.workflow/search-log.txt`，并写对应 `.used` 标记（mcp-ddg-search.used / builtin-websearch.used / mcp-web-search.used / mcp-kepler-search.used）
    - 候选：每发现一只立即追加 `.claude/.workflow/candidates.csv`（表头 `ticker,company,gics_sector,source`，同ticker不重复，下限300只、理想350只）
    - skill执行完成时创建对应 `.done` 标记（如 `investment-team-MSFT-20260815.done`）
    - 每只持仓报告写完即存 `reports/{公司名}/`，不依赖会话记忆
 4. **阶段门禁（关键——ZCode下hook不触发的替代方案）**：每完成一个阶段，运行 `bash scripts/workflow-gate-hook.sh`，把JSON输出原文贴入阶段报告。输出含 `decision:block` = 该阶段未达标，禁止进入下一阶段，按 reason 补齐。在 hook 生效的环境（Claude Code）它是 Stop 时的双重保险。
 5. 环境适配：Windows下用 `python`（无python3）；持仓研究用 Agent 工具**同一条消息多个调用并发**（subagent_type: general-purpose）；搜索回退链：WebSearch → mcp__kepler__web_search → mcp__web_reader__webReader → **Bash curl直连**（`.claude/.workflow/SEARCH-TOOLKIT.md` 有全套已验证命令：websearch.sh=Brave通用搜索、gnews.sh=Google News、curl Yahoo API=行情/榜单/新闻）。注意：内置WebSearch与webReader MCP是**同一上游配额**（2026-08-17实证同时429），前两层同时失效时直接跳到curl层，勿浪费重试（配额用尽禁止放弃、禁止以工具不可用为由跳过步骤、禁止用训练知识冒充联网结果）。
-6. **搜索正文获取铁律（v5.4新增，不可违反）**：使用open-websearch MCP或任何搜索工具时，搜索结果（标题+snippet）**不足以作为分析依据**。必须对关键结果调用 `fetchWebContent`（open-websearch MCP）或 `WebFetch`（内置）获取正文全文，然后才能用作数据点。规则：
+6. **搜索正文获取铁律（v5.4新增，不可违反）**：使用ddg-search MCP或任何搜索工具时，搜索结果（标题+snippet）**不足以作为分析依据**。必须对关键结果调用 `fetch_content`（ddg-search MCP）或 `WebFetch`（内置）获取正文全文，然后才能用作数据点。规则：
    - 每个用于估值/增速/合同等关键数据点的搜索结果，必须fetch正文确认具体数字
    - 仅用于“发现候选ticker”的搜索可以只看标题（发现阶段）
    - 用于“验证/分析/决策”的搜索必须获取正文（验证阶段）
@@ -56,7 +56,7 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 **禁止将任何催化剂标记为"二元事件"然后等待。** 我们的edge不是赌博，是通过信息搜集+深度推理看到别人看不到的底层逻辑：
 
 **每个催化剂/事件前，必须执行“信息推理链”**：
-1. **全网搜集**（≥10次搜索，用open-websearch MCP）：
+1. **全网搜集**（≥10次搜索，用ddg-search MCP）：
    - 公司近30天产品发布/招聘动向/合作伙伴公告
    - 竞品同期数据反推（如用竞品增速推算目标公司增速）
    - 供应商/客户链信号（如TSM出货数据反推下游需求）
@@ -108,14 +108,12 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 - **延时交易异动（必须）**：用 Yahoo v8 chart API（`includePrePost=true`）获取全部持仓的夜盘/盘前最后成交价，与收盘价对比；延时变动>±1%的标的立即标注为异动信号，纳入优先评估
 - 用户关注过的标的（memory有记录）异动>10% → 立即纳入候选并评估
 - 持仓的供应商/客户/合作伙伴异动>15% → 评估对持仓的影响
-- **市场温度判定（v5.0新增，必须）**：按 `config/portfolio-targets.md` "现金动态规则"执行5个信号搜索（NDX距高点/VIX/市场广度/Fear&Greed/IPO情绪），确认当前温度档位（🔴🟠🟡🟢🔵），输出到报告头部并决定现金下限。禁止凭训练知识判断市场温度，必须实时搜索。
-- **AI子行业温度判定（v5.3新增，必须）**：按 `config/portfolio-targets.md` "AI子行业温度动态规则"执行双层判定：
-  - 第一层：AI整体水位（搜索"AI capex guidance 2026 hyperscaler"、"AI revenue growth quarterly"、"AI infrastructure bottleneck shortage"）→ 确认AI总暴露区间
-  - 第二层：AI硬件水位（搜索"CoWoS HBM supply shortage"、"TSM monthly revenue"、"IPP PPA data center contract"）+ AI软件水位（搜索"AI ARR SaaS growth"、"AI software valuation PE"、"Copilot adoption enterprise"）+ AI平台水位（搜索"META GOOGL FCF capex"、"hyperscaler buyback dilution"）
-  - 输出：AI整体水位 + 三子类水位 + 当前应配比例，写入报告头部
-- **加密市场温度判定（v5.4新增，必须）**：按 `config/portfolio-targets.md` "加密市场温度动态规则"执行：
-  - 搜索 "bitcoin price all time high distance"、"crypto fear greed index"、"bitcoin ETF flows"、"crypto regulation stablecoin" → 确认加密水位（🟢积累/🟡复苏/🟠狂热/🔴崩盘）
-  - 输出：加密水位 + 当前应配比例 + 内部路径选择（修复为主/爆发为主），写入报告头部
+- **三大方向热度分判定（v6.0核心，必须）**：按 `config/portfolio-targets.md` "大方向热度分"执行，三个方向各自 5 项信号实时搜索打分（0-100，越高越热），**禁止凭训练知识、禁止写死比例**：
+  - **加密热度分**：搜索 "bitcoin price all time high distance"、"crypto fear greed index today"、"bitcoin ETF flows weekly"、"bitcoin hashrate miner capitulation"、"crypto regulation stablecoin legislation"
+  - **AI硬件热度分**：搜索 "CoWoS HBM supply shortage"、"semiconductor lead time price increase"、"TSM monthly revenue" + 板块估值分位（finviz/stockanalysis）+ 拥挤度
+  - **AI平台或软件热度分**：搜索 "AI ARR growth SaaS hyperscaler"、"hyperscaler capex guidance 2026"、"AI software valuation narrative" + 板块估值分位 + 内部人/机构行为
+  - 输出（写入报告头部）：三方向热度分+档位（🔵🟢🟡🟠🔴）+ 热度映射配置额度（按 config 公式计算，用 financial_rigor.py calc 校验，禁止心算）+ 平均热度 M → 现金下限
+- **市场温度快查（辅助）**：按 `config/portfolio-targets.md` "现金动态规则"确认 NDX 距高点/VIX 等整体环境，交叉校验三方向热度分是否有系统性偏差（如全市场恐慌时三方向同冷）
 
 ### 第一步：核实当前持仓（必须逐项确认）
 - 必须先 Read `reports/portfolio-latest.md`；若用户提供了持仓清单，以用户数据为准
@@ -164,18 +162,23 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 **教训存档（2026-08-18）**：META正确使用了4个独立subagent（段永平/巴菲特/芒格/李录各自独立搜索、独立验证、独立结论），暴露了"仓位超风险预算1.34%>1%"这一关键风险；后续BABA/MSFT/ADBE退化为单agent合并分析后，四维张力消失，风险暴露能力严重降级。根因：独立执行产生的视角碰撞是暴露结构性风险的唯一途径，合并执行=自欺欺人。
 
-### 第二步半：行业分布评估（必须执行，不可跳过）
-- 按 `config/portfolio-targets.md` 的分类规则归类每只持仓，计算当前分布，输出对比表（目标/当前/偏差/✅⚠️🔴状态）
-- **分布表数字生成规则（防错·必读）**：所有百分比必须由脚本计算生成并打印（python/financial_rigor.py），禁止手写或心算；脚本必须输出合计校验行（八个互斥主类别精确合计=100.0%，校验不过禁止写报告）；小计行（AI总暴露）不参与求和，必须视觉区分；用户质疑任何数字时先跑工具再回答
-- 按约束分级评估：硬约束（AI总暴露/非AI对冲/现金/单一国家敲口/加密上限）偏差>10%=🔴必须修正；AI三子类别（硬件/软件/平台）只⚠️提示（软约束）
-- **集中度检查（v5.4新增）**：每个类别是否超过top 2？超过=标注🔴并在第五步给出减仓建议
-- 此评估结果直接影响第三步候选筛选方向（缺口反向映射=来源E）
+### 第二步半：三大方向分布评估 + 子方向机会承接（v6.0，必须执行，不可跳过）
+- 按 `config/portfolio-targets.md` 的 v6.0 分类规则，将每只持仓归入三大方向（加密/AI平台或软件/AI硬件），计算当前分布 vs 热度映射额度 vs 目标上限，输出对比表（上限/映射额度/当前/偏差/✅⚠️🔴状态）
+- **分布表数字生成规则（防错·必读）**：所有百分比必须由脚本计算生成并打印（python/financial_rigor.py），禁止手写或心算；脚本必须输出合计校验行（加密+AI平台或软件+AI硬件+现金+防御保留 精确合计=100.0%，校验不过禁止写报告）；用户质疑任何数字时先跑工具再回答
+- **子方向机会承接评估（v6.0核心，必须）**：对每个大方向，按 `config/portfolio-targets.md` "子方向机会承接" 逐子方向打分（机会分=估值分位40+催化剂30+逻辑30；准入双条件：机会分≥50 且 子方向热度<75）：
+  - 输出"子方向机会承接表"：子方向 | 机会分 | 热度判定 | 准入 | 承接额度
+  - **承接规则**：大方向配置额度只在有合格子方向时启用；可全部集中于机会分最高的 1 个子方向（用户允许"AI硬件里全是同一个子方向"）；无合格子方向 → 该方向额度归零转现金
+- 按约束分级评估：硬约束（三大方向各自≤上限、现金≥下限、单一国家敞口、IPP≤6%）偏差>10%=🔴必须修正；热度映射额度为软约束（偏差>10% 须说明理由）
+- **集中度检查（v5.4保留）**：每个大方向是否超过 top 1~2（加密允许 top 3）？超过=标注🔴并在第五步给出减仓建议
+- 此评估结果直接影响第三步候选筛选方向（方向缺口+子方向机会缺口=来源E）
 
 ### 第三步：新候选股筛选（全量模式必做；lite模式跳过）
 
 **候选累积追踪**：维护 `.claude/.workflow/candidates.csv`（ticker,company,gics_sector,source），下限300只、理想350只唯一候选；25个GICS组每组≥4只，7维每维≥5只；候选不足时gate脚本会拦截。
 
-*9路候选来源A-I并行**（缺一不可，详细执行方式见 `config/search-matrix.md` 第五节）：A=持仓文件待执行项、B=全市场多维搜索（GICS 25组×2视角+7维）、C=/industry-funnel、D=/bottleneck-hunter、E=分布缺口反向映射、F=用户历史关注（必选）、G=持仓生态链反向搜索（必选）、**H=爆发股猎手（必选，找"增速被低估"的标的）**、**I=估值修复猎手（必选，找"风险被高估"的标的）**。
+*9路候选来源A-I并行**（缺一不可，详细执行方式见 `config/search-matrix.md` 第五节）：A=持仓文件待执行项、B=全市场多维搜索（GICS 25组×2视角+7维）、C=/industry-funnel、D=/bottleneck-hunter、E=方向缺口+子方向机会缺口反向映射、F=用户历史关注（必选）、G=持仓生态链反向搜索（必选）、**H=爆发股猎手（必选，找"增速被低估"的标的）**、**I=估值修复猎手（必选，找"风险被高估"的标的）**。
+
+> **v6.0 类别归并说明**：来源H/I 的标的**不再单设仓位类别**——按主业归入三大方向（加密/AI平台或软件/AI硬件），其 DNA 验证结果直接作为"子方向机会承接"的机会分输入（估值分位/催化剂/逻辑三个维度与 H/I 的 DNA 一一对应）。
 
 #### 来源H：爆发股猎手（2026-08-18新增，全量模式必做）
 
@@ -200,7 +203,7 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
    - (d) 机构持股<40%（尚未被基金充分配置）
    - **灰色判定**：若(a)-(d)均不满足但差距<20%（如分析师22人、低估幅度25%），标注"灰色-覆盖错位"仍可入池，但仓位减半（≤4%而非8%）
 
-**扫描工具（强制）**：使用 open-websearch MCP（`CallMcpTool server_name="open-websearch" tool_name="search"`）执行全网覆盖式搜索，默认duckduckgo引擎；每轮搜索≥10组不同关键词，每组返回结果逐条审查。
+**扫描工具（强制）**：使用 ddg-search MCP（`CallMcpTool server_name="ddg-search" tool_name="search"`）执行全网覆盖式搜索，固定参数 `max_results=20`、`region="us-en"`（见 .qoder/rules/ddg-search-fixed-params.md）；每轮搜索≥10组不同关键词，每组返回结果逐条审查。
 
 **必搜关键词矩阵（≥20次搜索，分4轮）**：
 
@@ -220,7 +223,7 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 **市值毕业缓冲规则（v5.1新增）**：
 - 市值$50-80B = "毕业缓冲区"：已持仓可继续持有（不强制移出），但**新建仓受限**（须用户额外确认"$50B+仍要买入？"）
-- 市值>$80B = 强制毕业：移出爆发仓，按主规则重新归类（通常归AI核心）
+- 市值>$80B = 强制毕业：移出爆发仓，按主规则重新归类（通常归入AI硬件或AI平台或软件）
 - 设计理由：NBIS从$15B→$50B仅用2个月，旧规则在爆发主升浪中强制移出=错过最大收益段
 
 **输出要求**：报告末尾输出"爆发股猎手扫描矩阵"——4轮×搜索词×结果数×入池数；标注哪些ticker通过了6条DNA、哪些被哪条拦截。
@@ -249,15 +252,15 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 **输出要求**：报告末尾输出"估值修复猎手扫描矩阵"——搜索词×结果数×入池数；标注哪些ticker通过了4条DNA、哪些被哪条拦截。
 
-**搜索执行**：按 `config/search-matrix.md` 的词库——GICS 25组全部×2视角（≥50次）、AI 17赛道全部×≥2视角（≥34次）、非AI 14主题选≥8（主题13/14优先）、7维各≥1次（D6/D7必做）、**来源H爆发股猎手≥20次（open-websearch MCP）**、**来源I估值修复猎手≥20次（AI修复≥5+加密修复≥15）**；合计≥120次；AI候选≤65%；每次搜索后追加search-log.txt。
+**搜索执行**：按 `config/search-matrix.md` 的词库——GICS 25组全部×2视角（≥50次）、AI 17赛道全部×≥2视角（≥34次）、非AI 14主题选≥8（主题13/14优先）、7维各≥1次（D6/D7必做）、**来源H爆发股猎手≥20次（ddg-search MCP）**、**来源I估值修复猎手≥20次（AI修复≥5+加密修复≥15）**；合计≥120次；AI候选≤65%；每次搜索后追加search-log.txt。
 
 **筛选流程**（不得跳过、不得引用旧结果）：
-1. 并行执行9路来源（A-I），汇总去重、按分布缺口优先级排序
+1. 并行执行9路来源（A-I），汇总去重、按方向缺口+子方向机会分优先级排序
 2. 从汇总池提取Top 10-15候选
 3. 对Top候选逐一双重验证：/investment-checklist（六关准入）+ /investment-team（四大师评估）——两者都通过才能进入终选
 4. 冒泡排序找Top 2（见第四步）
 
-**绝对禁止**：以"之前已执行过漏斗/瓶颈扫描"为由跳过；只搜2-3个行业就声称全市场扫描完成；跳过来源A/F/G/H；所有搜索词全部带"undervalued"；来源H用内置WebSearch替代open-websearch MCP（必须走MCP以确保覆盖度）。
+**绝对禁止**：以"之前已执行过漏斗/瓶颈扫描"为由跳过；只搜2-3个行业就声称全市场扫描完成；跳过来源A/F/G/H；所有搜索词全部带"undervalued"；来源H用内置WebSearch替代ddg-search MCP（必须走MCP以确保覆盖度）。
 
 ### 第四步：冒泡排序终选
 对所有候选两两比较：护城河★、估值fPE、下行风险（悲观-X%小者优先）、催化剂（3个月内有财报/新品者优先）、行业分布契合度（能修正硬约束偏差者优先）。
@@ -265,9 +268,9 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 
 ### 第五步：输出最终方案
 生成 `reports/portfolio-action-{YYYYMMDD}.md`，包含：
-1. **5.1 行业分布对比**：设计假设核验（✅/❌，≥2失效触发设计复审）+ 调仓前/后/目标分布对比表（脚本生成+合计校验行）+ 非AI细分表；调仓后仍有>10%硬约束偏差或触及硬上限必须说明原因与修正计划
-2. **5.2 执行清单**：每只股票的明确操作（动词+触发条件）+ 行业类别 + 一句话理由；评分标注框架来源
-3. **5.3 执行顺序**：先清仓X→回收$Y，再买入Z→投入$W，净效果M只→N只（≤10只）；**集中度检查：每类≤top2，超过则先砍最弱**
+1. **5.1 三大方向分布对比**：设计假设核验（✅/❌，≥2失效触发设计复审）+ 大方向热度分与映射额度记录（三方向×5信号搜索证据）+ 调仓前/后/上限/映射额度对比表（脚本生成+合计校验行：加密+AI平台或软件+AI硬件+现金+防御保留=100.0%）+ **子方向机会承接表**（子方向/机会分/准入/承接额度）；调仓后仍有>10%硬约束偏差或触及上限必须说明原因与修正计划
+2. **5.2 执行清单**：每只股票的明确操作（动词+触发条件）+ 所属大方向与子方向 + 一句话理由；评分标注框架来源
+3. **5.3 执行顺序**：先清仓X→回收$Y，再买入Z→投入$W，净效果M只→N只（≤10只）；**集中度检查：每方向≤top1-2（加密允许top3），超过则先砍最弱**
 4. **5.4 预期回报**（1-6个月）：标的/仓位/乐观/中性/悲观/期望（financial_rigor.py three-scenario生成）
 5. **5.5 风险管理**：每笔止损价（-12%）+移动止损（浮盈>15%上移至成本+5%或20日线）+催化剂兑现退出规则+单笔风险预算校验（仓位×止损距离≤1%）+催化剂日历+执行检查清单+AI泡沫破裂应急规则（见config风险参数）
 6. **推荐验证矩阵**（最终报告必须包含，任何一行❌=该标的不得进执行清单）：
@@ -287,14 +290,14 @@ This skill is generated from `skills/portfolio-rebalance.md` so Claude Code and 
 | 阶段完成点 | 运行 | 必须通过 |
 |-----------|------|---------|
 | 第二步后（lite模式在此结束） | bash scripts/workflow-gate-hook.sh | investment-team ≥1个.done |
-| 第三步后 | bash scripts/workflow-gate-hook.sh | +checklist/funnel/bottleneck .done、candidates≥300、搜索≥110（含H≥20、I≥20）、used标记存在、mcp-open-websearch.used标记存在 |
+| 第三步后 | bash scripts/workflow-gate-hook.sh | +checklist/funnel/bottleneck .done、candidates≥300、搜索≥110（含H≥20、I≥20）、used标记存在、mcp-ddg-search.used标记存在 |
 | 第五步后 | bash scripts/workflow-gate-hook.sh | +recommended-buys全覆盖 |
 
 ## 质量标准
 
-**必须做到**：每只股票明确操作信号；FCF分类处理（长期持仓FCF为负=清仓红线；短期"基建期成长股"单标的≤8%、合计≤12%、强制止损）；买入前双重验证；评分标注框架来源；关键数据用financial_rigor.py验证+双源交叉；写文件前逐项确认实际持仓；全部研究实时搜索；报告输出候选发现来源矩阵；来源F/G/H/I执行证据；搜索词多样性证据（≥10组不含"undervalued"）；**来源H爆发股猎手必须输出4轮扫描矩阵+DNA验证表**；**来源I估值修复猎手必须输出4条DNA验证表（好生意/估值极端/恐惧归因/催化剂）**。
+**必须做到**：每只股票明确操作信号；FCF分类处理（长期持仓FCF为负=清仓红线；短期"基建期成长股"单标的≤8%、合计≤12%、强制止损）；买入前双重验证；评分标注框架来源；关键数据用financial_rigor.py验证+双源交叉；写文件前逐项确认实际持仓；全部研究实时搜索；报告输出候选发现来源矩阵；来源F/G/H/I执行证据；搜索词多样性证据（≥10组不含"undervalued"）；**三大方向热度分判定证据（3方向×5信号搜索词+得分+档位+映射额度，禁止写死比例）**；**子方向机会承接表（子方向/机会分/准入双条件/承接额度，允许集中全押单一子方向）**；**来源H爆发股猎手必须输出4轮扫描矩阵+DNA验证表**；**来源I估值修复猎手必须输出4条DNA验证表（好生意/估值极端/恐惧归因/催化剂）**。
 
-**禁止事项**：模糊建议；未核实持仓就给建议；复用旧评分/旧研究；以"本会话已执行"为由跳过步骤；批量分析多只股票在1个skill调用中；只搜与缺口匹配的行业就声称全市场扫描；忽略持仓文件待执行项；混用不同框架分数不标注；仅用checklist就决定买入；跳过行业分布评估或忽略硬约束>10%偏差；来源F走过场；忽略持仓生态链。
+**禁止事项**：模糊建议；未核实持仓就给建议；复用旧评分/旧研究；以"本会话已执行"为由跳过步骤；批量分析多只股票在1个skill调用中；只搜与缺口匹配的行业就声称全市场扫描；忽略持仓文件待执行项；混用不同框架分数不标注；仅用checklist就决定买入；跳过三大方向分布评估或忽略硬约束>10%偏差；**用训练知识/旧报告代替实时热度分判定；把三大方向配置写成固定比例（必须按热度分动态计算）；子方向未过准入双条件就承接额度**；来源F走过场；忽略持仓生态链。
 
 ## 输出语言
 全部用中文。
