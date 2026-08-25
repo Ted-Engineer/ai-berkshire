@@ -7,7 +7,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash F:/ai-berkshire/scripts/learnings-digest.sh",
+              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/learnings-digest.sh",
               "timeout": 10,
               "statusMessage": "注入 .learnings/ 知识库摘要…"
             }
@@ -17,18 +17,8 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash F:/ai-berkshire/scripts/workflow-session-cleanup.sh",
+              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/workflow-session-cleanup.sh",
               "timeout": 5
-            }
-          ]
-        },
-        {
-          "hooks": [
-            {
-              "type": "command",
-              "command": "bash .qoder/plugins/ai-berkshire-investment/hooks/rebalance-context",
-              "timeout": 5,
-              "statusMessage": "Rebalance质量契约注入…"
             }
           ]
         }
@@ -38,7 +28,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash F:/ai-berkshire/scripts/skill-enforcement-hook.sh",
+              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/skill-enforcement-hook.sh",
               "timeout": 10,
               "statusMessage": "Skill enforcement check..."
             }
@@ -51,20 +41,9 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash F:/ai-berkshire/scripts/skill-tracker-hook.sh",
+              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/skill-tracker-hook.sh",
               "timeout": 5,
               "statusMessage": "Recording skill execution..."
-            }
-          ]
-        },
-        {
-          "matcher": "Agent|GeneralPurpose|Task",
-          "hooks": [
-            {
-              "type": "command",
-              "command": "bash .qoder/plugins/ai-berkshire-investment/hooks/agent-quality-gate",
-              "timeout": 5,
-              "statusMessage": "Agent质量门禁检查…"
             }
           ]
         },
@@ -73,7 +52,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash F:/ai-berkshire/scripts/workflow-cleanup-hook.sh",
+              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/workflow-cleanup-hook.sh",
               "timeout": 5
             }
           ]
@@ -83,7 +62,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash F:/ai-berkshire/scripts/search-tracker-hook.sh",
+              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/search-tracker-hook.sh",
               "timeout": 5
             }
           ]
@@ -94,7 +73,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash F:/ai-berkshire/scripts/workflow-gate-hook.sh",
+              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/workflow-gate-hook.sh",
               "timeout": 10,
               "statusMessage": "Workflow gate check..."
             }

@@ -3,7 +3,7 @@ schema_version: 1
 locale: zh-CN
 branch: main
 nodes_managed: true
-exported_at: "2026-08-19T04:19:26Z"
+exported_at: "2026-08-20T16:03:42Z"
 modules:
     "":
         dir_name: AI Berkshire 投研框架根仓库
@@ -117,8 +117,8 @@ modules:
         depends_on: []
         related_to: []
     claude_workspace:
-        dir_name: 多 AI 编辑器投研工作区配置
-        title: 多 AI 编辑器投研工作区配置
+        dir_name: 多 AI 编辑器投研工作区配置（Claude_ZCode_Trae_Dsh）
+        title: 多 AI 编辑器投研工作区配置（Claude/ZCode/Trae/Dsh）
         scope:
             - .claude/
             - .dsh/
@@ -141,8 +141,8 @@ modules:
         related_to:
             - path: agent_skills/research_investment_skills
     investment_data_artifacts:
-        dir_name: 投研候选池、深度报告与实盘纪律归档
-        title: 投研候选池、深度报告与实盘纪律归档
+        dir_name: 投资数据与研究报告归档（筛选池_实盘记录_深度报告）
+        title: 投资数据与研究报告归档（筛选池/实盘记录/深度报告）
         scope:
             - 实盘记录/
             - 筛选公司/

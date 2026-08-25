@@ -1,0 +1,34 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.workbuddy/hooks/mnemon/prime.sh",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.workbuddy/hooks/mnemon/stop.sh",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.workbuddy/hooks/mnemon/user_prompt.sh",
+            "type": "command"
+          }
+        ]
+      }
+    ]
+  }
+}

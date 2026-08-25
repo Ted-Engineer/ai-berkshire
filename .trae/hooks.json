@@ -1,0 +1,39 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.trae/hooks/mnemon/prime.sh",
+            "timeout": 30,
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.trae/hooks/mnemon/stop.sh",
+            "timeout": 30,
+            "type": "command"
+          }
+        ],
+        "loop_limit": 1
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.trae/hooks/mnemon/user_prompt.sh",
+            "timeout": 30,
+            "type": "command"
+          }
+        ]
+      }
+    ]
+  },
+  "version": 1
+}

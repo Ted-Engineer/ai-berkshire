@@ -1,6 +1,6 @@
 schema_version: 1
 module_path: investment_data_artifacts
-title: 投研候选池、深度报告与实盘纪律归档
+title: 投资数据与研究报告归档（筛选池/实盘记录/深度报告）
 scope:
     - 实盘记录/
     - 筛选公司/

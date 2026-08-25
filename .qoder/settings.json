@@ -1,8 +1,41 @@
 {
   "enabledPlugins": {
-    "research-copilot@qoder-marketplace": true,
     "agent-browser@qoder-marketplace": true,
+    "ai-berkshire-investment": true,
+    "ai-berkshire-investment-plugin@local-custom": true,
     "context7@qoder-marketplace": true,
-    "ai-berkshire-investment": true
+    "research-copilot@qoder-marketplace": true
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.qoder/hooks/mnemon/prime.sh",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.qoder/hooks/mnemon/stop.sh",
+            "type": "command"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "command": "/Users/liuyucheng/IdeaProjects/ai-berkshire/.qoder/hooks/mnemon/user_prompt.sh",
+            "type": "command"
+          }
+        ]
+      }
+    ]
   }
 }
