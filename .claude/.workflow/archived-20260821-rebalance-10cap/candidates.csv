@@ -1,0 +1,318 @@
+ticker,company,gics_sector,source
+MU,Micron Technology,Semiconductors,A-待执行项(GTC$880-900×6+$820-850×6)
+ALAB,Astera Labs,Semiconductors,A-待执行项(GTC$265-275×10)
+GOOGL,Alphabet,Communication Services,A-待执行项(≤$295换仓META)
+CEG,Constellation Energy,Utilities,A-待执行项(watchlist$258)
+AMAT,Applied Materials,Semiconductors,A-待执行项(watchlist$410-440)
+NVDA,NVIDIA,Semiconductors,A-待执行项(watchlist≤$180)
+COHR,Coherent,Technology Hardware,A-待执行项(watchlist$260-290)
+CRWV,CoreWeave,Software & Services,A-待执行项(watchlist$95-100)
+NBIS,Nebius Group,Software & Services,A-待执行项(watchlist$198)
+TLN,Talen Energy,Utilities,A-待执行项(watchlist≤$345)
+MSTR,Strategy,加密-BTC代理,A-待执行项($88观察仓)
+CRDO,Credo Technology,Semiconductors,F-watchlist($150-180灰色地带)
+LEU,Centrus Energy,Utilities-铀,F-watchlist($110-150 checklist 2/6)
+LRCX,Lam Research,Semiconductors,F-watchlist($220-260)
+VRT,Vertiv,Industrials-散热,F-watchlist($180-200)
+GEV,GE Vernova,Utilities-电网,F-watchlist($650-750)
+MELI,MercadoLibre,新兴市场消费,F-watchlist($1400-1500双条件)
+EXEL,Exelixis,Pharma-Biotech,F-watchlist($45-48 PDUFA 12/3)
+TMUS,T-Mobile US,Telecom,F-watchlist($170-180)
+DAL,Delta Air Lines,Transportation,F-watchlist(≤$75)
+HUBB,Hubbell,Industrials-电气,F-watchlist($430-470)
+ANET,Arista Networks,Technology Hardware,F-watchlist($125-145)
+AMKR,Amkor Technology,Semiconductors-封装,F-watchlist($48-54)
+NRG,NRG Energy,Utilities-IPP,F-watchlist($118-128 checklist 6/6)
+FN,Fabrinet,Technology Hardware-光互连,F-watchlist($400-442)
+RIOT,RIOT Platforms,加密-矿企转AI,F-watchlist(右侧三条件)
+MPLX,MPLX LP,Energy-中游,GICS1-能源(价值)
+EPD,Enterprise Products Partners,Energy-中游,GICS1-能源(价值)
+WMB,Williams Companies,Energy-中游,GICS1-能源(价值)
+ET,Energy Transfer,Energy-中游,GICS1-能源(成长)
+AM,Antero Midstream,Energy-中游,GICS1-能源(价值)
+LNG,Cheniere Energy,Energy-LNG,GICS1-能源(成长:Q2beat+上调指引)
+NGS,Natural Gas Services,Energy-服务,GICS1-能源(成长:EBITDA指引上调)
+FCX,Freeport-McMoRan,Materials-铜,GICS2-材料(BofA首选)
+AEM,Agnico Eagle,Materials-金,GICS2-材料(BofA)
+CCJ,Cameco,Materials-铀,GICS2-材料(BofA/AI电力)
+HBM,Hudbay Minerals,Materials-铜,GICS2-材料(价值)
+LUNR,Intuitive Machines,Capital Goods-航天,GICS3-工业(成长:KeyBanc)
+KTOS,Kratos Defense,Capital Goods-防务,GICS3-工业(成长:KeyBanc)
+AVAV,AeroVironment,Capital Goods-防务,GICS3-工业(成长:KeyBanc)
+BA,Boeing,Capital Goods-航空,GICS3-工业(UBS)
+HXL,Hexcel,Capital Goods-材料,GICS3-工业(UBS)
+GE,GE Aerospace,Capital Goods-航空,GICS3-工业(UBS)
+TDG,TransDigm,Capital Goods-航空,GICS3-工业(UBS)
+RTX,RTX Corp,Capital Goods-防务,GICS3-工业(价值)
+LMT,Lockheed Martin,Capital Goods-防务,GICS3-工业(价值)
+HON,Honeywell,Capital Goods-多元,GICS3-工业(价值)
+NOC,Northrop Grumman,Capital Goods-防务,GICS3-工业(价值)
+CLH,Clean Harbors,Commercial Services-危废,GICS4-商业服务(ATH+EPS CAGR24.6%)
+RSG,Republic Services,Commercial Services-固废,GICS4-商业服务(价值)
+WM,Waste Management,Commercial Services-固废,GICS4-商业服务(价值)
+CSX,CSX Corp,Transportation-铁路,GICS5-运输(成长)
+UNP,Union Pacific,Transportation-铁路,GICS5-运输(价值)
+ZIM,ZIM Integrated Shipping,Transportation-航运,GICS5-运输(成长)
+UAL,United Airlines,Transportation-航空,GICS5-运输(复苏)
+TSLA,Tesla,Automobiles-EV,GICS6-汽车(成长)
+LI,Li Auto,Automobiles-EV,GICS6-汽车(成长:交付+31%)
+RIVN,Rivian,Automobiles-EV,GICS6-汽车(价值)
+MCD,McDonalds,Consumer Services-餐饮,GICS7-消费服务(MarketBeat)
+BKNG,Booking Holdings,Consumer Services-OTA,GICS7-消费服务
+MAR,Marriott,Consumer Services-酒店,GICS7-消费服务(5年+168%)
+SBUX,Starbucks,Consumer Services-餐饮,GICS7-消费服务(修复)
+CCL,Carnival,Consumer Services-邮轮,GICS7-消费服务(+23%beat)
+EXPE,Expedia,Consumer Services-OTA,GICS7-消费服务
+RCL,Royal Caribbean,Consumer Services-邮轮,GICS7-消费服务(5年+195%)
+NCLH,Norwegian Cruise,Consumer Services-邮轮,GICS7-消费服务(指引下调观察)
+ABNB,Airbnb,Consumer Services-OTA,GICS7-消费服务(上调收入预测)
+TRIP,Tripadvisor,Consumer Services-OTA,GICS7-消费服务(Q2beat)
+DG,Dollar General,Retailing-折扣,GICS8-零售(转型进展)
+BURL,Burlington Stores,Retailing-折扣,GICS8-零售(利润率扩张)
+AMZN,Amazon,Retailing-电商,GICS8-零售
+HD,Home Depot,Retailing-家居,GICS8-零售
+ULTA,Ulta Beauty,Retailing-美妆,GICS8-零售
+WMT,Walmart,Retailing-综合,GICS8-零售(财报beat)
+CASY,Caseys General,Retailing-便利,GICS8-零售
+TJX,TJX Companies,Retailing-折扣,GICS8-零售
+COST,Costco,Retailing-会员,GICS8-零售(Bernstein首选)
+NFLX,Netflix,Media-流媒体,GICS9-媒体(广告增长)
+WBD,Warner Bros Discovery,Media-流媒体,GICS9-媒体(流媒体+10%)
+DIS,Walt Disney,Media-综合,GICS9-媒体
+T,AT&T,Telecom,GICS10-电信(5.2%股息)
+VZ,Verizon,Telecom,GICS10-电信(价值)
+CCOI,Cogent Communications,Telecom,GICS10-电信(AI流量)
+CLX,Clorox,Household Products,GICS11-家护(P/FV 0.55深度低估)
+ATO,Atmos Energy,Household-公用,GICS11-股息贵族
+MDT,Medtronic,Healthcare-器械,GICS12-股息贵族
+PEP,PepsiCo,Food Beverage,GICS12-股息贵族
+CAT,Caterpillar,Capital Goods,GICS12-股息贵族
+SPGI,S&P Global,Financials-数据,GICS12-股息贵族
+KMB,Kimberly-Clark,Household Products,GICS11(5.3%股息)
+ED,Consolidated Edison,Utilities,GICS11-股息贵族
+TGT,Target,Retailing,GICS8-股息贵族(Barrons)
+VRTX,Vertex Pharma,Pharma-Biotech,GICS13-医药(H2催化)
+AMLX,Amylyx Pharma,Pharma-Biotech,GICS13-医药(催化)
+PRAX,Praxis Precision,Pharma-Biotech,GICS13-医药(催化)
+BBIO,BridgeBio Pharma,Pharma-Biotech,GICS13-医药(催化)
+REGN,Regeneron,Pharma-Biotech,GICS13-医药(Q3财报10/29)
+MRK,Merck,Pharma,GICS13-医药(ESMO疫苗数据)
+ISRG,Intuitive Surgical,Healthcare-器械,GICS13(创新榜)
+BSX,Boston Scientific,Healthcare-器械,GICS13(器械周期)
+EW,Edwards Lifesciences,Healthcare-器械,GICS13(器械周期)
+JPM,JPMorgan Chase,Banks,GICS14-银行
+BAC,Bank of America,Banks,GICS14-银行
+GS,Goldman Sachs,Banks,GICS14-银行
+MS,Morgan Stanley,Banks,GICS14-银行
+SOFI,SoFi Technologies,Banks-金融科技,GICS14-银行(成长)
+NU,Nu Holdings,Banks-新兴市场,GICS14-银行(Morningstar低估11%)
+FITB,Fifth Third Bancorp,Banks-区域,GICS14-银行(KBW NIM)
+RF,Regions Financial,Banks-区域,GICS14-银行(KBW NIM)
+TRV,Travelers,Insurance-P&C,GICS15-保险(硬市场)
+ALL,Allstate,Insurance-P&C,GICS15-保险
+WRB,Berkley,Insurance-专业,GICS15-保险(高ROE)
+KNSL,Kinsale Capital,Insurance-专业,GICS15-保险(高ROE)
+AJG,Gallagher,Insurance-经纪,GICS15-保险
+BRO,Brown & Brown,Insurance-经纪,GICS15-保险
+MKL,Markel,Insurance-多元,GICS15-保险
+RNR,Everest Group,Insurance-再保,GICS15-保险
+V,Visa,Diversified Financials-支付,GICS16-金融多元
+MA,Mastercard,Diversified Financials-支付,GICS16-金融多元
+XYZ,Block,Diversified Financials-金融科技,GICS16-金融多元
+AFRM,Affirm,Diversified Financials-BNPL,GICS16-金融多元(+680%EPS预期)
+HOOD,Robinhood,Diversified Financials-券商,GICS16-金融多元(加密)
+CRWD,CrowdStrike,Software-网络安全,GICS17-软件(ATH)
+FTNT,Fortinet,Software-网络安全,GICS17-软件(agentic AI受益)
+OKTA,Okta,Software-身份,GICS17-软件(agentic AI)
+S,SentinelOne,Software-网络安全,GICS17-软件(被低估)
+PANW,Palo Alto Networks,Software-网络安全,GICS17-软件
+ZS,Zscaler,Software-网络安全,GICS17-软件
+CYBR,CyberArk,Software-身份,GICS17-软件
+DELL,Dell Technologies,Tech Hardware-服务器,GICS18-硬件(AI服务器+757%/$43B积压)
+HPE,Hewlett Packard Enterprise,Tech Hardware-服务器,GICS18-硬件(GS首选)
+NTAP,NetApp,Tech Hardware-存储,GICS18-硬件(GS首选)
+SMCI,Super Micro,Tech Hardware-服务器,GICS18-硬件(单日+21%波动大)
+LNVGY,Lenovo,Tech Hardware-服务器,GICS18-硬件(AI服务器受益)
+EQIX,Equinix,REIT-数据中心,GICS19-REIT(6个月+38.9%)
+DLR,Digital Realty,REIT-数据中心,GICS19-REIT(收入+16%最快)
+IRM,Iron Mountain,REIT-数据中心,GICS19-REIT(转型)
+OKLO,Oklo,Utilities-SMR,AI赛道7-核电(SMR)
+SMR,NuScale Power,Utilities-SMR,AI赛道7-核电(SMR)
+EOSE,Eos Energy,Utilities-储能,AI赛道7-储能
+FLNC,Fluence Energy,Utilities-储能,AI赛道7-储能
+STEM,Stem Inc,Utilities-储能,AI赛道7-储能
+BE,Bloom Energy,Utilities-燃料电池,AI赛道7-电力
+AMSC,American Superconductor,Utilities-电网,AI赛道8-电网
+POWL,Powell Industries,Capital Goods-电气,AI赛道8-电网
+UUUU,Energy Fuels,Materials-铀,AI赛道7-铀
+MRVL,Marvell Technology,Semiconductors-ASIC光,AI赛道2/3(CPO)
+LITE,Lumentum,Tech Hardware-光模块,AI赛道3(12个月+1137%NVDA入股)
+CIEN,Ciena,Tech Hardware-光网络,AI赛道3
+MOD,Modine Manufacturing,Industrials-散热,AI赛道9(数据中心+31%QoQ)
+NVT,nVent Electric,Industrials-散热,AI赛道9(上调指引)
+HUT,Hut 8,加密-矿企转AI,AI赛道15($9.8B租约)
+IREN,Iris Energy,加密-矿企转AI,AI赛道15(大额AI合同)
+WULF,TeraWulf,加密-矿企转AI,AI赛道15($6.7B合同+Google背书$3B融资)
+BTBT,Bit Digital,加密-矿企转AI,AI赛道15
+CIFR,Cipher Mining,加密-矿企转AI,AI赛道15
+MARA,MARA Holdings,加密-矿企,AI赛道15
+AUR,Aurora Innovation,Software-自动驾驶,AI赛道14
+XPEV,XPeng,Automobiles-EV机器人,AI赛道13(机器人)
+TTI,Atlas Energy Solutions,Energy-服务,H-爆发股轮1(insider favorite)
+TTAN,ServiceTitan,Software-垂直SaaS,H-爆发股轮2(EBITDA+18pt)
+WAY,Waystar,Software-医疗支付,H-爆发股轮2(AI ROI)
+SIVE,Sivers Semiconductors,Semiconductors-PIC,H-爆发股轮3(纯PIC小盘)
+TSEM,Tower Semiconductor,Semiconductors-代工,H-爆发股轮3
+AEHR,Aehr Test Systems,Semiconductors-设备,H-爆发股轮3(小盘AI)
+PLAB,Photronics,Semiconductors-材料,H-爆发股轮3
+SKYT,SkyWater Technology,Semiconductors-代工,H-爆发股轮4(美国本土代工)
+RXRX,Recursion Pharma,Biotech-AI制药,H-爆发股轮4
+QS,QuantumScape,Auto-固态电池,H-爆发股轮4
+CHWY,Chewy,Retailing-宠物,I-估值修复(被砸成长股)
+CAVA,Cava Group,Consumer Services-餐饮,I-估值修复(被砸成长股)
+ELF,e.l.f. Beauty,Household-美妆,I-估值修复(被砸成长股)
+INTC,Intel,Semiconductors-代工,I-估值修复(IG低估榜)
+F,Ford,Automobiles,I-估值修复(IG低估榜)
+PFE,Pfizer,Pharma,I-估值修复(IG低估榜)
+COIN,Coinbase,加密-交易所,I-加密修复1(-45%/3月-63%fromATH+币价周期可逆)
+CLSK,CleanSpark,加密-矿企,I-加密修复3(板块领涨+10%)
+CORZ,Core Scientific,加密-矿企转AI,I-加密修复4
+SBET,SharpLink Gaming,加密-ETH代理,I-加密修复5(财库公司)
+ETHA,iShares Ethereum ETF,加密-ETF,I-加密修复11
+IBIT,iShares Bitcoin ETF,加密-ETF,I-加密修复11
+JD,JD.com,中概-电商,非AI主题13-中国消费(Buy)
+PDD,PDD Holdings,中概-电商,非AI主题13-中国消费
+MPNGY,Meituan,中概-本地生活,非AI主题13(外卖战亏损观察)
+FNV,Franco-Nevada,Materials-贵金属权利金,非AI主题14-黄金
+WPM,Wheaton Precious,Materials-贵金属权利金,非AI主题14-黄金
+GOLD,Barrick Mining,Materials-金矿,非AI主题14-黄金
+NEM,Newmont,Materials-金矿,非AI主题14-黄金
+GDX,Gold Miners ETF,Materials-金矿ETF,非AI主题14-黄金
+LLY,Eli Lilly,Pharma-GLP1,非AI主题6(口服GLP1首发)
+NVO,Novo Nordisk,Pharma-GLP1,非AI主题6
+TMO,Thermo Fisher,Pharma-CDMO,非AI主题6(供应链)
+DHR,Danaher,Healthcare-工具,非AI主题6
+ETN,Eaton,Capital Goods-电网,非AI主题3($100B瓶颈)
+PWR,Quanta Services,Capital Goods-电网E&C,非AI主题3
+FIX,Comfort Systems,Capital Goods-机电,非AI主题3
+EME,EMCOR,Capital Goods-机电,非AI主题3
+JCI,Johnson Controls,Capital Goods-暖通,非AI主题3
+O,Realty Income,REIT-利率受益,非AI主题5
+PLD,Prologis,REIT-工业,非AI主题5
+AMT,American Tower,REIT-基站,非AI主题5
+VICI,VICI Properties,REIT-博彩,非AI主题5
+DE,John Deere,Capital Goods-农机,D6-财报催化(8/20上调指引)
+BE,Bloom Energy,Utilities-燃料电池,D6-财报催化(Q2 beat+上调+8%)
+LAMBDA,Lambda Labs,Software-neocloud,G-生态链(未上市观察)
+ASML,ASML,Semiconductors-光刻,G-生态链(TSM供应商EUV出货20→29)
+MKSI,MKS Instruments,Semiconductors-设备,G-生态链(TSM供应商)
+ONDO,Ondo Finance,加密-RWA,I-加密修复8(BUIDL>$2.5B生态)
+BLK,BlackRock,Diversified Financials,I-加密修复8(BUIDL RWA)
+NKE,Nike,Consumer Durables-运动,GICS补扫(价值修复)
+LULU,Lululemon,Consumer Durables-运动,GICS补扫
+DKNG,DraftKings,Consumer Services-博彩,GICS补扫(主题9)
+FLUT,Flutter Entertainment,Consumer Services-博彩,GICS补扫(主题9)
+HCA,HCA Healthcare,Healthcare-Services,GICS补扫
+VEEV,Veeva Systems,Software-医疗SaaS,GICS补扫(AI软件)
+TEM,Tempus AI,Healthcare-AI医疗,GICS补扫(AI数据)
+KLAC,KLA Corp,Semiconductors-设备,GICS21补扫
+ONTO,Onto Innovation,Semiconductors-设备,GICS21补扫(封装)
+ENTG,Entegris,Semiconductors-材料,GICS21补扫
+MRNA,Moderna,Pharma-疫苗,D6-异动(-20.6%需归因观察)
+IOVA,Iovance Bio,Biotech,D6-异动(+8.7%)
+EXK,Endeavour Silver,Materials-银,D6-异动榜
+CDE,Coeur Mining,Materials-金银,D6-异动榜
+HIMS,Hims & Hers,Healthcare-消费医疗,D6-异动榜
+PLTR,Palantir,Software-AI Agent,AI赛道11(商业+149%blowout)
+SOUN,SoundHound AI,Software-语音AI,AI赛道11(上调指引)
+BBAI,BigBear.ai,Software-AI决策,AI赛道11
+QCOM,Qualcomm,Semiconductors-端侧,AI赛道16(12x fPE+端侧AI)
+WELL,Welltower,REIT-医疗养老,非AI主题1-老龄化(占用率升+供给限)
+PYPL,PayPal,金融科技,I-加密修复6(TIKR:$50为2026折扣观察;已清仓仅候选)
+ROK,Rockwell Automation,Capital Goods-自动化,非AI主题4-回岸自动化
+EMR,Emerson Electric,Capital Goods-自动化,非AI主题4
+FANUY,Fanuc,Capital Goods-机器人,非AI主题4
+MC,LVMH,奢侈品,非AI主题11(Q1暴跌后修复)
+RMS,Hermes,奢侈品,非AI主题11
+CFRUY,Richemont,奢侈品,非AI主题11
+KER,Kering,奢侈品,非AI主题11(HSBC上调)
+MOS,Mosaic,Materials-农化,非AI主题8-农业
+NTR,Nutrien,Materials-农化,非AI主题8-农业
+CF,CF Industries,Materials-氮肥,非AI主题8-农业
+CTVA,Corteva,Materials-种子,非AI主题8-农业
+FMC,FMC Corp,Materials-农化,非AI主题8-农业
+XYL,Xylem,Industrials-水务,非AI主题7-水基建
+WTS,Watts Water,Industrials-水务,非AI主题7-水基建
+PNR,Pentair,Industrials-水务,非AI主题7-水基建
+AWK,American Water Works,Utilities-水务,非AI主题7-水基建
+CGNT,Cognyte,Software-安全分析,H-爆发股补(净利+200%)
+SPCX,SpaceX,航天-AI云,H-爆发股补(收入+92%+AI云$14.1B IPO新股)
+RAL,Ralliant,Industrials-测试测量,H-爆发股补(有机+9%超预期)
+WK,Workiva,Software-合规SaaS,I-修复补(-26%超卖)
+CRM,Salesforce,Software-AI软件,GICS17补扫(持仓生态链MSFT同业)
+NOW,ServiceNow,Software-AI工作流,GICS17补扫
+ORCL,Oracle,Software-AI云,GICS17补扫(neocloud大单)
+IBM,IBM,Software-AI咨询,GICS17补扫
+SNPS,Synopsys,Semiconductors-EDA,GICS21补扫
+CDNS,Cadence,Semiconductors-EDA,GICS21补扫
+ARM,ARM Holdings,Semiconductors-IP,GICS21补扫
+AMD,AMD,Semiconductors-GPU,GICS21补扫
+TXN,Texas Instruments,Semiconductors-模拟,GICS21补扫
+ADI,Analog Devices,Semiconductors-模拟,GICS21补扫
+ON,ON Semiconductor,Semiconductors-功率,GICS21补扫
+WDC,Western Digital,Tech Hardware-存储,AI赛道4(HBM/存储)
+STX,Seagate,Tech Hardware-存储,AI赛道4
+SNDK,Sandisk,Tech Hardware-存储,AI赛道4
+AAPL,Apple,Consumer-端侧AI,GICS补扫(BRK第一大持仓)
+UNH,UnitedHealth,Healthcare-保险,GICS13补扫(价值修复候选)
+CVS,CVS Health,Healthcare-零售医疗,GICS13补扫
+CI,Cigna,Healthcare-保险,GICS13补扫
+ELV,Elevance Health,Healthcare-保险,GICS13补扫
+HUM,Humana,Healthcare-保险,GICS13补扫
+PG,Procter & Gamble,Household-必需消费,GICS11补扫
+KO,Coca-Cola,Food Beverage,GICS12补扫(BRK持仓)
+PM,Philip Morris,Food-Tobacco,GICS12补扫
+MO,Altria,Food-Tobacco,GICS12补扫
+GIS,General Mills,Food-必需,GICS12补扫
+KHC,Kraft Heinz,Food-必需,GICS12补扫
+LOW,Lowe's,Retailing-家居,GICS8补扫
+TSCO,Tractor Supply,Retailing-农村,GICS8补扫
+ORLY,O'Reilly Auto,Retailing-汽配,GICS8补扫
+AZO,AutoZone,Retailing-汽配,GICS8补扫
+CMG,Chipotle,Consumer Services-餐饮,GICS7补扫
+YUM,Yum Brands,Consumer Services-餐饮,GICS7补扫
+HLT,Hilton,Consumer Services-酒店,GICS7补扫
+LVS,Las Vegas Sands,Consumer Services-博彩,GICS7补扫
+MGM,MGM Resorts,Consumer Services-博彩,GICS7补扫
+GM,General Motors,Automobiles,GICS6补扫
+RACE,Ferrari,Automobiles-奢侈,GICS6补扫
+PCAR,Paccar,Capital Goods-卡车,GICS5补扫
+FDX,FedEx,Transportation-快递,GICS5补扫
+UPS,UPS,Transportation-快递,GICS5补扫
+MMM,3M,Capital Goods-多元,GICS3补扫
+GD,General Dynamics,Capital Goods-防务,GICS3补扫
+VST,Vistra,Utilities-IPP,GICS20补扫(watchlist相关)
+D,Dominion Energy,Utilities,GICS20补扫
+SO,Southern Company,Utilities,GICS20补扫
+DUK,Duke Energy,Utilities,GICS20补扫
+NEE,NextEra Energy,Utilities-可再生,GICS20补扫
+XOM,ExxonMobil,Energy-综合,GICS1补扫
+CVX,Chevron,Energy-综合,GICS1补扫
+OXY,Occidental,Energy-E&P,GICS1补扫(BRK持仓)
+COP,ConocoPhillips,Energy-E&P,GICS1补扫
+SLB,Schlumberger,Energy-服务,GICS1补扫
+EOG,EOG Resources,Energy-E&P,GICS1补扫
+KMI,Kinder Morgan,Energy-中游,GICS1补扫
+OKE,ONEOK,Energy-中游,GICS1补扫
+NUE,Nucor,Materials-钢铁,GICS2补扫
+LIN,Linde,Materials-工业气体,GICS2补扫
+APD,Air Products,Materials-工业气体,GICS2补扫
+SHW,Sherwin-Williams,Materials-涂料,GICS2补扫
+ECL,Ecolab,Materials-特种化学,GICS2补扫
+DOW,Dow Inc,Materials-化学,GICS2补扫
+LYB,LyondellBasell,Materials-化学,GICS2补扫
+VMC,Vulcan Materials,Materials-骨料,GICS2补扫
+MLM,Martin Marietta,Materials-骨料,GICS2补扫
+VANT,Vantage Data Centers,数据中心-私有,观察(Oracle $38B融资背书未上市)
+BTDR,Bitdeer,加密-矿企转AI,I-加密修复4(HPC转型)
+CAN,Canaan,加密-矿机硬件,I-加密修复13(Q4收入+121%)

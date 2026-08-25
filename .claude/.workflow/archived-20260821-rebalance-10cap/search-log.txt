@@ -1,0 +1,105 @@
+2026-08-20T16:33:51Z | mcp-ddg-search | biggest stock movers today August 20 2026 [BLOCKED:bot-detection]
+2026-08-20T16:33:51Z | mcp-ddg-search | stocks surge earnings beat August 20 2026 after hours [BLOCKED:bot-detection]
+2026-08-20T16:33:51Z | mcp-ddg-search | biggest stock movers today [BLOCKED:bot-detection]
+# NOTE: ddg-search MCP 2026-08-21 00:33 UTC 连续3次bot-detection拦截，本轮降级回退链：内置WebSearch为主通道，ddg-search定期重试
+2026-08-20T16:41:26Z | gnews | Circle CRCL stock surge why
+2026-08-20T16:41:26Z | gnews | Circle Internet CRCL stock jumps
+2026-08-20T16:43:23Z | websearch | CRCL Circle stock rises 7% today reason news
+2026-08-20T16:43:23Z | webfetch | circle.com OCC press release (7/10旧闻核实)
+2026-08-20T16:43:23Z | websearch | Circle OCC national trust bank approval August 2026
+2026-08-20T16:43:23Z | websearch | CRCL Circle stock news August 19 2026 why up
+2026-08-20T16:43:23Z | webfetch | fool.com CRCL 8/19白宫加密峰会归因
+2026-08-20T16:43:23Z | websearch | Circle CRCL August 20 2026 rally earnings AMA
+2026-08-20T16:46:13Z | cnbc-api | .NDX/.VIX/.SPX/NVDA指数快照
+2026-08-20T16:46:13Z | websearch | NDX all time high record August 2026
+2026-08-20T16:46:13Z | websearch | VIX fear greed index today
+2026-08-20T16:46:13Z | websearch | SP500 percent above 200DMA breadth
+2026-08-20T16:46:13Z | websearch | IPO market August 2026 sentiment
+2026-08-20T16:46:13Z | websearch | hyperscaler AI capex guidance 2026
+2026-08-20T16:46:13Z | websearch | CoWoS HBM shortage TSM July revenue
+2026-08-20T16:46:13Z | websearch | SaaS valuation decade low AI disruption
+2026-08-20T16:46:13Z | curl | alternative.me crypto F&G API + CNBC BTC/ETH
+2026-08-20T16:46:13Z | websearch | bitcoin surge August 20 ETF flows
+2026-08-20T17:56:48Z | websearch | GICS1能源价值型
+2026-08-20T17:56:48Z | websearch | GICS1能源成长型
+2026-08-20T17:56:48Z | websearch | GICS2材料价值型
+2026-08-20T17:57:19Z | websearch | GICS3工业-防务航天
+2026-08-20T17:57:57Z | websearch | GICS4商业服务
+2026-08-20T17:57:57Z | websearch | GICS5运输
+2026-08-20T17:58:28Z | websearch | GICS6汽车EV
+2026-08-20T17:58:28Z | websearch | GICS7消费服务
+2026-08-20T17:59:00Z | websearch | GICS8零售
+2026-08-20T17:59:00Z | websearch | GICS9媒体流媒体
+2026-08-20T17:59:30Z | websearch | GICS10电信
+2026-08-20T17:59:30Z | websearch | GICS12食品饮料股息贵族
+2026-08-20T18:00:00Z | websearch | GICS13医疗器械
+2026-08-20T18:00:00Z | websearch | GICS13医药生物催化
+2026-08-20T18:00:31Z | websearch | GICS14银行
+2026-08-20T18:00:31Z | websearch | GICS15保险硬市场
+2026-08-20T18:01:01Z | websearch | GICS16金融科技
+2026-08-20T18:01:01Z | websearch | GICS17软件网络安全超卖
+2026-08-20T18:01:31Z | websearch | GICS18科技硬件AI服务器
+2026-08-20T18:01:31Z | websearch | GICS19数据中心REIT
+2026-08-20T18:02:01Z | websearch | GICS20公用事业核电SMR
+2026-08-20T18:02:01Z | websearch | AI赛道1-neocloud
+2026-08-20T18:02:29Z | websearch | AI赛道3光互连
+2026-08-20T18:02:29Z | websearch | AI赛道9液冷
+2026-08-20T18:02:59Z | websearch | AI赛道13机器人
+2026-08-20T18:02:59Z | websearch | AI赛道15矿企转AI
+2026-08-20T18:03:25Z | mcp-ddg-search | triple digit revenue growth AI stocks [FATAL: MCPHost not found — ddg-search MCP本轮彻底失效，H/I轮降级WebSearch留档]
+2026-08-20T18:03:52Z | websearch | H轮1增速发现
+2026-08-20T18:03:52Z | websearch | H轮2拐点发现
+2026-08-20T18:04:22Z | websearch | H轮3赛道纯正
+2026-08-20T18:04:22Z | websearch | H轮4被忽视发现
+2026-08-20T18:04:55Z | websearch | I轮AI修复
+2026-08-20T18:04:55Z | websearch | I轮加密修复1交易所
+2026-08-20T18:05:26Z | websearch | I轮加密修复3矿企估值
+2026-08-20T18:05:26Z | websearch | I轮加密修复5 BTC代理MSTR(mNAV 1.06x/$92.52现值)
+2026-08-20T18:05:58Z | websearch | 非AI主题13中国消费
+2026-08-20T18:05:58Z | websearch | 非AI主题14黄金(央行Q2购金289吨/Bernstein $4533目标)
+2026-08-20T18:06:44Z | websearch | 非AI主题6 GLP1
+2026-08-20T18:06:44Z | websearch | 非AI主题3电网变压器
+2026-08-20T18:06:44Z | websearch | 非AI主题5降息REIT
+2026-08-20T18:07:12Z | websearch | D1量化筛选fPE<15+ROE>20(screener.in返回印度股为主,美股可用度低,已留档)
+2026-08-20T18:07:13Z | websearch | D3事件驱动-spinoff/activist(TGT获Toms Capital入股催化)
+2026-08-20T18:07:43Z | websearch | D4技术面insider(全市场buy/sell比0.27=insider买入低迷)
+2026-08-20T18:07:43Z | websearch | D5聪明钱13F(BRK GOOGL+832026-08-20T18:08:14Z | websearch | D6财报催化(TGT/BE/DE)
+2026-08-20T18:08:14Z | websearch | D7生态链-META MSFT算力供应商
+2026-08-20T18:08:52Z | websearch | G生态链TSM供应商
+2026-08-20T18:08:52Z | websearch | I加密修复8 RWA代币化
+2026-08-20T18:09:22Z | websearch | D6本周异动(MRNA -20.6%/IOVA+8.7%)
+2026-08-20T18:09:22Z | websearch | G生态链BABA(新信息:Qwen3.8-Max多模态8/20发布+QwenWork=盘前-4%收复的催化)
+2026-08-20T18:09:52Z | websearch | AI赛道11 agent软件
+2026-08-20T18:09:52Z | websearch | AI赛道16端侧AI
+2026-08-20T18:10:25Z | websearch | 非AI主题1老龄化
+2026-08-20T18:10:25Z | websearch | I加密修复6支付金融科技
+2026-08-20T18:10:57Z | websearch | 非AI主题4回岸自动化
+2026-08-20T18:10:57Z | websearch | 非AI主题11奢侈品(LVMH Q2有机+3%修复中)
+2026-08-20T18:11:31Z | websearch | 非AI主题8农业/主题7水基建
+2026-08-20T18:11:31Z | websearch | I加密修复15综合扫描(BTC -50%from peak确认熊市修复叙事)
+2026-08-20T18:12:15Z | websearch | H补轮200%增速(SPCX +92%重大新标的)
+2026-08-20T18:12:15Z | websearch | I补轮超卖修复(WK -26%)
+2026-08-20T18:14:34Z | websearch | H轮5合同积压($64B项目受阻风险信号/GOOGL $85B增发新信息)
+2026-08-20T18:14:34Z | websearch | H轮6近期IPO
+2026-08-20T18:14:34Z | websearch | I加密修复12监管催化(SEC Atkins 8/18声明)
+2026-08-20T18:15:05Z | websearch | I加密修复11 ETF资金流(8月零流出+ETH连续2月超BTC)
+2026-08-20T18:15:05Z | websearch | I加密修复13矿机硬件(BTDR/CAN)
+2026-08-20T18:15:37Z | websearch | AI赛道2 ASIC推理(OpenAI-Broadcom 10GW新信息)
+2026-08-20T18:15:37Z | websearch | I加密修复7/9 DeFi+RWA(新警讯:MSTR已出售BTC-Galaxy报告)
+2026-08-20T18:16:07Z | websearch | AI赛道6 WFE设备(Yole $129B→$220B)
+2026-08-20T18:16:07Z | websearch | AI赛道4 HBM(2026售罄+SK海力士定价2027=硬件🟢确认)
+2026-08-20T18:22:45Z | websearch | MU/ALAB触发价复验(MU $937/ALAB $310均未达触发区,GTC维持)
+2026-08-20T19:12Z | builtin-websearch | biggest stock movers today August 20 2026
+2026-08-20T19:12Z | builtin-websearch | CBOE VIX index today August 2026
+2026-08-20T19:12Z | builtin-websearch | nasdaq 100 distance from 52 week high August 2026
+2026-08-20T19:12Z | builtin-websearch | CNN fear greed index today
+2026-08-20T19:12Z | builtin-websearch | S&P 500 percent above 200 day moving average August 2026
+2026-08-20T19:13Z | builtin-websearch | nasdaq 100 all time high 2026 record
+2026-08-20T19:13Z | builtin-websearch | AI capex guidance 2026 hyperscaler Microsoft Google Meta spending
+2026-08-20T19:13Z | builtin-websearch | bitcoin price today distance from all time high August 2026
+2026-08-20T19:13Z | builtin-websearch | crypto fear greed index today August 2026
+2026-08-20T19:13Z | builtin-websearch | IPO market 2026 August new listings performance
+2026-08-20T19:14Z | builtin-websearch | CoWoS HBM supply shortage 2026 TSMC capacity sold out
+2026-08-20T19:14Z | builtin-websearch | TSMC monthly revenue August 2026 record
+2026-08-20T19:14Z | builtin-websearch | AI software ARR growth SaaS Copilot adoption enterprise 2026
+2026-08-20T19:14Z | builtin-websearch | bitcoin ETF flows weekly August 2026 inflow outflow

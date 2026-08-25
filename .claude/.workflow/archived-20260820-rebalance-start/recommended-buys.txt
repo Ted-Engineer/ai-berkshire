@@ -1,0 +1,2 @@
+# no new buys
+# RIOT/FN转watchlist触发单（右侧条件未满足+🟠档现金约束）

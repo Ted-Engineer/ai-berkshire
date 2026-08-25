@@ -1,0 +1,50 @@
+
+2026-08-19T05:45Z | WebSearch | CBOE VIX index level today August 19 2026
+2026-08-19T05:45Z | WebSearch | fear and greed index CNN today August 2026
+2026-08-19T05:45Z | WebSearch | S&P 500 percent stocks above 200 day moving average August 2026
+2026-08-19T05:45Z | YahooAPI | NDX 52wk high distance (curl)
+2026-08-19T05:46Z | WebSearch | AI capex guidance 2026 hyperscaler spending
+2026-08-19T05:46Z | WebSearch | bitcoin price today distance from all time high August 2026
+2026-08-19T05:46Z | WebSearch | crypto fear greed index today August 2026
+2026-08-19T05:46Z | WebSearch | stocks earnings beat surge movers August 19 2026
+2026-08-19T05:47Z | WebSearch | bitcoin all time high price 2025 record
+2026-08-19T05:47Z | WebSearch | CoWoS HBM supply shortage 2026 TSM monthly revenue
+2026-08-19T05:47Z | WebSearch | AI software SaaS ARR growth Copilot adoption enterprise 2026
+2026-08-19T05:48Z | YahooAPI | 9 holdings pre-market prices (includePrePost=true)
+2026-08-19T08:40Z | WebSearch | revenue growth over 100 percent stocks Q2 2026 earnings AI [H-R1]
+2026-08-19T08:40Z | WebSearch | triple digit revenue growth AI stocks 2026 quarterly neocloud [H-R1]
+2026-08-19T08:40Z | WebSearch | fastest growing public companies revenue 2026 stock tripled [H-R1]
+2026-08-19T08:40Z | WebSearch | 500% revenue growth stock 2026 AI infrastructure backlog [H-R1]
+2026-08-19T08:45Z | WebSearch | EBITDA positive first time 2026 AI company breakeven [H-R2]
+2026-08-19T08:45Z | WebSearch | backlog billion dollars AI infrastructure contract wins [H-R2]
+2026-08-19T08:47Z | WebSearch | pure play AI cloud stock NBIS CRWV Lambda [H-R3]
+2026-08-19T08:47Z | WebSearch | optical interconnect AI pure play 800G 1.6T [H-R3]
+2026-08-19T08:47Z | WebSearch | recent IPO AI stocks 2025 2026 triple digit [H-R4]
+2026-08-19T08:47Z | WebSearch | AI stocks Wall Street hasn't discovered small cap [H-R4]
+2026-08-19T08:50Z | WebSearch | quality stocks historically low PE beaten down [I-AI-1]
+2026-08-19T08:50Z | WebSearch | oversold SaaS stocks fear selloff AI disruption [I-AI-2]
+2026-08-19T08:52Z | WebSearch | bitcoin mining stocks low valuation CLSK HUT IREN MARA pivot [I-C-3]
+2026-08-19T08:52Z | WebSearch | crypto stocks bear market bottom MSTR COIN CRCL [I-C-15]
+2026-08-19T08:52Z | WebSearch | stablecoin GENIUS act CRCL revenue Q2 2026 [I-C-2]
+2026-08-19T09:00Z | WebSearch | undervalued energy oil gas midstream 2026 [GICS-能源]
+2026-08-19T09:00Z | WebSearch | defense stocks record backlog NATO rearmament 2026 [GICS-工业]
+2026-08-19T09:05Z | WebSearch | lithium uranium copper miners production growth 2026 [GICS-材料]
+2026-08-19T09:05Z | WebSearch | medical device FDA approvals 2026 health IT [GICS-医疗]
+2026-08-19T09:05Z | WebSearch | fintech payment TPV growth exchange moat 2026 [GICS-金融]
+2026-08-19T09:05Z | WebSearch | insurance hard market combined ratio 2026 specialty [GICS-保险]
+2026-08-19T09:10Z | WebSearch | data center power nuclear SMR uranium PPA hyperscaler [AI赛道7]
+2026-08-19T09:10Z | WebSearch | liquid cooling Vertiv CDU backlog 2026 [AI赛道9]
+2026-08-19T09:10Z | WebSearch | humanoid robot production 2026 Tesla Optimus suppliers [AI赛道13]
+2026-08-19T09:10Z | WebSearch | gold miners royalty central bank buying 2026 FNV WPM [非AI主题14]
+2026-08-19T09:15Z | WebSearch | biggest earnings movers August 2026 guidance raised [D6]
+2026-08-19T09:15Z | WebSearch | China consumer stimulus ecommerce JD PDD re-rating [非AI主题13]
+2026-08-19T09:15Z | WebSearch | Berkshire 13F Q2 2026 hedge fund new positions [D5]
+2026-08-19T09:20Z | WebFetch | hedgefundalpha 13F roundup Q2 2026 [D5]
+2026-08-19T09:20Z | WebSearch | data center REIT FFO growth 2026 [GICS-房地产]
+2026-08-19T09:20Z | WebSearch | restaurant travel leisure earnings 2026 [GICS-消费服务]
+2026-08-19T09:25Z | YahooScreener | day_gainers+most_actives+growth_technology [D6×3]
+2026-08-19T09:27Z | YahooScreener | undervalued_growth+undervalued_large+aggressive_small+small_cap_gainers+most_shorted+day_losers+solid_large_growth+portfolio_anchors [D1×6+D4×2]
+2026-08-19T09:35Z | WebSearch | Progressive PGR July 2026 monthly report [A-待执行]
+2026-08-19T09:35Z | WebSearch | CEG stock price nuclear PPA August 2026 [F-watchlist]
+2026-08-19T09:35Z | WebSearch | bitcoin ETF flows weekly August 2026 [I-加密]
+2026-08-19T09:35Z | WebSearch | HBM4 sold out 2026 SK hynix Micron Samsung [AI赛道4]

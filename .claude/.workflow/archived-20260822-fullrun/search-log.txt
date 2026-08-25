@@ -1,0 +1,1426 @@
+--- portfolio-rebalance run 2026-08-21T08:13:56Z ---
+2026-08-21T08:18:21Z | builtin-websearch | biggest stock movers today August 20 2026 after hours earnings
+2026-08-21T08:21:35Z | builtin-websearch | Nasdaq 100 NDX distance from 52-week high record August 2026
+2026-08-21T08:21:35Z | builtin-websearch | CBOE VIX index level today August 20 2026
+2026-08-21T08:21:35Z | builtin-websearch | CNN Fear and Greed Index today August 2026
+2026-08-21T08:21:35Z | builtin-websearch | S&P 500 percent above 200 day moving average breadth August 2026
+2026-08-21T08:21:35Z | builtin-websearch | Alibaba BABA stock drop premarket August 21 2026 earnings reason
+2026-08-21T08:21:35Z | builtin-websearch | IPO market this week August 2026 first day pop sentiment
+2026-08-21T08:21:35Z | builtin-websearch | hyperscaler AI capex guidance 2026 latest
+2026-08-21T08:21:35Z | cnbc-api | batch quotes 9 holdings + extended hours
+2026-08-21T08:23:59Z | builtin-websearch | Circle CRCL stock surge August 20 2026 news Arc stablecoin
+2026-08-21T08:23:59Z | builtin-websearch | Applied Digital APLD stock news August 20 2026
+2026-08-21T08:23:59Z | builtin-websearch | bitcoin price distance from all time high August 2026
+2026-08-21T08:23:59Z | builtin-websearch | crypto fear greed index today August 20 2026
+2026-08-21T08:23:59Z | builtin-websearch | bitcoin ETF flows weekly August 2026
+2026-08-21T08:23:59Z | builtin-websearch | Alibaba FY27Q1 June quarter cloud 45pct analysis
+2026-08-21T08:23:59Z | builtin-websearch | TSMC July 2026 monthly revenue CoWoS HBM shortage
+2026-08-21T08:27:14Z | builtin-websearch | CBOE VIX index today
+2026-08-21T08:27:14Z | builtin-websearch | S&P 500 percent stocks above 200 day moving average
+2026-08-21T08:27:14Z | builtin-websearch | CNN Fear and Greed Index today
+2026-08-21T08:27:14Z | builtin-websearch | Nasdaq 100 NDX close 52 week high
+2026-08-21T08:27:14Z | builtin-websearch | IPO market August 2026 first day returns
+2026-08-21T08:27:14Z | builtin-websearch | S&P 500 forward PE ratio valuation percentile
+2026-08-21T08:27:14Z | builtin-websearch | biggest stock movers August 20 2026
+2026-08-21T08:27:14Z | gnews | Alibaba stock drop reason
+2026-08-21T08:27:14Z | gnews | Circle CRCL stock surge
+2026-08-21T08:27:14Z | builtin-websearch | Alibaba BABA stock premarket drop August 21 China
+2026-08-21T08:27:14Z | builtin-websearch | Circle CRCL stock surge August 20 reason bitcoin
+2026-08-21T08:27:14Z | websearch-brave | China AI infrastructure spending report Alibaba (FAILED no results)
+2026-08-21T08:27:14Z | websearch-brave | Circle CRCL approval stablecoin (FAILED no results)
+2026-08-21T08:27:14Z | builtin-websearch | Bloomberg China AI infrastructure spending report Alibaba
+2026-08-21T08:27:14Z | builtin-websearch | Circle CRCL approval operate stablecoin August 2026
+2026-08-21T08:30:33Z | builtin-websearch | hyperscaler AI capex guidance 2026
+2026-08-21T08:30:33Z | builtin-websearch | AI revenue growth quarterly 2026 cloud
+2026-08-21T08:30:33Z | builtin-websearch | CoWoS HBM supply shortage TSMC sold out
+2026-08-21T08:30:33Z | builtin-websearch | TSMC July August 2026 monthly revenue record
+2026-08-21T08:30:33Z | builtin-websearch | AI software SaaS valuation PE compression fear 2026
+2026-08-21T08:30:33Z | builtin-websearch | Meta Alphabet capex 2026 free cash flow pressure
+2026-08-21T08:30:34Z | builtin-websearch | bitcoin price distance from all time high August 2026
+2026-08-21T08:30:34Z | builtin-websearch | crypto fear and greed index bitcoin ETF flows August 2026
+2026-08-21T08:43:17Z | builtin-websearch | AI software SaaS ARR Copilot adoption August 2026 fear valuation
+2026-08-21T08:43:17Z | builtin-websearch | Meta Google Q2 2026 FCF capex buyback suspended
+2026-08-21T08:43:17Z | builtin-websearch | bitcoin ATH 126000 current price August 2026 bear market
+2026-08-21T08:15Z | builtin-websearch | biggest stock movers August 20 2026 after hours
+2026-08-21T08:15Z | builtin-websearch | stocks surge earnings beat August 20 2026
+2026-08-21T08:17Z | builtin-websearch | Walmart earnings stock market selloff August 20 2026 Nasdaq S&P decline
+2026-08-21T08:20Z | builtin-websearch | Nvidia earnings results August 2026 data center revenue guidance
+2026-08-21T08:20Z | builtin-websearch | CBOE VIX index level today August 21 2026
+2026-08-21T08:22Z | builtin-websearch | fear greed index today CNN August 2026
+2026-08-21T08:22Z | builtin-websearch | Nasdaq 100 record high distance August 20 2026 market breadth
+2026-08-21T08:24Z | builtin-websearch | IPO market August 2026 new listings first day pop sentiment
+2026-08-21T08:25Z | builtin-websearch | Nasdaq 100 close level August 20 2026 percent from record
+2026-08-21T08:26Z | builtin-websearch | Nasdaq 100 52 week high record 2026 correction pullback percent
+2026-08-21T08:26Z | builtin-websearch | S&P 500 percent stocks above 200 day moving average August 2026
+2026-08-21T08:28Z | builtin-websearch | Nasdaq 100 all-time high closing record July August 2026 30000
+2026-08-21T08:30Z | webfetch-finhacker | fear-and-greed-index-historical-data(403)
+2026-08-21T08:31Z | builtin-websearch | Nasdaq 100 record closing high August 2026
+2026-08-21T08:33Z | builtin-websearch | hyperscaler AI capex guidance 2026 Microsoft Google Meta Amazon raised
+2026-08-21T08:33Z | builtin-websearch | Nvidia Q2 fiscal 2027 earnings date August 27 2026
+2026-08-21T08:35Z | builtin-websearch | CoWoS HBM supply shortage 2026 sold out TSMC capacity expansion
+2026-08-21T08:35Z | builtin-websearch | TSMC monthly revenue July 2026 record NT$
+2026-08-21T08:37Z | builtin-websearch | AI software ARR growth 2026 Copilot adoption enterprise SaaS AI revenue
+2026-08-21T08:37Z | builtin-websearch | software stocks AI disruption fear selloff 2026 valuation low PE Adobe Intuit
+2026-08-21T08:39Z | builtin-websearch | Meta free cash flow capex 2026 Q2 depreciation 2027 guidance
+2026-08-21T08:39Z | builtin-websearch | bitcoin price today all time high distance August 21 2026
+2026-08-21T08:41Z | builtin-websearch | crypto fear and greed index today August 2026
+2026-08-21T08:41Z | builtin-websearch | bitcoin ETF flows inflows August 2026 rally reason
+2026-08-21T08:43Z | builtin-websearch | Alibaba stock August 20 2026 news gain
+2026-08-21T08:43Z | builtin-websearch | Circle CRCL stock news August 2026 stablecoin USDC Arc
+2026-08-21T08:45Z | builtin-websearch | Alibaba June quarter FY2027 Q1 results revenue cloud growth CMR free cash flow
+2026-08-21T08:47Z | webfetch-investingnews | alibaba-june-quarter-2026-results(正文空)
+2026-08-21T08:48Z | curl-alibabagroup | document-1898208128135069696(抓到2025旧稿弃用)
+2026-08-21T08:50Z | builtin-websearch | Alibaba FY2027 Q1 June 2026 quarter press release customer management revenue cloud 268 billion
+2026-08-21T08:52Z | sec-edgar-6k | 0001104659-26-099220 ex99-1 FY27Q1财报原文(一手资料✅)
+2026-08-21T09:05:33Z | subagent-baba-4 | Alibaba FY2026 Q1 earnings free cash flow negative capex AI cloud
+2026-08-21T09:05:33Z | subagent-baba-4 | Alibaba latest quarter earnings CMR growth cloud revenue AI August 2026
+2026-08-21T09:05:47Z | subagent-baba-2 | Alibaba Q1 FY2027 earnings call transcript Toby Xu CapEx guidance free cash flow
+2026-08-21T09:05:47Z | subagent-baba-2 | Alibaba June quarter 2026 results free cash flow negative 44.7 billion AI capex
+2026-08-21T09:05:48Z | subagent-baba-3 | 淘宝天猫 拼多多 抖音电商 京东 GMV 市场份额 2026
+2026-08-21T09:05:48Z | subagent-baba-3 | 即时零售 淘宝闪购 美团 京东秒送 补贴战 2026年8月
+2026-08-21T09:05:48Z | subagent-baba-3 | instant retail subsidy war China Alibaba Meituan JD unit economics August 2026
+2026-08-21T09:06:13Z | subagent-baba-4 | Eddie Wu Joe Tsai Alibaba earnings call AI capex buyback commentary
+2026-08-21T09:06:13Z | subagent-baba-4 | Michael Burry Scion BABA Alibaba 13F 2026 holdings
+2026-08-21T09:06:13Z | subagent-baba-4 | David Tepper Appaloosa Alibaba 13F Q2 2026 position
+2026-08-21T09:06:13Z | subagent-baba-4 | Bridgewater Berkshire Hathaway Alibaba BABA 13F 2026 institutional holdings changes
+2026-08-21T09:06:23Z | subagent-baba-3 | 阿里云 华为云 腾讯云 市场份额 2026 中国公有云
+2026-08-21T09:06:23Z | subagent-baba-3 | Alibaba Cloud revenue growth 45% AI demand FY2027 Q1
+2026-08-21T09:06:26Z | subagent-baba-2 | Alibaba share repurchase program remaining authorization 2026 buyback
+2026-08-21T09:06:48Z | subagent-baba-4 | BABA Alibaba short interest insider selling August 2026
+2026-08-21T09:06:48Z | subagent-baba-4 | Alibaba Taobao competition Pinduoduo Douyin instant retail CMR growth slowdown 2026
+2026-08-21T09:06:48Z | subagent-baba-4 | Alibaba Qwen AI model release cloud IPO spinoff rumor 2026
+2026-08-21T09:06:54Z | subagent-baba-3 | 阿里云 华为云 腾讯云 市场份额 2026 中国公有云
+2026-08-21T09:06:54Z | subagent-baba-3 | Alibaba Cloud revenue growth 45% AI demand FY2027 Q1
+2026-08-21T09:06:54Z | subagent-baba-3 | 中国 AI 推理 token 消耗量 算力需求 2026 大模型
+2026-08-21T09:07:26Z | subagent-baba-4 | US China trade chip export controls Alibaba Nvidia H20 August 2026
+2026-08-21T09:07:26Z | subagent-baba-4 | China retail sales consumer spending July 2026 yuan exchange rate
+2026-08-21T09:07:26Z | subagent-baba-4 | Alibaba share buyback repurchase resume 2026 dividend balance sheet cash
+2026-08-21T09:07:36Z | subagent-baba-2 | Alibaba "380 billion" capex plan exceeded 2026 Xu Hong cash flow discipline
+2026-08-21T09:07:36Z | subagent-baba-2 | stockanalysis.com 9988 Q1 2027 earnings call transcript (fetch)
+2026-08-21T09:07:55Z | subagent-baba-1 | Alibaba FY2027 Q1 results CMR like-for-like merchant support program
+2026-08-21T09:07:55Z | subagent-baba-1 | 淘宝闪购 单位经济效益 市场份额 京东 美团 2026
+2026-08-21T09:07:55Z | subagent-baba-1 | Alibaba 88VIP 64 million members retention ARPU
+2026-08-21T09:07:55Z | subagent-baba-1 | Alibaba Cloud revenue growth 45% Qwen open source AI demand
+2026-08-21T09:07:55Z | subagent-baba-1 | 拼多多 抖音电商 淘宝天猫 市场份额 GMV 竞争格局 2026年
+2026-08-21T09:07:55Z | subagent-baba-1 | BABA stock price target analyst August 2026 valuation
+2026-08-21T09:07:55Z | subagent-baba-1 | 吴泳铭 蔡崇信 用户为先 AI驱动 战略 回购 股东回报
+2026-08-21T09:07:55Z | subagent-baba-1 | Alibaba capex 380 billion AI infrastructure investment data center 2026
+2026-08-21T09:07:58Z | subagent-baba-3 | 中国互联网监管 2026 平台经济 反垄断 反内卷 最新政策
+2026-08-21T09:07:58Z | subagent-baba-3 | 中概股 ADR 退市风险 PCAOB 审计 2026 中美
+2026-08-21T09:07:58Z | subagent-baba-3 | US China relations Chinese ADR delisting chip export controls August 2026
+2026-08-21T09:08:18Z | subagent-baba-2 | Alibaba "share repurchase update" June 30 2026 remaining authorization
+2026-08-21T09:08:18Z | subagent-baba-2 | BABA stockanalysis.com forward PE market cap shares outstanding
+2026-08-21T09:08:35Z | subagent-baba-3 | 社会消费品零售总额 2026年7月 同比 统计局
+2026-08-21T09:08:35Z | subagent-baba-3 | 中国 CPI 2026年7月 通缩 消费者信心指数
+2026-08-21T09:08:35Z | subagent-baba-3 | China retail sales July 2026 consumer spending recovery CPI
+2026-08-21T09:09:18Z | subagent-baba-3 | Alibaba FY2027 Q1 earnings quick commerce loss CMR cloud capex analysis
+2026-08-21T09:09:18Z | subagent-baba-3 | 阿里巴巴 财报 闪购 亏损 即时零售 投入 2026年8月
+2026-08-21T09:09:18Z | subagent-baba-3 | Alibaba capex AI data center spending 380 billion 2026 guidance
+2026-08-21T09:09:55Z | subagent-baba-3 | 中美关税 休战 延长 2026年8月 贸易谈判
+2026-08-21T09:09:55Z | subagent-baba-3 | 消费者信心指数 2026年 最新 中国
+2026-08-21T09:09:55Z | subagent-baba-3 | 外卖大战 结束 补贴退坡 2026年8月 美团 阿里 京东 财报
+2026-08-21T09:10:10Z | subagent-baba-1 | Alibaba BABA stock reaction earnings August 20 2026 profit cloud AI
+2026-08-21T09:10:10Z | subagent-baba-1 | 阿里巴巴 千问 Qwen 商业化 开源 收费 收入分成 FT 报道
+2026-08-21T09:10:10Z | subagent-baba-1 | 阿里 商家扶持计划 全额返还佣金 CMR 口径 contra revenue 新商家发展计划
+2026-08-21T09:10:41Z | subagent-baba-3 | 拼多多 2026年二季度 财报 增长 主站 电商
+2026-08-21T09:10:41Z | subagent-baba-3 | 抖音电商 2026 GMV 目标 增速 货架电商
+2026-08-21T09:10:41Z | subagent-baba-3 | 淘宝 天猫 take rate 变现率 CMR 2026 基础软件服务费
+2026-08-21T09:11:17Z | subagent-baba-4 | SEC EDGAR 6-K fetch FY27Q1 earnings press release ex99-1
+2026-08-21T09:11:25Z | subagent-baba-2 | Alibaba EDGAR 6-K share repurchase update March 31 2026 remaining billion
+2026-08-21T09:11:25Z | subagent-baba-2 | Tencent PDD forward PE ratio August 2026 comparison BABA valuation
+2026-08-21T09:11:25Z | subagent-baba-2 | Tencent 0700 forward PE ratio current August 2026
+2026-08-21T09:12:13Z | subagent-baba-4 | Burry Scion 13F Q2 2026 Alibaba BABA new position size
+2026-08-21T09:12:13Z | subagent-baba-4 | Bridgewater All Weather Alibaba holdings Q2 2026 13F China stocks
+2026-08-21T09:12:13Z | subagent-baba-4 | Alibaba whalewisdom fintel top institutional holders Q2 2026
+2026-08-21T09:12:13Z | subagent-baba-4 | Alibaba earnings date November 2026 fiscal second quarter analyst price target
+2026-08-21T09:13:18Z | subagent-baba-2 | Alibaba new share repurchase program May 2026 announcement shareholder returns
+2026-08-21T09:13:18Z | subagent-baba-2 | Alibaba stock analyst reaction August 20 2026 earnings target price capex cloud
+2026-08-21T09:14:57Z | subagent-baba-4 | Scion Asset Management 13F August 2026 filings holdings
+2026-08-21T09:14:57Z | subagent-baba-4 | SEC EDGAR Scion CIK1649339 infotable fetch
+2026-08-21T09:18:16Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:17Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:17Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:17Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:17Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:17Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:17Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:17Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:18Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:18Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:18Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:18Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:18Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:18Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:18Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:18Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:19Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:19Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:19Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:19Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:19Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:19Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:19Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:20Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:20Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:20Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:21Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:21Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:21Z | subagent-baba | (4-Agent并行:段永平/巴菲特/芒格/李录,详见holding-analysis-BABA.md)
+2026-08-21T09:18:48Z | subagent-baba-4 | US China tariff truce deadline Trump Xi meeting November 2026
+2026-08-21T09:18:48Z | subagent-baba-4 | USD CNY yuan exchange rate August 2026 strongest
+2026-08-21T09:19:33Z | subagent-baba-2 | Alibaba FCF negative four consecutive quarters FY2026 annual free cash flow 46.6 billion
+2026-08-21T09:19:33Z | subagent-baba-2 | fetch investingnews.com Alibaba June quarter 2026 results
+2026-08-21T09:19:33Z | subagent-baba-2 | fetch biggo.com BABA earnings call 2026-08-20
+2026-08-21T09:20:24Z | subagent-baba-4 | Berkshire Hathaway 13F Q2 2026 portfolio Alibaba China holdings
+2026-08-21T09:20:24Z | subagent-baba-4 | Alibaba cloud unit IPO listing plan 2026
+2026-08-21T09:20:24Z | subagent-baba-4 | Qwen conference 2026 Alibaba Cloud date announcement September
+2026-08-21T09:26:48Z | subagent-msft-3 | cloud market share Q2 2026 Azure AWS Google Cloud growth Synergy Research
+2026-08-21T09:26:48Z | subagent-msft-3 | Azure growth rate FY26 Q4 Microsoft earnings cloud revenue guidance
+2026-08-21T09:26:51Z | subagent-msft-1 | Microsoft FY2026 Q4 earnings Azure growth rate July 2026
+2026-08-21T09:26:51Z | subagent-msft-1 | Microsoft Q4 FY26 Copilot seats AI revenue contribution 2026
+2026-08-21T09:26:56Z | subagent-msft-2 | Microsoft FY2026 Q4 earnings revenue EPS Azure growth July 2026
+2026-08-21T09:26:56Z | subagent-msft-2 | Microsoft Q4 2026 results capex free cash flow AI revenue run rate
+2026-08-21T09:27:22Z | subagent-msft-3 | OpenAI Oracle Microsoft compute diversification 2026
+2026-08-21T09:27:23Z | subagent-msft-1 | Microsoft 365 Copilot price increase 2026 customers retention
+2026-08-21T09:27:23Z | subagent-msft-1 | OpenAI Microsoft restructuring agreement 2026 Azure compute diversification
+2026-08-21T09:27:28Z | subagent-msft-4 | Microsoft AI capex returns concern investors July 2026
+2026-08-21T09:27:28Z | subagent-msft-4 | Microsoft OpenAI relationship restructuring stake 2026
+2026-08-21T09:27:28Z | subagent-msft-4 | enterprise IT spending forecast 2026 slowdown Gartner
+2026-08-21T09:27:28Z | subagent-msft-4 | Microsoft antitrust FTC EU regulation 2026 probe
+2026-08-21T09:27:28Z | subagent-msft-4 | Fed rate cut expectations September 2026 tech stock valuation multiple
+2026-08-21T09:27:28Z | subagent-msft-4 | Microsoft depreciation expense data center useful life 2026 margin impact
+2026-08-21T09:27:46Z | subagent-msft-2 | Microsoft fiscal Q4 2026 capital expenditures $31 billion free cash flow June quarter
+2026-08-21T09:27:46Z | subagent-msft-2 | Microsoft AI business annual revenue run rate Q4 FY2026 billion
+2026-08-21T09:27:46Z | subagent-msft-2 | Microsoft FY2027 Q1 guidance Azure growth outlook October earnings expectations
+2026-08-21T09:28:07Z | subagent-msft-3 | OpenAI Microsoft restructured agreement Azure exclusive cloud status 2026
+2026-08-21T09:28:07Z | subagent-msft-3 | Microsoft 365 Copilot seats vs Google Gemini Workspace enterprise adoption 2026
+2026-08-21T09:28:08Z | subagent-msft-1 | Microsoft FY2026 capex guidance depreciation gross margin pressure Q4
+2026-08-21T09:28:08Z | subagent-msft-1 | Microsoft MSFT valuation market cap forward PE August 2026
+2026-08-21T09:28:34Z | subagent-msft-4 | 13F 2026 Q2 Microsoft holdings Berkshire Hathaway increased decreased
+2026-08-21T09:28:34Z | subagent-msft-4 | Microsoft insider selling Form 4 executive 2026
+2026-08-21T09:28:34Z | subagent-msft-4 | Microsoft Ignite 2026 November Copilot announcement date
+2026-08-21T09:28:34Z | subagent-msft-4 | OpenAI IPO funding news August 2026
+2026-08-21T09:28:34Z | subagent-msft-4 | Microsoft FY27 Q1 earnings date October 2026
+2026-08-21T09:28:35Z | subagent-msft-4 | MSFT stock price August 2026 50-day moving average all-time high
+2026-08-21T09:28:46Z | subagent-msft-3 | Microsoft FTC antitrust investigation 2026 Copilot bundling
+2026-08-21T09:28:46Z | subagent-msft-3 | European Commission Microsoft Teams Copilot investigation DMA 2026
+2026-08-21T09:28:49Z | subagent-msft-1 | fetch microsoft.com fy-2026-q4 press release (正文验证)
+2026-08-21T09:28:49Z | subagent-msft-1 | fetch blogs.microsoft.com next phase OpenAI partnership (正文验证)
+2026-08-21T09:29:33Z | subagent-msft-3 | Microsoft 365 Copilot paid seats million 2026 adoption numbers
+2026-08-21T09:29:33Z | subagent-msft-3 | Microsoft AI capex FY2027 data center spending guidance investor concern returns
+2026-08-21T09:29:40Z | subagent-msft-1 | Microsoft Q1 FY27 guidance Azure growth capex outlook Amy Hood July 29
+2026-08-21T09:29:40Z | subagent-msft-1 | Azure price increase 2026 2027 Microsoft cloud customers react churn
+2026-08-21T09:30:07Z | subagent-msft-3 | Google Gemini Enterprise seats million Workspace customers 2026
+2026-08-21T09:30:07Z | subagent-msft-3 | Microsoft FY2027 Q1 earnings date October 2026 analyst expectations
+2026-08-21T09:30:17Z | subagent-msft-1 | fetch seekingalpha Q1 FY27 guidance (403失败，改用官方页)
+2026-08-21T09:30:17Z | subagent-msft-1 | fetch samexpert M365 price increase renewal (正文验证)
+2026-08-21T09:30:42Z | subagent-msft-3 | SaaSpocalypse AI threat SaaS valuations enterprise IT spending 2026
+2026-08-21T09:30:42Z | subagent-msft-3 | OpenAI Microsoft news August 2026 IPO valuation stake
+2026-08-21T09:30:52Z | subagent-msft-1 | samexpert.com M365涨价细则正文阅读完成
+2026-08-21T09:31:19Z | subagent-msft-3 | Azure capacity constraints slowdown FY27 guidance Microsoft AI run rate backlog OpenAI
+2026-08-21T09:31:19Z | subagent-msft-3 | MSFT stock valuation August 2026 AI bubble risk big tech selloff downside
+2026-08-21T09:31:39Z | subagent-msft-1 | fetch microsoft.com FY26Q4 earnings call transcript (正文验证)
+2026-08-21T09:31:39Z | subagent-msft-1 | Microsoft AI annualized revenue run rate $37 billion FY26 Nadella
+2026-08-21T09:31:46Z | subagent-msft-3 | Salesforce Agentforce customers revenue 2026 agentic AI market
+2026-08-21T09:32:37Z | subagent-msft-1 | OpenAI multi-cloud Oracle AWS Stargate Azure impact 2026 Microsoft exposure
+2026-08-21T09:32:37Z | subagent-msft-1 | fetch stockanalysis.com MSFT statistics (ROIC/FCF正文验证)
+2026-08-21T09:33:07Z | subagent-msft-2 | Microsoft AI business annual revenue run rate Q4 FY2026 billion
+2026-08-21T09:33:07Z | subagent-msft-2 | Microsoft earnings call July 2026 AI business run rate Nadella
+2026-08-21T09:33:07Z | subagent-msft-2 | Microsoft Amy Hood Q1 fiscal 2027 guidance Azure 45% constant currency capex outlook
+2026-08-21T09:33:07Z | subagent-msft-2 | MSFT historical PE ratio 5 year average median valuation history
+2026-08-21T09:33:07Z | subagent-msft-2 | 微软 2026财年第四季度 AI业务 run rate 年化收入 增长
+2026-08-21T09:33:07Z | subagent-msft-2 | Microsoft MSFT October earnings options implied move earnings play August 2026
+2026-08-21T09:33:07Z | subagent-msft-2 | MSFT stock price this week August 2026 selloff tech AI chip 5 day performance
+2026-08-21T09:33:07Z | subagent-msft-2 | stock market August 20 2026 selloff Nasdaq tech stocks drop
+2026-08-21T09:33:07Z | subagent-msft-2 | MSFT analyst whisper number Q1 FY27 Azure consensus estimate October 28
+2026-08-21T09:33:07Z | subagent-msft-2 | Microsoft AI revenue run rate fourth quarter fiscal 2026
+2026-08-21T09:33:07Z | subagent-msft-2 | 微软 财报 电话会 AI年化收入 440亿 7月30日 2026
+2026-08-21T09:33:14Z | subagent-msft-4 | Microsoft Copilot MAI model new features August 2026 announcement
+2026-08-21T09:33:14Z | subagent-msft-4 | hedge fund 13F Q2 2026 Microsoft MSFT added sold position
+2026-08-21T09:33:14Z | subagent-msft-4 | Pershing Square Microsoft position 13F Ackman 2026
+2026-08-21T09:33:14Z | subagent-msft-4 | fetch stockanalysis.com/stocks/msft/history 历史价格验证均线
+2026-08-21T09:33:14Z | subagent-msft-4 | fetch microsoft.com FY26Q4 press release 财报验证
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:57Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:35:58Z | subagent-msft | (4-Agent并行,详见holding-analysis-MSFT.md)
+2026-08-21T09:39:08Z | subagent-meta-2 | Meta Platforms Q2 2026 earnings revenue net income free cash flow July 2026
+2026-08-21T09:39:08Z | subagent-meta-2 | Meta capex guidance 2026 130 billion 145 billion raised Q2 earnings
+2026-08-21T09:39:08Z | subagent-meta-2 | Meta share buyback zero repurchases Q2 2026 suspended
+2026-08-21T09:39:08Z | subagent-meta-2 | Meta 2027 depreciation expense guidance 48 billion 65 billion data centers
+2026-08-21T09:39:27Z | subagent-meta-1 | Meta Q2 2026 earnings results ad revenue DAP users July 29
+2026-08-21T09:39:27Z | subagent-meta-1 | Meta Q2 2026 ad impressions price per ad growth rate
+2026-08-21T09:39:27Z | subagent-meta-1 | Meta 2026 capex guidance $130 billion free cash flow buyback
+2026-08-21T09:40:12Z | subagent-meta-2 | Meta Q2 2026 free cash flow 784 million operating cash flow capex breakdown
+2026-08-21T09:40:12Z | subagent-meta-2 | Meta 2027 depreciation guidance earnings call Susan Li substantially higher
+2026-08-21T09:40:12Z | subagent-meta-2 | Meta 2026 full year free cash flow forecast analyst TIKR 2027 2028
+2026-08-21T09:40:12Z | subagent-meta-2 | Meta PE ratio historical 5 year macrotrends
+2026-08-21T09:40:12Z | subagent-meta-2 | Meta depreciation 2027 48 billion 65 billion official guidance
+2026-08-21T09:40:12Z | subagent-meta-2 | Alphabet GOOGL Q2 2026 free cash flow negative 5.9 billion first time
+2026-08-21T09:40:12Z | subagent-meta-2 | Alphabet equity raise 80 billion 2026 Berkshire 10 billion
+2026-08-21T09:40:12Z | subagent-meta-2 | Meta stock August 20 2026 selloff tech drop
+2026-08-21T09:40:12Z | subagent-meta-1 | Meta AI recommendation ad efficiency engagement time increase Q2 2026
+2026-08-21T09:40:12Z | subagent-meta-1 | Threads users 2026 TikTok competition Meta young users
+2026-08-21T09:40:12Z | subagent-meta-1 | Meta Reality Labs Q2 2026 operating loss Ray-Ban Meta glasses sales Gen 3
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta Q2 2026 earnings ad revenue growth results
+2026-08-21T09:40:21Z | subagent-meta-3 | digital advertising market share 2026 Google Meta Amazon TikTok
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta Superintelligence Labs departures news August 2026
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta Llama 5 open source model 2026 progress
+2026-08-21T09:40:21Z | subagent-meta-3 | Ray-Ban Meta smart glasses sales 2026 third generation
+2026-08-21T09:40:21Z | subagent-meta-3 | FTC v Meta trial date 2026 antitrust breakup
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta capex 2026 guidance free cash flow depreciation data centers
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta stock price August 2026 analyst outlook
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta EU DSA fine 2026 regulation
+2026-08-21T09:40:21Z | subagent-meta-3 | META stock today price close August 20 2026
+2026-08-21T09:40:21Z | subagent-meta-3 | Trump Meta Zuckerberg relationship 2026 settlement
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta Scale AI investment Alexandr Wang 2026 status
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta Connect 2026 September preview announcements smart glasses
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta 1.4 trillion trial August 2026
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta Muse Spark model frontier AI 2026
+2026-08-21T09:40:21Z | subagent-meta-3 | Amazon advertising revenue Q2 2026 growth
+2026-08-21T09:40:21Z | subagent-meta-3 | TikTok US deal 2026 advertising revenue status
+2026-08-21T09:40:21Z | subagent-meta-3 | Meta depreciation expense 2026 guidance Q2 earnings call
+2026-08-21T09:41:04Z | subagent-meta-4 | Meta Q2 2026 earnings free cash flow capex guidance $130-145 billion depreciation
+Meta capex 2026 guidance analysts reaction AI spending July August 2026 | subagent-meta-4 | 
+2026-08-21T09:41:30Z | subagent-meta-4 | Meta Superintelligence Labs talent departures hires news August 2026
+Zuckerberg capital allocation 2026 AI bet criticism Metaverse lessons investors | subagent-meta-4 | 
+2026-08-21T09:41:58Z | subagent-meta-4 | 13F Q2 2026 hedge funds Meta Platforms buy sell Burry Tepper Druckenmiller
+Meta insider selling Marc Andreessen board 2026 stock sales | subagent-meta-4 | FTC Meta antitrust ruling 2026 breakup Instagram WhatsApp decision
+TikTok US deal 2026 competition Meta Instagram Reels ad share | subagent-meta-4 | 
+2026-08-21T09:42:02Z | subagent-meta-3 | Meta AI talent departures OpenAI Anthropic July August 2026
+2026-08-21T09:42:02Z | subagent-meta-3 | Google ad revenue Q2 2026 AI search ads growth
+2026-08-21T09:42:02Z | subagent-meta-3 | fetch: prnewswire Meta Q2 2026 press release (数据验证)
+2026-08-21T09:42:34Z | subagent-meta-4 | Meta Connect September 2026 Gen 3 smart glasses Ray-Ban Display expectations
+Meta AI monetization skepticism superintelligence bubble analyst downgrade August 2026 | subagent-meta-4 | digital advertising market outlook 2026 slowdown recession risk ad spending forecast
+Meta 13F 二季度 2026 机构 增持 减持 对冲基金 持仓 | subagent-meta-4 | Meta depreciation expense 2027 2028 guidance annual
+Meta stock analyst price target changes after Q2 2026 earnings August selloff reason | subagent-meta-4 | Meta Q3 2026 earnings date October depreciation guidance update buyback resume
+2026-08-21T09:42:58Z | subagent-meta-2 | Meta 8-K Q2 2026 SEC press release depreciation balance sheet debt 83.66 billion
+2026-08-21T09:42:58Z | subagent-meta-2 | Meta balance sheet Q2 2026 net cash 6.6 billion debt 83.7 billion seeking alpha
+2026-08-21T09:43:13Z | subagent-meta-1 | Meta CPM trend 2026 advertisers SMB small business share ad revenue
+2026-08-21T09:43:13Z | subagent-meta-1 | Zuckerberg super voting shares control Meta governance 2026 shareholder vote
+2026-08-21T09:43:13Z | subagent-meta-1 | Meta Q2 2026 net income decline tax depreciation expense details
+2026-08-21T09:44:18Z | subagent-meta-1 | Ray-Ban Meta smart glasses units sold million 2026 Gen 3 Meta Connect September
+2026-08-21T09:44:18Z | subagent-meta-1 | Meta stock valuation forward PE August 2026 analyst
+2026-08-21T09:44:18Z | subagent-meta-1 | TikTok US deal August 2026 status users advertising competition
+2026-08-21T09:44:57Z | subagent-meta-2 | Meta Q2 2026 earnings call depreciation 2027 in the range of CFO outlook
+2026-08-21T09:44:57Z | subagent-meta-2 | Meta full year 2025 results diluted EPS 23.49
+2026-08-21T09:44:57Z | subagent-meta-2 | Alphabet GOOGL EV/EBITDA forward PE vs Meta comparison 2026
+2026-08-21T09:44:57Z | subagent-meta-2 | Meta depreciation 2027 48 65 billion official or analyst estimate
+2026-08-21T09:44:57Z | subagent-meta-2 | Meta depreciation run rate 2026 full year useful life 5.5 years
+2026-08-21T09:46:11Z | subagent-meta-1 | Meta Q2 2026 earnings call transcript AI recommendation conversion Advantage+ gains
+2026-08-21T09:46:11Z | subagent-meta-1 | Meta youth safety lawsuit trial August 2026 liability
+2026-08-21T09:46:11Z | subagent-meta-1 | Meta Q2 2026 earnings call time spent Instagram Facebook increase AI engagement Susan Li
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:58Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:48:59Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:49:00Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:49:00Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:49:00Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:49:00Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:49:00Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:49:00Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:49:00Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:49:00Z | subagent-meta | (4-Agent并行,详见holding-analysis-META.md)
+2026-08-21T09:52:25Z | subagent-tsm-3 | TSMC N2 2nm mass production yield 2026 vs Samsung 2nm Intel 18A
+2026-08-21T09:52:25Z | subagent-tsm-3 | TSMC advanced process market share 90% 2026 foundry
+2026-08-21T09:52:29Z | subagent-tsm-1 | TSMC July 2026 revenue NT$467.58 billion record monthly
+2026-08-21T09:52:29Z | subagent-tsm-1 | TSMC 2nm N2 mass production 2026 price customers A16
+2026-08-21T09:52:51Z | subagent-tsm-3 | Samsung 2nm SF2 customers exynos Tesla Qualcomm August 2026
+2026-08-21T09:53:02Z | subagent-tsm-1 | Intel 18A 14A yield customers foundry progress August 2026
+2026-08-21T09:53:02Z | subagent-tsm-1 | TSMC CoWoS capacity 2026 advanced packaging NVIDIA demand
+2026-08-21T09:53:02Z | subagent-tsm-1 | TSMC 2nm N2 wafer price premium customers Apple AMD 2026
+2026-08-21T09:53:15Z | subagent-tsm-3 | Intel 18A yield Panther Lake customers mass production July August 2026
+2026-08-21T09:53:37Z | subagent-tsm-1 | TSMC 2026 price increase foundry advanced node customers accept
+2026-08-21T09:53:37Z | subagent-tsm-1 | NVIDIA AMD Broadcom ASIC TSMC order visibility 2026 2027 AI chips backlog
+2026-08-21T09:53:40Z | subagent-tsm-3 | CoWoS capacity supply gap 2026 TSMC narrowing shortage
+2026-08-21T09:54:04Z | subagent-tsm-3 | advanced packaging competition Intel EMIB Samsung ASE Amkor Nvidia outsourcing 2026
+2026-08-21T09:54:10Z | subagent-tsm-1 | TSMC AI bubble capex cut risk buffer 2026 analysis
+2026-08-21T09:54:10Z | subagent-tsm-1 | TSM ADR vs 2330 TSMC valuation gap geopolitical risk discount 2026
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSMC Taiwan Strait geopolitical risk silicon shield 2026
+2026-08-21T09:54:29Z | subagent-tsm-4 | hyperscaler AI capex 2026 outlook spending cut Microsoft Meta Amazon
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSMC Nvidia customer revenue concentration risk 2026
+2026-08-21T09:54:29Z | subagent-tsm-4 | Intel 18A Samsung foundry vs TSMC 2nm N2 competition 2026
+2026-08-21T09:54:29Z | subagent-tsm-4 | New Taiwan dollar appreciation 2026 TWD impact TSMC gross margin
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSMC Arizona fab cost dilute gross margin 2026 overseas fab
+2026-08-21T09:54:29Z | subagent-tsm-4 | CC Wei TSMC guidance raised Q2 2026 earnings call full year outlook
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSMC July 2026 monthly revenue record year-on-year
+2026-08-21T09:54:29Z | subagent-tsm-4 | Berkshire Hathaway TSMC 13F 2026 Q2 holdings
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSMC TSM 13F Q2 2026 institutional investors buy sell hedge funds
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSMC foreign investors selling buying August 2026 TWSE ADR flow
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSMC 2nm N2 mass production volume ramp 2026 customers
+2026-08-21T09:54:29Z | subagent-tsm-4 | Nvidia earnings date August 2026 Q2 results expectations
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSMC Q3 2026 earnings date October revenue guidance forecast
+2026-08-21T09:54:29Z | subagent-tsm-4 | CC Wei TSMC recent speech August 2026 AI demand capacity
+2026-08-21T09:54:29Z | subagent-tsm-4 | 2026年二季度 台积电 13F 基金 增持 减持 外资
+2026-08-21T09:54:29Z | subagent-tsm-4 | China Taiwan military drills tensions July August 2026
+2026-08-21T09:54:29Z | subagent-tsm-4 | Berkshire Hathaway 13F Q2 2026 full positions list sold bought
+2026-08-21T09:54:29Z | subagent-tsm-4 | foreign investors net buy sell TSMC 2330 August 2026
+2026-08-21T09:54:29Z | subagent-tsm-4 | TSM stock price target analyst upgrade August 2026
+2026-08-21T09:54:29Z | subagent-tsm-3 | Nvidia percentage TSMC revenue 2026 largest customer concentration
+2026-08-21T09:54:56Z | subagent-tsm-3 | Nvidia earnings August 26 2026 expectations TSMC supply chain impact
+2026-08-21T09:55:12Z | subagent-tsm-1 | TSM stock forward PE ratio August 2026 valuation ROIC
+2026-08-21T09:55:12Z | subagent-tsm-1 | TSMC A16 1.6nm 2026 customers Samsung 2nm foundry gap
+2026-08-21T09:55:20Z | subagent-tsm-3 | 台海 军演 2026年8月 芯片 台积电 地缘风险
+2026-08-21T09:55:28Z | subagent-tsm-2 | TSMC July 2026 monthly revenue NT$467.58 billion record
+2026-08-21T09:55:28Z | subagent-tsm-2 | 台积电 2026年7月 合并营收 4675.8亿 年增
+2026-08-21T09:55:28Z | subagent-tsm-2 | 台积电 前7月 累计营收 2026 年增 35%
+2026-08-21T09:55:28Z | subagent-tsm-2 | TSMC Q2 2026 earnings revenue net income gross margin 67% ROIC
+2026-08-21T09:55:28Z | subagent-tsm-2 | TSMC August 2026 revenue forecast analyst Q3 outlook month over month
+2026-08-21T09:55:51Z | subagent-tsm-3 | TSMC Arizona Fab 21 yield progress 2026 Japan Kumamoto Germany Dresden update
+2026-08-21T09:55:59Z | subagent-tsm-2 | TSMC 2026 capex guidance $52 billion raised budget
+2026-08-21T09:55:59Z | subagent-tsm-2 | 台积电 2026年 资本支出 上调 520亿 560亿美元
+2026-08-21T09:55:59Z | subagent-tsm-2 | TSM free cash flow 2026 trailing twelve months stockanalysis
+2026-08-21T09:55:59Z | subagent-tsm-2 | TSM PE ratio forward PE 19 stockanalysis.com valuation August 2026
+2026-08-21T09:55:59Z | subagent-tsm-2 | NVDA AVGO forward PE ratio August 2026 semiconductor valuation comparison TSM
+2026-08-21T09:56:24Z | subagent-tsm-3 | WFE wafer fab equipment spending 2026 forecast SEMI memory auto smartphone demand recovery
+2026-08-21T09:56:29Z | subagent-tsm-2 | TSM analyst price target consensus 2026 August street high low
+2026-08-21T09:56:29Z | subagent-tsm-2 | 台积电 2026年 3月 4月 5月 6月 营收 月增 年增
+2026-08-21T09:56:29Z | subagent-tsm-2 | Philadelphia Semiconductor Index SOX valuation PE ratio 2026 Nvidia forward PE
+2026-08-21T09:56:29Z | subagent-tsm-2 | 台积电 2026年4月 营收 年增 3月营收 NT$
+2026-08-21T09:56:29Z | subagent-tsm-2 | 台积电 前7月 累计营收 2兆8720亿 年增 35
+2026-08-21T09:56:55Z | subagent-tsm-3 | TSMC July 2026 revenue record monthly NT$
+2026-08-21T09:57:00Z | subagent-tsm-2 | 台积电 第二季 2026 净利 7075亿 创纪录 EPS 27.25元
+2026-08-21T09:57:00Z | subagent-tsm-2 | 台积电 Q3 2026 8月 9月 营收 预期 分析师 季增 12%
+2026-08-21T09:57:00Z | subagent-tsm-2 | TSM PE ratio 5 year range high low macrotrends historical percentile
+2026-08-21T09:57:00Z | subagent-tsm-2 | TSMC August revenue expected analysts forecast NT$470 billion September record
+2026-08-21T09:57:00Z | subagent-tsm-2 | TSM PE ratio history 2021 2022 2023 2024 2025 annual average macrotrends
+2026-08-21T09:57:00Z | subagent-tsm-2 | fetch stockanalysis.com/stocks/tsm/statistics/ (SA统计页)
+2026-08-21T09:57:27Z | subagent-tsm-3 | Taiwan strait risk 2026 silicon shield TSMC military drills August
+2026-08-21T09:57:59Z | subagent-tsm-3 | TSMC 2026 smartphone automotive non-AI demand handset outlook Q3 guidance
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:05Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:06Z | subagent-tsm | (4-Agent并行,详见holding-analysis-TSM.md)
+2026-08-21T10:00:19Z | subagent-tsm-3 | TSM stock valuation bear case AI capex bubble risk August 2026
+2026-08-21T10:00:19Z | subagent-tsm-3 | Intel 18A external customer win Microsoft Broadcom Nvidia foundry 2026
+2026-08-21T10:04:23Z | subagent-brk-1 | Berkshire Hathaway Q2 2026 earnings operating profit insurance underwriting
+2026-08-21T10:04:41Z | subagent-brk-3 | Berkshire Hathaway Q2 2026 earnings insurance underwriting combined ratio
+2026-08-21T10:04:41Z | subagent-brk-3 | GEICO underwriting profit margin recovery 2026
+2026-08-21T10:04:41Z | subagent-brk-3 | property casualty hard market softening 2026 reinsurance pricing renewals
+2026-08-21T10:04:41Z | subagent-brk-3 | BNSF vs Union Pacific earnings 2026 volumes operating ratio
+2026-08-21T10:04:42Z | subagent-brk-2 | Berkshire Hathaway Q2 2026 earnings operating earnings billion
+2026-08-21T10:04:42Z | subagent-brk-2 | Berkshire Hathaway second quarter 2026 insurance underwriting profit BNSF earnings
+2026-08-21T10:05:04Z | subagent-brk-1 | Berkshire Hathaway cash $365.5 billion Q2 2026 buybacks Abel deploys capital
+2026-08-21T10:05:18Z | subagent-brk-3 | Berkshire Hathaway cash $350 billion 2026 Abel elephant acquisition
+2026-08-21T10:05:18Z | subagent-brk-3 | Berkshire Hathaway 13F 2026 Apple Alphabet portfolio concentration
+2026-08-21T10:05:18Z | subagent-brk-3 | Berkshire Hathaway price to book 2026 valuation premium post Buffett Abel discount
+2026-08-21T10:05:18Z | subagent-brk-3 | Berkshire Hathaway Energy 2026 renewable energy investment rate regulation
+2026-08-21T10:05:21Z | subagent-brk-4 | Greg Abel Berkshire Hathaway CEO first months 2026 shareholder letter changes
+2026-08-21T10:05:22Z | subagent-brk-4 | Berkshire Hathaway 2026 annual meeting May Greg Abel highlights key takeaways
+2026-08-21T10:05:22Z | subagent-brk-4 | Berkshire Hathaway Q2 2026 earnings results operating earnings cash buybacks August 2026
+2026-08-21T10:05:22Z | subagent-brk-4 | Ajit Jain retirement successor Berkshire insurance 2026
+2026-08-21T10:05:22Z | subagent-brk-4 | hedge funds institutional investors Berkshire Hathaway 13F Q2 2026 buys sells
+2026-08-21T10:05:22Z | subagent-brk-4 | Berkshire portfolio Apple stake concentration 2026 sold shares percentage
+2026-08-21T10:05:22Z | subagent-brk-4 | Federal Reserve rate cuts 2026 Berkshire cash treasury interest income impact
+2026-08-21T10:05:22Z | subagent-brk-4 | corporate tax rate increase 2026 Berkshire Hathaway impact effective tax
+2026-08-21T10:05:22Z | subagent-brk-4 | Berkshire insurance underwriting loss catastrophe 2026 hurricane wildfire GEICO
+2026-08-21T10:05:22Z | subagent-brk-4 | BRK.B stock price today valuation August 2026 analyst
+2026-08-21T10:05:22Z | subagent-brk-4 | Greg Abel Berkshire acquisitions deployment capital first half 2026 actions
+2026-08-21T10:05:22Z | subagent-brk-4 | US recession risk 2026 outlook consumer labor market impact insurers conglomerates
+2026-08-21T10:05:22Z | subagent-brk-4 | Berkshire Hathaway stock institutional hedge funds buying selling BRK Q2 2026 13F holders
+2026-08-21T10:05:22Z | subagent-brk-4 | Warren Buffett stepping down CEO end 2026 chairman role Berkshire transition date
+2026-08-21T10:05:33Z | subagent-brk-2 | Berkshire Hathaway cash record Q2 2026 Treasury bills $350 billion
+2026-08-21T10:05:33Z | subagent-brk-2 | Berkshire Hathaway buybacks Q2 2026 Abel resumed repurchase shares
+2026-08-21T10:05:33Z | subagent-brk-2 | Berkshire Hathaway 13F Q2 2026 Apple trim Alphabet Constellation Brands new positions
+2026-08-21T10:05:33Z | subagent-brk-2 | Berkshire Hathaway cash end of second quarter 2026 declined billion T-bills interest income
+2026-08-21T10:05:34Z | subagent-brk-1 | Greg Abel Berkshire Taylor Morrison acquisition 2026 price
+2026-08-21T10:05:59Z | subagent-brk-3 | Nasdaq selloff late July 2026 Berkshire Hathaway stock defensive outperform
+2026-08-21T10:05:59Z | subagent-brk-3 | Berkshire Hathaway acquisition 2026 announced Abel first deal
+2026-08-21T10:05:59Z | subagent-brk-3 | Berkshire Hathaway manufacturing segment 2026 tariffs Lubrizol results
+2026-08-21T10:05:59Z | subagent-brk-3 | BRK.B stock 2026 year to date underperform S&P 500
+2026-08-21T10:06:06Z | subagent-brk-1 | Berkshire Hathaway 13F Q2 2026 Alphabet GOOGL top holdings Apple sold
+2026-08-21T10:06:40Z | subagent-brk-3 | Berkshire stock August 2026 record high tech selloff rotation
+2026-08-21T10:06:40Z | subagent-brk-3 | Nasdaq 100 correction July 2026 AI stocks selloff percent drop
+2026-08-21T10:06:40Z | subagent-brk-3 | US ISM manufacturing PMI July 2026 tariffs industrial demand
+2026-08-21T10:06:40Z | subagent-brk-3 | Berkshire Hathaway buyback Q2 2026 repurchase billions Abel
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:55Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:56Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:56Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:06:56Z | subagent-brkb | (4-Agent并行,详见holding-analysis-BRKB.md)
+2026-08-21T10:07:14Z | subagent-brk-2 | Berkshire 13F Q2 2026 Apple stake reduced shares value August 14
+2026-08-21T10:07:14Z | subagent-brk-2 | BRK.B price to book ratio August 2026 valuation market cap $1 trillion
+2026-08-21T10:07:14Z | subagent-brk-2 | Berkshire Hathaway stock July 2026 tech selloff defensive outperformed record high
+2026-08-21T10:07:14Z | subagent-brk-2 | fetch stockanalysis BRK.B statistics + kingswell Q2 analysis
+2026-08-21T10:07:23Z | subagent-brk-1 | BRK.B stock price book valuation 2026 Buffett premium Abel investor confidence
+2026-08-21T10:08:00Z | subagent-brk-3 | GEICO combined ratio Q2 2026 bodily injury severity trends
+2026-08-21T10:08:00Z | subagent-brk-3 | BRK.B stock price July 28 2026 semiconductor selloff defensive gain
+2026-08-21T10:08:00Z | subagent-brk-3 | FETCH cnbc berkshire-hathaway-earnings-q2-2026
+2026-08-21T10:08:00Z | subagent-brk-3 | FETCH futunn buffett-premium-turns-into-discount
+2026-08-21T10:08:25Z | subagent-brk-1 | Berkshire Hathaway GEICO Q2 2026 float insurance investment income treasury interest
+2026-08-21T10:08:25Z | subagent-brk-2 | Berkshire adds $17 billion to Alphabet stake CNBC 13F
+2026-08-21T10:08:25Z | subagent-brk-2 | stock market August 20 2026 S&P 500 Nasdaq selloff Berkshire
+2026-08-21T10:08:53Z | subagent-brk-1 | Berkshire Hathaway Abel strategy 2026 annual meeting shareholder confidence succession
+2026-08-21T10:09:44Z | subagent-brk-1 | Berkshire Hathaway market cap $1 trillion 2026 Buffett Abel $175B warning cash
+2026-08-21T10:10:16Z | subagent-brk-2 | Berkshire Q2 2026 insurance investment income $3 billion Treasury bills
+2026-08-21T10:10:16Z | subagent-brk-2 | S&P 500 Nasdaq August 20 2026 closing fell percent tech Walmart
+2026-08-21T10:10:16Z | subagent-brk-2 | Berkshire Hathaway stock 2026 year to date performance all-time high
+2026-08-21T10:10:16Z | subagent-brk-2 | Berkshire price to book history buyback 1.2 times book value Buffett threshold
+2026-08-21T10:15:25Z | subagent-intu-1 | Intuit fiscal Q3 2026 earnings revenue TurboTax Credit Karma QuickBooks segments
+2026-08-21T10:15:29Z | subagent-intu-4 | Intuit Q4 FY2026 earnings date August 2026 guidance FY2027
+2026-08-21T10:15:29Z | subagent-intu-4 | Intuit FY2026 Q3 earnings results revenue growth guidance raised
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:56Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:57Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:58Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:15:58Z | subagent-intu | (4-Agent并行,详见holding-analysis-INTU.md)
+2026-08-21T10:16:03Z | subagent-intu-1 | IRS Direct File 2026 free tax filing expansion TurboTax competition
+2026-08-21T10:16:03Z | subagent-intu-1 | Intuit Assist GenOS AI monetization customers 2026
+2026-08-21T10:16:12Z | subagent-intu-4 | Intuit TurboTax AI disruption threat ChatGPT tax filing 2026
+2026-08-21T10:16:12Z | subagent-intu-4 | IRS Direct File free tax filing legislation 2026 TurboTax threat
+2026-08-21T10:16:12Z | subagent-intu-4 | Goldman Sachs Intuit INTU note analyst 2026
+2026-08-21T10:16:12Z | subagent-intu-4 | Intuit layoffs 17% restructuring Sasan Goodarzi Expert Platform 2026
+2026-08-21T10:16:44Z | subagent-intu-4 | Intuit insider selling buying executives stock transactions 2026
+2026-08-21T10:16:44Z | subagent-intu-4 | Intuit short interest percent float August 2026
+2026-08-21T10:16:46Z | subagent-intu-1 | Intuit Q3 FY26 QuickBooks Online Solutions revenue Mailchimp growth percent May 2026
+2026-08-21T10:16:46Z | subagent-intu-1 | TurboTax QuickBooks price increase 2026 customers
+2026-08-21T10:17:19Z | subagent-intu-3 | IRS Direct File 2026 filing season number of states users statistics
+2026-08-21T10:17:19Z | subagent-intu-3 | TurboTax market share decline 2026 tax preparation industry
+2026-08-21T10:17:19Z | subagent-intu-3 | free tax filing legislation Congress 2026 Taxpayer First Act Direct File ban
+2026-08-21T10:17:19Z | subagent-intu-3 | ChatGPT file taxes 2026 tax season users AI chatbot replace TurboTax
+2026-08-21T10:17:19Z | subagent-intu-3 | Intuit Assist AI usage customers 2026 fiscal year results
+2026-08-21T10:17:19Z | subagent-intu-3 | QuickBooks vs AI bookkeeping competitors 2026 market share
+2026-08-21T10:17:19Z | subagent-intu-3 | Intuit lobbying Direct File IRS 2026 political spending tax software
+2026-08-21T10:17:19Z | subagent-intu-3 | IGV software ETF 2026 selloff AI disruption SaaS recovery signal
+2026-08-21T10:17:19Z | subagent-intu-3 | Intuit stock decline 2026 AI disruption valuation analysis bear case
+2026-08-21T10:17:19Z | subagent-intu-3 | Intuit earnings August 2026 Q4 fiscal 2026 preview guidance
+2026-08-21T10:17:19Z | subagent-intu-3 | survey taxpayers used AI to file taxes 2026 season percentage
+2026-08-21T10:17:19Z | subagent-intu-3 | Anthropic Managed Agents software disruption April 2026 Intuit tax agents
+2026-08-21T10:17:19Z | subagent-intu-3 | IRS modernization funding 2026 Inflation Reduction Act rescission status
+2026-08-21T10:17:19Z | subagent-intu-3 | TurboTax federal e-file units 2026 tax season share decline IRS statistics
+2026-08-21T10:17:19Z | subagent-intu-3 | INTU stock August 2026 rebound software sector rally Goldman
+2026-08-21T10:17:19Z | subagent-intu-3 | H&R Block fiscal 2026 results AI tax preparation competitor performance
+2026-08-21T10:17:30Z | subagent-intu-1 | Credit Karma revenue growth interest rate cuts personal finance monetization 2026
+2026-08-21T10:17:30Z | subagent-intu-1 | Goldman Sachs Intuit downgrade Sell rating AI TurboTax disruption
+2026-08-21T10:18:17Z | subagent-intu-1 | sec.gov 896878 Intuit FY26Q3 earnings press release 8-K May 2026
+2026-08-21T10:18:59Z | subagent-intu-1 | Intuit TurboTax guidance cut "lost on price" July 2026 stock drop 20%
+2026-08-21T10:18:59Z | subagent-intu-1 | Intuit fiscal Q4 2026 earnings preview expectations August 25 guidance
+2026-08-21T10:19:19Z | subagent-intu-4 | Intuit 13F Q2 2026 institutional investors bought sold hedge funds
+2026-08-21T10:19:41Z | subagent-intu-1 | TurboTax price increase 2026 tax season paid units decline AI chatbot competition
+2026-08-21T10:19:41Z | subagent-intu-1 | Intuit fiscal 2027 revenue consensus expectations analysts AI disruption bear case
+2026-08-21T10:20:42Z | subagent-intu-1 | TurboTax 100% accuracy guarantee audit support liability who pays mistakes
+2026-08-21T10:20:42Z | subagent-intu-1 | Intuit Assist monetization revenue earnings call "Intuit Intelligence" agentic done-for-you results
+2026-08-21T10:20:42Z | subagent-intu-1 | Anthropic Claude tax preparation AI Intuit stock drop FedNow August 2026
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit Q3 FY2026 earnings May 2026 revenue EPS results
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit Q3 FY2026 May 2026 segment revenue TurboTax Mailchimp Credit Karma growth free cash flow
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit Q4 FY2026 earnings preview August 25 2026 analyst estimates revenue growth
+2026-08-21T10:20:45Z | subagent-intu-2 | Goldman Sachs downgrades Intuit to Sell 2026 reasons AI TurboTax
+2026-08-21T10:20:45Z | subagent-intu-2 | INTU forward PE ratio valuation stockanalysis 2026
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit INTU earnings August 25 2026 options implied move whisper number
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit Q4 FY2026 whisper EPS estimate beat streak consecutive quarters
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit Q3 FY2026 free cash flow operating cash flow first nine months fiscal 2026
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit buyback 8 billion authorization dividend 2026 shareholder returns
+2026-08-21T10:20:45Z | subagent-intu-2 | Goldman Intuit Sell 276 tax competition AI cost per return 0.12 TurboTax revenue 2030
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit INTU earnings implied move August 2026 straddle expected move percent
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit fiscal 2027 consensus revenue estimate analyst growth FY27 guidance expectations
+2026-08-21T10:20:45Z | subagent-intu-2 | INTU stock reaction earnings day May 2026 February 2026 percent move after hours
+2026-08-21T10:20:45Z | subagent-intu-2 | Intuit stock February 2026 Q2 earnings reaction guidance
+2026-08-21T10:20:46Z | subagent-intu-2 | Intuit INTU historical PE ratio 5 year median forward PE history
+2026-08-21T10:20:46Z | subagent-intu-2 | Intuit Q1 fiscal 2026 earnings December 2025 stock reaction percent after hours
+2026-08-21T10:20:46Z | subagent-intu-2 | Intuit whisper number Q4 2026 earnings whispers August
+2026-08-21T10:20:46Z | subagent-intu-2 | INTU stock year to date 2026 decline percent AI disruption selloff
+2026-08-21T10:21:19Z | subagent-intu-1 | Intuit Anthropic partnership Claude TurboTax integration announcement June 2026
+2026-08-21T10:21:58Z | subagent-intu-1 | Credit Karma Intuit Q3 2026 personal loans auto insurance strength rate cuts outlook
+2026-08-21T10:22:51Z | subagent-intu-4 | Goldman Sachs downgrades Intuit Sell $276 price target date AI tax competition
+2026-08-21T10:22:51Z | subagent-intu-4 | Intuit Q4 fiscal 2026 preview expectations analyst AI momentum QuickBooks August 25
+2026-08-21T10:22:51Z | subagent-intu-4 | Intuit stock earnings reaction history beat miss stock price movement past quarters 2025 2026
+2026-08-21T10:26:34Z | subagent-intu-4 | INTU options implied move earnings August 2026 straddle
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:16Z | subagent-apld | (4-Agent并行,详见holding-analysis-APLD.md)
+2026-08-21T13:49:48Z | subagent-intu-4 | Intuit fiscal 2027 revenue growth consensus estimates expectations 11% 12%
+2026-08-21T13:49:48Z | subagent-intu-4 | software stocks selloff August 2026 Nasdaq SaaS AI concerns Intuit rally
+2026-08-21T14:00:54Z | subagent-apld-4 | Applied Digital APLD stock news August 2026
+2026-08-21T14:00:54Z | subagent-apld-4 | Applied Digital Polaris Forge 2 PF2 milestone update
+2026-08-21T14:01:00Z | subagent-apld-3 | Applied Digital power capacity gigawatt pipeline 2026
+2026-08-21T14:01:00Z | subagent-apld-3 | Core Scientific CORZ power pipeline gigawatts AI data center 2026
+2026-08-21T14:01:00Z | subagent-apld-3 | IREN Cipher Concord data center power pipeline gigawatt comparison 2026
+2026-08-21T14:01:05Z | subagent-apld-2 | Applied Digital APLD fiscal Q4 2026 fourth quarter earnings revenue results
+2026-08-21T14:01:05Z | subagent-apld-2 | Applied Digital fiscal 2026 full year results GPU cloud revenue data center hosting split
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:08Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:09Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:09Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:09Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:09Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:09Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:09Z | subagent-adbe | (4-Agent并行,详见holding-analysis-ADBE.md)
+2026-08-21T14:01:14Z | subagent-apld-1 | Applied Digital investment grade tenant lease 2026 Polk County PF2 hyperscaler
+2026-08-21T14:01:14Z | subagent-apld-1 | Applied Digital APLD lease contract 7 billion 11 billion backlog 2026
+2026-08-21T14:01:14Z | subagent-apld-1 | Applied Digital bond offering green bonds financing 2026 data center
+2026-08-21T14:01:14Z | subagent-apld-1 | Applied Digital fiscal third quarter 2026 results revenue July 2026
+2026-08-21T14:01:14Z | subagent-apld-1 | Applied Digital separation cloud business ChronoScale spin-off May 2026
+2026-08-21T14:01:14Z | subagent-apld-1 | APLD shares outstanding dilution ATM equity raise 2026
+2026-08-21T14:01:20Z | subagent-apld-4 | Wes Cummins Applied Digital CEO Sai Computing Gryphon acquisition history
+2026-08-21T14:01:20Z | subagent-apld-4 | APLD stock why up August 20 2026 rally reason
+2026-08-21T14:01:30Z | subagent-apld-3 | data center vacancy rate rent growth 2026 power constrained market report
+2026-08-21T14:01:30Z | subagent-apld-3 | CoreWeave Nebius Crusoe Lambda data center lease demand 2026 neocloud
+2026-08-21T14:01:30Z | subagent-apld-3 | Applied Digital Polaris Forge campus lease hyperscaler 2026 North Dakota Texas power
+2026-08-21T14:01:46Z | subagent-apld-2 | Applied Digital Polaris Forge 2 lease agreement tenant billion 2026
+2026-08-21T14:01:46Z | subagent-apld-2 | Applied Digital CoreWeave 7 billion contract 2026 data center
+2026-08-21T14:01:46Z | subagent-apld-4 | APLD insider selling buying 2026 Form 4
+2026-08-21T14:01:46Z | subagent-apld-4 | APLD short interest August 2026
+2026-08-21T14:01:54Z | subagent-apld-3 | CoreWeave acquires Core Scientific $9 billion 2026 implications data center
+2026-08-21T14:02:15Z | subagent-apld-4 | APLD 13F institutional ownership Q2 2026 Tiger Global new position
+2026-08-21T14:02:15Z | subagent-apld-4 | Applied Digital debt financing bond dilution share count 2026
+2026-08-21T14:02:17Z | subagent-apld-3 | Core Scientific CoreWeave merger terminated then resumed status 2026
+2026-08-21T14:02:26Z | subagent-apld-2 | Applied Digital shares outstanding quarterly Q3 2026 February 2026 dilution ATM
+2026-08-21T14:02:26Z | subagent-apld-2 | Applied Digital financing 2026 senior secured notes green bonds convertible
+2026-08-21T14:02:26Z | subagent-apld-2 | APLD analyst price target 74 August 2026 upgrade
+2026-08-21T14:02:40Z | subagent-apld-3 | PJM ERCOT interconnection queue backlog data center 2026 wait time gigawatts
+2026-08-21T14:02:43Z | subagent-apld-4 | Applied Digital CoreWeave lease Sai Computing hyperscaler 2026
+2026-08-21T14:02:43Z | subagent-apld-4 | APLD Russell 2000 index inclusion analyst price target 2026
+2026-08-21T14:02:53Z | subagent-apld-1 | Applied Digital vs Core Scientific IREN Hut 8 data center developer power pipeline comparison 2026
+2026-08-21T14:02:53Z | subagent-apld-1 | Applied Digital Polaris Forge 1 2 3 Oracle CoreWeave tenant North Dakota Polk County Texas
+2026-08-21T14:02:53Z | subagent-apld-1 | Applied Digital Q2 fiscal 2026 November 2025 weighted average shares outstanding
+2026-08-21T14:02:53Z | subagent-apld-1 | Applied Digital Delta Forge 1 Louisiana hyperscaler identity Microsoft Oracle tenant who
+2026-08-21T14:02:53Z | subagent-apld-1 | APLD short seller bear case customer concentration debt dilution risk 2026
+2026-08-21T14:02:53Z | subagent-apld-1 | Applied Digital 10-Q February 28 2026 shares outstanding authorized shares increase proposal
+2026-08-21T14:03:04Z | subagent-apld-3 | QTS Blackstone private capital data center investment 2026 GW commitments
+2026-08-21T14:03:15Z | subagent-apld-4 | Wes Cummins Sai Computing acquisition Applied Digital controversy track record
+2026-08-21T14:03:15Z | subagent-apld-4 | stockanalysis.com/stocks/apld/statistics/ (WebFetch)
+2026-08-21T14:03:29Z | subagent-apld-3 | bitcoin miners pivot AI data center IREN Hut 8 Cleanspark 2026 competitive advantage
+2026-08-21T14:03:44Z | subagent-apld-4 | Applied Digital $3.1 billion debt equity financing convertible notes
+2026-08-21T14:03:44Z | subagent-apld-4 | Applied Digital Polaris Forge 1 ready for service CoreWeave delivery on time delay
+2026-08-21T14:03:55Z | subagent-apld-3 | hyperscaler build own data center vs lease colocation 2026 trend OpenAI Microsoft
+2026-08-21T14:04:04Z | subagent-apld-2 | Polaris Forge 2 ready for service timeline 2026 hyperscaler lease construction
+2026-08-21T14:04:04Z | subagent-apld-2 | CoreWeave IREN CORZ Bitdeer enterprise value revenue multiple comparison 2026 AI data center
+2026-08-21T14:04:04Z | subagent-apld-2 | stockanalysis.com APLD statistics EV/Rev price target
+2026-08-21T14:04:10Z | subagent-apld-4 | AI data center capex slowdown hyperscaler lease cancellation risk 2026
+2026-08-21T14:04:19Z | subagent-apld-3 | APLD stock retail popularity options volume analyst coverage 2026 crowded trade
+2026-08-21T14:04:41Z | subagent-apld-4 | Wes Cummins APLD stock sale Form 4 July August 2026 shares sold
+2026-08-21T14:04:41Z | subagent-apld-4 | Applied Digital cloud business spin-off Symmetry AI Factory 2026
+2026-08-21T14:04:48Z | subagent-apld-3 | Applied Digital fiscal fourth quarter 2026 results backlog revenue debt July 2026
+2026-08-21T14:05:33Z | subagent-apld-4 | Wes Cummins interview August 2026 comments pipeline lease
+2026-08-21T14:05:33Z | subagent-apld-4 | data center high yield bond spreads AI infrastructure debt market August 2026
+2026-08-21T14:05:41Z | subagent-apld-3 | "Applied Digital" Q4 FY2026 revenue backlog $ billion guidance Polaris Forge construction
+2026-08-21T14:05:41Z | subagent-apld-3 | Applied Digital bear case risks dilution debt related party 2026 short thesis
+2026-08-21T14:06:11Z | subagent-apld-3 | Applied Digital Texas ERCOT campus gigawatt site 2026
+2026-08-21T14:06:37Z | subagent-apld-3 | Concord Resources data center power gigawatt pipeline 2026 AI
+2026-08-21T14:06:38Z | subagent-apld-2 | Applied Digital Delta Forge 2 210 MW lease 5.2 billion announcement
+2026-08-21T14:06:38Z | subagent-apld-2 | Applied Digital Q4 fiscal 2026 adjusted EBITDA beat estimates July 27 2026 stock
+2026-08-21T14:07:03Z | subagent-apld-3 | APLD short interest percentage retail hype 2026
+2026-08-21T14:07:52Z | subagent-apld-3 | AI capex cut risk 2026 Microsoft data center lease cancellations bubble concern
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:09:39Z | subagent-crcl | (4-Agent并行,详见holding-analysis-CRCL.md)
+2026-08-21T14:10:32Z | subagent-adbe-4 | Adobe AI disruption threat Canva OpenAI creative tools market share July August 2026
+2026-08-21T14:10:40Z | subagent-adbe-2 | Adobe Q2 fiscal 2026 earnings revenue EPS results May 2026
+2026-08-21T14:11:00Z | subagent-adbe-4 | Adobe AI-first ARR Firefly guidance Q2 FY2026 billion annualized recurring revenue
+2026-08-21T14:11:09Z | subagent-adbe-2 | Adobe FY2026 Q2 ARR segments Digital Media Digital Experience operating income free cash flow
+2026-08-21T14:11:34Z | subagent-adbe-4 | Adobe CEO Shantanu Narayen successor transition candidate August 2026
+2026-08-21T14:12:02Z | subagent-adbe-4 | Adobe insider trading buy sell executives July August 2026 SEC Form 4
+2026-08-21T14:12:14Z | subagent-adbe-3 | Canva valuation 2026 IPO plans users latest
+2026-08-21T14:12:14Z | subagent-adbe-3 | Figma stock FIG performance 2026 after IPO revenue guidance
+2026-08-21T14:12:14Z | subagent-adbe-3 | Adobe Firefly 2026 Firefly Foundry video model updates
+2026-08-21T14:12:14Z | subagent-adbe-3 | Midjourney Runway revenue users 2026 professional creative workflow adoption
+2026-08-21T14:12:14Z | subagent-adbe-3 | Sora Google Flow Veo AI video Hollywood professional adoption 2026
+2026-08-21T14:12:33Z | subagent-adbe-4 | stockanalysis.com ADBE statistics (insider/short/analyst)
+2026-08-21T14:12:40Z | subagent-adbe-3 | Adobe OpenAI Anthropic partnership Firefly models 2026
+2026-08-21T14:12:40Z | subagent-adbe-3 | Adobe Experience Cloud competition Salesforce HubSpot market share 2026
+2026-08-21T14:12:40Z | subagent-adbe-3 | C2PA Content Credentials adoption monetization 2026 Adobe
+2026-08-21T14:12:40Z | subagent-adbe-3 | Adobe CEO successor Shantanu Narayen transition 2026
+2026-08-21T14:12:40Z | subagent-adbe-3 | Adobe ADBE stock price forward PE 2026 decline AI concerns
+2026-08-21T14:13:04Z | subagent-adbe-3 | Lovart AI design agent 2026 users growth
+2026-08-21T14:13:04Z | subagent-adbe-3 | Adobe Q2 FY2026 earnings ARR AI credit consumption guidance
+2026-08-21T14:13:04Z | subagent-adbe-3 | ADBE Adobe stock price August 2026 current
+2026-08-21T14:13:04Z | subagent-adbe-3 | Runway valuation 2026 funding revenue AI video enterprise
+2026-08-21T14:13:17Z | subagent-adbe-4 | openinsider.com ADBE insider transactions 3mo
+2026-08-21T14:13:17Z | subagent-adbe-4 | ADBE insider sale July 2026 Form 4 shares price executive CFO
+2026-08-21T14:13:52Z | subagent-adbe-4 | Adobe ADBE 13F Q2 2026 hedge fund increased decreased position
+2026-08-21T14:13:52Z | subagent-adbe-4 | hedgefollow.com ADBE 13F holders
+2026-08-21T14:14:48Z | subagent-adbe-4 | insidermonkey ADBE hedge funds cashing out Q2 2026
+2026-08-21T14:14:48Z | subagent-adbe-4 | hedge funds bullish Adobe Q2 2026 Insider Monkey fund count
+2026-08-21T14:14:48Z | subagent-adbe-4 | investors.com Adobe Q2 FY26 earnings CFO departs 7-year low
+2026-08-21T14:15:17Z | subagent-adbe-4 | Adobe CFO Daniel Durn departure Marvell Steven Day interim June 2026
+2026-08-21T14:15:40Z | subagent-adbe-2 | Adobe Q3 FY2026 September earnings preview analyst estimates consensus revenue EPS
+2026-08-21T14:15:48Z | subagent-adbe-4 | Adobe next CEO candidates Wadhwani Chakravarthy Bloomberg shortlist
+2026-08-21T14:16:12Z | subagent-adbe-2 | Adobe AI-first ARR 500 million Q2 2026 trajectory outlook
+2026-08-21T14:16:20Z | subagent-adbe-4 | Adobe ADBE analyst price target upgrade downgrade August 2026 HSBC Piper Goldman
+2026-08-21T14:16:41Z | subagent-adbe-2 | Adobe ADBE options implied volatility expected move September 2026 earnings
+2026-08-21T14:16:50Z | subagent-adbe-4 | Adobe AI-first ARR quarterly trajectory Q1 FY2026 Firefly growth
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe FY2026 Q2 earnings revenue Digital Media ARR Digital Experience growth
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe AI-first ARR Firefly run rate latest disclosure 2026
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe CEO succession Shantanu Narayen replacement update July August 2026
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe CEO search candidates successor news August 2026
+2026-08-21T14:17:11Z | subagent-adbe-1 | Canva Figma competition Adobe Creative Cloud market share erosion 2026
+2026-08-21T14:17:11Z | subagent-adbe-1 | generative AI video Sora Runway Midjourney replacing Photoshop Premiere professionals 2026
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe Creative Cloud price increase 2026 subscription churn retention rate
+2026-08-21T14:17:11Z | subagent-adbe-1 | ADBE Adobe analyst price target consensus August 2026
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe Q2 FY2026 Document Cloud ARR Digital Experience revenue segment results
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe AI-first ARR definition Firefly AI assistant GenStudio what counts
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe CEO successor Bloomberg Wadhwani Chakravarthy outside candidates July 2026
+2026-08-21T14:17:11Z | subagent-adbe-1 | Adobe subscription cancellation churn 2026 users switching to AI tools survey
+2026-08-21T14:17:11Z | subagent-adbe-1 | Firefly video model 2026 adoption Photoshop generative AI usage creators statistics
+2026-08-21T14:17:12Z | subagent-adbe-2 | ADBE earnings history last 4 quarters beat miss stock reaction 2025 2026
+2026-08-21T14:17:34Z | subagent-adbe-4 | futurumgroup Adobe Q2 FY26 review AI ARR freemium H2 slowdown guidance
+2026-08-21T14:17:47Z | subagent-adbe-2 | Adobe CEO Shantanu Narayen departure successor announcement 2026
+2026-08-21T14:18:07Z | subagent-adbe-4 | software stocks selloff August 2026 Adobe rally AI disruption rebound
+2026-08-21T14:18:16Z | subagent-adbe-2 | Adobe new CEO named successor August 2026
+2026-08-21T14:18:49Z | subagent-adbe-2 | Adobe ADBE price target raised lowered analysts August 2026
+2026-08-21T14:19:16Z | subagent-adbe-4 | Adobe ADBE stock news August 2026 down 372026-08-21T14:19:22Z | sourceI-repair | quality stocks historically low PE 2026
+2026-08-21T14:19:22Z | sourceI-repair | oversold SaaS stocks strong fundamentals 2026
+2026-08-21T14:19:22Z | sourceI-repair | beaten down tech stocks high margin catalyst 2026
+2026-08-21T14:19:22Z | sourceI-repair | stocks 52 week low strong FCF moat 2026
+2026-08-21T14:19:22Z | sourceI-repair | fear driven selloff quality companies 2026
+2026-08-21T14:19:24Z | subagent-adbe-2 | Adobe share buyback repurchase 2026 billion authorization remaining
+2026-08-21T14:19:38Z | gics-scan | undervalued energy oil gas pipeline midstream stocks 2026
+2026-08-21T14:19:38Z | gics-scan | energy stocks earnings beat guidance raised 2026
+2026-08-21T14:19:38Z | gics-scan | undervalued chemical metals mining specialty materials stocks 2026
+2026-08-21T14:19:38Z | gics-scan | lithium uranium copper miners production growth 2026
+2026-08-21T14:19:38Z | gics-scan | undervalued industrial machinery defense aerospace manufacturing stocks 2026
+2026-08-21T14:19:38Z | gics-scan | defense stocks record backlog order growth 2026
+2026-08-21T14:19:49Z | subagent-adbe-4 | Adobe ADBE stock news August 2026 down 37 percent YTD Oppenheimer downgrade HSBC
+2026-08-21T14:19:57Z | ai-track-scan | AI cloud GPU rental neocloud providers 2026
+2026-08-21T14:19:58Z | ai-track-scan | neocloud contract backlog billion deal wins 2026
+2026-08-21T14:19:58Z | ai-track-scan | custom AI ASIC accelerator design win stocks 2026
+2026-08-21T14:19:58Z | ai-track-scan | AI inference chip shift beneficiaries stocks 2026
+2026-08-21T14:19:58Z | ai-track-scan | 800G 1.6T optical module demand growth 2026
+2026-08-21T14:19:58Z | ai-track-scan | AI cluster networking switch CPO stocks 2026
+2026-08-21T14:19:58Z | ai-track-scan | HBM4 capacity sold out memory stocks 2026
+2026-08-21T14:19:58Z | ai-track-scan | DRAM NAND supply tightness beneficiary stocks
+2026-08-21T14:20:06Z | subagent-adbe-2 | Adobe fiscal Q2 2026 free cash flow free cash flow second quarter
+2026-08-21T14:20:30Z | gics-scan | undervalued business services waste environmental stocks 2026
+2026-08-21T14:20:30Z | gics-scan | business services stocks high ROIC insider buying 2026
+2026-08-21T14:20:30Z | gics-scan | undervalued airline railroad trucking logistics shipping stocks 2026
+2026-08-21T14:20:30Z | gics-scan | shipping railroad stocks earnings recovery momentum 2026
+2026-08-21T14:20:30Z | gics-scan | undervalued auto EV auto parts dealer stocks 2026
+2026-08-21T14:20:30Z | gics-scan | EV stocks deliveries growth 2026
+2026-08-21T14:20:45Z | subagent-adbe-4 | insidermonkey ADBE hedge fund holders Diamond Hill Cantillon GuardCap
+2026-08-21T14:20:45Z | subagent-adbe-2 | Adobe Q1 FY2026 results March 2026 revenue EPS beat stock reaction AI-first ARR
+2026-08-21T14:21:00Z | nonai-ecoscan | China consumer stimulus recovery stocks 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Chinese ecommerce valuation re-rating catalysts 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | gold miners real rates tail hedge stocks 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | precious metals royalty central bank buying 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | defense stocks record backlog NATO rearmament 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | GLP-1 supply chain contract manufacturing 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | insurance hard market pricing cycle 2026 specialty
+2026-08-21T14:21:00Z | nonai-ecoscan | grid modernization capex beneficiary stocks 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Alibaba cloud AI chip suppliers partners 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Microsoft Azure data center suppliers partners 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Meta AI infrastructure suppliers compute providers 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | TSMC equipment materials suppliers beneficiaries 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Berkshire Hathaway holdings new positions partners 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Intuit partners ecosystem AI integration 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Applied Digital suppliers customers CoreWeave Oracle ecosystem 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Adobe AI partners ecosystem integrations 2026
+2026-08-21T14:21:00Z | nonai-ecoscan | Circle USDC partners Visa Mastercard BlackRock ecosystem 2026
+2026-08-21T14:21:16Z | ai-track-scan | advanced packaging CoWoS capacity expansion 2026
+2026-08-21T14:21:16Z | ai-track-scan | OSAT packaging substrate ABF shortage stocks
+2026-08-21T14:21:16Z | ai-track-scan | WFE wafer fab equipment spending record 2026
+2026-08-21T14:21:16Z | ai-track-scan | ASML AMAT KLAC backlog book-to-bill 2026
+2026-08-21T14:21:16Z | ai-track-scan | data center power gigawatt pipeline IPP stocks 2026
+2026-08-21T14:21:16Z | ai-track-scan | power purchase agreement AI hyperscaler signed 2026
+2026-08-21T14:21:16Z | ai-track-scan | transformer lead time shortage grid equipment stocks 2026
+2026-08-21T14:21:16Z | ai-track-scan | electrification switchgear demand surge stocks
+2026-08-21T14:21:17Z | sourceI-repair | crypto exchange stocks oversold revenue growth 2026
+2026-08-21T14:21:17Z | sourceI-repair | stablecoin issuer stocks regulation catalyst USDC 2026
+2026-08-21T14:21:17Z | sourceI-repair | bitcoin mining stocks low valuation hashrate record 2026
+2026-08-21T14:21:17Z | sourceI-repair | crypto miner AI HPC pivot data center conversion 2026
+2026-08-21T14:21:17Z | sourceI-repair | bitcoin proxy stocks discount NAV MSTR 2026
+2026-08-21T14:21:17Z | sourceI-repair | crypto payment fintech stocks undervalued TPV growth 2026
+2026-08-21T14:21:17Z | sourceI-repair | DeFi protocol revenue stocks tokenization 2026
+2026-08-21T14:21:17Z | gics-scan | undervalued consumer electronics household appliance luxury stocks 2026
+2026-08-21T14:21:18Z | sourceI-repair | real world asset tokenization stocks blockchain 2026
+2026-08-21T14:21:18Z | gics-scan | luxury brand pricing power revenue growth 2026
+2026-08-21T14:21:18Z | sourceI-repair | blockchain infrastructure stocks Layer1 Layer2 revenue 2026
+2026-08-21T14:21:18Z | gics-scan | undervalued restaurant hotel casino cruise travel stocks 2026
+2026-08-21T14:21:18Z | sourceI-repair | crypto custody compliance stocks institutional 2026
+2026-08-21T14:21:18Z | gics-scan | travel leisure cruise stocks earnings beat 2026
+2026-08-21T14:21:18Z | sourceI-repair | bitcoin ethereum ETF flows beneficiary stocks 2026
+2026-08-21T14:21:18Z | gics-scan | undervalued ecommerce grocery discount retail stocks 2026
+2026-08-21T14:21:19Z | sourceI-repair | crypto regulation SEC legislation stocks catalyst 2026
+2026-08-21T14:21:19Z | gics-scan | retail stocks same store sales margin expansion 2026
+2026-08-21T14:21:19Z | sourceI-repair | crypto mining hardware ASIC stocks revenue growth 2026
+2026-08-21T14:21:19Z | sourceI-repair | blockchain gaming NFT stocks revenue recovery 2026
+2026-08-21T14:21:19Z | sourceI-repair | crypto stocks bear market bottom strong balance sheet 2026
+2026-08-21T14:21:26Z | subagent-adbe-2 | Adobe fourth quarter FY2025 results December 2025 revenue EPS ARR
+2026-08-21T14:21:27Z | sourceH-explosion | revenue growth over 100% stocks 2026 earnings
+2026-08-21T14:21:27Z | sourceH-explosion | triple digit revenue growth AI stocks quarterly 2026
+2026-08-21T14:21:27Z | sourceH-explosion | fastest growing companies revenue 2026 stock
+2026-08-21T14:21:27Z | sourceH-explosion | 500% revenue growth stock 2026
+2026-08-21T14:21:27Z | sourceH-explosion | revenue doubled year over year stocks 2026
+2026-08-21T14:21:48Z | subagent-adbe-4 | Adobe Q2 FY2026 Digital Media ARR organic growth ex-Semrush deceleration
+2026-08-21T14:22:10Z | subagent-adbe-2 | stockanalysis.com ADBE forecast price target analyst ratings consensus
+2026-08-21T14:22:11Z | sourceH-explosion | EBITDA positive first time 2026 stock AI
+2026-08-21T14:22:11Z | sourceH-explosion | profitability inflection point stocks 2026
+2026-08-21T14:22:11Z | sourceH-explosion | breakeven quarter AI company stock 2026
+2026-08-21T14:22:11Z | sourceH-explosion | backlog billion dollars AI stocks 2026
+2026-08-21T14:22:11Z | sourceH-explosion | contract wins billion AI infrastructure 2026
+2026-08-21T14:22:11Z | gics-scan | undervalued telecom wireless tower stocks 2026
+2026-08-21T14:22:11Z | gics-scan | telecom stocks FCF dividend growth 5G 2026
+2026-08-21T14:22:11Z | gics-scan | undervalued streaming media gaming advertising stocks 2026
+2026-08-21T14:22:11Z | gics-scan | streaming gaming stocks subscriber growth profitability 2026
+2026-08-21T14:22:11Z | gics-scan | undervalued grocery food retail drug store stocks 2026
+2026-08-21T14:22:11Z | gics-scan | grocery drugstore stocks defensive stable earnings 2026
+2026-08-21T14:22:24Z | ai-track-scan | liquid cooling rack power density AI stocks 2026
+2026-08-21T14:22:24Z | ai-track-scan | Vertiv earnings AI backlog growth 2026
+2026-08-21T14:22:24Z | ai-track-scan | data center REIT FFO growth leasing 2026
+2026-08-21T14:22:24Z | ai-track-scan | data center construction backlog stocks 2026
+2026-08-21T14:22:24Z | ai-track-scan | AI agent enterprise deployment ARR growth 2026
+2026-08-21T14:22:24Z | ai-track-scan | agentic workflow software adoption metrics 2026
+2026-08-21T14:22:24Z | ai-track-scan | foundation model API token revenue growth 2026
+2026-08-21T14:22:24Z | ai-track-scan | OpenAI Anthropic revenue valuation 2026
+2026-08-21T14:22:56Z | sourceH-explosion | pure play AI cloud stock 2026
+2026-08-21T14:22:56Z | sourceH-explosion | AI networking pure play company stock 2026
+2026-08-21T14:22:56Z | sourceH-explosion | HBM memory pure play stocks 2026
+2026-08-21T14:22:56Z | sourceH-explosion | optical interconnect AI pure play stocks 2026
+2026-08-21T14:22:56Z | sourceH-explosion | humanoid robot pure play stock 2026
+2026-08-21T14:22:59Z | subagent-adbe-2 | ADBE Q3 fiscal 2026 consensus EPS estimate revenue September
+2026-08-21T14:23:00Z | gics-scan | undervalued food beverage tobacco stocks 2026
+2026-08-21T14:23:00Z | gics-scan | food beverage dividend aristocrats pricing power 2026
+2026-08-21T14:23:00Z | gics-scan | undervalued household personal care beauty stocks 2026
+2026-08-21T14:23:00Z | gics-scan | consumer staples quality moat margin stability 2026
+2026-08-21T14:23:00Z | gics-scan | undervalued medical device hospital health IT stocks 2026
+2026-08-21T14:23:00Z | gics-scan | medical device new product cycle FDA approvals 2026
+2026-08-21T14:23:44Z | subagent-adbe-2 | Adobe Q3 FY2025 September 2025 earnings EPS beat stock reaction weak guidance
+2026-08-21T14:23:47Z | ai-track-scan | humanoid robot production ramp 2026 stocks
+2026-08-21T14:23:47Z | ai-track-scan | robot actuator reducer sensor suppliers stocks
+2026-08-21T14:23:47Z | ai-track-scan | robotaxi commercial fleet expansion 2026
+2026-08-21T14:23:47Z | ai-track-scan | autonomous driving regulatory approval milestone 2026
+2026-08-21T14:23:47Z | ai-track-scan | bitcoin miner AI pivot HPC hosting 2026
+2026-08-21T14:23:47Z | ai-track-scan | crypto mining data center conversion AI contract
+2026-08-21T14:23:47Z | ai-track-scan | AI PC AI phone NPU upgrade cycle stocks 2026
+2026-08-21T14:23:47Z | ai-track-scan | edge AI inference chip smartphone silicon 2026
+2026-08-21T14:23:47Z | ai-track-scan | AI data labeling curation public companies 2026
+2026-08-21T14:23:47Z | ai-track-scan | synthetic data training data suppliers stocks
+2026-08-21T14:23:56Z | gics-scan | undervalued pharma biotech life science stocks 2026
+2026-08-21T14:23:56Z | gics-scan | biotech pipeline catalysts FDA approvals 2026
+2026-08-21T14:23:56Z | gics-scan | undervalued bank regional bank stocks 2026
+2026-08-21T14:23:56Z | gics-scan | bank stocks NIM expansion earnings growth 2026
+2026-08-21T14:23:56Z | gics-scan | undervalued fintech payment asset manager exchange stocks 2026
+2026-08-21T14:23:56Z | gics-scan | fintech transaction volume TPV growth 2026
+2026-08-21T14:24:07Z | sourceH-explosion | undercovered AI stocks low institutional ownership 2026
+2026-08-21T14:24:07Z | sourceH-explosion | small cap AI stocks analyst coverage under 10
+2026-08-21T14:24:07Z | sourceH-explosion | recent IPO AI stocks 2025 2026 revenue growth
+2026-08-21T14:24:07Z | sourceH-explosion | hidden AI stocks hedge funds haven't found 2026
+2026-08-21T14:24:07Z | sourceH-explosion | AI stocks Wall Street hasn't discovered yet 2026
+2026-08-21T14:24:23Z | subagent-adbe-2 | Adobe third quarter fiscal 2026 preview September 10 what to expect analysts
+2026-08-21T14:24:47Z | gics-scan | undervalued insurance P&C reinsurance broker stocks 2026
+2026-08-21T14:24:47Z | gics-scan | insurance hard market combined ratio improvement 2026
+2026-08-21T14:24:47Z | gics-scan | undervalued software SaaS cybersecurity AI software stocks 2026
+2026-08-21T14:24:47Z | gics-scan | SaaS NRR 120% net revenue retention 2026
+2026-08-21T14:24:47Z | gics-scan | undervalued tech hardware server storage networking stocks 2026
+2026-08-21T14:24:47Z | gics-scan | server storage AI demand revenue surge 2026
+2026-08-21T14:25:02Z | subagent-adbe-2 | Adobe stock rally August 2026 why rebound from lows AI agents Acrobat
+2026-08-21T14:25:04Z | ai-track-scan | stocks forward PE under 15 ROE above 20 FCF yield 2026
+2026-08-21T14:25:04Z | ai-track-scan | revenue growth over 50% profitable stocks 2026
+2026-08-21T14:25:04Z | ai-track-scan | FCF yield above 5% dividend growers 2026
+2026-08-21T14:25:04Z | ai-track-scan | recent spin-off stocks 2026
+2026-08-21T14:25:05Z | ai-track-scan | activist investor targets campaign 2026
+2026-08-21T14:25:05Z | ai-track-scan | stocks near 52 week low strong fundamentals 2026
+2026-08-21T14:25:05Z | ai-track-scan | insider buying cluster August 2026
+2026-08-21T14:25:47Z | gics-scan | undervalued semiconductor foundry memory equipment stocks 2026
+2026-08-21T14:25:47Z | gics-scan | semiconductor revenue growth 50% AI 2026
+2026-08-21T14:25:47Z | gics-scan | undervalued utility electric power nuclear renewable stocks 2026
+2026-08-21T14:25:47Z | gics-scan | utility data center power demand growth 2026
+2026-08-21T14:25:47Z | gics-scan | undervalued REIT industrial data center healthcare stocks 2026
+2026-08-21T14:25:47Z | gics-scan | data center REIT FFO growth 2026
+2026-08-21T14:29:45Z | ai-track-scan | Berkshire Hathaway 13F Q2 2026 new positions
+2026-08-21T14:29:45Z | ai-track-scan | top hedge fund new positions 13F Q2 2026
+2026-08-21T14:29:45Z | ai-track-scan | stocks earnings beat guidance raised August 2026
+2026-08-21T14:29:45Z | ai-track-scan | biggest earnings movers this week
+2026-08-21T14:29:45Z | ai-track-scan | revenue growth over 200% stocks 2026
+2026-08-21T14:29:45Z | ai-track-scan | contract backlog billion dollars AI stocks 2026
+2026-08-21T14:29:45Z | ai-track-scan | analyst estimate revision upgrade momentum stocks August 2026
+2026-08-21T14:30:12Z | subagent-crcl-4 | Circle CRCL Arc mainnet launch September 2026
+2026-08-21T14:30:12Z | subagent-crcl-4 | Circle CRCL stock insider selling August 2026
+2026-08-21T14:30:20Z | subagent-crcl-1 | Circle CRCL Q2 2026 earnings revenue USDC circulation August 2026
+2026-08-21T14:30:20Z | subagent-crcl-1 | Circle Q2 2026 distribution costs Coinbase reserve income interest rate
+2026-08-21T14:30:31Z | subagent-crcl-2 | Circle CRCL Q2 2026 earnings revenue adjusted EBITDA net income August 2026
+2026-08-21T14:30:31Z | subagent-crcl-2 | Circle Q2 2026 USDC end of period circulation reserve income distribution costs
+2026-08-21T14:30:44Z | subagent-crcl-4 | Circle Q2 2026 earnings results reserve income guidance August
+2026-08-21T14:30:46Z | gics-scan | logistics supply chain technology stocks 2026
+2026-08-21T14:30:46Z | gics-scan | fiber broadband 5G tower REIT stocks 2026
+2026-08-21T14:30:58Z | subagent-crcl-1 | USDC vs USDT market cap share 2026 stablecoin Tether Circle
+2026-08-21T14:31:02Z | subagent-crcl-3 | stablecoin market cap August 2026 trillion projection
+2026-08-21T14:31:02Z | subagent-crcl-3 | GENIUS Act stablecoin market growth forecast 2030
+2026-08-21T14:31:02Z | subagent-crcl-3 | USDC vs USDT market share 2026 Circle Tether
+2026-08-21T14:31:02Z | subagent-crcl-3 | bank stablecoin consortium 2026 JPMorgan Bank of America
+2026-08-21T14:31:02Z | subagent-crcl-3 | Circle Arc blockchain L1 institutional settlement 2026
+2026-08-21T14:31:02Z | subagent-crcl-3 | USDC circulation interest income rate cut impact Circle 2026
+2026-08-21T14:31:02Z | subagent-crcl-3 | CRCL Circle stock price drop valuation August 2026 analyst target
+2026-08-21T14:31:02Z | subagent-crcl-3 | bitcoin rally USDC demand correlation crypto cycle stablecoin circulation
+2026-08-21T14:31:02Z | subagent-crcl-3 | Walmart stablecoin launch 2026 retailers stablecoin
+2026-08-21T14:31:02Z | subagent-crcl-3 | Circle Q2 2026 earnings USDC circulation revenue distribution cost
+2026-08-21T14:31:02Z | subagent-crcl-3 | stablecoin transfer volume 2026 adjusted transaction volume USDC $73 billion
+2026-08-21T14:31:02Z | subagent-crcl-3 | CRCL stock down from high Coinbase deal distribution cost bear case 2026
+2026-08-21T14:31:02Z | subagent-crcl-3 | Circle Arc mainnet launch testnet validators BlackRock Visa 2026
+2026-08-21T14:31:02Z | subagent-crcl-3 | Circle CPN Circle Payments Network adoption 2026 institutional
+2026-08-21T14:31:10Z | subagent-crcl-4 | USDC market share Tether USDT stablecoin competition July 2026
+2026-08-21T14:31:23Z | subagent-crcl-1 | GENIUS Act stablecoin law signed 2025 bank stablecoin launches 2026
+2026-08-21T14:31:40Z | subagent-crcl-4 | GENIUS Act bank stablecoin JPMorgan Circle competition August 2026
+2026-08-21T14:31:42Z | subagent-crcl-2 | USDC in circulation end of period Q3 2025 Q4 2025 Q1 2026 quarterly billion Circle
+2026-08-21T14:31:52Z | subagent-crcl-1 | bank issued stablecoin 2026 JPMorgan consortium deposit token compete USDC
+2026-08-21T14:32:07Z | subagent-crcl-4 | CRCL share unlock lockup expiration selling pressure 2026
+2026-08-21T14:32:15Z | subagent-crcl-2 | Circle third quarter 2025 results USDC in circulation quarter end billion
+2026-08-21T14:32:21Z | subagent-crcl-1 | Circle Arc mainnet launch September 16 2026 BlackRock Visa validators
+2026-08-21T14:32:31Z | subagent-crcl-4 | Jeremy Allaire interview Arc strategy statement August 2026
+2026-08-21T14:32:46Z | subagent-crcl-1 | CRCL stock price Bitcoin rally August 2026 divergence stablecoin rate cuts
+2026-08-21T14:32:53Z | subagent-crcl-2 | USDC supply minted bitcoin rebound week August 18 2026 stablecoin inflows
+2026-08-21T14:32:54Z | subagent-crcl-2 | fed funds rate forecast end of 2026 FOMC projections 3.4% rate cuts
+2026-08-21T14:32:57Z | subagent-crcl-4 | CRCL short interest institutional investors 13F Q2 2026
+2026-08-21T14:33:13Z | subagent-crcl-1 | Circle Coinbase USDC distribution agreement renewed 2029 terms percentage
+2026-08-21T14:33:18Z | subagent-crcl-3 | CLARITY Act stablecoin yield rewards Circle impact August 2026 status
+2026-08-21T14:33:18Z | subagent-crcl-3 | PYUSD PayPal stablecoin market cap 2026 growth bank issued stablecoin
+2026-08-21T14:33:19Z | subagent-crcl-3 | USDC circulation growth August 2026 bitcoin rally stablecoin inflows record
+2026-08-21T14:33:22Z | subagent-crcl-4 | fetch hedgefollow.com/stocks/CRCL 13F数据
+2026-08-21T14:33:33Z | subagent-crcl-2 | fed funds futures implied rate December 2026 cut probability September 2026
+2026-08-21T14:33:33Z | subagent-crcl-2 | Circle CRCL insider selling lockup expiration 2026 shares offering
+2026-08-21T14:33:48Z | subagent-crcl-4 | fetch stockanalysis.com/stocks/crcl/statistics/ 实时估值空头数据
+2026-08-21T14:34:09Z | subagent-crcl-2 | Circle stock analyst reaction after Q2 earnings August 2026 price target note
+2026-08-21T14:34:09Z | subagent-crcl-2 | COIN Coinbase MSTR HOOD valuation forward PE EV revenue comparison August 2026 crypto stocks
+2026-08-21T14:34:13Z | subagent-crcl-4 | CRCL stock surge today August 21 news
+2026-08-21T14:34:39Z | subagent-crcl-4 | Circle OCC national trust bank charter approval
+2026-08-21T14:35:05Z | subagent-crcl-4 | Circle acquisition IBM blockchain patent portfolio
+2026-08-21T14:35:31Z | subagent-crcl-4 | Fed rate cut September 2026 outlook stablecoin reserve income impact
+2026-08-21T14:35:59Z | subagent-crcl-4 | Arc founding validator cohort Circle BlackRock Apollo partners
+2026-08-21T14:36:28Z | subagent-crcl-4 | Circle CRCL Q3 2026 earnings date November USDC circulation growth quarter
+2026-08-21T14:36:35Z | supp-scan | payment stocks Visa Mastercard fintech earnings momentum 2026
+2026-08-21T14:36:35Z | supp-scan | asset manager exchange stocks record AUM 2026
+2026-08-21T14:36:35Z | supp-scan | P&C insurance specialty insurer earnings beat 2026
+2026-08-21T14:36:35Z | supp-scan | media streaming advertising upfront 2026 stocks
+2026-08-21T14:36:35Z | supp-scan | cable wireless convergence stocks 2026 momentum
+2026-08-21T14:50:09Z | subagent-crcl-1 | Circle CRCL Q2 2026 earnings reserve income distribution costs Coinbase percentage
+2026-08-21T14:50:09Z | subagent-crcl-1 | USDC vs USDT market share stablecoin adjusted transfer volume 2026
+2026-08-21T14:50:25Z | subagent-crcl-2 | Circle CRCL Q2 2026 earnings revenue adjusted EBITDA net income August 2026
+2026-08-21T14:50:25Z | subagent-crcl-2 | Circle Q2 2026 reserve income distribution costs RLDC USDC $73.3 billion
+2026-08-21T14:50:30Z | subagent-crcl-4 | Circle CRCL stock price August 21 2026 short interest
+2026-08-21T14:50:30Z | subagent-crcl-4 | Fed rate cut September 2026 stablecoin reserve income Circle impact
+2026-08-21T14:50:30Z | subagent-crcl-4 | Tether USDT response Circle USDC market share August 2026
+2026-08-21T14:50:30Z | subagent-crcl-4 | bank consortium stablecoin Clearing House 2026 launch competition
+2026-08-21T14:50:30Z | subagent-crcl-4 | CRCL Circle insider selling lockup expiry August 2026 shares
+2026-08-21T14:50:30Z | subagent-crcl-4 | Circle Arc mainnet launch September 16 2026 BlackRock BUIDL update
+2026-08-21T14:50:30Z | subagent-crcl-4 | Jeremy Allaire interview statement August 2026 Circle Arc stablecoin
+2026-08-21T14:50:30Z | subagent-crcl-4 | CLARITY Act Senate markup schedule August 2026 stablecoin bill
+2026-08-21T14:50:30Z | subagent-crcl-4 | CRCL 13F Q2 2026 institutional investors bought Circle hedge fund
+2026-08-21T14:50:30Z | subagent-crcl-4 | Bitcoin correction August 2026 crypto market pullback fear greed
+2026-08-21T14:50:30Z | subagent-crcl-4 | Circle CRCL stock news this week underperform rally analyst
+2026-08-21T14:50:30Z | subagent-crcl-4 | Allaire Q2 2026 earnings AMA USDC Arc October lockup selling response
+2026-08-21T14:50:41Z | subagent-crcl-1 | Circle Q2 2026 press release fetch(circle.com/pressroom)
+2026-08-21T14:51:06Z | subagent-crcl-1 | GENIUS Act bank stablecoin JPMorgan Citi tokenized deposits network 2027 threat Circle
+2026-08-21T14:51:06Z | subagent-crcl-2 | USDC circulation quarterly Q3 2025 Q4 2025 Q1 2026 quarter end billion
+2026-08-21T14:51:06Z | subagent-crcl-2 | USDC mint burn August 2026 bitcoin rally stablecoin supply
+2026-08-21T14:51:34Z | subagent-crcl-1 | CRCL Circle stock price August 2026 decline why analysts rate cut sensitivity
+2026-08-21T14:51:40Z | subagent-crcl-2 | Circle Q1 2026 results USDC circulation $77 billion quarter end RLDC
+2026-08-21T14:51:40Z | subagent-crcl-2 | federal funds rate forecast end of 2026 FedWatch rate cuts expectations
+2026-08-21T14:52:04Z | subagent-crcl-1 | stockanalysis.com CRCL fetch
+2026-08-21T14:52:36Z | subagent-crcl-1 | Circle Coinbase distribution costs percentage reserve income USDC revenue share 2026
+2026-08-21T14:53:09Z | subagent-crcl-2 | Circle CRCL insider selling August 2026 Form 4 Allaire Accenture shares sold
+2026-08-21T14:53:09Z | subagent-crcl-2 | Coinbase COIN Robinhood HOOD forward PE ratio August 2026
+2026-08-21T14:53:19Z | subagent-crcl-1 | Circle gaining ground Tether USDC market cap share August 20 2026 rally reason
+2026-08-21T14:53:19Z | subagent-crcl-1 | Fed rate cut September 2026 probability FOMC Circle interest rate sensitivity revenue impact
+2026-08-21T14:53:19Z | subagent-crcl-1 | invezz.com Circle stock jumps USDC risks fetch(403)
+2026-08-21T14:53:21Z | builtin-websearch | best healthcare stocks undervalued pharma medical device August 2026
+2026-08-21T14:53:21Z | builtin-websearch | best value stocks financials banks insurance REIT industrials August 2026
+2026-08-21T14:55:12Z | cnbc-quote | batch quotes AVGO NVDA MU ANET CRDO ALAB LITE ORCL NOW CRM NBIS CRWV GOOGL AMZN PLTR CRWD SNOW DDOG IREN SMCI
+2026-08-21T14:56:13Z | cnbc-quote | batch quotes AMD INTC MRVL ARM COHR VRT ETN GEV VST CEG TLN ASML KLAC AMAT LRCX PATH INOD BE PWR DLR
+2026-08-21T14:56:45Z | builtin-websearch | optical transceiver laser EML shortage Coherent Lumentum AAOI
+2026-08-21T14:56:45Z | builtin-websearch | datacenter power equipment shortage transformer Eaton GE Vernova Vertiv
+2026-08-21T14:56:45Z | builtin-websearch | Micron HBM sold out 2026 2027 pricing DRAM shortage
+2026-08-21T15:02:34Z | scan-agent-H | revenue growth over 100% stocks 2026 earnings
+2026-08-21T15:02:34Z | scan-agent-H | triple digit revenue growth AI stocks quarterly
+2026-08-21T15:02:34Z | scan-agent-H | fastest growing companies revenue 2026 stock
+2026-08-21T15:02:34Z | scan-agent-H | 500% revenue growth stock 2026
+2026-08-21T15:02:34Z | scan-agent-H | revenue doubled year over year stocks 2026
+2026-08-21T15:02:47Z | scan-agent-B2 | undervalued insurance P&C reinsurance broker stocks 2026
+2026-08-21T15:02:48Z | scan-agent-B2 | insurance hard market combined ratio improvement 2026
+2026-08-21T15:02:48Z | scan-agent-I | quality stocks historically low PE 2026
+2026-08-21T15:02:48Z | scan-agent-I | oversold SaaS stocks strong fundamentals
+2026-08-21T15:02:48Z | scan-agent-I | beaten down tech stocks high margin catalyst
+2026-08-21T15:02:49Z | scan-agent-B2 | specialty niche insurer high ROE 2026
+2026-08-21T15:02:50Z | scan-agent-B2 | undervalued software SaaS cybersecurity stocks 2026
+2026-08-21T15:02:51Z | scan-agent-B2 | SaaS net revenue retention 120% AI agent ARR growth 2026
+2026-08-21T15:02:52Z | scan-agent-B2 | undervalued tech hardware server storage networking stocks 2026
+2026-08-21T15:02:53Z | scan-agent-B2 | server storage networking AI demand revenue surge 2026
+2026-08-21T15:02:54Z | scan-agent-B2 | undervalued semiconductor foundry memory equipment stocks 2026
+2026-08-21T15:02:55Z | scan-agent-B2 | semiconductor revenue growth 50% AI 2026
+2026-08-21T15:02:57Z | scan-agent-B2 | undervalued utility nuclear renewable stocks 2026
+2026-08-21T15:02:57Z | scan-agent-H | NOTE: ddg-search MCP unavailable in this env; using WebSearch tool as substitute for all 21 queries
+2026-08-21T15:02:58Z | scan-agent-B2 | data center REIT FFO growth 2026
+2026-08-21T15:02:59Z | scan-agent-B2 | REIT dividend yield discount to NAV stocks 2026
+2026-08-21T15:03:02Z | scan-agent-GE | Microsoft Azure supplier partner infrastructure stocks 2026
+2026-08-21T15:03:02Z | scan-agent-GE | Meta data center supplier power cooling stocks 2026
+2026-08-21T15:03:02Z | scan-agent-GE | TSMC supplier equipment materials beneficiary 2026
+2026-08-21T15:03:02Z | scan-agent-GE | Alibaba cloud supplier China AI infrastructure stocks
+2026-08-21T15:03:02Z | scan-agent-GE | who provides AI compute to Meta Microsoft CoreWeave supplier
+2026-08-21T15:03:02Z | scan-agent-GE | Intuit QuickBooks ecosystem partner fintech stocks
+2026-08-21T15:03:02Z | scan-agent-GE | Applied Digital supplier transformer power equipment partner
+2026-08-21T15:03:02Z | scan-agent-GE | Adobe AWS partnership cloud infrastructure beneficiary
+2026-08-21T15:03:02Z | scan-agent-GE | Circle Coinbase USDC distribution partner beneficiary
+2026-08-21T15:03:10Z | funnel-l2 | NVIDIA Q2 FY2027 earnings August 26 preview expectations data center revenue
+2026-08-21T15:03:10Z | funnel-l2 | Broadcom AVGO custom ASIC AI backlog XPU Q3 FY2026 earnings September
+2026-08-21T15:03:10Z | funnel-l2 | Micron MU HBM sold out 2027 pricing AI memory latest news August 2026
+2026-08-21T15:03:10Z | funnel-l2 | Oracle ORCL stock decline 2026 OCI growth capex RPO backlog concerns
+2026-08-21T15:03:10Z | funnel-l2 | Nebius NBIS Q2 2026 earnings results Meta Microsoft contract revenue guidance
+2026-08-21T15:03:10Z | funnel-l2 | CoreWeave CRWV Q2 2026 earnings backlog revenue debt stock reaction August
+2026-08-21T15:03:10Z | funnel-l2 | Arista Networks ANET Q2 2026 earnings AI revenue guidance August 2026
+2026-08-21T15:03:10Z | funnel-l2 | Salesforce CRM Q2 FY2027 earnings date Agentforce ARR adoption August 2026
+2026-08-21T15:03:10Z | funnel-l2 | Alphabet GOOGL Q2 2026 earnings one-time gain net income cloud growth capex
+2026-08-21T15:03:10Z | funnel-l2 | Marvell MRVL stock drop August 20 2026 reason custom silicon
+2026-08-21T15:03:10Z | funnel-l2 | Oracle RPO 638 billion quality OpenAI concentration free cash flow negative 2026
+2026-08-21T15:03:10Z | funnel-l2 | Credo CRDO Astera ALAB valuation August 2026 AI connectivity earnings guidance
+2026-08-21T15:03:10Z | funnel-l2 | Micron HBM4 NVIDIA Rubin qualification 2026 market share SK Hynix
+2026-08-21T15:03:10Z | funnel-l2 | AI software stocks selloff August 2026 SaaSpocalypse sentiment recovery ServiceNow Salesforce
+2026-08-21T15:03:10Z | funnel-l2 | NVIDIA China H20 Blackwell export license August 2026 data center China revenue
+2026-08-21T15:03:10Z | funnel-l2 | Super Micro SMCI 2026 auditor governance Nvidia Blackwell orders latest
+2026-08-21T15:03:20Z | scan-agent-I | stocks 52 week low strong FCF moat
+2026-08-21T15:03:20Z | scan-agent-I | fear driven sellover quality companies 2026
+2026-08-21T15:03:20Z | scan-agent-I | software stocks AI disruption oversold value 2026
+2026-08-21T15:03:31Z | scan-agent-H | EBITDA positive first time 2026 stock AI
+2026-08-21T15:03:31Z | scan-agent-H | profitability inflection point stocks 2026
+2026-08-21T15:03:31Z | scan-agent-H | breakeven quarter AI company stock 2026
+2026-08-21T15:03:31Z | scan-agent-H | backlog billion dollars AI stocks 2026
+2026-08-21T15:03:31Z | scan-agent-H | contract wins billion AI infrastructure 2026
+2026-08-21T15:03:42Z | scan-agent-B2 | China consumer stimulus recovery stocks 2026
+2026-08-21T15:03:43Z | scan-agent-B2 | Chinese ecommerce valuation re-rating catalysts 2026
+2026-08-21T15:03:44Z | scan-agent-B2 | gold miners real rates tail hedge stocks 2026
+2026-08-21T15:03:45Z | scan-agent-B2 | precious metals royalty central bank buying momentum 2026
+2026-08-21T15:03:46Z | scan-agent-B2 | defense stocks record backlog NATO rearmament 2026
+2026-08-21T15:03:47Z | scan-agent-I | crypto exchange stocks oversold revenue growth 2026
+2026-08-21T15:03:47Z | scan-agent-I | stablecoin issuer stocks regulation catalyst USDC
+2026-08-21T15:03:47Z | scan-agent-I | bitcoin mining stocks low valuation hashrate record 2026
+2026-08-21T15:03:47Z | scan-agent-B2 | grid modernization energy storage battery demand stocks 2026
+2026-08-21T15:03:48Z | scan-agent-B2 | GLP-1 supply chain contract manufacturing 2026
+2026-08-21T15:03:49Z | scan-agent-B2 | aging population healthcare demand stocks 2026
+2026-08-21T15:04:01Z | scan-agent-H | pure play AI cloud stock 2026
+2026-08-21T15:04:01Z | scan-agent-H | AI networking only company stock
+2026-08-21T15:04:01Z | scan-agent-H | HBM memory pure play stocks
+2026-08-21T15:04:01Z | scan-agent-H | optical interconnect AI pure play
+2026-08-21T15:04:01Z | scan-agent-H | humanoid robot pure play stock 2026
+2026-08-21T15:04:01Z | scan-agent-H | AI inference chip pure play
+2026-08-21T15:04:13Z | scan-agent-I | crypto miner AI HPC pivot data center conversion
+2026-08-21T15:04:13Z | scan-agent-I | bitcoin proxy stocks discount NAV MSTR
+2026-08-21T15:04:13Z | scan-agent-I | crypto payment fintech stocks undervalued TPV growth
+2026-08-21T15:04:17Z | scan-agent-GE | IPP power purchase agreement hyperscaler signed 2026 stocks
+2026-08-21T15:04:17Z | scan-agent-GE | uranium nuclear SMR fuel demand stocks 2026
+2026-08-21T15:04:17Z | scan-agent-GE | HBM memory supply tight beneficiary stocks SK Hynix Micron
+2026-08-21T15:04:17Z | scan-agent-GE | optical transceiver 1.6T supplier stocks earnings 2026
+2026-08-21T15:04:17Z | scan-agent-GE | semiconductor substrate ABF supplier stocks 2026
+2026-08-21T15:04:17Z | scan-agent-GE | natural gas turbine data center power shortage stocks 2026
+2026-08-21T15:04:17Z | scan-agent-GE | P&C insurance hard market stocks high ROE 2026
+2026-08-21T15:04:18Z | scan-agent-GE | gold royalty streaming companies stocks 2026
+2026-08-21T15:04:18Z | scan-agent-GE | defensive value stocks low volatility dividend 2026
+2026-08-21T15:04:18Z | scan-agent-GE | bitcoin miner AI hosting contract stocks 2026
+2026-08-21T15:04:18Z | scan-agent-GE | crypto infrastructure stocks revenue growth undervalued
+2026-08-21T15:04:18Z | scan-agent-GE | stablecoin ecosystem beneficiary stocks 2026
+2026-08-21T15:04:32Z | scan-agent-H | undercovered AI stocks institutional ownership low
+2026-08-21T15:04:32Z | scan-agent-H | small cap AI stocks analyst coverage under 10
+2026-08-21T15:04:32Z | scan-agent-H | recent IPO AI stocks 2025 2026 revenue growth
+2026-08-21T15:04:32Z | scan-agent-H | hidden AI stocks not owned by hedge funds
+2026-08-21T15:04:33Z | scan-agent-H | AI stocks Wall Street hasn't discovered yet 2026
+2026-08-21T15:04:37Z | scan-agent-B1 | undervalued energy oil gas pipeline midstream stocks 2026
+2026-08-21T15:04:37Z | scan-agent-B1 | natural gas pipeline LNG capacity expansion stocks earnings beat
+2026-08-21T15:04:37Z | scan-agent-B1 | undervalued chemical metals mining specialty materials stocks 2026
+2026-08-21T15:04:37Z | scan-agent-B1 | lithium uranium copper miners production growth 2026
+2026-08-21T15:04:37Z | scan-agent-B1 | undervalued industrial machinery defense aerospace stocks 2026
+2026-08-21T15:04:37Z | scan-agent-B1 | defense stocks record backlog order growth 2026
+2026-08-21T15:04:37Z | scan-agent-B1 | electrical equipment grid capex beneficiary stocks
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued business services waste staffing stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued airline railroad trucking shipping stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | shipping railroad stocks earnings recovery momentum 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued auto EV auto parts dealer stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued consumer electronics luxury apparel stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued restaurant hotel casino cruise travel stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | travel leisure cruise stocks earnings beat 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued ecommerce discount retail stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | retail stocks same store sales margin expansion 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued telecom wireless tower stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued streaming media gaming advertising stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued grocery food retail drug store stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | food beverage dividend aristocrats pricing power 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued household personal care beauty stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued medical device health IT stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | medical device new product cycle FDA approvals 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued pharma biotech life science tools stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | biotech pipeline catalysts FDA approvals 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | undervalued bank fintech payment asset manager stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | 800G 1.6T optical module demand growth 2026 stocks
+2026-08-21T15:04:38Z | scan-agent-B1 | HBM4 capacity sold out memory stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | advanced packaging CoWoS OSAT substrate stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | transformer lead time shortage grid equipment stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | data center power gigawatt pipeline IPP stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | liquid cooling rack power density AI stocks 2026
+2026-08-21T15:04:38Z | scan-agent-B1 | AI cloud GPU rental neocloud contract backlog 2026
+2026-08-21T15:04:39Z | scan-agent-I | DeFi protocol revenue stocks tokenization 2026
+2026-08-21T15:04:39Z | scan-agent-I | real world asset tokenization stocks blockchain 2026
+2026-08-21T15:04:39Z | scan-agent-I | blockchain infrastructure stocks Layer1 Layer2 revenue
+2026-08-21T15:05:06Z | scan-agent-I | crypto custody compliance stocks institutional 2026
+2026-08-21T15:05:06Z | scan-agent-I | bitcoin ethereum ETF flows beneficiary stocks
+2026-08-21T15:05:06Z | scan-agent-I | crypto regulation SEC legislation stocks catalyst 2026
+2026-08-21T15:05:35Z | scan-agent-I | crypto mining hardware ASIC stocks revenue growth
+2026-08-21T15:05:35Z | scan-agent-I | blockchain gaming NFT stocks revenue recovery 2026
+2026-08-21T15:05:36Z | scan-agent-I | crypto stocks bear market bottom strong balance sheet
+2026-08-21T15:05:45Z | scan-agent-B2 | stocks forward PE under 15 ROE above 20 FCF yield above 8 2026
+2026-08-21T15:05:46Z | scan-agent-B2 | revenue growth over 50% stocks 2026 screener
+2026-08-21T15:05:47Z | scan-agent-B2 | FCF yield above 5% dividend growth stocks 2026
+2026-08-21T15:05:48Z | scan-agent-B2 | recent spin-off stocks 2026 opportunities
+2026-08-21T15:05:49Z | scan-agent-B2 | activist investor targets 2026
+2026-08-21T15:05:50Z | scan-agent-B2 | stocks near 52 week low strong fundamentals 2026
+2026-08-21T15:05:51Z | scan-agent-B2 | insider buying cluster 2026
+2026-08-21T15:05:52Z | scan-agent-B2 | Berkshire Hathaway portfolio changes 13F 2026 new positions
+2026-08-21T15:05:53Z | scan-agent-B2 | top hedge fund new positions 13F Q2 2026
+2026-08-21T15:05:54Z | scan-agent-B2 | stocks earnings beat guidance raise 2026 August
+2026-08-21T15:05:55Z | scan-agent-B2 | biggest earnings movers this week August 2026
+2026-08-21T15:05:56Z | scan-agent-B2 | analyst estimate revision upgrade momentum stocks 2026
+2026-08-21T15:06:09Z | scan-agent-I | Coinbase COIN oversold valuation fundamentals August 2026
+2026-08-21T15:06:09Z | scan-agent-I | TeraWulf WULF CleanSpark CLSK AI HPC contract catalyst 2026
+2026-08-21T15:06:53Z | scan-agent-H | [验证] CRWV CoreWeave revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] NBIS Nebius revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] IREN revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] LITE Lumentum revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] AAOI Applied Optoelectronics revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] CRDO Credo Technology revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] SNDK SanDisk revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] VRT Vertiv revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] COHR Coherent revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] Nebius NBIS market cap August 2026 adjusted EBITDA
+2026-08-21T15:06:53Z | scan-agent-H | [验证] IREN fiscal Q4 2026 revenue growth quarterly results
+2026-08-21T15:06:53Z | scan-agent-H | [验证] Credo Technology CRDO market cap August 2026
+2026-08-21T15:06:53Z | scan-agent-H | [验证] SKYT SkyWater Technology revenue growth latest quarter market cap
+2026-08-21T15:06:53Z | scan-agent-H | [验证] Richtech Robotics RR revenue growth market cap 2026
+2026-08-21T15:06:53Z | scan-agent-H | [验证] Cerebras IPO stock listed 2026 ticker revenue
+2026-08-21T15:06:53Z | scan-agent-H | [验证] NBIS Nebius analyst coverage number institutional ownership 2026
+2026-08-21T15:06:53Z | scan-agent-H | [验证] CRWV CoreWeave analyst coverage institutional ownership percent
+2026-08-21T15:06:53Z | scan-agent-H | [验证] IREN Nvidia 3.4 billion contract backlog RPO 2026
+2026-08-21T15:06:53Z | scan-agent-H | [验证] Lumentum backlog billion dollars long-term supply agreements 2026
+2026-08-21T15:06:53Z | scan-agent-H | candidates-H.csv written: 3 passed, 2 gray, 8 blocked
+2026-08-21T15:14:30Z | checklist-agents | MU/GEV/COHR双重验证(13+12+11次搜索)
+2026-08-21T15:14:31Z | team-MU-3 | DRAM NAND contract price August 2026 trend
+2026-08-21T15:14:31Z | team-MU-3 | Micron HBM4 NVIDIA Rubin qualification status August 2026
+2026-08-21T15:14:31Z | team-MU-3 | Micron dropped Vera Rubin HBM4 vendor list news
+2026-08-21T15:14:31Z | team-MU-3 | Samsung SK Hynix Micron capex 2027 memory supply expansion discipline
+2026-08-21T15:14:31Z | team-MU-3 | Micron stock drop 20% August 2026 memory selloff reason
+2026-08-21T15:14:31Z | team-MU-3 | Gartner 2027 DRAM forecast AI capex slowdown hyperscaler
+2026-08-21T15:14:31Z | team-MU-3 | CXMT ChangXin DRAM capacity 2026 threat memory price
+2026-08-21T15:14:31Z | team-MU-3 | Samsung HBM4 NVIDIA qualification passed 1a DRAM 2026
+2026-08-21T15:14:34Z | checklist-MU | Micron MU stock price PE ratio stockanalysis August 21 2026
+2026-08-21T15:14:41Z | team-MU-4 | Micron antitrust lawsuit 2026
+2026-08-21T15:14:41Z | team-MU-4 | Micron HBM4 Nvidia qualification lost slot Samsung SK Hynix
+2026-08-21T15:14:41Z | team-MU-4 | Micron MU insider selling Form 4 August 2026
+2026-08-21T15:14:41Z | team-MU-4 | Micron MU 13F Q2 2026 hedge funds increase reduce stake
+2026-08-21T15:14:59Z | checklist-MU | fetch stockanalysis.com/stocks/mu 正文（现价/PE/fPE/市值）
+2026-08-21T15:15:05Z | team-MU-4 | Micron China export controls NDRC investigation risk 2026
+2026-08-21T15:15:05Z | team-MU-4 | AI capex 2027 slowdown hyperscaler memory DRAM price outlook
+2026-08-21T15:15:05Z | team-MU-4 | Micron MU stock price fiscal Q4 earnings date September 2026
+2026-08-21T15:15:05Z | team-MU-4 | Micron HBM4 Vera Rubin excluded dropped report
+2026-08-21T15:15:10Z | team-MU-2 | Micron FQ3 2026 earnings results revenue EPS gross margin June 2026
+2026-08-21T15:15:10Z | team-MU-2 | Micron HBM4 Nvidia qualification sold out 2026 supply agreement
+2026-08-21T15:15:10Z | team-MU-2 | memory stocks selloff August 2026 Micron SK Hynix Samsung decline reason
+2026-08-21T15:15:10Z | team-MU-2 | Micron MU stock price today PE ratio price to book market cap
+2026-08-21T15:15:10Z | team-MU-2 | Micron Q3 fiscal 2026 free cash flow capex guidance HBM revenue share percent
+2026-08-21T15:15:10Z | team-MU-2 | Micron loses HBM4 slot Nvidia rumor August 2026 memory bear market reasons
+2026-08-21T15:15:10Z | team-MU-2 | Micron fiscal Q3 2026 HBM revenue record billion quarterly share of revenue
+2026-08-21T15:15:11Z | team-MU-2 | Micron FY2027 EPS consensus estimate analyst fiscal 2027 earnings forecast
+2026-08-21T15:15:23Z | checklist-MU | HBM4 NVIDIA qualification Samsung Micron SK Hynix 2026
+2026-08-21T15:15:38Z | team-MU-1 | Micron HBM4 NVIDIA qualification slot lost SK Hynix Samsung 2026
+2026-08-21T15:15:38Z | team-MU-1 | HBM market share 2026 SK Hynix Samsung Micron HBM4
+2026-08-21T15:15:38Z | team-MU-1 | DRAM contract price negotiation 2026 Q3 Q4 HBM long-term agreement fixed price
+2026-08-21T15:15:47Z | checklist-MU | fetch yahoo HBM4 certification（429失败）
+2026-08-21T15:16:03Z | team-MU-1 | Gartner 2027 DRAM supply +2 percent memory cycle peak oversupply forecast
+2026-08-21T15:16:03Z | team-MU-1 | Micron FQ3 2026 earnings gross margin EPS HBM revenue run rate guidance
+2026-08-21T15:16:03Z | team-MU-1 | Micron HBM4 Vera Rubin excluded VR200 techpowerup detail
+2026-08-21T15:16:10Z | checklist-MU | Micron HBM4 passed NVIDIA Vera Rubin qualification August 2026
+2026-08-21T15:16:35Z | checklist-MU | Micron FQ4 2026 earnings revenue gross margin EPS guidance
+2026-08-21T15:17:01Z | checklist-MU | fetch micron IR quarterly-results（403失败）
+2026-08-21T15:17:31Z | checklist-MU | fetch CNBC FQ3-26 earnings 正文（双源确认）
+2026-08-21T15:17:55Z | checklist-MU | Gartner 2027 DRAM price forecast memory bear market
+2026-08-21T15:18:19Z | checklist-MU | Gartner memflation 2027 DRAM prices forecast
+2026-08-21T15:18:44Z | checklist-MU | Micron FY26 capex guidance HBM revenue percentage
+2026-08-21T15:20:12Z | bottleneck | optical module 1.6T EML laser shortage 2026
+2026-08-21T15:20:12Z | bottleneck | InP indium phosphide substrate supply 2026
+2026-08-21T15:20:13Z | bottleneck | ABF substrate capacity shortage 2026 AI
+2026-08-21T15:20:13Z | bottleneck | CoWoS advanced packaging capacity 2026 2027
+2026-08-21T15:20:13Z | bottleneck | data center power transformer lead time 2026
+2026-08-21T15:20:47Z | bottleneck | liquid cooling CDU supply constraint 2026
+2026-08-21T15:20:47Z | bottleneck | HBM4 supply SK hynix Micron Samsung sold out 2026
+2026-08-21T15:20:47Z | bottleneck | SOI wafer silicon photonics supply 2026
+2026-08-21T15:20:47Z | bottleneck | low-CTE glass cloth shortage AI server Nittobo 2026
+2026-08-21T15:20:47Z | bottleneck | gas turbine lead time 2026 data center GE Vernova sold out
+2026-08-21T15:23:50Z | team-NBIS-4 | Nebius NBIS Q2 2026 earnings revenue guidance ARR; Nebius GPU depreciation NVIDIA Blackwell Rubin; Nebius Meta contract customer concentration; Nebius financing convertible notes capex; NBIS 13F Q2 2026 institutional short interest; Nebius Volozh insider selling; Nebius Q3 earnings date Nasdaq-100; Nebius CoreWeave competition Yandex Russia risk; Nebius Q3 2026 results date
+2026-08-21T15:24:00Z | team-NBIS-1 | GPU rental pricing trends 2026 neocloud compute lease rates falling rising
+2026-08-21T15:24:00Z | team-NBIS-1 | Nebius new customer contract August 2026 deal Meta aside
+2026-08-21T15:24:00Z | team-NBIS-1 | Nebius Microsoft xAI customer contracts backlog concentration 2026
+2026-08-21T15:24:00Z | team-NBIS-1 | Nebius financing dilution convertible equity raise capex 2026 shares outstanding
+2026-08-21T15:24:00Z | team-NBIS-1 | neocloud vs hyperscaler competition CoreWeave Nebius squeeze coexist 2026
+2026-08-21T15:24:00Z | team-NBIS-1 | Nebius Q2 2026 earnings revenue guidance EBITDA results
+2026-08-21T15:24:01Z | team-NBIS-1 | Nebius stock drop August 2026 neocloud derating GPU depreciation concerns
+2026-08-21T15:24:03Z | team-NBIS-3 | Nebius NBIS Meta $27 billion contract backlog capacity August 2026
+2026-08-21T15:24:03Z | team-NBIS-3 | CoreWeave backlog capacity megawatts vs Nebius Lambda Crusoe Core Scientific neocloud comparison 2026
+2026-08-21T15:24:03Z | team-NBIS-3 | AI inference demand GPU utilization rates 2026 training vs inference neocloud utilization evidence
+2026-08-21T15:24:03Z | team-NBIS-3 | Nebius Q2 2026 earnings revenue ARR capacity MW guidance customer concentration
+2026-08-21T15:24:03Z | team-NBIS-3 | hyperscaler capex 2026 Oracle OCI competition neocloud squeeze NVIDIA GPU allocation GB300 supply Nebius CoreWeave
+2026-08-21T15:24:03Z | team-NBIS-3 | NBIS institutional ownership percentage short interest crowded trade AI infrastructure bubble August 2026
+2026-08-21T15:24:03Z | team-NBIS-3 | CoreWeave Q2 2026 results revenue backlog remaining performance obligations contracted power
+2026-08-21T15:24:03Z | team-NBIS-3 | Nebius bear case risk Meta customer concentration dilution capex financing debt valuation
+2026-08-21T15:24:03Z | team-NBIS-3 | NBIS short interest percent float August 2026 convertible notes financing update
+2026-08-21T15:24:56Z | team-NBIS-2 | Nebius NBIS Q2 2026 earnings results revenue
+2026-08-21T15:24:56Z | team-NBIS-2 | Nebius Meta contract $27 billion AI infrastructure deal
+2026-08-21T15:24:56Z | team-NBIS-2 | Nebius Q2 2026 net loss cash capex ARR guidance
+2026-08-21T15:24:56Z | team-NBIS-2 | Nebius NBIS shares dilution ATM offering convertible 2026
+2026-08-21T15:24:56Z | team-NBIS-2 | NBIS stock price August 21 2026
+2026-08-21T15:25:20Z | team-NBIS-2 | Nebius ARR guidance backlog Microsoft contract
+2026-08-21T15:25:20Z | team-NBIS-2 | NBIS EV/Revenue vs CoreWeave CRWV IREN comparison
+2026-08-21T15:25:20Z | team-NBIS-2 | Nebius weighted average shares total debt Q2 2026
+2026-08-21T15:25:20Z | team-NBIS-2 | fetch EQS Nebius Q2 2026 full financial tables
+2026-08-21T15:25:20Z | team-NBIS-2 | fetch Nebius SHLQ226 shareholder letter PDF
+2026-08-21T15:25:22Z | checklist-NBIS | NBIS stock price August 21 2026
+2026-08-21T15:25:22Z | checklist-NBIS | Nebius Q2 2026 results revenue 582M EBITDA
+2026-08-21T15:25:22Z | checklist-NBIS | Nebius equity offering dilution August 2026
+2026-08-21T15:25:22Z | checklist-NBIS | CoreWeave CRWV price market cap August 2026
+2026-08-21T15:25:22Z | checklist-NBIS | Nebius Q2 cash shares ARR guidance
+2026-08-21T15:25:22Z | checklist-NBIS | nebius.com Q2 2026 results cash ARR
+2026-08-21T15:25:22Z | checklist-NBIS | CRWV EV/revenue backlog 99B
+2026-08-21T15:28:09Z | checklist-NBIS | Nebius 5.0B convertible notes pricing conversion premium (fetch nebius.com)
+2026-08-21T15:28:09Z | checklist-NBIS | NBIS statistics valuation stockanalysis.com (fetch)
+2026-08-21T15:49:26Z | checklist-nrg | NRG Q2 2026 earnings
+2026-08-21T15:49:26Z | checklist-nrg | NRG 2026 guidance
+2026-08-21T15:49:26Z | checklist-nrg | NRG news August 2026
+2026-08-21T15:49:26Z | checklist-nrg | NRG CEO Gaudette insider
+2026-08-21T15:49:27Z | checklist-nrg | NRG data center Texas PJM
+2026-08-21T15:49:27Z | checklist-nrg | NRG vs VST CEG TLN valuation
+2026-08-21T15:49:27Z | checklist-nrg | NRG analyst price target
+2026-08-21T15:49:27Z | checklist-nrg | NRG net leverage FCF
+2026-08-21T15:50:54Z | checklist-nrg | NRG 2026 guidance adjusted EPS range
+2026-08-21T15:50:54Z | checklist-nrg | VST CEG TLN forward PE 2027
+2026-08-21T15:50:54Z | checklist-nrg | NRG Q2 2026 press release SEC
+2026-08-21T15:52:54Z | checklist-nrg | NRG net debt EBITDA leverage LS Power acquisition
+2026-08-21T16:01:01Z | team-nrg-dyp | NRG Q2 2026 earnings EPS miss details
+2026-08-21T16:01:02Z | team-nrg-dyp | NRG BYOP 1.2GW data center contract terms
+2026-08-21T16:01:02Z | team-nrg-dyp | NRG CEO Gaudette insider sale 7.14M capital allocation
+2026-08-21T16:01:02Z | team-nrg-dyp | NRG vs VST CEG TLN valuation comparison
+2026-08-21T16:01:02Z | team-nrg-dyp | Texas ERCOT interconnection pause large load 2026
+2026-08-21T16:01:02Z | team-nrg-dyp | NRG LS Power 13GW acquisition integration
+2026-08-21T16:03:41Z | team-nrg-dyp | Gaudette CEO effective April 30 2026 succession
+2026-08-21T16:03:41Z | team-nrg-dyp | NRG Q2 miss 18pct 2026 guide EPS 7.90-9.90 EBITDA 5.325-5.825B
+2026-08-21T16:03:41Z | team-nrg-dyp | Texas pause exempts self-powered data centers BYOP

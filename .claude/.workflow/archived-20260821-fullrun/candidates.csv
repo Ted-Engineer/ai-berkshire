@@ -1,0 +1,365 @@
+ticker,company,gics_sector,source
+CEG,Constellation Energy,Utilities,A-待执行项(watchlist$258)
+AMAT,Applied Materials,Semiconductors,A-待执行项(watchlist$410-440)
+GOOGL,Alphabet,Communication Services,A-待执行项(watchlist≤$295)
+MU,Micron Technology,Semiconductors,A-待执行项(watchlist$780-850)
+NVDA,NVIDIA,Semiconductors,A-待执行项(watchlist≤$180)
+COHR,Coherent,Tech Hardware,A-待执行项(watchlist$260-290)
+CRWV,CoreWeave,Tech Hardware,A-待执行项(watchlist$95-100)
+NBIS,Nebius Group,Tech Hardware,A-待执行项(watchlist$198)
+TLN,Talen Energy,Utilities,A-待执行项(watchlist≤$345)
+MSTR,MicroStrategy,Financials,A-待执行项(watchlist$88观察仓)
+BRK.B,Berkshire Hathaway,Financials,A-待执行项($488挂单在场)
+VST,Vistra,Utilities,A-历史持仓观察
+NRG,NERA Energy,Utilities,A-历史持仓观察
+EPD,Enterprise Products,Energy,B-GICS价值
+TNK,Teekay Tankers,Energy,B-GICS价值
+INSW,International Seaways,Energy,B-GICS价值
+DVN,Devon Energy,Energy,B-GICS价值
+AR,Antero Resources,Energy,B-GICS价值
+ARLP,Alliance Resource,Energy,B-GICS价值
+SQM,SQM,Materials,B-GICS价值
+MP,MP Materials,Materials,B-GICS价值
+ALB,Albemarle,Materials,B-GICS价值
+LAC,Lithium Americas,Materials,B-GICS价值
+GE,GE Aerospace,Capital Goods,B-GICS价值
+RTX,RTX,Capital Goods,B-GICS价值
+HWM,Howmet Aerospace,Capital Goods,B-GICS价值
+CLH,Clean Harbors,Commercial Services,B-GICS价值
+WM,Waste Management,Commercial Services,B-GICS价值
+UPS,UPS,Transportation,B-GICS价值
+UNP,Union Pacific,Transportation,B-GICS价值
+FDX,FedEx,Transportation,B-GICS价值
+JBHT,J.B. Hunt,Transportation,B-GICS价值
+CP,Canadian Pacific,Transportation,B-GICS价值
+CSX,CSX,Transportation,B-GICS价值
+UBER,Uber,Transportation,B-GICS价值
+RACE,Ferrari,Consumer Durables,B-GICS价值
+NCLH,Norwegian Cruise,Consumer Services,B-GICS价值
+WMT,Walmart,Retailing,B-GICS价值
+TGT,Target,Retailing,B-GICS价值
+ULTA,Ulta Beauty,Retailing,B-GICS价值
+AMT,American Tower,Telecom,B-GICS价值
+CHTR,Charter,Telecom,B-GICS价值
+TTD,Trade Desk,Media,B-GICS价值
+NFLX,Netflix,Media,B-GICS价值
+KR,Kroger,Staples Retail,B-GICS价值
+STZ,Constellation Brands,Food Beverage,B-GICS价值
+KO,Coca-Cola,Food Beverage,B-GICS价值
+PEP,PepsiCo,Food Beverage,B-GICS价值
+MNST,Monster Beverage,Food Beverage,B-GICS价值
+CELH,Celsius,Food Beverage,B-GICS价值
+EL,Estee Lauder,Household Personal,B-GICS价值
+KVUE,Kenvue,Household Personal,B-GICS价值
+ELF,e.l.f. Beauty,Household Personal,B-GICS价值
+GEHC,GE HealthCare,Health Care Equipment,B-GICS价值
+ISRG,Intuitive Surgical,Health Care Equipment,B-GICS价值
+ABT,Abbott,Health Care Equipment,B-GICS价值
+TMO,Thermo Fisher,Pharma Biotech,B-GICS价值
+JNJ,Johnson & Johnson,Pharma Biotech,B-GICS价值
+NU,Nu Holdings,Banks,B-GICS价值
+RF,Regions Financial,Banks,B-GICS价值
+CFG,Citizens Financial,Banks,B-GICS价值
+HOOD,Robinhood,Diversified Financials,B-GICS价值
+SOFI,SoFi,Diversified Financials,B-GICS价值
+UPST,Upstart,Diversified Financials,B-GICS价值
+LPLA,LPL Financial,Diversified Financials,B-GICS价值
+KNSL,Kinsale Capital,Insurance,B-GICS价值
+TRV,Travelers,Insurance,B-GICS价值
+RNR,RenaissanceRe,Insurance,B-GICS价值
+PCOR,Procore,Software Services,B-GICS价值
+DLO,dLocal,Software Services,B-GICS价值
+CRM,Salesforce,Software Services,B-GICS价值
+MDB,MongoDB,Software Services,B-GICS价值
+CRWD,CrowdStrike,Software Services,B-GICS价值
+TEAM,Atlassian,Software Services,B-GICS价值
+HPE,HPE,Tech Hardware,B-GICS价值
+DELL,Dell,Tech Hardware,B-GICS价值
+CRDO,Credo,Tech Hardware,B-GICS价值
+CIEN,Ciena,Tech Hardware,B-GICS价值
+INTC,Intel,Semiconductors,B-GICS价值
+OKLO,Oklo,Utilities,B-GICS价值
+NEE,NextEra,Utilities,B-GICS价值
+FSLR,First Solar,Utilities,B-GICS价值
+DLR,Digital Realty,Real Estate,B-GICS价值
+EQIX,Equinix,Real Estate,B-GICS价值
+CCI,Crown Castle,Real Estate,B-GICS价值
+NEM,Newmont,Materials,B-GICS价值
+FNV,Franco-Nevada,Materials,B-GICS价值
+CGAU,Centerra,Materials,B-GICS价值
+LNG,Cheniere Energy,Energy,B-GICS成长
+VG,Venture Global,Energy,B-GICS成长
+ET,Energy Transfer,Energy,B-GICS成长
+NGS,Natural Gas Services,Energy,B-GICS成长
+CCJ,Cameco,Materials,B-GICS成长
+NUE,Nucor,Materials,B-GICS成长
+RHM,Rheinmetall,Capital Goods,B-GICS成长
+KRMN,Karman Holdings,Capital Goods,B-GICS成长
+CAT,Caterpillar,Capital Goods,B-GICS成长
+RIVN,Rivian,Automobiles,B-GICS成长
+TNL,Travel Leisure,Consumer Services,B-GICS成长
+SE,Sea Group,Retailing,B-GICS成长
+SVV,Savers Value Village,Retailing,B-GICS成长
+COST,Costco,Retailing,B-GICS成长
+DG,Dollar General,Retailing,B-GICS成长
+PG,Procter & Gamble,Staples Retail,B-GICS成长
+CLX,Clorox,Household Personal,B-GICS成长
+MDT,Medtronic,Health Care Equipment,B-GICS成长
+SPGI,S&P Global,Diversified Financials,B-GICS成长
+T,AT&T,Telecom,B-GICS成长
+DIS,Disney,Media,B-GICS成长
+ATO,Atmos Energy,Utilities,B-GICS成长
+AVGO,Broadcom,Semiconductors,B-AI赛道2
+MRVL,Marvell,Semiconductors,B-AI赛道2
+LITE,Lumentum,Tech Hardware,B-AI赛道3
+FN,Fabrinet,Tech Hardware,B-AI赛道3
+ANET,Arista Networks,Tech Hardware,B-AI赛道3
+AMKR,Amkor,Semiconductors,B-AI赛道5
+ASX,ASE Technology,Semiconductors,B-AI赛道5
+ONTO,Onto Innovation,Semiconductors,B-AI赛道5
+ASML,ASML,Semiconductors,B-AI赛道6
+LRCX,Lam Research,Semiconductors,B-AI赛道6
+KLAC,KLA Corp,Semiconductors,B-AI赛道6
+LEU,Centrus Energy,Energy,B-AI赛道7
+UUUU,Energy Fuels,Energy,B-AI赛道7
+BE,Bloom Energy,Utilities,B-AI赛道7
+GEV,GE Vernova,Capital Goods,B-AI赛道8
+ETN,Eaton,Capital Goods,B-AI赛道8
+HUBB,Hubbell,Capital Goods,B-AI赛道8
+VRT,Vertiv,Tech Hardware,B-AI赛道9
+TT,Trane Technologies,Capital Goods,B-AI赛道9
+JCI,Johnson Controls,Capital Goods,B-AI赛道9
+AAON,AAON,Capital Goods,B-AI赛道9
+IRM,Iron Mountain,Real Estate,B-AI赛道10
+AMZN,Amazon,Consumer Discretionary,B-AI赛道10
+ORCL,Oracle,Software Services,B-AI赛道10
+NOW,ServiceNow,Software Services,B-AI赛道11
+PLTR,Palantir,Software Services,B-AI赛道11
+BIDU,Baidu,Communication Services,B-AI赛道14
+PONY,Pony AI,Automobiles,B-AI赛道14
+WRD,WeRide,Automobiles,B-AI赛道14
+APTIV,Aptiv,Automobiles,B-AI赛道14
+HUT,Hut 8,Financials,B-AI赛道15
+IREN,IREN Ltd,Financials,B-AI赛道15
+BTBT,Bit Digital,Financials,B-AI赛道15
+CORZ,Core Scientific,Financials,B-AI赛道15
+WULF,TeraWulf,Financials,B-AI赛道15
+QCOM,Qualcomm,Semiconductors,B-AI赛道16
+HPQ,HP,Tech Hardware,B-AI赛道16
+ARM,Arm Holdings,Semiconductors,B-AI赛道16
+AAPL,Apple,Tech Hardware,B-AI赛道16
+AMD,AMD,Semiconductors,B-AI赛道16
+COIN,Coinbase,Financials,F-历史关注
+V,Visa,Financials,G-生态链
+MA,Mastercard,Financials,G-生态链
+DVA,DaVita,Health Care Equipment,G-生态链
+LZB,La-Z-Boy,Consumer Durables,覆盖补充
+MHK,Mohawk Industries,Consumer Durables,覆盖补充
+TPX,Tempur Sealy,Consumer Durables,覆盖补充
+GOLF,Topgolf Callaway,Consumer Durables,覆盖补充
+BKNG,Booking Holdings,Consumer Discretionary,覆盖补充
+ABNB,Airbnb,Consumer Discretionary,覆盖补充
+CMG,Chipotle,Consumer Discretionary,覆盖补充
+DASH,DoorDash,Consumer Discretionary,覆盖补充
+EBAY,eBay,Consumer Discretionary,覆盖补充
+PINS,Pinterest,Consumer Discretionary,覆盖补充
+SNAP,Snap,Consumer Discretionary,覆盖补充
+MATCH,Match Group,Consumer Discretionary,覆盖补充
+TMUS,T-Mobile US,Telecom,覆盖补充
+VZ,Verizon,Telecom,覆盖补充
+CMCSA,Comcast,Media,覆盖补充
+WBD,Warner Bros Discovery,Media,覆盖补充
+SPOT,Spotify,Media,覆盖补充
+ROKU,Roku,Media,覆盖补充
+EA,Electronic Arts,Media,覆盖补充
+TTWO,Take-Two,Media,覆盖补充
+LYV,Live Nation,Media,覆盖补充
+OMC,Omnicom,Media,覆盖补充
+IPG,Interpublic,Media,覆盖补充
+ADP,ADP,Commercial Services,覆盖补充
+PAYX,Paychex,Commercial Services,覆盖补充
+CTAS,Cintas,Commercial Services,覆盖补充
+RSG,Republic Services,Commercial Services,覆盖补充
+VRSK,Verisk Analytics,Commercial Services,覆盖补充
+GWW,W.W. Grainger,Commercial Services,覆盖补充
+LDOS,Leidos,Commercial Services,覆盖补充
+TJX,TJX Companies,Retailing,覆盖补充
+ROST,Ross Stores,Retailing,覆盖补充
+DLTR,Dollar Tree,Retailing,覆盖补充
+BBY,Best Buy,Retailing,覆盖补充
+LOW,Lowe's,Retailing,覆盖补充
+HD,Home Depot,Retailing,覆盖补充
+ORLY,O'Reilly Automotive,Retailing,覆盖补充
+AZO,AutoZone,Retailing,覆盖补充
+BSX,Boston Scientific,Health Care Equipment,覆盖补充
+EW,Edwards Lifesciences,Health Care Equipment,覆盖补充
+DXCM,DexCom,Health Care Equipment,覆盖补充
+PODD,Insulet,Health Care Equipment,覆盖补充
+ZBH,Zimmer Biomet,Health Care Equipment,覆盖补充
+LLY,Eli Lilly,Pharma Biotech,覆盖补充
+NVO,Novo Nordisk,Pharma Biotech,覆盖补充
+MRK,Merck,Pharma Biotech,覆盖补充
+ABBV,AbbVie,Pharma Biotech,覆盖补充
+BMY,Bristol-Myers,Pharma Biotech,覆盖补充
+AMGN,Amgen,Pharma Biotech,覆盖补充
+GILD,Gilead,Pharma Biotech,覆盖补充
+VRTX,Vertex,Pharma Biotech,覆盖补充
+REGN,Regeneron,Pharma Biotech,覆盖补充
+MRNA,Moderna,Pharma Biotech,覆盖补充
+AIG,AIG,Insurance,覆盖补充
+MET,MetLife,Insurance,覆盖补充
+PRU,Prudential,Insurance,覆盖补充
+AFL,Aflac,Insurance,覆盖补充
+GL,Globe Life,Insurance,覆盖补充
+HIG,Hartford,Insurance,覆盖补充
+CINF,Cincinnati Financial,Insurance,覆盖补充
+WRB,W.R. Berkley,Insurance,覆盖补充
+AON,Aon,Insurance,覆盖补充
+BRO,Brown&Brown,Insurance,覆盖补充
+MCD,McDonald's,Consumer Services,覆盖补充
+SBUX,Starbucks,Consumer Services,覆盖补充
+DPZ,Domino's Pizza,Consumer Services,覆盖补充
+YUM,Yum Brands,Consumer Services,覆盖补充
+HLT,Hilton,Consumer Services,覆盖补充
+MAR,Marriott,Consumer Services,覆盖补充
+RCL,Royal Caribbean,Consumer Services,覆盖补充
+CCL,Carnival,Consumer Services,覆盖补充
+LVS,Las Vegas Sands,Consumer Services,覆盖补充
+WYNN,Wynn Resorts,Consumer Services,覆盖补充
+JPM,JPMorgan,Banks,覆盖补充
+WFC,Wells Fargo,Banks,覆盖补充
+C,Citigroup,Banks,覆盖补充
+GS,Goldman Sachs,Banks,覆盖补充
+MS,Morgan Stanley,Banks,覆盖补充
+SCHW,Charles Schwab,Banks,覆盖补充
+PNC,PNC Financial,Banks,覆盖补充
+USB,US Bancorp,Banks,覆盖补充
+TFC,Truist,Banks,覆盖补充
+BX,Blackstone,Diversified Financials,覆盖补充
+KKR,KKR,Diversified Financials,覆盖补充
+APO,Apollo Global,Diversified Financials,覆盖补充
+ARES,Ares Management,Diversified Financials,覆盖补充
+BLK,BlackRock,Diversified Financials,覆盖补充
+TROW,T. Rowe Price,Diversified Financials,覆盖补充
+BEN,Franklin Resources,Diversified Financials,覆盖补充
+ICE,Intercontinental Exchange,Diversified Financials,覆盖补充
+CME,CME Group,Diversified Financials,覆盖补充
+MCO,Moody's,Diversified Financials,覆盖补充
+XOM,Exxon Mobil,Energy,覆盖补充
+CVX,Chevron,Energy,覆盖补充
+COP,ConocoPhillips,Energy,覆盖补充
+OXY,Occidental,Energy,覆盖补充
+SLB,SLB,Energy,覆盖补充
+HAL,Halliburton,Energy,覆盖补充
+BKR,Baker Hughes,Energy,覆盖补充
+KMI,Kinder Morgan,Energy,覆盖补充
+WMB,Williams Companies,Energy,覆盖补充
+OKE,ONEOK,Energy,覆盖补充
+PAA,Plains All American,Energy,覆盖补充
+LIN,Linde,Materials,覆盖补充
+APD,Air Products,Materials,覆盖补充
+SHW,Sherwin-Williams,Materials,覆盖补充
+ECL,Ecolab,Materials,覆盖补充
+DD,DuPont,Materials,覆盖补充
+DOW,Dow Inc,Materials,覆盖补充
+FCX,Freeport-McMoRan,Materials,覆盖补充
+SCCO,Southern Copper,Materials,覆盖补充
+TECK,Teck Resources,Materials,覆盖补充
+GOLD,Barrick Gold,Materials,覆盖补充
+AEM,Agnico Eagle,Materials,覆盖补充
+WPM,Wheaton Precious,Materials,覆盖补充
+RGLD,Royal Gold,Materials,覆盖补充
+HON,Honeywell,Capital Goods,覆盖补充
+EMR,Emerson Electric,Capital Goods,覆盖补充
+ROK,Rockwell Automation,Capital Goods,覆盖补充
+PH,Parker Hannifin,Capital Goods,覆盖补充
+ITW,Illinois Tool Works,Capital Goods,覆盖补充
+DOV,Dover,Capital Goods,覆盖补充
+IR,Ingersoll Rand,Capital Goods,覆盖补充
+GD,General Dynamics,Capital Goods,覆盖补充
+LMT,Lockheed Martin,Capital Goods,覆盖补充
+NOC,Northrop Grumman,Capital Goods,覆盖补充
+LHX,L3Harris,Capital Goods,覆盖补充
+TDG,TransDigm,Capital Goods,覆盖补充
+HEI,HEICO,Capital Goods,覆盖补充
+AXON,Axon Enterprise,Capital Goods,覆盖补充
+SNOW,Snowflake,Software Services,覆盖补充
+NET,Cloudflare,Software Services,覆盖补充
+DDOG,Datadog,Software Services,覆盖补充
+ZS,Zscaler,Software Services,覆盖补充
+PANW,Palo Alto Networks,Software Services,覆盖补充
+S,SentinelOne,Software Services,覆盖补充
+TWLO,Twilio,Software Services,覆盖补充
+HUBS,HubSpot,Software Services,覆盖补充
+WDAY,Workday,Software Services,覆盖补充
+SAP,SAP,Software Services,覆盖补充
+PSFE,Paysafe,Software Services,覆盖补充
+SHOP,Shopify,Software Services,覆盖补充
+DUK,Duke Energy,Utilities,覆盖补充
+SO,Southern Company,Utilities,覆盖补充
+D,Dominion Energy,Utilities,覆盖补充
+AEP,American Electric Power,Utilities,覆盖补充
+EXC,Exelon,Utilities,覆盖补充
+SRE,Sempra,Utilities,覆盖补充
+PEG,Public Service Enterprise,Utilities,覆盖补充
+ED,Consolidated Edison,Utilities,覆盖补充
+AWK,American Water Works,Utilities,覆盖补充
+ES,Eversource,Utilities,覆盖补充
+NSC,Norfolk Southern,Transportation,覆盖补充
+ODFL,Old Dominion Freight,Transportation,覆盖补充
+XPO,XPO Logistics,Transportation,覆盖补充
+CHRW,C.H. Robinson,Transportation,覆盖补充
+EXPD,Expeditors,Transportation,覆盖补充
+DAL,Delta Air Lines,Transportation,覆盖补充
+UAL,United Airlines,Transportation,覆盖补充
+AAL,American Airlines,Transportation,覆盖补充
+ALK,Alaska Air,Transportation,覆盖补充
+PLD,Prologis,Real Estate,覆盖补充
+SPG,Simon Property,Real Estate,覆盖补充
+O,Realty Income,Real Estate,覆盖补充
+PSA,Public Storage,Real Estate,覆盖补充
+AVB,AvalonBay,Real Estate,覆盖补充
+EQR,Equity Residential,Real Estate,覆盖补充
+INVH,Invitation Homes,Real Estate,覆盖补充
+SBAC,SBA Communications,Real Estate,覆盖补充
+WELL,Welltower,Real Estate,覆盖补充
+VTR,Ventas,Real Estate,覆盖补充
+ARE,Alexandria Real Estate,Real Estate,覆盖补充
+MDLZ,Mondelez,Food Beverage,覆盖补充
+GIS,General Mills,Food Beverage,覆盖补充
+K,Kellanova,Food Beverage,覆盖补充
+HSY,Hershey,Food Beverage,覆盖补充
+KHC,Kraft Heinz,Food Beverage,覆盖补充
+CAG,Conagra,Food Beverage,覆盖补充
+SJM,J.M. Smucker,Food Beverage,覆盖补充
+TSN,Tyson Foods,Food Beverage,覆盖补充
+HRL,Hormel,Food Beverage,覆盖补充
+PM,Philip Morris,Food Beverage,覆盖补充
+MO,Altria,Food Beverage,覆盖补充
+BTI,British American Tobacco,Food Beverage,覆盖补充
+CL,Colgate-Palmolive,Household Personal,覆盖补充
+KMB,Kimberly-Clark,Household Personal,覆盖补充
+CHD,Church&Dwight,Household Personal,覆盖补充
+SYY,Sysco,Household Personal,覆盖补充
+USFD,US Foods,Household Personal,覆盖补充
+PFGC,Performance Food Group,Household Personal,覆盖补充
+COTY,Coty,Household Personal,覆盖补充
+TSEM,Tower Semiconductor,Semiconductors,覆盖补充
+WOLF,Wolfspeed,Semiconductors,覆盖补充
+ALGM,Allegro MicroSystems,Semiconductors,覆盖补充
+SLAB,Silicon Labs,Semiconductors,覆盖补充
+SYNA,Synaptics,Semiconductors,覆盖补充
+SGH,SMART Global,Semiconductors,覆盖补充
+MPWR,Monolithic Power,Semiconductors,覆盖补充
+NXPI,NXP Semiconductors,Semiconductors,覆盖补充
+MCHP,Microchip,Semiconductors,覆盖补充
+ADI,Analog Devices,Semiconductors,覆盖补充
+TXN,Texas Instruments,Semiconductors,覆盖补充
+SWKS,Skyworks,Semiconductors,覆盖补充
+QRVO,Qorvo,Semiconductors,覆盖补充
+SMTC,Semtech,Semiconductors,覆盖补充
+LSCC,Lattice Semiconductor,Semiconductors,覆盖补充
+PSTG,Pure Storage,Tech Hardware,覆盖补充
+NTAP,NetApp,Tech Hardware,覆盖补充
+GRMN,Garmin,Tech Hardware,覆盖补充
+LOGI,Logitech,Tech Hardware,覆盖补充

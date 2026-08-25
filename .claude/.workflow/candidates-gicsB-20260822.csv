@@ -1,0 +1,101 @@
+TICKER,公司名,GICS大类,B-GICS组号
+EL,Estee Lauder,必需消费,14
+HELE,Helen of Troy,必需消费,14
+NUS,Nu Skin,必需消费,14
+KVUE,Kenvue,必需消费,14
+IPAR,Inter Parfums,必需消费,14
+ULTA,Ulta Beauty,可选消费,14
+ELF,e.l.f. Beauty,必需消费,14
+IFF,International Flavors & Fragrances,材料,14
+COTY,Coty,必需消费,14
+LRLCY,L'Oreal(ADR),必需消费,14
+FMS,Fresenius Medical Care,医疗健康,15
+IART,Integra LifeSciences,医疗健康,15
+STE,Steris,医疗健康,15
+GEHC,GE HealthCare,医疗健康,15
+JNJ,Johnson & Johnson,医疗健康,15
+ABT,Abbott Laboratories,医疗健康,15
+ISRG,Intuitive Surgical,医疗健康,15
+TMO,Thermo Fisher Scientific,医疗健康,16
+VRTX,Vertex Pharmaceuticals,医疗健康,16
+TMDX,TransMedics Group,医疗健康,16
+UNH,UnitedHealth Group,医疗健康,16
+HCA,HCA Healthcare,医疗健康,16
+LGND,Ligand Pharmaceuticals,医疗健康,16
+TVTX,Travere Therapeutics,医疗健康,16
+QDEL,QuidelOrtho,医疗健康,16
+NVS,Novartis(ADR),医疗健康,16
+LZAGY,Lonza(ADR),医疗健康,16
+BAYRY,Bayer(ADR),医疗健康,16
+UCBJY,UCB(ADR),医疗健康,16
+AZN,AstraZeneca,医疗健康,16
+AMLX,Amylyx Pharmaceuticals,医疗健康,16
+PRAX,Praxis Precision Medicines,医疗健康,16
+BBIO,BridgeBio Pharma,医疗健康,16
+UTHR,United Therapeutics,医疗健康,16
+NU,Nu Holdings,金融,17
+RF,Regions Financial,金融,17
+NWG,NatWest Group,金融,17
+CFG,Citizens Financial Group,金融,17
+NPB,Northpointe Bancshares,金融,17
+NEWT,NewtekOne,金融,17
+DBSDY,DBS Group(ADR),金融,17
+PYPL,PayPal,金融,18
+TPG,TPG Inc,金融,18
+CME,CME Group,金融,18
+PGR,Progressive,金融,19
+MKL,Markel Group,金融,19
+TRV,Travelers Companies,金融,19
+RNR,RenaissanceRe,金融,19
+ALL,Allstate,金融,19
+AJG,Arthur J. Gallagher,金融,19
+CVLT,Commvault Systems,信息技术,20
+PANW,Palo Alto Networks,信息技术,20
+CRWD,CrowdStrike,信息技术,20
+FTNT,Fortinet,信息技术,20
+NET,Cloudflare,信息技术,20
+CRM,Salesforce,信息技术,20
+GOOGL,Alphabet,通信服务,20
+HPE,Hewlett Packard Enterprise,信息技术,21
+DELL,Dell Technologies,信息技术,21
+AAOI,Applied Optoelectronics,信息技术,21
+NVDA,Nvidia,信息技术,21
+AMD,Advanced Micro Devices,信息技术,21
+LNVGY,Lenovo(ADR),信息技术,21
+AMAT,Applied Materials,信息技术,22
+TSM,TSMC(ADR),信息技术,22
+MU,Micron Technology,信息技术,22
+INTC,Intel,信息技术,22
+AVGO,Broadcom,信息技术,22
+ASML,ASML Holding,信息技术,22
+QCOM,Qualcomm,信息技术,22
+HXSCL,SK Hynix(ADR),信息技术,22
+SSNLF,Samsung Electronics(OTC),信息技术,22
+NEE,NextEra Energy,公用事业,23
+SO,Southern Company,公用事业,23
+DUK,Duke Energy,公用事业,23
+D,Dominion Energy,公用事业,23
+BKH,Black Hills Corporation,公用事业,23
+NGG,National Grid,公用事业,23
+PCG,PG&E Corporation,公用事业,23
+EIX,Edison International,公用事业,23
+EXC,Exelon,公用事业,23
+CEG,Constellation Energy,公用事业,23
+ENLT,Enlight Renewable Energy,公用事业,23
+BE,Bloom Energy,工业,23
+DLR,Digital Realty Trust,房地产,24
+EQIX,Equinix,房地产,24
+CCI,Crown Castle,房地产,24
+WELL,Welltower,房地产,24
+AHR,American Healthcare REIT,房地产,24
+AWK,American Water Works,公用事业,25
+WTRG,Essential Utilities,公用事业,25
+AWR,American States Water,公用事业,25
+CWT,California Water Service,公用事业,25
+STN,Stantec,工业,25
+CWCO,Consolidated Water,公用事业,25
+MAS,Masco,工业,25
+AOS,A.O. Smith,工业,25
+A,Agilent Technologies,医疗健康,25
+J,Jacobs Solutions,工业,25
+HRTG,Heritage Insurance,金融,25

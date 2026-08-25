@@ -1,0 +1,50 @@
+TICKER,公司名,主题或生态链,来源缩写
+TCOM,Trip.com Group,中国消费,theme13a
+YUMC,Yum China Holdings,中国消费,theme13a
+PDD,PDD Holdings,中国电商,theme13b
+JD,JD.com,中国电商,theme13b
+VIPS,Vipshop Holdings,中国电商,theme13b
+NEM,Newmont Corporation,黄金,theme14a
+GOLD,Barrick Mining,黄金,theme14a
+AEM,Agnico Eagle Mines,黄金,theme14a
+FNV,Franco-Nevada,黄金royalty,theme14b
+WPM,Wheaton Precious Metals,黄金royalty,theme14b
+RGLD,Royal Gold,黄金royalty,theme14b
+RTX,RTX Corporation,防务,theme2
+NOC,Northrop Grumman,防务,theme2
+LMT,Lockheed Martin,防务,theme2
+WST,West Pharmaceutical Services,GLP-1供应链,theme6
+TMO,Thermo Fisher Scientific,GLP-1供应链,theme6
+STVN,Stevanato Group,GLP-1供应链,theme6
+MKL,Markel Group,保险,theme12
+ACGL,Arch Capital Group,保险,theme12
+RNR,RenaissanceRe Holdings,保险,theme12
+ETN,Eaton Corporation,电网,theme3
+PWR,Quanta Services,电网,theme3
+GEV,GE Vernova,电网,theme3
+HUBB,Hubbell Incorporated,电网,theme3
+ACMR,ACM Research,BABA生态链,d7-baba
+GDS,GDS Holdings,BABA生态链,d7-baba
+VRT,Vertiv Holdings,MSFT生态链,d7-msft
+SMCI,Super Micro Computer,MSFT生态链,d7-msft
+DELL,Dell Technologies,MSFT生态链,d7-msft
+AMD,Advanced Micro Devices,META生态链,d7-meta
+AVGO,Broadcom Inc.,META生态链,d7-meta
+NVDA,NVIDIA Corporation,META生态链,d7-meta
+ASML,ASML Holding,TSM生态链,d7-tsm
+AMAT,Applied Materials,TSM生态链,d7-tsm
+LRCX,Lam Research,TSM生态链,d7-tsm
+ENTG,Entegris Inc.,TSM生态链,d7-tsm
+DAL,Delta Air Lines,BRK生态链,d7-brk
+LEN,Lennar Corporation,BRK生态链,d7-brk
+DVA,DaVita Inc.,BRK生态链,d7-brk
+ORCL,Oracle Corporation,INTU生态链,d7-intu
+SHOP,Shopify Inc.,INTU生态链,d7-intu
+CRWV,CoreWeave Inc.,APLD生态链,d7-apld
+AMZN,Amazon.com Inc.,ADBE生态链,d7-adbe
+IBM,IBM Corporation,ADBE生态链,d7-adbe
+GOOGL,Alphabet Inc.,ADBE生态链,d7-adbe
+V,Visa Inc.,CRCL生态链,d7-crcl
+MA,Mastercard Inc.,CRCL生态链,d7-crcl
+BLK,BlackRock Inc.,CRCL生态链,d7-crcl
+COIN,Coinbase Global,CRCL生态链,d7-crcl

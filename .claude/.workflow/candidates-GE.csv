@@ -1,0 +1,59 @@
+ticker,company,gics_sector,source
+VRT,Vertiv Holdings,Information Technology (数据中心电源/散热),G-MSFT生态
+ECL,Ecolab,Materials (数据中心冷却水处理),G-META生态
+CRWV,CoreWeave,Information Technology (AI云/算力),G-META生态
+DELL,Dell Technologies,Information Technology (AI服务器),G-MSFT生态
+NVDA,NVIDIA,Information Technology (AI芯片),G-META生态
+SMCI,Super Micro Computer,Information Technology (AI服务器),G-MSFT生态
+ASML,ASML Holding,Information Technology (半导体设备),G-TSM生态
+AMAT,Applied Materials,Information Technology (半导体设备),G-TSM生态
+KLAC,KLA Corporation,Information Technology (半导体设备),G-TSM生态
+GDS,GDS Holdings,Real Estate (中国数据中心),G-BABA生态
+BIDU,Baidu,Communication Services (中国AI),G-BABA生态
+SHOP,Shopify,Information Technology (SMB电商生态),G-INTU生态
+XYZ,Block,Financials (SMB金融科技),G-INTU生态
+ABBNY,ABB Ltd ADR,Industrials (电力设备/变压器),G-APLD生态
+AMZN,Amazon,Consumer Discretionary (AWS云),G-ADBE生态
+COIN,Coinbase,Financials (USDC分销/加密),G-CRCL生态
+VST,Vistra Corp,Utilities (IPP独立发电),E-AI硬件
+CEG,Constellation Energy,Utilities (IPP核电),E-AI硬件
+TLN,Talen Energy,Utilities (IPP核电),E-AI硬件
+NRG,NRG Energy,Utilities (IPP),E-AI硬件
+CCJ,Cameco,Energy (铀),E-AI硬件
+LEU,Centrus Energy,Energy (HALEU铀浓缩),E-AI硬件
+UUUU,Energy Fuels,Energy (铀),E-AI硬件
+SMR,NuScale Power,Utilities (SMR小型堆),E-AI硬件
+OKLO,Oklo,Utilities (SMR小型堆),E-AI硬件
+MU,Micron Technology,Information Technology (HBM内存),E-AI硬件
+SNDK,SanDisk,Information Technology (NAND存储),E-AI硬件
+STX,Seagate Technology,Information Technology (存储),E-AI硬件
+COHR,Coherent,Information Technology (光模块),E-AI硬件
+LITE,Lumentum,Information Technology (光模块),E-AI硬件
+AAOI,Applied Optoelectronics,Information Technology (光模块),E-AI硬件
+FN,Fabrinet,Information Technology (光模块代工),E-AI硬件
+CIEN,Ciena,Information Technology (光网络),E-AI硬件
+3037.TW,Unimicron Technology,Information Technology (ABF载板),E-AI硬件
+4062.T,Ibiden,Information Technology (ABF载板),E-AI硬件
+GEV,GE Vernova,Industrials (燃气轮机/电力),E-AI硬件
+ETN,Eaton,Industrials (电力管理设备),E-AI硬件
+HUBB,Hubbell,Industrials (变压器/电网设备),E-AI硬件
+POWL,Powell Industries,Industrials (开关柜),E-AI硬件
+PWR,Quanta Services,Industrials (电力工程),E-AI硬件
+WRB,W.R. Berkley,Financials (P&C保险),E-非AI对冲
+KNSL,Kinsale Capital,Financials (E&S保险),E-非AI对冲
+TRV,Travelers,Financials (P&C保险),E-非AI对冲
+SIGI,Selective Insurance,Financials (P&C保险),E-非AI对冲
+WPM,Wheaton Precious Metals,Materials (黄金流媒体),E-非AI对冲
+FNV,Franco-Nevada,Materials (黄金版税),E-非AI对冲
+RGLD,Royal Gold,Materials (黄金版税),E-非AI对冲
+LMT,Lockheed Martin,Industrials (国防价值),E-非AI对冲
+JNJ,Johnson & Johnson,Health Care (防御),E-非AI对冲
+CORZ,Core Scientific,Energy (挖矿+AI托管),E-加密修复
+IREN,Iris Energy,Energy (挖矿+AI云),E-加密修复
+RIOT,Riot Platforms,Financials (比特币挖矿),E-加密修复
+HUT,Hut 8,Financials (挖矿+AI),E-加密修复
+CIFR,Cipher Mining,Financials (挖矿+AI),E-加密修复
+HOOD,Robinhood,Financials (加密基础设施),E-加密修复
+V,Visa,Financials (稳定币支付轨道),E-加密修复
+MA,Mastercard,Financials (稳定币支付轨道),E-加密修复
+FISV,Fiserv,Financials (稳定币发行),E-加密修复

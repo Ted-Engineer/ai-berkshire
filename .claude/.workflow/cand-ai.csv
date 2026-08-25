@@ -1,0 +1,100 @@
+TICKER,公司名,赛道或维度,来源缩写
+CRWV,CoreWeave,AI云/Neocloud,ai1a
+NBIS,Nebius Group,AI云/Neocloud,ai1b
+IREN,IREN,AI云/Neocloud,ai1b
+APLD,Applied Digital,AI云/Neocloud,ai1b
+AVGO,Broadcom,定制ASIC,ai2a
+MRVL,Marvell Technology,定制ASIC,ai2a
+NVDA,NVIDIA,定制ASIC,ai2b
+ARM,Arm Holdings,定制ASIC,ai2b
+CRDO,Credo Technology,AI网络/光模块,ai3a
+ALAB,Astera Labs,AI网络/光模块,ai3b
+COHR,Coherent,AI网络/光模块,ai3a
+LITE,Lumentum,AI网络/光模块,ai3a
+MU,Micron Technology,HBM/存储,ai4a
+SNDK,Sandisk,HBM/存储,ai4b
+WDC,Western Digital,HBM/存储,ai4b
+STX,Seagate Technology,HBM/存储,ai4b
+TSM,台积电,先进封装,ai5a
+ASX,日月光ASE,先进封装,ai5b
+AMKR,Amkor Technology,先进封装,ai5b
+ONTO,Onto Innovation,先进封装,ai5b
+ASML,ASML Holding,半导体设备,ai6b
+AMAT,Applied Materials,半导体设备,ai6b
+KLAC,KLA Corp,半导体设备,ai6b
+LRCX,Lam Research,半导体设备,ai6a
+VST,Vistra,AI电力,ai7a
+CEG,Constellation Energy,AI电力,ai7a
+GEV,GE Vernova,AI电力,ai7a
+TLN,Talen Energy,AI电力,ai7a
+ETN,Eaton,电网设备,ai8b
+HUBB,Hubbell,电网设备,ai8a
+NVT,nVent Electric,电网设备,ai8b
+POWL,Powell Industries,电网设备,ai8b
+VRT,Vertiv,AI散热/液冷,ai9b
+TT,Trane Technologies,AI散热/液冷,ai9a
+AAON,AAON,AI散热/液冷,ai9a
+MOD,Modine Manufacturing,AI散热/液冷,ai9a
+DLR,Digital Realty,数据中心REIT/E&C,ai10a
+EQIX,Equinix,数据中心REIT/E&C,ai10a
+PWR,Quanta Services,数据中心REIT/E&C,ai10b
+EME,EMCOR Group,数据中心REIT/E&C,ai10b
+CRM,Salesforce,AI Agent应用,ai11a
+NOW,ServiceNow,AI Agent应用,ai11a
+PLTR,Palantir,AI Agent应用,ai11b
+PATH,UiPath,AI Agent应用,ai11b
+MSFT,Microsoft,基础模型生态,ai12a
+GOOGL,Alphabet,基础模型生态,ai12a
+AMZN,Amazon,基础模型生态,ai12b
+ORCL,Oracle,基础模型生态,ai12b
+TSLA,Tesla,人形机器人,ai13a
+TKR,Timken,人形机器人,ai13b
+CGNX,Cognex,人形机器人,ai13b
+ALGM,Allegro MicroSystems,人形机器人,ai13b
+UBER,Uber Technologies,Robotaxi,ai14a
+BIDU,Baidu,Robotaxi,ai14a
+PONY,Pony.ai,Robotaxi,ai14a
+WRD,WeRide,Robotaxi,ai14a
+CORZ,Core Scientific,矿企转AI,ai15a
+CIFR,Cipher Mining,矿企转AI,ai15a
+WULF,TeraWulf,矿企转AI,ai15a
+HUT,Hut 8,矿企转AI,ai15b
+AMD,AMD,端侧AI,ai16a
+QCOM,Qualcomm,端侧AI,ai16a
+DELL,Dell Technologies,端侧AI,ai16a
+HPQ,HP Inc,端侧AI,ai16a
+INOD,Innodata,AI数据,ai17a
+CNXC,Concentrix,AI数据,ai17a
+RDDT,Reddit,AI数据,ai17b
+GETY,Getty Images,AI数据,ai17b
+GILD,Gilead Sciences,D1量化,d1a
+VLO,Valero Energy,D1量化,d1b
+DINO,HF Sinclair,D1量化,d1b
+AXTI,AXT Inc,D1量化,d1b
+FAST,Fastenal,D1量化,d1c
+GD,General Dynamics,D1量化,d1c
+UNH,UnitedHealth,D1量化,d1c
+FDX,FedEx,D3事件,d3a
+MDT,Medtronic,D3事件,d3a
+HON,Honeywell,D3事件,d3a
+KBR,KBR,D3事件,d3a
+WAT,Waters Corp,D3事件,d3a
+ELAN,Elanco Animal Health,D4技术面,d4b
+ARES,Ares Management,D4技术面,d4b
+GOOGL,Alphabet,D5聪明钱,d5a
+DHI,D.R. Horton,D5聪明钱,d5a
+CVX,Chevron,D5聪明钱,d5a
+UNH,UnitedHealth,D5聪明钱,d5b
+UBER,Uber Technologies,D5聪明钱,d5b
+BN,Brookfield Corp,D5聪明钱,d5b
+HHH,Howard Hughes,D5聪明钱,d5b
+DGX,Quest Diagnostics,D6财报,d6a
+CVS,CVS Health,D6财报,d6a
+DE,Deere & Company,D6财报,d6b
+BMNR,Bitmine Immersion,D6财报,d6b
+NVDA,NVIDIA,D6财报,d6d
+ORCL,Oracle,D6财报,d6d
+NBIS,Nebius Group,D6财报,d6d
+VRT,Vertiv,D6财报,d6d
+ATI,ATI Inc,D6财报,d6e
+KGS,Kodiak Gas Services,D6财报,d6e

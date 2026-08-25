@@ -1,0 +1,5 @@
+GEV
+KNSL
+COHR
+ETN
+# NBIS: 用户决策20260824只观察不新建仓(watchlist登记≤$185)，移出本轮推荐

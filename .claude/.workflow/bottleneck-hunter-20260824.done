@@ -1,0 +1,33 @@
+# Bottleneck Hunter 扫描完成标记 — 2026-08-24（来源D：供应链瓶颈扫描）
+
+超级趋势：AI基础设施（数据中心建设潮）✅ 确认
+- 2026四大hyperscaler capex合计约$695-725B（Amazon $200B / Microsoft $190B / Alphabet $180-190B / Meta $125-145B），同比+60%+（CNBC/Goldman/Yahoo Finance，2026-02-08月实时验证）
+- 搜索次数：15次（趋势验证1 + 7瓶颈×2）
+
+## 瓶颈评级表
+
+| 瓶颈 | 评级 | 定价权/紧缺证据 | 受益标的 |
+|------|------|----------------|----------|
+| 电力-变压器/燃气轮机/并网 | S | 大变压器交期3-5年、涨价最高95%，GOES电工钢卡脖子；GEV燃机backlog 100GW、交付排到2028-2030；Siemens Energy €136B订单；PJM缺口6.8GW、2027/6起对≥50MW数据中心限电 | GEV(已在池)、ETN(新入池)、PWR(观察) |
+| HBM/存储 | S | HBM全行业2026全年售罄（MU固定价合约）；DRAM季度环比涨价50%+；全球仅3家供应商；AI占全球DRAM产能20% | MU(已在池)、SK Hynix(韩000660) |
+| 光模块/CPO 1.6T | A | 200G/lane EML激光器是2026年1.6T放量的结构性卡点，Coherent/Lumentum双寡头定价；CPO交换机2026开始出货，CW激光器需求叠加 | COHR、LITE(均新入池)、中际旭创300308(观察) |
+| CoWoS先进封装 | A（↓ 较上轮松动） | CoWoS 2026全年订满，但供需缺口从~20%收窄至~10%；TSMC已外包6-8万片给外协 | TSM(已在池)、日月光3711(观察) |
+| 网络设备/交换芯片 | A | Arista CEO确认"晶圆/硅级需求全面超供给"，多年期backlog；AI网络从验证期转入瓶颈期；TH6 102.4T放量 | ANET(新入池)、AVGO(已充分定价) |
+| 内存接口/互连芯片 | A- | DDR5 RCD双寡头(Rambus/澜起)，MRDIMM每根DIMM需1 MRCD+10 MDB；ALAB retimer需求强但NVIDIA机架级方案使部分PCIe连接转NVLink（结构性风险） | RMBS(新入池)、ALAB(已在池)、CRDO/MRVL(已覆盖) |
+| 液冷CDU | B | CDU交期12-16周拉长至20-26周，DLC市场+156% YoY；但玩家激增（Vertiv/Schneider/Delta/nVent/CoolIT），Rubin高温水冷却降低门槛，Dell'Oro提示饱和，定价权弱 | VRT(观察，估值高) |
+| 铀/核燃料 | B+（燃料紧、SMR远） | SWU浓缩价创纪录$190；铀供应缺口~1万吨U且扩大（俄禁运+AI需求）；Meta-Vistra 6.6GW核电PPA；但SMR最早2027底-2028投运（Oklo激进线），NuScale推至2029 | LEU、CCJ(均新入池)；CEG/TLN/VST已在池 |
+
+## vs 上轮变化
+- 电力IPP维持A-：PJM限电政策（2027/6生效）+并网队列2300GW积压仍在，IPP折价因素未解除；瓶颈重心进一步向变压器/燃机/电气设备迁移（利好ETN/GEV而非纯发电商）
+- CoWoS：由紧转"仍紧但缓解"，缺口20%→10%
+- 光模块：瓶颈从模块成品上移至EML激光器芯片（Layer 2→3），COHR/LITE为最纯受益
+
+## 入池记录（candidates.csv，source=D-瓶颈-*）
+ETN、COHR、LITE、ANET、RMBS、LEU、CCJ（7只新增，均无重复）
+
+## 组合匹配建议
+- 组合现有：MU/ALAB(内存+互连)、CEG/TLN/GEV(电力)、CRWV/NBIS(neocloud)
+- 缺口1：光上游激光器环节空白 → 优先COHR（PS~3x估值绿灯，瓶颈纯正度最高）
+- 缺口2：电气设备/变压器空白 → ETN补位（PE~30x，与GEV形成发电+配电组合）
+- 缺口3：核燃料环节空白 → LEU（SWU涨价最直接弹性，注意高波动）、CCJ作稳健底仓
+- ANET/RMBS：逻辑成立但估值偏高（PS>15x），建议观察名单等回调

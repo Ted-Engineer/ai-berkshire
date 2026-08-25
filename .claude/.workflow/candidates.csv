@@ -1,1 +1,485 @@
 ticker,company,gics_sector,source
+MU,Micron Technology,Information Technology,A-持仓文件待执行(GTC买$880-900/$820-850)
+ALAB,Astera Labs,Information Technology,A-持仓文件待执行(GTC买$265-275)
+CRWV,CoreWeave,Information Technology,A-持仓文件待执行(触发价$78-82左侧/$95右侧)
+MSTR,Strategy,Financials,A-持仓文件待执行(触发价$88)
+NBIS,Nebius Group,Information Technology,A-持仓文件待执行(触发价$198)
+GEV,GE Vernova,Industrials,A-持仓文件待执行(触发价$900-980)
+COIN,Coinbase Global,Financials,A-持仓文件待执行(待登记)
+CEG,Constellation Energy,Utilities,A-持仓文件待执行(触发价$258)
+GOOGL,Alphabet,Communication Services,A-持仓文件待执行(META换仓线≤$295)
+TLN,Talen Energy,Utilities,A-持仓文件待执行(触发价$260-290)
+ET,Energy Transfer LP,Energy,B-GICS组1
+ENB,Enbridge Inc,Energy,B-GICS组1
+OKE,ONEOK Inc,Energy,B-GICS组1
+LNG,Cheniere Energy,Energy,B-GICS组1
+DHT,DHT Holdings,Energy,B-GICS组1
+EL,Estee Lauder,Consumer Staples,B-GICS组14
+ULTA,Ulta Beauty,Consumer Discretionary,B-GICS组14
+COTY,Coty Inc,Consumer Staples,B-GICS组14
+GEHC,GE HealthCare,Health Care,B-GICS组15
+ISRG,Intuitive Surgical,Health Care,B-GICS组15
+INMD,InMode Ltd,Health Care,B-GICS组15
+CNMD,Conmed Corp,Health Care,B-GICS组15
+VRTX,Vertex Pharmaceuticals,Health Care,B-GICS组16
+UNH,UnitedHealth Group,Health Care,B-GICS组16
+LGND,Ligand Pharmaceuticals,Health Care,B-GICS组16
+BBIO,BridgeBio Pharma,Health Care,B-GICS组16
+NUE,Nucor Corp,Materials,B-GICS组2
+DOW,Dow Inc,Materials,B-GICS组2
+SQM,Sociedad Quimica y Minera de Chile,Materials,B-GICS组2
+MP,MP Materials,Materials,B-GICS组2
+ALB,Albemarle Corp,Materials,B-GICS组2
+UAN,CVR Partners,Materials,B-GICS组2
+NU,Nu Holdings,Financials,B-GICS组17
+RF,Regions Financial,Financials,B-GICS组17
+JPM,JPMorgan Chase,Financials,B-GICS组17
+PYPL,PayPal Holdings,Financials,B-GICS组18
+TRV,Travelers Companies,Financials,B-GICS组19
+RNR,RenaissanceRe Holdings,Financials,B-GICS组19
+BA,Boeing Co,Industrials,B-GICS组3
+AIR,AAR Corp,Industrials,B-GICS组3
+RTX,RTX Corp,Industrials,B-GICS组3
+HWM,Howmet Aerospace,Industrials,B-GICS组3
+PANW,Palo Alto Networks,Information Technology,B-GICS组20
+CVLT,Commvault Systems,Information Technology,B-GICS组20
+SNOW,Snowflake Inc,Information Technology,B-GICS组20
+MDB,MongoDB Inc,Information Technology,B-GICS组20
+DELL,Dell Technologies,Information Technology,B-GICS组21
+SMCI,Super Micro Computer,Information Technology,B-GICS组21
+AMAT,Applied Materials,Information Technology,B-GICS组22
+KLAC,KLA Corporation,Information Technology,B-GICS组22
+LRCX,Lam Research,Information Technology,B-GICS组22
+CDNS,Cadence Design Systems,Information Technology,B-GICS组22
+LMT,Lockheed Martin,Industrials,B-GICS组3
+NOC,Northrop Grumman,Industrials,B-GICS组3
+HII,Huntington Ingalls,Industrials,B-GICS组3
+BWXT,BWX Technologies,Industrials,B-GICS组3
+KRMN,Karman Holdings,Industrials,B-GICS组3
+WM,Waste Management Inc,Industrials,B-GICS组4
+CLH,Clean Harbors Inc,Industrials,B-GICS组4
+NEE,NextEra Energy,Utilities,B-GICS组23
+BE,Bloom Energy,Utilities,B-GICS组23
+AWR,American States Water,Utilities,B-GICS组23
+WELL,Welltower Inc,Real Estate,B-GICS组24
+EQIX,Equinix Inc,Real Estate,B-GICS组24
+DLR,Digital Realty Trust,Real Estate,B-GICS组24
+O,Realty Income Corp,Real Estate,B-GICS组24
+MKL,Markel Group,Financials,B-GICS组25
+AXS,Axis Capital Holdings,Financials,B-GICS组25
+AFG,American Financial Group,Financials,B-GICS组25
+FNV,Franco-Nevada Corp,Materials,B-GICS组25
+NEM,Newmont Corp,Materials,B-GICS组25
+AEM,Agnico Eagle Mines,Materials,B-GICS组25
+FDX,FedEx Corp,Industrials,B-GICS组5
+JBHT,J.B. Hunt Transport Services,Industrials,B-GICS组5
+CN,Canadian National Railway,Industrials,B-GICS组5
+UPS,United Parcel Service,Industrials,B-GICS组5
+CSX,CSX Corp,Industrials,B-GICS组5
+CP,Canadian Pacific Kansas City,Industrials,B-GICS组5
+UNP,Union Pacific Corp,Industrials,B-GICS组5
+ETN,Eaton Corporation,Industrials,C-funnel-AI电力电网设备
+POWL,Powell Industries,Industrials,C-funnel-AI电力电网设备
+002028.SZ,思源电气,Industrials,C-funnel-AI电力电网设备
+CB,Chubb Limited,Financials,C-funnel-保险
+KNSL,Kinsale Capital,Financials,C-funnel-保险
+2328.HK,中国财险,Financials,C-funnel-保险
+IREN,Iren Limited,Information Technology,C-funnel-加密基础设施
+GLXY,Galaxy Digital,Financials,C-funnel-加密基础设施
+COHR,Coherent Corp.,Information Technology,C-funnel-光互连AI网络
+300308.SZ,中际旭创,Information Technology,C-funnel-光互连AI网络
+CRDO,Credo Technology,Information Technology,C-funnel-光互连AI网络
+AZO,AutoZone Inc,Consumer Discretionary,B-GICS组6
+ORLY,O'Reilly Automotive,Consumer Discretionary,B-GICS组6
+ALSN,Allison Transmission Holdings,Industrials,B-GICS组6
+GM,General Motors,Consumer Discretionary,B-GICS组6
+F,Ford Motor Co,Consumer Discretionary,B-GICS组6
+PGR,Progressive Corp,Financials,F-memory(多轮checklist:0809/0816/0817/0819判据卡;7月数据PIF+8%)
+NKE,Nike Inc,Consumer Discretionary,F-memory(三技能验证裁决0822;52周新低$39转型期)
+ANET,Arista Networks,Information Technology,F-memory(checklist0816;AI网络H2增长预期)
+AMKR,Amkor Technology,Information Technology,F-memory(checklist0816;Q2营收+26%先进封装)
+ACLS,Axcelis Technologies,Information Technology,F-memory(team checklist0809)
+ACN,Accenture plc,Information Technology,F-memory(investment-team0811;2026年内-40%后反弹)
+AMD,Advanced Micro Devices,Information Technology,G-生态链(META $60B/6GW Instinct多年协议)
+ASML,ASML Holding,Information Technology,G-生态链(TSMC设备链核心;上调2026展望)
+NVDA,NVIDIA Corp,Information Technology,G-生态链(META/MSFT算力供应商;8/26财报)
+MDU,MDU Resources Group,Utilities,G-生态链(APLD Polaris Forge 3电力供应商Montana-Dakota)
+DXC,DXC Technology,Information Technology,D1-量化(高FCF收益率筛选)
+CMCSA,Comcast Corp,Communication Services,D1-量化(高FCF收益率筛选)
+CALM,Cal-Maine Foods,Consumer Staples,D1-量化(高FCF收益率筛选)
+APP,AppLovin Corp,Information Technology,D1-量化(营收加速+FCF利润率66%)
+STRL,Sterling Infrastructure,Industrials,D1-量化(营收加速>50%筛选)
+FIX,Comfort Systems USA,Industrials,D1-量化(营收加速筛选)
+EQT,EQT Corp,Energy,D1-量化(营收加速筛选)
+RDDT,Reddit Inc,Communication Services,D1-量化(营收加速筛选)
+SFBS,ServisFirst Bancshares,Financials,D1-量化(高FCF收益率)
+SNDK,Sandisk Corp,Information Technology,D1-量化(高FCF收益率)
+MBGL,Mobility Global,Industrials,D3-事件(S&P Global分拆2026/7/1)
+HONA,Honeywell Aerospace,Industrials,D3-事件(Honeywell分拆2026/6/29)
+VGNT,Versigent PLC,Consumer Discretionary,D3-事件(Aptiv分拆2026/4/1)
+UBER,Uber Technologies,Industrials,D5-聪明钱(Ackman Q2 2026新建仓)
+BN,Brookfield Corp,Financials,D5-聪明钱(Ackman Q2 2026新建仓)
+HHH,VanEck Semiconductor ETF,Information Technology,D5-聪明钱(Ackman Q2 2026新建仓)
+BTDR,Bitdeer Technologies,Information Technology,D5-聪明钱(Druckenmiller Q2 2026新建仓)
+RIVN,Rivian Automotive,Consumer Discretionary,B-GICS组6
+TSLA,Tesla Inc,Consumer Discretionary,B-GICS组6
+CRM,Salesforce,Information Technology,I-估值修复
+HUBS,HubSpot,Information Technology,I-估值修复
+RIOT,Riot Platforms,Financials,I-加密修复
+LITE,Lumentum Holdings,Information Technology,D-瓶颈-光模块(EML/CW激光器+CPO光源受益)
+RMBS,Rambus Inc.,Information Technology,D-瓶颈-内存接口(DDR5 RCD/MRDIMM双寡头 内存超级周期受益)
+LEU,Centrus Energy,Energy,D-瓶颈-核燃料(SWU创纪录$190 美国唯一HALEU浓缩标的)
+CCJ,Cameco Corporation,Energy,D-瓶颈-核燃料(铀供应缺口万吨级 长协价上行)
+RH,RH (Restoration Hardware),Consumer Discretionary,B-GICS组7
+RACE,Ferrari NV,Consumer Discretionary,B-GICS组7
+LVMUY,LVMH Moet Hennessy (ADR),Consumer Discretionary,B-GICS组7
+HLT,Hilton Worldwide Holdings,Consumer Discretionary,B-GICS组8
+H,Hyatt Hotels Corp,Consumer Discretionary,B-GICS组8
+CCL,Carnival Corp,Consumer Discretionary,B-GICS组8
+TNL,Travel + Leisure Co,Consumer Discretionary,B-GICS组8
+COST,Costco Wholesale,Consumer Staples,B-GICS组9
+ROST,Ross Stores,Consumer Discretionary,B-GICS组9
+DG,Dollar General,Consumer Discretionary,B-GICS组9
+TGT,Target Corp,Consumer Discretionary,B-GICS组9
+TJX,TJX Companies,Consumer Discretionary,B-GICS组9
+WMT,Walmart Inc,Consumer Staples,B-GICS组9
+VZ,Verizon Communications,Communication Services,B-GICS组10
+T,AT&T Inc,Communication Services,B-GICS组10
+TMUS,T-Mobile US,Communication Services,B-GICS组10
+AMT,American Tower Corp,Real Estate,B-GICS组10
+CCI,Crown Castle Inc,Real Estate,B-GICS组10
+TU,TELUS Corp,Communication Services,B-GICS组10
+AVGO,Broadcom Inc,Information Technology,B-AI赛道2
+MRVL,Marvell Technology,Information Technology,B-AI赛道2
+FN,Fabrinet,Information Technology,B-AI赛道3
+OKLO,Oklo Inc,Utilities,B-AI赛道7
+VRT,Vertiv Holdings,Industrials,B-AI赛道9
+MOD,Modine Manufacturing,Industrials,B-AI赛道9
+PLTR,Palantir Technologies,Information Technology,B-AI赛道11
+NOW,ServiceNow Inc,Information Technology,B-AI赛道11
+ORCL,Oracle Corp,Information Technology,B-AI赛道12
+TER,Teradyne Inc,Information Technology,B-AI赛道13
+MBLY,Mobileye Global,Information Technology,B-AI赛道14
+AUR,Aurora Innovation,Information Technology,B-AI赛道14
+CORZ,Core Scientific,Financials,B-AI赛道15
+WULF,TeraWulf Inc,Financials,B-AI赛道15
+QCOM,Qualcomm Inc,Information Technology,B-AI赛道16
+RBLX,Roblox Corp,Communication Services,B-GICS组11
+EA,Electronic Arts,Communication Services,B-GICS组11
+DV,DoubleVerify Holdings,Communication Services,B-GICS组11
+STGW,Stagwell Inc,Communication Services,B-GICS组11
+NFLX,Netflix Inc,Communication Services,B-GICS组11
+DIS,Walt Disney Co,Communication Services,B-GICS组11
+KR,Kroger Co,Consumer Staples,B-GICS组12
+ACI,Albertsons Companies,Consumer Staples,B-GICS组12
+PG,Procter & Gamble,Consumer Staples,B-GICS组12
+MO,Altria Group,Consumer Staples,B-GICS组13
+PM,Philip Morris International,Consumer Staples,B-GICS组13
+PEP,PepsiCo Inc,Consumer Staples,B-GICS组13
+KO,Coca-Cola Co,Consumer Staples,B-GICS组13
+MKC,McCormick & Co,Consumer Staples,B-GICS组13
+BF.B,Brown-Forman,Consumer Staples,B-GICS组13
+APLD,Applied Digital,Information Technology,H-爆发股(20260824:FQ4FY26adj$240M+407%/AdjEBITDA转正/AI数据中心pure-play/15年长约)
+GRML,Greenland Mines Ltd,其他,D6-榜单
+BIAF,bioAffinity Technologies, Inc.,生物科技,D6-榜单
+VCIG,VCI Global Limited,其他,D6-榜单
+BRCC,BRC Inc.,其他,D6-榜单
+SKYE,Skye Bioscience, Inc.,生物科技,D6-榜单
+GAME,GameSquare Holdings, Inc.,综合控股,D6-榜单
+INCR,InterCure Ltd.,其他,D6-榜单
+RFAI,RF Acquisition Corp II,其他,D6-榜单
+HOWL,Werewolf Therapeutics, Inc.,生物科技,D6-榜单
+USDE,StablecoinX Inc.,其他,D6-榜单
+KNRX,Knorex Ltd.,其他,D6-榜单
+SDOT,Sadot Group Inc.,其他,D6-榜单
+EXYN,Exyn Technologies, Inc.,科技,D6-榜单
+LSTA,Lisata Therapeutics, Inc.,生物科技,D6-榜单
+AMCI,AMC Robotics Corporation,机器人,D6-榜单
+NCTY,The9 Limited,其他,D6-榜单
+CANG,Cango Inc.,其他,D6-榜单
+DTCX,Datacentrex, Inc.,其他,D6-榜单
+ANY,Sphere 3D Corp.,其他,D6-榜单
+HAIN,The Hain Celestial Group, Inc.,其他,D6-榜单
+GOSS,Gossamer Bio, Inc.,生物科技,D6-榜单
+LGCL,Lucas GC Limited,其他,D6-榜单
+MARA,MARA Holdings, Inc.,综合控股,D6-榜单
+CAN,Canaan Inc.,其他,D6-榜单
+INTC,Intel Corporation,其他,D6-榜单
+MRNA,Moderna, Inc.,其他,D6-榜单
+AAL,American Airlines Group Inc.,航空,D6-榜单
+SOFI,SoFi Technologies, Inc.,科技,D6-榜单
+BTBT,Bit Digital, Inc.,数字科技,D6-榜单
+BMNR,Bitmine Immersion Technologies, Inc.,科技,D6-榜单
+NOK,Nokia Oyj,其他,D6-榜单
+ONDS,Ondas Inc.,其他,D6-榜单
+PLUG,Plug Power Inc.,其他,D6-榜单
+MI,NFT Limited,其他,D6-榜单
+IESC,IES Holdings, Inc.,综合控股,D6-榜单
+SUGP,SU Group Holdings Limited,综合控股,D6-榜单
+GDC,GD Culture Group Limited,其他,D6-榜单
+CDTG,CDT Environmental Technology Investment Holdings Limited,综合控股,D6-榜单
+JZ,Jianzhi Education Technology Group Company Limited,其他,D6-榜单
+PFSA,Profusa, Inc.,其他,D6-榜单
+FLUX,Flux Power Holdings, Inc.,综合控股,D6-榜单
+IPDN,Professional Diversity Network, Inc.,其他,D6-榜单
+ISPC,iSpecimen Inc.,其他,D6-榜单
+SGLY,Singularity Future Technology Ltd.,其他,D6-榜单
+TWG,Top Wealth Group Holding Limited,其他,D6-榜单
+BTCT,BTC Digital Ltd.,数字科技,D6-榜单
+TGL,Treasure Global Inc.,其他,D6-榜单
+HVII,Hennessy Capital Investment Corp. VII,其他,D6-榜单
+GYGY,Game Your Game, Inc.,其他,D6-榜单
+ZSTK,ZeroStack Corp.,其他,D6-榜单
+MMA,Mixed Martial Arts Group Limited,其他,D6-榜单
+ZIP,ZipRecruiter, Inc.,其他,D6-榜单
+IPST,IP Strategy Holdings, Inc.,综合控股,D6-榜单
+WETO,Wetour Robotics Limited,机器人,D6-榜单
+PSIG,PS International Group Ltd.,其他,D6-榜单
+CYPH,Cypherpunk Technologies Inc.,科技,D6-榜单
+BRLS,Borealis Foods Inc.,食品,D6-榜单
+VOGX,Vogenx, Inc.,其他,D6-榜单
+YJ,Yunji Inc.,其他,D6-榜单
+ZTG,Zenta Group Company Limited,其他,D6-榜单
+EYPT,EyePoint, Inc.,其他,D6-榜单
+NUR,Nuran Wireless Inc.,其他,D6-榜单
+AIFU,AIFU Inc.,其他,D6-榜单
+DFSC,DEFSEC Technologies Inc.,科技,D6-榜单
+PROP,Prairie Operating Co.,其他,D6-榜单
+UCL,uCloudlink Group Inc.,其他,D6-榜单
+AIXI,Xiao-I Corporation,其他,D6-榜单
+ONFO,Onfolio Holdings, Inc.,综合控股,D6-榜单
+ANPA,Rich Sparkle Holdings Limited,综合控股,D6-榜单
+SCKT,Socket Mobile, Inc.,其他,D6-榜单
+SNSC,SunScout Holding Limited,其他,D6-榜单
+NXGL,NEXGEL, Inc.,其他,D6-榜单
+CVS,CVS Health,医药零售,D6-财报催化
+PSKY,Paramount Skydance,流媒体,D6-财报催化
+GRC,Gorman-Rupp,工业泵设备,D6-财报催化
+MCY,Mercury General,财产保险,D6-财报催化
+INSP,Inspire Medical Systems,医疗器械,D6-财报催化
+SIMO,Silicon Motion,半导体,D6-财报催化
+GWRE,Guidewire Software,保险软件,D6-财报催化
+ALL,Allstate,财产保险,D6-财报催化
+KGS,Kodiak Gas Services,油气服务,D6-财报催化
+TUYA,Tuya Inc,物联网平台,D6-财报催化
+NSSC,Napco Security,安防设备,D6-财报催化
+MRK,Merck & Co,制药,D6-财报催化
+BSX,Boston Scientific,Health Care,B-非AI主题1
+RMD,ResMed Inc,Health Care,B-非AI主题1
+AMGN,Amgen Inc,Health Care,B-非AI主题1
+ZBH,Zimmer Biomet,Health Care,B-非AI主题1
+EW,Edwards Lifesciences,Health Care,B-非AI主题1
+PODD,Insulet Corp,Health Care,B-非AI主题1
+DXCM,DexCom Inc,Health Care,B-非AI主题1
+ELV,Elevance Health,Health Care,B-非AI主题1
+HUM,Humana Inc,Health Care,B-非AI主题1
+MCK,McKesson Corp,Health Care,B-非AI主题1
+GD,General Dynamics,Industrials,B-非AI主题2
+LHX,L3Harris Technologies,Industrials,B-非AI主题2
+TXT,Textron Inc,Industrials,B-非AI主题2
+LDOS,Leidos Holdings,Industrials,B-非AI主题2
+SAIC,Science Applications Intl,Industrials,B-非AI主题2
+KTOS,Kratos Defense,Industrials,B-非AI主题2
+HXL,Hexcel Corp,Industrials,B-非AI主题2
+AXON,Axon Enterprise,Industrials,B-非AI主题2
+CW,Curtiss-Wright Corp,Industrials,B-非AI主题2
+DRS,Leonardo DRS,Industrials,B-非AI主题2
+PWR,Quanta Services,Industrials,B-非AI主题3
+HUBB,Hubbell Inc,Industrials,B-非AI主题3
+ATKR,Atkore Inc,Industrials,B-非AI主题3
+FLNC,Fluence Energy,Industrials,B-非AI主题3
+ENS,EnerSys Inc,Industrials,B-非AI主题3
+GNRC,Generac Holdings,Industrials,B-非AI主题3
+AES,AES Corp,Utilities,B-非AI主题3
+XEL,Xcel Energy,Utilities,B-非AI主题3
+DY,Dycom Industries,Industrials,B-非AI主题3
+MTZ,MasTec Inc,Industrials,B-非AI主题3
+EME,EMCOR Group,Industrials,B-非AI主题3
+ROK,Rockwell Automation,Industrials,B-非AI主题4
+EMR,Emerson Electric,Industrials,B-非AI主题4
+AME,AMETEK Inc,Industrials,B-非AI主题4
+PH,Parker-Hannifin,Industrials,B-非AI主题4
+IEX,IDEX Corp,Industrials,B-非AI主题4
+ITT,ITT Inc,Industrials,B-非AI主题4
+SXI,Standex International,Industrials,B-非AI主题4
+VICI,VICI Properties,Real Estate,B-非AI主题5
+PLD,Prologis Inc,Real Estate,B-非AI主题5
+PSA,Public Storage,Real Estate,B-非AI主题5
+SPG,Simon Property Group,Real Estate,B-非AI主题5
+AVB,AvalonBay Communities,Real Estate,B-非AI主题5
+EPR,EPR Properties,Real Estate,B-非AI主题5
+OHI,Omega Healthcare Investors,Real Estate,B-非AI主题5
+DUK,Duke Energy,Utilities,B-非AI主题5
+SO,Southern Company,Utilities,B-非AI主题5
+AEP,American Electric Power,Utilities,B-非AI主题5
+EXC,Exelon Corp,Utilities,B-非AI主题5
+WEC,WEC Energy Group,Utilities,B-非AI主题5
+D,Dominion Energy,Utilities,B-非AI主题5
+LLY,Eli Lilly & Co,Health Care,B-非AI主题6
+NVO,Novo Nordisk (ADR),Health Care,B-非AI主题6
+ICLR,ICON plc,Health Care,B-非AI主题6
+CRL,Charles River Laboratories,Health Care,B-非AI主题6
+MEDP,Medpace Holdings,Health Care,B-非AI主题6
+AWK,American Water Works,Utilities,B-非AI主题7
+WTRG,Essential Utilities,Utilities,B-非AI主题7
+CWT,California Water Service,Utilities,B-非AI主题7
+XYL,Xylem Inc,Industrials,B-非AI主题7
+WMS,Advanced Drainage Systems,Industrials,B-非AI主题7
+ECOL,US Ecology Inc,Industrials,B-非AI主题7
+FELE,Franklin Electric,Industrials,B-非AI主题7
+J,Jacobs Solutions,Industrials,B-非AI主题7
+VLTO,Veralto Corp,Industrials,B-非AI主题7
+DE,Deere & Company,Industrials,B-非AI主题8
+AGCO,AGCO Corp,Industrials,B-非AI主题8
+CNH,CNH Industrial,Industrials,B-非AI主题8
+TTC,Toro Company,Industrials,B-非AI主题8
+ADM,Archer-Daniels-Midland,Consumer Staples,B-非AI主题8
+BG,Bunge Global,Consumer Staples,B-非AI主题8
+MOS,Mosaic Company,Materials,B-非AI主题8
+CTVA,Corteva Inc,Materials,B-非AI主题8
+FMC,FMC Corp,Materials,B-非AI主题8
+DKNG,DraftKings Inc,Consumer Discretionary,B-非AI主题9
+FLUT,Flutter Entertainment,Consumer Discretionary,B-非AI主题9
+CHDN,Churchill Downs,Consumer Discretionary,B-非AI主题9
+PENN,Penn Entertainment,Consumer Discretionary,B-非AI主题9
+SGHC,Super Group Ltd,Consumer Discretionary,B-非AI主题9
+CHWY,Chewy Inc,Consumer Discretionary,B-非AI主题10
+WOOF,Petco Health & Wellness,Consumer Discretionary,B-非AI主题10
+FRPT,Freshpet Inc,Consumer Staples,B-非AI主题10
+ZTS,Zoetis Inc,Health Care,B-非AI主题10
+IDXX,IDEXX Laboratories,Health Care,B-非AI主题10
+BIRK,Birkenstock Holding,Consumer Discretionary,B-非AI主题11
+HESAY,Hermes Intl (ADR),Consumer Discretionary,B-非AI主题11
+PPRUY,Kering SA (ADR),Consumer Discretionary,B-非AI主题11
+MONRUY,Moncler SpA (ADR),Consumer Discretionary,B-非AI主题11
+BCUCY,Brunello Cucinelli (ADR),Consumer Discretionary,B-非AI主题11
+TPR,Tapestry Inc,Consumer Discretionary,B-非AI主题11
+EG,Everest Group,Financials,B-非AI主题12
+ACGL,Arch Capital Group,Financials,B-非AI主题12
+WRB,W.R. Berkley,Financials,B-非AI主题12
+SIGI,Selective Insurance,Financials,B-非AI主题12
+HIG,Hartford Financial,Financials,B-非AI主题12
+BABA,Alibaba Group,Consumer Discretionary,B-非AI主题13
+PDD,PDD Holdings,Consumer Discretionary,B-非AI主题13
+JD,JD.com Inc (ADR),Consumer Discretionary,B-非AI主题13
+BIDU,Baidu Inc (ADR),Communication Services,B-非AI主题13
+NTES,NetEase Inc (ADR),Communication Services,B-非AI主题13
+TCEHY,Tencent Holdings (ADR),Communication Services,B-非AI主题13
+BEKE,KE Holdings (ADR),Real Estate,B-非AI主题13
+WPM,Wheaton Precious Metals,Materials,B-非AI主题14
+RGLD,Royal Gold Inc,Materials,B-非AI主题14
+GOLD,Barrick Gold,Materials,B-非AI主题14
+HMY,Harmony Gold (ADR),Materials,B-非AI主题14
+KGC,Kinross Gold,Materials,B-非AI主题14
+BTG,B2Gold Corp,Materials,B-非AI主题14
+SSRM,SSR Mining Inc,Materials,B-非AI主题14
+OR,OR Royalties Inc,Materials,B-非AI主题14
+DOV,Dover Corporation,Industrials,D1-榜单
+NWN,Northwest Natural Holding Company,Utilities,D1-榜单
+GPC,Genuine Parts Company,Consumer Discretionary,D1-榜单
+CINF,Cincinnati Financial Corporation,Financials,D1-榜单
+JNJ,Johnson & Johnson,Health Care,D1-榜单
+CL,Colgate-Palmolive Company,Consumer Staples,D1-榜单
+NDSN,Nordson Corporation,Industrials,D1-榜单
+HRL,Hormel Foods Corporation,Consumer Staples,D1-榜单
+ABM,ABM Industries Incorporated,Industrials,D1-榜单
+FRT,Federal Realty Investment Trust,Real Estate,D1-榜单
+SWK,Stanley Black & Decker, Inc.,Industrials,D1-榜单
+CBSH,Commerce Bancshares, Inc.,Financials,D1-榜单
+SCL,Stepan Company,Materials,D1-榜单
+FUL,H.B. Fuller Company,Materials,D1-榜单
+SYY,Sysco Corporation,Consumer Staples,D1-榜单
+TR,Tootsie Roll Industries, Inc.,Consumer Staples,D1-榜单
+ITW,Illinois Tool Works Inc.,Industrials,D1-榜单
+MSA,MSA Safety Incorporated,Industrials,D1-榜单
+NFG,National Fuel Gas Company,Energy,D1-榜单
+UVV,Universal Corporation,Consumer Staples,D1-榜单
+BKH,Black Hills Corporation,Utilities,D1-榜单
+GWW,W.W. Grainger, Inc.,Industrials,D1-榜单
+LEG,Leggett & Platt, Incorporated,Consumer Discretionary,D1-榜单
+PPG,PPG Industries, Inc.,Materials,D1-榜单
+ABBV,AbbVie Inc.,Health Care,D1-榜单
+ABT,Abbott Laboratories,Health Care,D1-榜单
+BDX,Becton, Dickinson and Company,Health Care,D1-榜单
+KMB,Kimberly-Clark Corporation,Consumer Staples,D1-榜单
+LOW,Lowe's Companies, Inc.,Consumer Discretionary,D1-榜单
+TNC,Tennant Company,Industrials,D1-榜单
+ED,Consolidated Edison, Inc.,Utilities,D1-榜单
+MSEX,Middlesex Water Company,Utilities,D1-榜单
+RPM,RPM International Inc.,Materials,D1-榜单
+SPGI,S&P Global Inc.,Financials,D1-榜单
+TDS,Telephone and Data Systems, Inc.,Communication Services,D1-榜单
+RLI,RLI Corp.,Financials,D1-榜单
+ADP,Automatic Data Processing, Inc.,Industrials,D1-榜单
+APD,Air Products and Chemicals, Inc.,Materials,D1-榜单
+MCD,McDonald's Corporation,Consumer Discretionary,D1-榜单
+MGEE,MGE Energy, Inc.,Utilities,D1-榜单
+MDT,Medtronic plc,Health Care,D1-榜单
+CLX,The Clorox Company,Consumer Staples,D1-榜单
+PNR,Pentair plc,Industrials,D1-榜单
+SHW,The Sherwin-Williams Company,Materials,D1-榜单
+BEN,Franklin Templeton Inc.,Financials,D1-榜单
+CTAS,Cintas Corporation,Industrials,D1-榜单
+XOM,ExxonMobil Holdings Corporation,Energy,D1-榜单
+ATO,Atmos Energy Corporation,Utilities,D1-榜单
+AFL,Aflac Incorporated,Financials,D1-榜单
+ECL,Ecolab Inc.,Materials,D1-榜单
+TROW,T. Rowe Price Group, Inc.,Financials,D1-榜单
+CVX,Chevron Corporation,Energy,D1-榜单
+ERIE,Erie Indemnity Company,Financials,D1-榜单
+JKHY,Jack Henry & Associates, Inc.,Industrials,D1-榜单
+ROP,Roper Technologies, Inc.,Industrials,D1-榜单
+AOS,A. O. Smith Corporation,Industrials,D1-榜单
+BRO,Brown & Brown, Inc.,Financials,D1-榜单
+CAT,Caterpillar Inc.,Industrials,D1-榜单
+LIN,Linde plc,Materials,D1-榜单
+WST,West Pharmaceutical Services, Inc.,Health Care,D1-榜单
+EXPD,Expeditors International of Washington, Inc.,Industrials,D1-榜单
+CHD,Church & Dwight Co., Inc.,Consumer Staples,D1-榜单
+AAPL,Apple Inc.,Information Technology,D1-榜单
+MSFT,Microsoft Corporation,Information Technology,D1-榜单
+AMZN,Amazon.com, Inc.,Consumer Discretionary,D1-榜单
+TSM,Taiwan Semiconductor Manufacturing Company Limited,Diversified,D1-榜单
+SPCX,Space Exploration Technologies Corp.,Industrials,D1-榜单
+META,Meta Platforms, Inc.,Communication Services,D1-榜单
+BRK.B,Berkshire Hathaway Inc.,Financials,D1-榜单
+SKHY,SK hynix Inc.,Financials,D1-榜单
+V,Visa Inc.,Financials,D1-榜单
+MA,Mastercard Incorporated,Financials,D1-榜单
+CSCO,Cisco Systems, Inc.,Information Technology,D1-榜单
+BAC,Bank of America Corporation,Financials,D1-榜单
+GE,GE Aerospace,Industrials,D1-榜单
+HSBC,HSBC Holdings plc,Financials,D1-榜单
+MS,Morgan Stanley,Financials,D1-榜单
+HD,The Home Depot, Inc.,Consumer Discretionary,D1-榜单
+GS,The Goldman Sachs Group, Inc.,Financials,D1-榜单
+NVS,Novartis AG,Health Care,D1-榜单
+RY,Royal Bank of Canada,Financials,D1-榜单
+ARM,Arm Holdings plc,Information Technology,D1-榜单
+AZN,AstraZeneca PLC,Health Care,D1-榜单
+SHEL,Shell plc,Energy,D1-榜单
+WFC,Wells Fargo & Company,Financials,D1-榜单
+SAP,SAP SE,Information Technology,D1-榜单
+MUFG,Mitsubishi UFJ Financial Group, Inc.,Financials,D1-榜单
+BHP,BHP Group Limited,Materials,D1-榜单
+TXN,Texas Instruments Incorporated,Information Technology,D1-榜单
+TM,Toyota Motor Corporation,Consumer Discretionary,D1-榜单
+TMO,Thermo Fisher Scientific Inc.,Health Care,D1-榜单
+AXP,American Express Company,Financials,D1-榜单
+IBM,International Business Machines Corporation,Information Technology,D1-榜单
+C,Citigroup Inc.,Financials,D1-榜单
+SAN,Banco Santander, S.A.,Financials,D1-榜单
+TTE,TotalEnergies SE,Energy,D1-榜单
+CRWD,CrowdStrike Holdings, Inc.,Information Technology,D1-榜单
+SCHW,The Charles Schwab Corporation,Financials,D1-榜单
+APH,Amphenol Corporation,Information Technology,D1-榜单
+TD,The Toronto-Dominion Bank,Financials,D1-榜单
+STX,Seagate Technology Holdings plc,Information Technology,D1-榜单
+SHOP,Shopify Inc.,Information Technology,D1-榜单
+BLK,BlackRock, Inc.,Financials,D1-榜单
+SCCO,Southern Copper Corporation,Materials,D1-榜单
+GILD,Gilead Sciences, Inc.,Health Care,D1-榜单
+ADI,Analog Devices, Inc.,Information Technology,D1-榜单
+BX,Blackstone Inc.,Financials,D1-榜单
+RIO,Rio Tinto Group,Materials,D1-榜单
+WDC,Western Digital Corporation,Information Technology,D1-榜单

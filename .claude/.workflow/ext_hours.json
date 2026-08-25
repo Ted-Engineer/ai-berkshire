@@ -1,0 +1,35 @@
+{
+ "BABA": {
+  "error": "HTTP 403"
+ },
+ "MSFT": {
+  "error": "HTTP 403"
+ },
+ "META": {
+  "error": "HTTP 403"
+ },
+ "ADBE": {
+  "error": "HTTP 403"
+ },
+ "TSM": {
+  "error": "HTTP 403"
+ },
+ "BRK.B": {
+  "error": "HTTP 403"
+ },
+ "INTU": {
+  "error": "HTTP 403"
+ },
+ "APLD": {
+  "error": "HTTP 403"
+ },
+ "PYPL": {
+  "error": "HTTP 403"
+ },
+ "CRCL": {
+  "error": "HTTP 403"
+ },
+ "PGR": {
+  "error": "HTTP 403"
+ }
+}

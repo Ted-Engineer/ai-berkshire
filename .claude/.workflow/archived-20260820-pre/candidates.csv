@@ -1,0 +1,392 @@
+AAPL,Apple,消费科技,D5-聪明钱
+ABNB,Airbnb,在线旅游,GICS-消费服务
+ADI,Analog Devices,模拟芯片,GICS-半导体
+AEM,Agnico Eagle,金矿,非AI主题14
+AFRM,Affirm,BNPL金融科技,GICS-金融
+ALAB,Astera Labs,AI连接,AI赛道2
+ALB,Albemarle,锂矿,GICS-材料
+AMAT,Applied Materials,半导体设备,F-watchlist
+AMKR,Amkor,先进封装OSAT,F-watchlist
+AMT,American Tower,电信铁塔,GICS-电信
+AMZN,Amazon,电商/云,GICS-零售
+ANET,Arista Networks,AI网络,F-watchlist
+APLD,Applied Digital,Data Center/AI Cloud,H-爆发股(R1)
+ARM,ARM Holdings,芯片IP,AI赛道2
+ASML,ASML,光刻机,GICS-半导体
+AXP,American Express,金融,GICS-金融
+BAC,Bank of America,银行,GICS-金融
+BIDU,Baidu,中国AI,非AI主题13
+BKNG,Booking,在线旅游,GICS-消费服务
+BSX,Boston Scientific,医疗器械,GICS-医疗
+BTDR,Bitdeer,加密矿企转AI,D5-聪明钱(Druckenmiller)
+CAT,Caterpillar,工程机械,GICS-工业
+CBRS,Cerebras,AI芯片,H-爆发股(R4)
+CCI,Crown Castle,电信铁塔,GICS-电信
+CCJ,Cameco,铀矿,GICS-材料
+CCL,Carnival,邮轮,GICS-消费服务
+CDNS,Cadence,EDA,GICS-半导体
+CEG,Constellation Energy,核电IPP,F-watchlist
+CIEN,Ciena,光网络,H-爆发股(R3)
+CLS,Celestica,AI服务器ODM,D6-财报催化
+CLSK,CleanSpark,加密矿企转AI,I-加密修复
+CME,CME Group,交易所,GICS-金融
+CMG,Chipotle,餐饮,GICS-消费服务
+COHR,Coherent,光互连,H-爆发股(R3)
+COIN,Coinbase,交易所,I-加密修复
+COP,ConocoPhillips,油气勘探,GICS-能源
+COST,Costco,折扣零售,GICS-零售
+CRCL,Circle,稳定币,I-加密修复
+CRDO,Credo Technology,AI网络/连接,F-watchlist
+CRM,Salesforce,AI软件-估值修复,I-估值修复(AI)
+CRWD,CrowdStrike,网络安全,GICS-软件
+CRWV,CoreWeave,AI Cloud,H-爆发股(R1)
+CVX,Chevron,能源,GICS-能源
+DAL,Delta Air Lines,航空,F-watchlist
+DDOG,Datadog,可观测,GICS-软件
+DE,Deere,农机,非AI主题8
+DELL,Dell,AI服务器,AI赛道9
+DHR,Danaher,生命科学工具,GICS-医疗
+DLR,Digital Realty,数据中心REIT,AI赛道10
+DOW,Dow Inc,化学材料,GICS-材料
+EL,Estee Lauder,美妆,GICS-必需
+EME,EMCOR,数据中心E&C,AI赛道10
+EPD,Enterprise Products,中游管道,GICS-能源
+EQIX,Equinix,数据中心REIT,AI赛道10
+PLD,Prologis,物流REIT,GICS-房地产
+EQT,EQT Corp,天然气,GICS-能源
+ETN,Eaton,电气设备,AI赛道8
+EXEL,Exelixis,生物医药,F-watchlist
+FCX,Freeport-McMoRan,铜矿,GICS-材料
+FIX,Comfort Systems,机电工程/数据中心,D6-财报催化
+FN,Fabrinet,光模块代工,H-爆发股(R3)
+FNV,Franco-Nevada,黄金权利金,非AI主题14
+GDX,Gold Miners ETF,金矿篮子,非AI主题14
+GE,GE Aerospace,航空发动机,GICS-工业
+GEV,GE Vernova,电力设备,F-watchlist
+GOOGL,Alphabet,AI平台,F-watchlist
+HHH,Howard Hughes,综合地产,D5-聪明钱(Ackman)
+HOOD,Robinhood,经纪/加密,GICS-金融
+HPE,Hewlett Packard Ent,服务器,GICS-硬件
+HUBB,Hubbell,电气设备,F-watchlist
+HUBS,HubSpot,AI软件-估值修复,I-估值修复(AI)
+HUT,Hut 8,加密矿企转AI,I-加密修复
+HWM,Howmet Aerospace,航空零部件,GICS-工业(国防)
+ICE,Intercontinental Exchange,交易所,GICS-金融
+IREN,Iris Energy,加密矿企转AI,I-加密修复
+ISRG,Intuitive Surgical,手术机器人,GICS-医疗
+JCI,Johnson Controls,暖通/数据中心,AI赛道10
+JD,JD.com,中国电商,非AI主题13
+KLAC,KLA,半导体量测,GICS-半导体
+KMI,Kinder Morgan,中游管道,GICS-能源
+KO,Coca-Cola,消费必需,D5-聪明钱
+KWEB,中概互联ETF,中国消费篮子,非AI主题13
+LEU,Centrus Energy,铀浓缩/HALEU,F-watchlist
+LITE,Lumentum,光互连,H-爆发股(R3)
+LLY,Eli Lilly,GLP-1,非AI主题6
+LMT,Lockheed Martin,国防,GICS-工业(国防)
+LNG,Cheniere Energy,LNG出口,GICS-能源
+LRCX,Lam Research,半导体设备,F-watchlist
+MAR,Marriott,酒店,GICS-消费服务
+MARA,Marathon Digital,加密矿企,I-加密修复
+MCO,Moody's,评级,GICS-金融
+MDT,Medtronic,医疗器械,GICS-医疗
+MELI,MercadoLibre,拉美电商/金融科技,F-watchlist
+MP,MP Materials,稀土,GICS-材料
+MPLX,MPLX LP,中游管道,GICS-能源
+MPTI,M-Tron Industries,小盘AI频率元件,H-爆发股(R4)
+MRVL,Marvell,定制ASIC,AI赛道2
+MSTR,Strategy,BTC代理,I-加密修复
+MU,Micron,Memory/HBM,GICS-半导体
+NBIS,Nebius Group,AI Cloud,H-爆发股(R1)
+NFLX,Netflix,流媒体,GICS-媒体
+NOC,Northrop Grumman,国防,GICS-工业(国防)
+NOW,ServiceNow,AI软件-估值修复,I-估值修复(AI)
+NRG,NRG Energy,电力IPP,F-watchlist
+NU,Nu Holdings,新兴市场银行,GICS-金融
+NVDA,Nvidia,AI芯片,GICS-半导体
+NVO,Novo Nordisk,GLP-1,非AI主题6
+OKE,ONEOK,中游管道,GICS-能源
+OKLO,Oklo,SMR核电,AI赛道7-电力
+ON,ON Semiconductor,功率半导体,GICS-半导体
+ORCL,Oracle,OCI/AI云backlog,GICS-软件
+PANW,Palo Alto,网络安全,GICS-软件
+PDD,PDD Holdings,中国电商,非AI主题13
+PG,Procter & Gamble,消费必需,GICS-必需
+PGR,Progressive,财险保险,A-待执行(8/19月报条件)
+PLTR,Palantir,AI应用,GICS-软件
+PWR,Quanta Services,电网E&C,AI赛道8
+QCOM,Qualcomm,端侧AI,AI赛道16
+RCL,Royal Caribbean,邮轮,GICS-消费服务
+RGLD,Royal Gold,黄金权利金,非AI主题14
+RHM,Rheinmetall,欧洲国防,GICS-工业(国防)
+RIOT,Riot Platforms,加密矿企,I-加密修复
+ROST,Ross Stores,折扣零售,GICS-零售
+RTX,RTX Corp,国防,GICS-工业(国防)
+SCCO,Southern Copper,铜矿,GICS-材料
+SHOP,Shopify,电商SaaS,GICS-软件
+SLB,Schlumberger,油服,GICS-能源
+SMCI,Super Micro,AI服务器,AI赛道9
+SMR,NuScale Power,SMR核电,AI赛道7-电力
+SNDK,SanDisk,Memory/HBM链,H-爆发股(R1)
+SNOW,Snowflake,数据云,GICS-软件
+SNPS,Synopsys,EDA,GICS-半导体
+SPGI,S&P Global,金融数据,GICS-金融
+SPOT,Spotify,流媒体,GICS-媒体
+SQ,Block,支付,GICS-金融
+STX,Seagate,Memory/存储,GICS-半导体
+TCEHY,Tencent,中国互联网,非AI主题13
+TEAM,Atlassian,AI软件-估值修复,I-估值修复(AI)
+TJX,TJX,折扣零售,GICS-零售
+TLN,Talen Energy,核电IPP,F-watchlist
+TMO,Thermo Fisher,生命科学,非AI主题6
+TMUS,T-Mobile,电信,F-watchlist
+TRGP,Targa Resources,中游管道,GICS-能源
+TSLA,Tesla,机器人/自动驾驶,AI赛道13
+TTWO,Take-Two,游戏,GICS-媒体
+TXN,Texas Instruments,模拟芯片,GICS-半导体
+UBER,Uber,出行平台,GICS-消费服务
+UNH,UnitedHealth,医保,GICS-医疗
+VRT,Vertiv,AI散热/电力,F-watchlist
+VST,Vistra,电力IPP,F-watchlist
+WDC,Western Digital,Memory/存储,GICS-半导体
+WMT,Walmart,零售,GICS-零售
+WPM,Wheaton Precious,贵金属权利金,非AI主题14
+XOM,ExxonMobil,能源,GICS-能源
+ZS,Zscaler,网络安全,GICS-软件
+ticker,company,gics_sector,source
+AMLX,Amylyx Pharmaceuticals; Inc.,screener,D6-当日涨幅榜
+HAE,Haemonetics Corporation,screener,D6-当日涨幅榜
+UGI,UGI Corporation,screener,D6-当日涨幅榜
+HTFL,Heartflow; Inc.,screener,D6-当日涨幅榜
+DOO,BRP Inc.,screener,D6-当日涨幅榜
+NUVB,Nuvation Bio Inc.,screener,D6-当日涨幅榜
+DUOL,Duolingo; Inc.,screener,D6-当日涨幅榜
+TRGP,Targa Resources; Inc.,screener,D6-当日涨幅榜
+FRHC,Freedom Holding Corp.,screener,D6-当日涨幅榜
+CCC,CCC Intelligent Solutions Holdi,screener,D6-当日涨幅榜
+BBWI,Bath & Body Works; Inc.,screener,D6-当日涨幅榜
+LEGN,Legend Biotech Corporation,screener,D6-当日涨幅榜
+CHRN,ChronoScale Holdings Corporatio,screener,D6-当日涨幅榜
+PODD,Insulet Corporation,screener,D6-当日涨幅榜
+PBLS,Parabilis Medicines; Inc.,screener,D6-当日涨幅榜
+MNDY,monday.com Ltd.,screener,D6-当日涨幅榜
+PLNT,Planet Fitness; Inc.,screener,D6-当日涨幅榜
+CLBT,Cellebrite DI Ltd.,screener,D6-当日涨幅榜
+BHC,Bausch Health Companies Inc.,screener,D6-当日涨幅榜
+FOUR,Shift4 Payments; Inc.,screener,D6-当日涨幅榜
+HUBS,HubSpot; Inc.,screener,D6-当日涨幅榜
+SRRK,Scholar Rock Holding Corporatio,screener,D6-当日涨幅榜
+CLMT,Calumet; Inc,screener,D6-当日涨幅榜
+SPOT,Spotify Technology S.A.,screener,D6-当日涨幅榜
+BVC,BitVentures Limited,screener,D6-当日涨幅榜
+NOK,Nokia Corporation Sponsored,screener,D6-成交活跃榜
+INTC,Intel Corporation,screener,D6-成交活跃榜
+PATH,UiPath; Inc.,screener,D6-成交活跃榜
+NU,Nu Holdings Ltd.,screener,D6-成交活跃榜
+SPCX,Space Exploration Technologies ,screener,D6-成交活跃榜
+NVDA,NVIDIA Corporation,screener,D6-成交活跃榜
+ONDS,Ondas Inc,screener,D6-成交活跃榜
+AUR,Aurora Innovation; Inc.,screener,D6-成交活跃榜
+PLUG,Plug Power; Inc.,screener,D6-成交活跃榜
+HL,Hecla Mining Company,screener,D6-成交活跃榜
+CIFR,Cipher Digital Inc.,screener,D6-成交活跃榜
+SAN,Banco Santander; S.A. Sponsored,screener,D6-成交活跃榜
+WULF,TeraWulf Inc.,screener,D6-成交活跃榜
+AAL,American Airlines Group; Inc.,screener,D6-成交活跃榜
+SMCI,Super Micro Computer; Inc.,screener,D6-成交活跃榜
+MARA,MARA Holdings; Inc.,screener,D6-成交活跃榜
+RIG,Transocean Ltd (Switzerland),screener,D6-成交活跃榜
+AAPL,Apple Inc.,screener,D6-成交活跃榜
+OPEN,Opendoor Technologies Inc,screener,D6-成交活跃榜
+CDE,Coeur Mining; Inc.,screener,D6-成交活跃榜
+IREN,IREN LIMITED,screener,D6-成交活跃榜
+GRAB,Grab Holdings Limited,screener,D6-成交活跃榜
+NKE,Nike; Inc.,screener,D6-成交活跃榜
+KLAR,Klarna Group plc,screener,D6-成交活跃榜
+CRWV,CoreWeave; Inc.,screener,D6-成交活跃榜
+MU,Micron Technology; Inc.,screener,D6-成长科技
+PLTR,Palantir Technologies Inc.,screener,D6-成长科技
+AMD,Advanced Micro Devices; Inc.,screener,D6-成长科技
+AVGO,Broadcom Inc.,screener,D6-成长科技
+SKHY,SK hynix Inc.,screener,D6-成长科技
+ASX,ASE Technology Holding Co.; Ltd,screener,D6-成长科技
+TSM,Taiwan Semiconductor Manufactur,screener,D6-成长科技
+IONQ,IonQ; Inc.,screener,D6-成长科技
+CORZ,Core Scientific; Inc.,screener,D6-成长科技
+LRCX,Lam Research Corporation,screener,D6-成长科技
+CRDO,Credo Technology Group Holding ,screener,D6-成长科技
+APH,Amphenol Corporation,screener,D6-成长科技
+ADI,Analog Devices; Inc.,screener,D6-成长科技
+WDC,Western Digital Corporation,screener,D6-成长科技
+DELL,Dell Technologies Inc.,screener,D6-成长科技
+ALAB,Astera Labs; Inc.,screener,D6-成长科技
+FIS,Fidelity National Information S,screener,D6-成长科技
+STX,Seagate Technology Holdings PLC,screener,D6-成长科技
+DDOG,Datadog; Inc.,screener,D6-成长科技
+AMKR,Amkor Technology; Inc.,screener,D6-成长科技
+NET,Cloudflare; Inc.,screener,D6-成长科技
+TER,Teradyne; Inc.,screener,D6-成长科技
+CIEN,Ciena Corporation,screener,D6-成长科技
+T,AT&T Inc.,screener,D1-量化(成长低估)
+UMC,United Microelectronics Corpora,screener,D1-量化(成长低估)
+VG,Venture Global; Inc.,screener,D1-量化(成长低估)
+PBR,Petroleo Brasileiro S.A. Petrob,screener,D1-量化(成长低估)
+AGNC,AGNC Investment Corp.,screener,D1-量化(成长低估)
+WBS,Webster Financial Corporation,screener,D1-量化(成长低估)
+BMY,Bristol-Myers Squibb Company,screener,D1-量化(成长低估)
+OXY,Occidental Petroleum Corporatio,screener,D1-量化(成长低估)
+PBR-A,Petroleo Brasileiro S.A. Petrob,screener,D1-量化(成长低估)
+NEM,Newmont Corporation,screener,D1-量化(成长低估)
+HST,Host Hotels & Resorts; Inc.,screener,D1-量化(成长低估)
+APA,APA Corporation,screener,D1-量化(成长低估)
+TBLA,Taboola.com Ltd.,screener,D1-量化(成长低估)
+CVE,Cenovus Energy Inc,screener,D1-量化(成长低估)
+FSM,Fortuna Mining Corp.,screener,D1-量化(成长低估)
+IAG,Iamgold Corporation,screener,D1-量化(成长低估)
+AVAH,Aveanna Healthcare Holdings Inc,screener,D1-量化(成长低估)
+INTR,Inter & Co. Inc.,screener,D1-量化(成长低估)
+OVV,Ovintiv Inc. (DE),screener,D1-量化(成长低估)
+NLY,Annaly Capital Management Inc.,screener,D1-量化(成长低估)
+TAL,TAL Education Group,screener,D1-量化(成长低估)
+AEG,Aegon Ltd. New York Registry Sh,screener,D1-量化(成长低估)
+BBD,Banco Bradesco Sa,screener,D1-量化(大盘低估)
+ITUB,Itau Unibanco Banco Holding SA,screener,D1-量化(大盘低估)
+ET,Energy Transfer LP,screener,D1-量化(大盘低估)
+PR,Permian Resources Corporation,screener,D1-量化(大盘低估)
+LYG,Lloyds Banking Group Plc,screener,D1-量化(大盘低估)
+BSBR,Banco Santander Brasil SA,screener,D1-量化(大盘低估)
+KGC,Kinross Gold Corporation,screener,D1-量化(大盘低估)
+BBY,Best Buy Co.; Inc.,screener,D1-量化(大盘低估)
+AIG,American International Group; I,screener,D1-量化(大盘低估)
+JBLU,JetBlue Airways Corporation,screener,D1-量化(小盘进取)
+CAPR,Capricor Therapeutics; Inc.,screener,D1-量化(小盘进取)
+CLBK,Columbia Financial; Inc.,screener,D1-量化(小盘进取)
+LAC,Lithium Americas Corp.,screener,D1-量化(小盘进取)
+TMC,TMC the metals company Inc.,screener,D1-量化(小盘进取)
+GPRO,GoPro; Inc.,screener,D1-量化(小盘进取)
+UAMY,United States Antimony Corporat,screener,D1-量化(小盘进取)
+RNWWW,ReNew Energy Global plc Warrant,screener,D1-量化(小盘进取)
+COUR,Coursera; Inc.,screener,D1-量化(小盘进取)
+EVH,Evolent Health; Inc,screener,D1-量化(小盘进取)
+KLC,KinderCare Learning Companies; ,screener,D1-量化(小盘进取)
+AI,C3.ai; Inc.,screener,D1-量化(小盘进取)
+CMPS,COMPASS Pathways Plc - American,screener,D1-量化(小盘进取)
+NFE,New Fortress Energy Inc.,screener,D1-量化(小盘进取)
+WTI,W&T Offshore; Inc.,screener,D1-量化(小盘进取)
+ANGX,Angel Studios; Inc.,screener,D1-量化(小盘进取)
+TROX,Tronox Holdings plc,screener,D1-量化(小盘进取)
+ORC,Orchid Island Capital; Inc.,screener,D1-量化(小盘进取)
+NAT,Nordic American Tankers Limited,screener,D1-量化(小盘进取)
+ULCC,Frontier Group Holdings; Inc.,screener,D1-量化(小盘进取)
+METC,Ramaco Resources; Inc.,screener,D1-量化(小盘进取)
+OI,O-I Glass; Inc.,screener,D1-量化(小盘进取)
+PRGO,Perrigo Company plc,screener,D1-量化(小盘进取)
+OXSQ,Oxford Square Capital Corp.,screener,D1-量化(小盘进取)
+WEAV,Weave Communications; Inc.,screener,D1-量化(小盘涨幅)
+KOS,Kosmos Energy Ltd.,screener,D1-量化(小盘涨幅)
+BYND,Beyond Meat; Inc.,screener,D1-量化(小盘涨幅)
+SECZ,Securitize Corp.,screener,D1-量化(小盘涨幅)
+ACH,Accendra Health; Inc.,screener,D1-量化(小盘涨幅)
+NMAX,Newsmax; Inc.,screener,D1-量化(小盘涨幅)
+REPL,Replimune Group; Inc.,screener,D1-量化(小盘涨幅)
+KURA,Kura Oncology; Inc.,screener,D1-量化(小盘涨幅)
+ACRS,Aclaris Therapeutics; Inc.,screener,D1-量化(小盘涨幅)
+ARHS,Arhaus; Inc.,screener,D1-量化(小盘涨幅)
+CDNL,Cardinal Infrastructure Group I,screener,D1-量化(小盘涨幅)
+KPTI,Karyopharm Therapeutics Inc.,screener,D1-量化(小盘涨幅)
+AGRO,Adecoagro S.A.,screener,D1-量化(小盘涨幅)
+SENS,Senseonics Holdings; Inc.,screener,D1-量化(小盘涨幅)
+ALXO,ALX Oncology Holdings Inc.,screener,D1-量化(小盘涨幅)
+LU,Lufax Holding Ltd,screener,D1-量化(小盘涨幅)
+NMRA,Neumora Therapeutics; Inc.,screener,D1-量化(小盘涨幅)
+ALEC,Alector; Inc.,screener,D1-量化(小盘涨幅)
+GWH,ESS Tech; Inc.,screener,D1-量化(小盘涨幅)
+IFRX,InflaRx N.V.,screener,D1-量化(小盘涨幅)
+MPLT,MapLight Therapeutics; Inc.,screener,D1-量化(小盘涨幅)
+ASMB,Assembly Biosciences; Inc.,screener,D1-量化(小盘涨幅)
+LVWR,LiveWire Group; Inc.,screener,D1-量化(小盘涨幅)
+ROOT,Root; Inc.,screener,D1-量化(小盘涨幅)
+NUWE,Nuwellis; Inc.,screener,D4-做空逆向
+KUST,Kustom Entertainment; Inc.,screener,D4-做空逆向
+VIVK,Vivakor; Inc.,screener,D4-做空逆向
+INHD,Inno Holdings Inc.,screener,D4-做空逆向
+STKH,Steakholder Foods Ltd.,screener,D4-做空逆向
+AMIX,Autonomix Medical; Inc.,screener,D4-做空逆向
+FFAI,Faraday Future Intelligent Elec,screener,D4-做空逆向
+WOLF,Wolfspeed; Inc.,screener,D4-做空逆向
+SOUN,SoundHound AI; Inc.,screener,D4-做空逆向
+LENZ,LENZ Therapeutics; Inc.,screener,D4-做空逆向
+JACK,Jack In The Box Inc.,screener,D4-做空逆向
+GRPN,Groupon; Inc.,screener,D4-做空逆向
+RXRX,Recursion Pharmaceuticals; Inc.,screener,D4-做空逆向
+INDI,indie Semiconductor; Inc.,screener,D4-做空逆向
+EOSE,Eos Energy Enterprises; Inc.,screener,D4-做空逆向
+NTLA,Intellia Therapeutics; Inc.,screener,D4-做空逆向
+NTST,NetSTREIT Corp.,screener,D4-做空逆向
+WEN,Wendy's Company (The),screener,D4-做空逆向
+BBAI,BigBear.ai; Inc.,screener,D4-做空逆向
+SERV,Serve Robotics Inc.,screener,D4-做空逆向
+OCGN,Ocugen; Inc.,screener,D4-做空逆向
+AEHR,Aehr Test Systems,screener,D4-当日跌幅榜
+AAOI,Applied Optoelectronics; Inc.,screener,D4-当日跌幅榜
+MXL,MaxLinear; Inc,screener,D4-当日跌幅榜
+AXTI,AXT Inc,screener,D4-当日跌幅榜
+KALU,Kaiser Aluminum Corporation,screener,D4-当日跌幅榜
+EROC,ERock; Inc.,screener,D4-当日跌幅榜
+SMTC,Semtech Corporation,screener,D4-当日跌幅榜
+ALGM,Allegro MicroSystems; Inc.,screener,D4-当日跌幅榜
+TTMI,TTM Technologies; Inc.,screener,D4-当日跌幅榜
+OUST,Ouster; Inc.,screener,D4-当日跌幅榜
+MTSI,MACOM Technology Solutions Hold,screener,D4-当日跌幅榜
+VIAV,Viavi Solutions Inc.,screener,D4-当日跌幅榜
+SHAZ,SharonAI Holdings; Inc.,screener,D4-当日跌幅榜
+VIGAX,Vanguard Growth Index Fd Admira,screener,D1-大盘成长
+VIGIX,Vanguard Index Trust - Growth I,screener,D1-大盘成长
+VIGRX,Vanguard Index Trust Growth Ind,screener,D1-大盘成长
+FCNKX,Fidelity Contra Fund Class K,screener,D1-大盘成长
+FCNTX,Fidelity Contra Fund,screener,D1-大盘成长
+FBCCX,Fidelity Advisor Blue Chip Grow,screener,D1-大盘成长
+FBCEX,Fidelity Advisor Blue Chip Grow,screener,D1-大盘成长
+FBCHX,Fidelity Advisor Blue Chip Grow,screener,D1-大盘成长
+FBCJX,Fidelity Advisor Blue Chip Grow,screener,D1-大盘成长
+FBCKX,Fidelity Advisor Blue Chip Grow,screener,D1-大盘成长
+FBGKX,Fidelity Blue Chip Growth Fund ,screener,D1-大盘成长
+FBGRX,Fidelity Blue Chip Growth Fund,screener,D1-大盘成长
+FDGRX,Fidelity Growth Co Fund,screener,D1-大盘成长
+FGCKX,Fidelity Growth Company Fund Cl,screener,D1-大盘成长
+VRGWX,Vanguard Russell 1000 Growth In,screener,D1-大盘成长
+FSPGX,Fidelity Large Cap Growth Index,screener,D1-大盘成长
+FOCKX,Fidelity OTC Portfolio Class K,screener,D1-大盘成长
+FOCPX,Fidelity OTC Pt,screener,D1-大盘成长
+FOTDX,Fidelity Advisor OTC Fund - Cla,screener,D1-大盘成长
+FOTEX,Fidelity Advisor OTC Fund - Cla,screener,D1-大盘成长
+FOTGX,Fidelity Advisor OTC Fund - Cla,screener,D1-大盘成长
+FOTHX,Fidelity Advisor OTC Fund - Cla,screener,D1-大盘成长
+FOTJX,Fidelity Advisor OTC Fund - Cla,screener,D1-大盘成长
+FLCNX,Fidelity Contrafund K6,screener,D1-大盘成长
+FACGX,Fidelity Advisor Series II: Fid,screener,D1-大盘成长
+VFFSX,Vanguard 500 Index Fund Institu,screener,D1-组合压舱
+VFIAX,Vanguard 500 Index Fd Admiral S,screener,D1-组合压舱
+VFINX,Vanguard Index Trust 500 Index ,screener,D1-组合压舱
+FXAIX,Fidelity 500 Index Fund,screener,D1-组合压舱
+FCTDX,Strategic Advisers Fidelity U.S,screener,D1-组合压舱
+AICFX,American Funds Investment Co of,screener,D1-组合压舱
+AIVSX,American Funds Investment Co of,screener,D1-组合压舱
+CICAX,The Investment Company of Ameri,screener,D1-组合压舱
+CICEX,The Investment Company of Ameri,screener,D1-组合压舱
+FAOOX,The Investment Company of Ameri,screener,D1-组合压舱
+FCIAX,The Investment Company of Ameri,screener,D1-组合压舱
+FFICX,The Investment Company of Ameri,screener,D1-组合压舱
+ICAFX,The Investment Company of Ameri,screener,D1-组合压舱
+RIBEX,The Investment Company of Ameri,screener,D1-组合压舱
+RICCX,American Funds - The Investment,screener,D1-组合压舱
+RICEX,American Funds - The Investment,screener,D1-组合压舱
+RICFX,American Funds - The Investment,screener,D1-组合压舱
+RICGX,The Investment Company of Ameri,screener,D1-组合压舱
+RICHX,The Investment Company of Ameri,screener,D1-组合压舱
+AFICX,Fundamental Investors; Class C ,screener,D1-组合压舱
+AFIFX,Fundamental Investors; Class F0,screener,D1-组合压舱
+ANCFX,Fundamental Investors; Class A ,screener,D1-组合压舱
+CFNAX,Fundamental Investors; Class 52,screener,D1-组合压舱
+CFNCX,Fundamental Investors; Class 52,screener,D1-组合压舱
+CFNEX,Fundamental Investors; Class 52,screener,D1-组合压舱

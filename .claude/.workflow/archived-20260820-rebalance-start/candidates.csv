@@ -1,0 +1,449 @@
+ticker,company,gics_sector,source
+TSM,台积电,半导体,A-待执行/watchlist
+BRK.B,伯克希尔,多元金融,A-待执行/watchlist
+MSTR,Strategy,加密代理,A-待执行/watchlist
+COHR,Coherent,光互连,A-待执行/watchlist
+CRWV,CoreWeave,AI云,A-待执行/watchlist
+TLN,Talen Energy,电力IPP,A-待执行/watchlist
+AMAT,应用材料,半导体设备,A-待执行/watchlist
+CRDO,Credo,AI网络,A-待执行/watchlist
+LEU,Centrus,铀浓缩,A-待执行/watchlist
+LRCX,泛林,半导体设备,A-待执行/watchlist
+VRT,Vertiv,散热电力,A-待执行/watchlist
+NVDA,英伟达,半导体,A-待执行/watchlist
+MU,美光,存储,A-待执行/watchlist
+CEG,Constellation,电力IPP,A-待执行/watchlist
+GEV,GE Vernova,电力设备,A-待执行/watchlist
+NBIS,Nebius,AI云,A-待执行/watchlist
+MELI,MercadoLibre,电商,A-待执行/watchlist
+EXEL,Exelixis,生物科技,A-待执行/watchlist
+TMUS,T-Mobile,电信,A-待执行/watchlist
+DAL,达美,航空,A-待执行/watchlist
+HUBB,Hubbell,电气设备,A-待执行/watchlist
+GOOGL,Alphabet,AI平台,A-待执行/watchlist
+ANET,Arista,网络,A-待执行/watchlist
+AMKR,Amkor,封装,A-待执行/watchlist
+NRG,NRG Energy,电力IPP,A-待执行/watchlist
+CRM,Salesforce,软件,F-memory
+ACN,埃森哲,IT服务,F-memory
+TEAM,Atlassian,软件,F-memory
+INTU,Intuit,软件,F-memory
+ADBE,Adobe,软件,F-memory
+ABB,ABB,电力设备,G-生态链
+AFRM,Affirm,金融科技,G-生态链
+LNG,Cheniere,能源,B-GICS/赛道搜索
+ENB,Enbridge,能源,B-GICS/赛道搜索
+WM,Waste Mgmt,商业服务,B-GICS/赛道搜索
+NSP,Insperity,商业服务,B-GICS/赛道搜索
+ADP,ADP,商业服务,B-GICS/赛道搜索
+UNP,联合太平洋,运输,B-GICS/赛道搜索
+NSC,诺福克南方,运输,B-GICS/赛道搜索
+ZIM,以星航运,运输,B-GICS/赛道搜索
+BA,波音,工业,B-GICS/赛道搜索
+F,福特,汽车,B-GICS/赛道搜索
+BURL,Burlington,零售,B-GICS/赛道搜索
+ROST,Ross Stores,零售,B-GICS/赛道搜索
+TJX,TJX,零售,B-GICS/赛道搜索
+CCL,嘉年华,消费服务,B-GICS/赛道搜索
+DOX,Amdocs,电信软件,B-GICS/赛道搜索
+VZ,Verizon,电信,B-GICS/赛道搜索
+NFLX,奈飞,媒体,B-GICS/赛道搜索
+EL,雅诗兰黛,个护,B-GICS/赛道搜索
+UL,联合利华,个护,B-GICS/赛道搜索
+DHR,丹纳赫,生命科学,B-GICS/赛道搜索
+SELL,SELLAS,生物科技,B-GICS/赛道搜索
+LOB,Live Oak,银行,B-GICS/赛道搜索
+DLR,Digital Realty,REIT,B-GICS/赛道搜索
+EQIX,Equinix,REIT,B-GICS/赛道搜索
+SKHY,Skychip?,半导体,B-GICS/赛道搜索
+RDDT,Reddit,媒体,B-GICS/赛道搜索
+SNOW,Snowflake,软件,B-GICS/赛道搜索
+AMD,超微,半导体,B-GICS/赛道搜索
+DELL,戴尔,硬件,B-GICS/赛道搜索
+CDW,CDW,IT分销,B-GICS/赛道搜索
+SMCI,超微电脑,硬件,B-GICS/赛道搜索
+KLAC,科磊,半导体设备,B-GICS/赛道搜索
+WLDN,Willdan,能源服务,B-GICS/赛道搜索
+ENLT,Enlight,新能源,B-GICS/赛道搜索
+NVT,nVent,电气设备,B-GICS/赛道搜索
+LGN,Legence,E&C,B-GICS/赛道搜索
+MTZ,MasTec,E&C,B-GICS/赛道搜索
+CAT,卡特彼勒,工业,B-GICS/赛道搜索
+MNDY,monday.com,软件,B-GICS/赛道搜索
+DT,Dynatrace,软件,B-GICS/赛道搜索
+OKTA,Okta,软件,B-GICS/赛道搜索
+PLTR,Palantir,软件,B-GICS/赛道搜索
+VPG,Vishay PG,传感器,B-GICS/赛道搜索
+QCOM,高通,半导体,B-GICS/赛道搜索
+PNTG,Pennant,医疗服务,B-GICS/赛道搜索
+WELL,Welltower,REIT,B-GICS/赛道搜索
+AIT,Applied Industrial,工业分销,B-GICS/赛道搜索
+ETN,伊顿,电气设备,B-GICS/赛道搜索
+FN,Fabrinet,光通信,B-GICS/赛道搜索
+AAOI,Applied Optoelectronics,光模块,B-GICS/赛道搜索
+LITE,Lumentum,光通信,B-GICS/赛道搜索
+AXTI,AXT,半导体材料,B-GICS/赛道搜索
+MRNA,Moderna,生物科技,B-GICS/赛道搜索
+MRK,默克,制药,B-GICS/赛道搜索
+BNTX,BioNTech,生物科技,B-GICS/赛道搜索
+TEM,Tempus,医疗AI,B-GICS/赛道搜索
+TWST,Twist,生命科学,B-GICS/赛道搜索
+HIMS,Hims&Hers,医疗消费,B-GICS/赛道搜索
+SSRM,SSR Mining,金矿,B-GICS/赛道搜索
+HL,Hecla,贵金属,B-GICS/赛道搜索
+AG,First Majestic,白银,B-GICS/赛道搜索
+CDE,Coeur,贵金属,B-GICS/赛道搜索
+DRD,DRDGold,金矿,B-GICS/赛道搜索
+EXK,Endeavour Silver,白银,B-GICS/赛道搜索
+FSM,Fortuna,金矿,B-GICS/赛道搜索
+HYMC,Hycroft,金矿,B-GICS/赛道搜索
+KGC,Kinross,金矿,B-GICS/赛道搜索
+AEM,Agnico,金矿,B-GICS/赛道搜索
+NEM,Newmont,金矿,B-GICS/赛道搜索
+TFPM,Triple Flag,贵金属权利金,B-GICS/赛道搜索
+CRH,CRH,建材,B-GICS/赛道搜索
+MCD,麦当劳,餐饮,B-GICS/赛道搜索
+HONA,Honeywell Aerospace,航空,B-GICS/赛道搜索
+KDP,Keurig,饮料,B-GICS/赛道搜索
+KBR,KBR,工业,B-GICS/赛道搜索
+INTC,英特尔,半导体,B-GICS/赛道搜索
+NU,Nu Holdings,金融科技,B-GICS/赛道搜索
+SOFI,SoFi,金融科技,B-GICS/赛道搜索
+PATH,UiPath,软件,B-GICS/赛道搜索
+PFE,辉瑞,制药,B-GICS/赛道搜索
+T,AT&T,电信,B-GICS/赛道搜索
+IONQ,IonQ,量子,D1/D6-Yahoo筛选榜
+SIMO,慧荣,半导体,D1/D6-Yahoo筛选榜
+KC,金山云,中国云,D1/D6-Yahoo筛选榜
+CSGP,CoStar,数据服务,D1/D6-Yahoo筛选榜
+XMTR,Xometry,工业平台,D1/D6-Yahoo筛选榜
+LMND,Lemonade,保险科技,D1/D6-Yahoo筛选榜
+GEE,GEE Group,人力,D1/D6-Yahoo筛选榜
+MRVL,Marvell,半导体,D1/D6-Yahoo筛选榜
+CORZ,Core Scientific,矿企转AI,D1/D6-Yahoo筛选榜
+WDC,西数,存储,D1/D6-Yahoo筛选榜
+STX,希捷,存储,D1/D6-Yahoo筛选榜
+APH,安费诺,连接器,D1/D6-Yahoo筛选榜
+CLS,Celestica,代工,D1/D6-Yahoo筛选榜
+TTMI,TTM Tech,PCB,D1/D6-Yahoo筛选榜
+ALAB,Astera Labs,AI互连,D1/D6-Yahoo筛选榜
+DDOG,Datadog,软件,D1/D6-Yahoo筛选榜
+ASX,日月光,封装,D1/D6-Yahoo筛选榜
+TER,泰瑞达,设备,D1/D6-Yahoo筛选榜
+CIEN,Ciena,光网络,D1/D6-Yahoo筛选榜
+AEHR,Aehr,设备,D1/D6-Yahoo筛选榜
+FSLY,Fastly,CDN,D1/D6-Yahoo筛选榜
+VICR,Vicor,电力模块,D1/D6-Yahoo筛选榜
+SITM,SiTime,半导体,D1/D6-Yahoo筛选榜
+MXL,MaxLinear,半导体,D1/D6-Yahoo筛选榜
+UCTT,Ultra Clean,设备,D1/D6-Yahoo筛选榜
+ACMR,盛美,设备,D1/D6-Yahoo筛选榜
+MTSI,MACOM,半导体,D1/D6-Yahoo筛选榜
+FORM,FormFactor,设备,D1/D6-Yahoo筛选榜
+STLD,Steel Dynamics,钢铁,D1/D6-Yahoo筛选榜
+ICHR,Ichor,设备,D1/D6-Yahoo筛选榜
+SMTC,Semtech,半导体,D1/D6-Yahoo筛选榜
+MTRN,Materion,材料,D1/D6-Yahoo筛选榜
+NOVT,Novanta,光学,D1/D6-Yahoo筛选榜
+ENVX,Enovis,电池,D1/D6-Yahoo筛选榜
+HUMA,Humacyte,生物,D1/D6-Yahoo筛选榜
+RXRX,Recursion,AI制药,D1/D6-Yahoo筛选榜
+NVAX,Novavax,疫苗,D1/D6-Yahoo筛选榜
+EDIT,Editas,基因,D1/D6-Yahoo筛选榜
+SOC,Sable,油气,D1/D6-Yahoo筛选榜
+CAPR,Capricor,生物,D1/D6-Yahoo筛选榜
+SG,Sweetgreen,餐饮,D1/D6-Yahoo筛选榜
+CGC,Canopy,大麻,D1/D6-Yahoo筛选榜
+ABSI,Absci,AI制药,D1/D6-Yahoo筛选榜
+DNUT,Krispy Kreme,食品,D1/D6-Yahoo筛选榜
+AI,C3.ai,AI软件,D1/D6-Yahoo筛选榜
+NRGV,Energy Vault,储能,D1/D6-Yahoo筛选榜
+ALLO,Allogene,生物,D1/D6-Yahoo筛选榜
+PACB,Pacific Bio,基因,D1/D6-Yahoo筛选榜
+GLOB,Globant,IT服务,D1/D6-Yahoo筛选榜
+WEN,Wendys,餐饮,D1/D6-Yahoo筛选榜
+GPRO,GoPro,硬件,D1/D6-Yahoo筛选榜
+CLVT,Clarivate,数据,D1/D6-Yahoo筛选榜
+FMC,FMC,农化,D1/D6-Yahoo筛选榜
+OPK,OPKO,生物,D1/D6-Yahoo筛选榜
+BMNR,Bitmine,加密财库,D1/D6-Yahoo筛选榜
+BTCT,BTC仓,加密ETF,D1/D6-Yahoo筛选榜
+BULL,Bullish,加密交易所,D1/D6-Yahoo筛选榜
+PURR,Hyperliquid代理?,加密,D1/D6-Yahoo筛选榜
+IBIT,iShares BTC,加密ETF,D1/D6-Yahoo筛选榜
+ETHA,ETH ETF,加密ETF,D1/D6-Yahoo筛选榜
+XXI,,,D1/D6-Yahoo筛选榜
+AUGO,,,D1/D6-Yahoo筛选榜
+ARIS,Aris,水务,D1/D6-Yahoo筛选榜
+TXG,10x Genomics,生命科学,D1/D6-Yahoo筛选榜
+CRSP,CRISPR,基因,D1/D6-Yahoo筛选榜
+IOVA,Iovance,生物,D1/D6-Yahoo筛选榜
+AMR,Alpha Met,焦煤,D1/D6-Yahoo筛选榜
+SNDS,SanDisk,存储,H-爆发股
+RIOT,Riot Platforms,矿企转AI,H-爆发股
+BTDR,Bitdeer,矿企转AI,H-爆发股
+CIFR,Cipher,矿企转AI,H-爆发股
+IREN,IREN,矿企转AI,H-爆发股
+HUT,Hut 8,矿企转AI,H-爆发股
+CLSK,CleanSpark,矿企,H-爆发股
+MARA,MARA,矿企,H-爆发股
+VOLT,VOLT,电气,H-爆发股
+PWCM,PowerCompute,算力,H-爆发股
+DUOT,Duos Tech,太阳能,H-爆发股
+INOD,Innodata,AI数据,H-爆发股
+PHOX,Photonics X?,光子,H-爆发股
+COIN,Coinbase,加密交易所,I-估值修复/加密修复
+HOOD,Robinhood,加密经纪,I-估值修复/加密修复
+PYPL,PayPal,金融科技,I-估值修复/加密修复
+FI,Fiserv,支付,I-估值修复/加密修复
+DLO,dLocal,支付,I-估值修复/加密修复
+SPGI,S&P Global,数据,I-估值修复/加密修复
+AAPL,苹果,消费科技,I-估值修复/加密修复
+WBD,华纳,媒体,I-估值修复/加密修复
+BTBT,Bit Digital,矿企转AI,I-估值修复/加密修复
+HYPE,Hyperliquid,DeFi,I-估值修复/加密修复
+MTPLF,Metaplanet,加密财库,I-估值修复/加密修复
+ONDO,Ondo,RWA,I-估值修复/加密修复
+JPM,摩根大通,银行,B-行业清单补全(上述搜索覆盖)
+GS,高盛,多元金融,B-行业清单补全(上述搜索覆盖)
+MS,摩根士丹利,多元金融,B-行业清单补全(上述搜索覆盖)
+BAC,美银,银行,B-行业清单补全(上述搜索覆盖)
+WFC,富国,银行,B-行业清单补全(上述搜索覆盖)
+MCK,McKesson,医药分销,B-行业清单补全(上述搜索覆盖)
+CVS,CVS,医药零售,B-行业清单补全(上述搜索覆盖)
+COST,Costco,零售,B-行业清单补全(上述搜索覆盖)
+WMT,沃尔玛,零售,B-行业清单补全(上述搜索覆盖)
+TGT,Target,零售,B-行业清单补全(上述搜索覆盖)
+DG,Dollar General,折扣零售,B-行业清单补全(上述搜索覆盖)
+DLTR,Dollar Tree,折扣零售,B-行业清单补全(上述搜索覆盖)
+KR,克罗格,食品零售,B-行业清单补全(上述搜索覆盖)
+UAL,美联航,航空,B-行业清单补全(上述搜索覆盖)
+LUV,西南航空,航空,B-行业清单补全(上述搜索覆盖)
+AAL,美国航空,航空,B-行业清单补全(上述搜索覆盖)
+JBLU,捷蓝,航空,B-行业清单补全(上述搜索覆盖)
+AZUL,Azul,航空,B-行业清单补全(上述搜索覆盖)
+BKNG,Booking,旅游,B-行业清单补全(上述搜索覆盖)
+MAR,万豪,酒店,B-行业清单补全(上述搜索覆盖)
+HLT,希尔顿,酒店,B-行业清单补全(上述搜索覆盖)
+CMG,Chipotle,餐饮,B-行业清单补全(上述搜索覆盖)
+YUM,百胜,餐饮,B-行业清单补全(上述搜索覆盖)
+FCX,Freeport,铜矿,B-行业清单补全(上述搜索覆盖)
+SCCO,南方铜业,铜矿,B-行业清单补全(上述搜索覆盖)
+LUN,Lundin,铜矿,B-行业清单补全(上述搜索覆盖)
+ERO,Ero Copper,铜矿,B-行业清单补全(上述搜索覆盖)
+GOLD,巴里克,金矿,B-行业清单补全(上述搜索覆盖)
+WPM,Wheaton,贵金属权利金,B-行业清单补全(上述搜索覆盖)
+FNV,Franco-Nevada,贵金属权利金,B-行业清单补全(上述搜索覆盖)
+PAAS,Pan American,白银,B-行业清单补全(上述搜索覆盖)
+BTG,B2Gold,金矿,B-行业清单补全(上述搜索覆盖)
+IAG,IAMGOLD,金矿,B-行业清单补全(上述搜索覆盖)
+SAND,Sandstorm,权利金,B-行业清单补全(上述搜索覆盖)
+CCJ,Cameco,铀,B-行业清单补全(上述搜索覆盖)
+SRUUF,Sprott,铀基金,B-行业清单补全(上述搜索覆盖)
+UUUU,Energy Fuels,铀,B-行业清单补全(上述搜索覆盖)
+NXE,NexGen,铀,B-行业清单补全(上述搜索覆盖)
+DNN,Denison,铀,B-行业清单补全(上述搜索覆盖)
+OKLO,Oklo,SMR,B-行业清单补全(上述搜索覆盖)
+SMR,NuScale,SMR,B-行业清单补全(上述搜索覆盖)
+BWXT,BWX Tech,核部件,B-行业清单补全(上述搜索覆盖)
+ASML,阿斯麦,半导体设备,B-行业清单补全(上述搜索覆盖)
+TOELY,东京电子,半导体设备,B-行业清单补全(上述搜索覆盖)
+ON,安森美,半导体,B-行业清单补全(上述搜索覆盖)
+TXN,德州仪器,半导体,B-行业清单补全(上述搜索覆盖)
+ADI,亚德诺,半导体,B-行业清单补全(上述搜索覆盖)
+MCHP,Microchip,半导体,B-行业清单补全(上述搜索覆盖)
+NXPI,恩智浦,半导体,B-行业清单补全(上述搜索覆盖)
+MPWR,Monolithic,半导体,B-行业清单补全(上述搜索覆盖)
+SWKS,Skyworks,射频,B-行业清单补全(上述搜索覆盖)
+QRVO,Qorvo,射频,B-行业清单补全(上述搜索覆盖)
+ARM,Arm,半导体IP,B-行业清单补全(上述搜索覆盖)
+SNPS,Synopsys,EDA,B-行业清单补全(上述搜索覆盖)
+CDNS,Cadence,EDA,B-行业清单补全(上述搜索覆盖)
+GFS,GlobalFoundries,代工,B-行业清单补全(上述搜索覆盖)
+ENTG,Entegris,材料,B-行业清单补全(上述搜索覆盖)
+MKSI,MKS,设备,B-行业清单补全(上述搜索覆盖)
+CAMT,Camtek,设备,B-行业清单补全(上述搜索覆盖)
+ONTO,Onto,设备,B-行业清单补全(上述搜索覆盖)
+SLB,斯伦贝谢,油服,B-行业清单补全(上述搜索覆盖)
+HAL,哈里伯顿,油服,B-行业清单补全(上述搜索覆盖)
+BKR,贝克休斯,油服,B-行业清单补全(上述搜索覆盖)
+FTI,TechnipFMC,油服,B-行业清单补全(上述搜索覆盖)
+NOV,NOV,油服,B-行业清单补全(上述搜索覆盖)
+XOM,埃克森美孚,能源,B-行业清单补全(上述搜索覆盖)
+CVX,雪佛龙,能源,B-行业清单补全(上述搜索覆盖)
+COP,康菲,能源,B-行业清单补全(上述搜索覆盖)
+OXY,西方石油,能源,B-行业清单补全(上述搜索覆盖)
+EQT,EQT,天然气,B-行业清单补全(上述搜索覆盖)
+CTRA,Coterra,天然气,B-行业清单补全(上述搜索覆盖)
+KMI,Kinder Morgan,管道,B-行业清单补全(上述搜索覆盖)
+OKE,ONEOK,管道,B-行业清单补全(上述搜索覆盖)
+WMB,Williams,管道,B-行业清单补全(上述搜索覆盖)
+ET,Energy Transfer,管道,B-行业清单补全(上述搜索覆盖)
+MPC,Marathon,炼化,B-行业清单补全(上述搜索覆盖)
+VLO,Valero,炼化,B-行业清单补全(上述搜索覆盖)
+PSX,Phillips66,炼化,B-行业清单补全(上述搜索覆盖)
+LEN,Lennar,地产建筑,B-行业清单补全(上述搜索覆盖)
+DHI,DR Horton,地产建筑,B-行业清单补全(上述搜索覆盖)
+NVR,NVR,地产建筑,B-行业清单补全(上述搜索覆盖)
+PHM,PulteGroup,地产建筑,B-行业清单补全(上述搜索覆盖)
+TMHC,Taylor Morrison,地产建筑,B-行业清单补全(上述搜索覆盖)
+HD,家得宝,家装,B-行业清单补全(上述搜索覆盖)
+LOW,Lowe's,家装,B-行业清单补全(上述搜索覆盖)
+WSO,,,B-行业清单补全(上述搜索覆盖)
+LMT,洛马,国防,B-行业清单补全(上述搜索覆盖)
+NOC,诺格,国防,B-行业清单补全(上述搜索覆盖)
+GD,通用动力,国防,B-行业清单补全(上述搜索覆盖)
+RTX,雷神,国防,B-行业清单补全(上述搜索覆盖)
+HWM,Howmet,航空部件,B-行业清单补全(上述搜索覆盖)
+HEI,HEICO,航空部件,B-行业清单补全(上述搜索覆盖)
+TDG,TransDigm,航空部件,B-行业清单补全(上述搜索覆盖)
+TXT,德事隆,航空,B-行业清单补全(上述搜索覆盖)
+RHM.DE,莱茵金属,欧洲国防,B-行业清单补全(上述搜索覆盖)
+RR.L,罗罗,欧洲国防,B-行业清单补全(上述搜索覆盖)
+BAE.L,BAE,欧洲国防,B-行业清单补全(上述搜索覆盖)
+KTOS,Kratos,无人机,B-行业清单补全(上述搜索覆盖)
+AVAV,AeroVironment,无人机,B-行业清单补全(上述搜索覆盖)
+LDOS,Leidos,国防IT,B-行业清单补全(上述搜索覆盖)
+SAIC,SAIC,国防IT,B-行业清单补全(上述搜索覆盖)
+TCEHY,腾讯,中国互联网,B-行业清单补全(上述搜索覆盖)
+PDD,拼多多,中国互联网,B-行业清单补全(上述搜索覆盖)
+JD,京东,中国互联网,B-行业清单补全(上述搜索覆盖)
+BIDU,百度,中国互联网,B-行业清单补全(上述搜索覆盖)
+NTES,网易,中国互联网,B-行业清单补全(上述搜索覆盖)
+BILI,B站,中国互联网,B-行业清单补全(上述搜索覆盖)
+IQ,爱奇艺,中国互联网,B-行业清单补全(上述搜索覆盖)
+TCOM,携程,中国旅游,B-行业清单补全(上述搜索覆盖)
+FUTU,富途,中概金融科技,B-行业清单补全(上述搜索覆盖)
+LI,理想,中国EV,B-行业清单补全(上述搜索覆盖)
+NIO,蔚来,中国EV,B-行业清单补全(上述搜索覆盖)
+XPEV,小鹏,中国EV,B-行业清单补全(上述搜索覆盖)
+BYD,比亚迪,EV,B-行业清单补全(上述搜索覆盖)
+UNH,联合健康,医保,B-行业清单补全(上述搜索覆盖)
+HUM,Humana,医保,B-行业清单补全(上述搜索覆盖)
+ELV,Elevance,医保,B-行业清单补全(上述搜索覆盖)
+CI,Cigna,医保,B-行业清单补全(上述搜索覆盖)
+ISRG,直觉外科,医疗器械,B-行业清单补全(上述搜索覆盖)
+BSX,波士顿科学,医疗器械,B-行业清单补全(上述搜索覆盖)
+ABT,雅培,医疗器械,B-行业清单补全(上述搜索覆盖)
+MDT,美敦力,医疗器械,B-行业清单补全(上述搜索覆盖)
+SYK,史赛克,医疗器械,B-行业清单补全(上述搜索覆盖)
+GEHC,GE医疗,医疗影像,B-行业清单补全(上述搜索覆盖)
+HCA,HCA,医院,B-行业清单补全(上述搜索覆盖)
+THC,Tenet,医院,B-行业清单补全(上述搜索覆盖)
+VEEV,Veeva,医疗SaaS,B-行业清单补全(上述搜索覆盖)
+LIN,林德,工业气体,B-行业清单补全(上述搜索覆盖)
+APD,空气产品,工业气体,B-行业清单补全(上述搜索覆盖)
+ECL,艺康,化学品,B-行业清单补全(上述搜索覆盖)
+DD,杜邦,化学品,B-行业清单补全(上述搜索覆盖)
+SHW,宣伟,涂料,B-行业清单补全(上述搜索覆盖)
+NUE,纽柯,钢铁,B-行业清单补全(上述搜索覆盖)
+CLF,克利夫兰,钢铁,B-行业清单补全(上述搜索覆盖)
+EMR,艾默生,工业,B-行业清单补全(上述搜索覆盖)
+ITW,ITW,工业,B-行业清单补全(上述搜索覆盖)
+PH,派克,工业,B-行业清单补全(上述搜索覆盖)
+CMI,康明斯,工业,B-行业清单补全(上述搜索覆盖)
+DE,迪尔,农机,B-行业清单补全(上述搜索覆盖)
+VMC,Vulcan,骨料,B-行业清单补全(上述搜索覆盖)
+MLM,Martin Marietta,骨料,B-行业清单补全(上述搜索覆盖)
+URI,联合租赁,租赁,B-行业清单补全(上述搜索覆盖)
+FAST,Fastenal,工业分销,B-行业清单补全(上述搜索覆盖)
+MSCI,MSCI,金融数据,B-行业清单补全(上述搜索覆盖)
+ICE,洲际交易所,交易所,B-行业清单补全(上述搜索覆盖)
+CME,芝加哥商品所,交易所,B-行业清单补全(上述搜索覆盖)
+MCO,穆迪,评级,B-行业清单补全(上述搜索覆盖)
+V,Visa,支付,B-行业清单补全(上述搜索覆盖)
+MA,万事达,支付,B-行业清单补全(上述搜索覆盖)
+AXP,运通,支付,B-行业清单补全(上述搜索覆盖)
+DFS,Discover,支付,B-行业清单补全(上述搜索覆盖)
+COF,第一资本,银行,B-行业清单补全(上述搜索覆盖)
+SCHW,嘉信,经纪,B-行业清单补全(上述搜索覆盖)
+GLXY,Galaxy Digital,加密综合,B-行业清单补全(上述搜索覆盖)
+WULF,TeraWulf,矿企转AI,B-行业清单补全(上述搜索覆盖)
+PG,宝洁,消费必需,B-行业清单补全(上述搜索覆盖)
+KO,可口可乐,饮料,B-行业清单补全(上述搜索覆盖)
+PEP,百事,饮料,B-行业清单补全(上述搜索覆盖)
+PM,菲莫,烟草,B-行业清单补全(上述搜索覆盖)
+MO,奥驰亚,烟草,B-行业清单补全(上述搜索覆盖)
+GIS,通用磨坊,食品,B-行业清单补全(上述搜索覆盖)
+HSY,好时,食品,B-行业清单补全(上述搜索覆盖)
+KHC,卡夫,食品,B-行业清单补全(上述搜索覆盖)
+CL,高露洁,个护,B-行业清单补全(上述搜索覆盖)
+CHD,Church&Dwight,个护,B-行业清单补全(上述搜索覆盖)
+DUK,杜克能源,公用,B-行业清单补全(上述搜索覆盖)
+SO,南方公司,公用,B-行业清单补全(上述搜索覆盖)
+NEE,NextEra,公用,B-行业清单补全(上述搜索覆盖)
+D,Dominion,公用,B-行业清单补全(上述搜索覆盖)
+AEP,AEP,公用,B-行业清单补全(上述搜索覆盖)
+EXC,Exelon,公用,B-行业清单补全(上述搜索覆盖)
+SRE,Sempra,公用,B-行业清单补全(上述搜索覆盖)
+PEG,PSEG,公用,B-行业清单补全(上述搜索覆盖)
+XEL,Xcel,公用,B-行业清单补全(上述搜索覆盖)
+WEC,WEC,公用,B-行业清单补全(上述搜索覆盖)
+ED,爱迪生,公用,B-行业清单补全(上述搜索覆盖)
+PPL,PPL,公用,B-行业清单补全(上述搜索覆盖)
+AMT,American Tower,电信REIT,B-行业清单补全(上述搜索覆盖)
+CCI,Crown Castle,电信REIT,B-行业清单补全(上述搜索覆盖)
+SBAC,SBA,电信REIT,B-行业清单补全(上述搜索覆盖)
+PLD,普洛斯,工业REIT,B-行业清单补全(上述搜索覆盖)
+O,Realty Income,零售REIT,B-行业清单补全(上述搜索覆盖)
+VICI,VICI,博彩REIT,B-行业清单补全(上述搜索覆盖)
+PSA,Public Storage,仓储REIT,B-行业清单补全(上述搜索覆盖)
+AVB,Avalon,住宅REIT,B-行业清单补全(上述搜索覆盖)
+EQR,Equity Residential,住宅REIT,B-行业清单补全(上述搜索覆盖)
+DIS,迪士尼,媒体,B-行业清单补全(上述搜索覆盖)
+PARA,派拉蒙,媒体,B-行业清单补全(上述搜索覆盖)
+ROKU,Roku,流媒体,B-行业清单补全(上述搜索覆盖)
+SPOT,Spotify,流媒体,B-行业清单补全(上述搜索覆盖)
+EA,EA,游戏,B-行业清单补全(上述搜索覆盖)
+TTWO,Take-Two,游戏,B-行业清单补全(上述搜索覆盖)
+RBLX,Roblox,游戏,B-行业清单补全(上述搜索覆盖)
+U,Unity,游戏引擎,B-行业清单补全(上述搜索覆盖)
+TTD,Trade Desk,广告,B-行业清单补全(上述搜索覆盖)
+CHTR,Charter,有线,B-行业清单补全(上述搜索覆盖)
+CMCSA,康卡斯特,有线,B-行业清单补全(上述搜索覆盖)
+BR,Broadridge,金融科技,B-行业清单补全(上述搜索覆盖)
+GPN,Global Payments,支付,B-行业清单补全(上述搜索覆盖)
+WTW,韋萊韜悅,保险经纪,B-行业清单补全(上述搜索覆盖)
+AJG,AJG,保险经纪,B-行业清单补全(上述搜索覆盖)
+MMC,Marsh,保险经纪,B-行业清单补全(上述搜索覆盖)
+TRV,Travelers,财险,B-行业清单补全(上述搜索覆盖)
+ALL,Allstate,财险,B-行业清单补全(上述搜索覆盖)
+CB,Chubb,财险,B-行业清单补全(上述搜索覆盖)
+WRB,WRB,财险,B-行业清单补全(上述搜索覆盖)
+HIG,哈特福德,财险,B-行业清单补全(上述搜索覆盖)
+AFL,Aflac,寿险,B-行业清单补全(上述搜索覆盖)
+MET,MetLife,寿险,B-行业清单补全(上述搜索覆盖)
+PRU,保德信,寿险,B-行业清单补全(上述搜索覆盖)
+RNR,RenaissanceRe,再保,B-行业清单补全(上述搜索覆盖)
+EG,Everest,再保,B-行业清单补全(上述搜索覆盖)
+ACGL,Arch,再保,B-行业清单补全(上述搜索覆盖)
+KNSL,Kinsale, specialty保险,B-行业清单补全(上述搜索覆盖)
+MKL,Markel,保险控股,B-行业清单补全(上述搜索覆盖)
+VRSK,Verisk,数据,B-行业清单补全(上述搜索覆盖)
+CPAY,,,B-行业清单补全(上述搜索覆盖)
+FICO,FICO,数据,B-行业清单补全(上述搜索覆盖)
+SSNC,,,B-行业清单补全(上述搜索覆盖)
+TSLA,特斯拉,EV/机器人,B-行业清单补全(上述搜索覆盖)
+UBER,Uber,出行,B-行业清单补全(上述搜索覆盖)
+ABNB,Airbnb,旅游,B-行业清单补全(上述搜索覆盖)
+SHOP,Shopify,电商,B-行业清单补全(上述搜索覆盖)
+AMZN,亚马逊,电商/云,B-行业清单补全(上述搜索覆盖)
+ORCL,甲骨文,数据库/云,B-行业清单补全(上述搜索覆盖)
+IBM,IBM,IT,B-行业清单补全(上述搜索覆盖)
+NOW,ServiceNow,软件,B-行业清单补全(上述搜索覆盖)
+CRWD,CrowdStrike,网安,B-行业清单补全(上述搜索覆盖)
+PANW,Palo Alto,网安,B-行业清单补全(上述搜索覆盖)
+ZS,Zscaler,网安,B-行业清单补全(上述搜索覆盖)
+FTNT,飞塔,网安,B-行业清单补全(上述搜索覆盖)
+NET,Cloudflare,网安,B-行业清单补全(上述搜索覆盖)
+MDB,MongoDB,数据库,B-行业清单补全(上述搜索覆盖)
+GLW,康宁,光玻璃,B-行业清单补全(上述搜索覆盖)
+TEL,TE Connectivity,连接器,B-行业清单补全(上述搜索覆盖)
+VSH,Vishay,被动元件,B-行业清单补全(上述搜索覆盖)
+LSCC,Lattice,FPGA,B-行业清单补全(上述搜索覆盖)
+FDX,联邦快递,物流,B-行业清单补全(上述搜索覆盖)
+UPS,UPS,物流,B-行业清单补全(上述搜索覆盖)
+XPO,XPO,物流,B-行业清单补全(上述搜索覆盖)
+JBHT,JB Hunt,物流,B-行业清单补全(上述搜索覆盖)
+ODFL,Old Dominion,物流,B-行业清单补全(上述搜索覆盖)
+EXPD,Expeditors,货代,B-行业清单补全(上述搜索覆盖)

@@ -1,0 +1,106 @@
+EPD,Enterprise Products Partners,Energy,gics1v
+WMB,Williams Companies,Energy,gics1v
+TRGP,Targa Resources,Energy,gics1v
+BE,Bloom Energy,Energy,gics1g
+FANG,Diamondback Energy,Energy,gics1g
+SQM,Sociedad Quimica y Minera,Materials,gics2v
+MP,MP Materials,Materials,gics2v
+ALB,Albemarle,Materials,gics2v
+LAC,Lithium Americas,Materials,gics2v
+TXT,Textron,Capital Goods,gics3v
+HWM,Howmet Aerospace,Capital Goods,gics3v
+TDG,TransDigm Group,Capital Goods,gics3v
+CDRE,Cadre Holdings,Capital Goods,gics3g
+KRMN,Karman Holdings,Capital Goods,gics3g
+WM,Waste Management,Commercial Services,gics4v
+RSG,Republic Services,Commercial Services,gics4v
+CLH,Clean Harbors,Commercial Services,gics4v
+GFL,GFL Environmental,Commercial Services,gics4v
+UPST,Upstart Holdings,Commercial Services,gics4g
+FDX,FedEx,Transportation,gics5v
+JBHT,J.B. Hunt Transport,Transportation,gics5v
+JOBY,Joby Aviation,Transportation,gics5v
+CSX,CSX Corp,Transportation,gics5g
+GM,General Motors,Automobiles,gics6v
+AZO,AutoZone,Automobiles,gics6v
+ORLY,O'Reilly Automotive,Automobiles,gics6v
+RIVN,Rivian Automotive,Automobiles,gics6g
+BWA,BorgWarner,Automobiles,gics6g
+RH,RH,Consumer Durables,gics7v
+RACE,Ferrari,Consumer Durables,gics7v
+LVMUY,LVMH ADR,Consumer Durables,gics7v
+CROX,Crocs,Consumer Durables,gics11v
+HLT,Hilton Worldwide,Consumer Services,gics8v
+H,Hyatt Hotels,Consumer Services,gics8v
+NCLH,Norwegian Cruise Line,Consumer Services,gics8v
+CCL,Carnival,Consumer Services,gics8v
+TNL,Travel + Leisure,Consumer Services,gics8g
+DG,Dollar General,Retailing,gics9v
+ROST,Ross Stores,Retailing,gics9v
+BURL,Burlington Stores,Retailing,gics9v
+SVV,Savers Value Village,Retailing,gics9g
+BOOT,Boot Barn,Retailing,gics9g
+VZ,Verizon,Telecom,gics10g
+T,AT&T,Telecom,gics10g
+TMUS,T-Mobile US,Telecom,gics10g
+CHTR,Charter Communications,Telecom,gics10v
+RCI,Rogers Communications,Telecom,gics10v
+NFLX,Netflix,Media & Entertainment,gics11v
+DIS,Walt Disney,Media & Entertainment,gics11g
+TTD,The Trade Desk,Media & Entertainment,gics10v
+ACI,Albertsons,Staples Retail,gics12v
+CASY,Casey's General Stores,Staples Retail,gics9v
+DLTR,Dollar Tree,Staples Retail,gics9v
+MO,Altria Group,Food Beverage Tobacco,gics13v
+PM,Philip Morris,Food Beverage Tobacco,gics13v
+PEP,PepsiCo,Food Beverage Tobacco,gics13g
+CAG,Conagra Brands,Food Beverage Tobacco,gics12v
+INGR,Ingredion,Food Beverage Tobacco,gics12v
+EL,Estee Lauder,Household Products,gics14v
+KVUE,Kenvue,Household Products,gics14v
+ELF,e.l.f. Beauty,Household Products,gics14v
+IPAR,Interparfums,Household Products,gics14v
+CLX,Clorox,Household Products,gics13g
+INMD,InMode,Health Equipment & Services,gics15v
+CNMD,Conmed,Health Equipment & Services,gics15v
+IART,Integra LifeSciences,Health Equipment & Services,gics15v
+STE,STERIS,Health Equipment & Services,gics15v
+GEHC,GE HealthCare,Health Equipment & Services,gics15v
+HRMY,Harmony Biosciences,Pharma & Biotech,gics16v
+EXEL,Exelixis,Pharma & Biotech,gics16v
+ADMA,ADMA Biologics,Pharma & Biotech,gics16v
+ARGX,Argenx,Pharma & Biotech,gics16v
+INSM,Insmed,Pharma & Biotech,gics16v
+NU,Nu Holdings,Banks,gics17v
+RF,Regions Financial,Banks,gics17v
+ZION,Zions Bancorp,Banks,gics17v
+CFG,Citizens Financial,Banks,gics17v
+BAC,Bank of America,Banks,gics17g
+DLO,dLocal,Diversified Financials,gics20v
+AIG,American International Group,Insurance,gics19v
+AFG,American Financial Group,Insurance,gics19v
+ACT,Enact Holdings,Insurance,gics19v
+PCOR,Procore Technologies,Software,gics20v
+INTU,Intuit,Software,gics20v
+CRWD,CrowdStrike,Software,gics20v
+SNOW,Snowflake,Software,gics20g
+DDOG,Datadog,Software,gics20g
+DELL,Dell Technologies,Tech Hardware,gics21v
+WDC,Western Digital,Tech Hardware,gics21v
+IREN,IREN Ltd,Tech Hardware,gics21v
+AMAT,Applied Materials,Semiconductors,gics22v
+MU,Micron Technology,Semiconductors,gics22v
+LRCX,Lam Research,Semiconductors,gics22v
+MRVL,Marvell Technology,Semiconductors,gics22v
+INTC,Intel,Semiconductors,gics22v
+GEV,GE Vernova,Utilities,gics23v
+BEP,Brookfield Renewable,Utilities,gics23v
+AGX,Argan,Utilities,gics23v
+EXE,Expand Energy,Utilities,gics23v
+DLR,Digital Realty,Real Estate,gics24g
+EQIX,Equinix,Real Estate,gics24v
+WELL,Welltower,Real Estate,gics24v
+O,Realty Income,Real Estate,gics24v
+CCI,Crown Castle,Real Estate,gics24v
+AMT,American Tower,Transportation-Logistics+Wireless,gics25g
+UPS,United Parcel Service,Transportation-Logistics+Wireless,gics25v

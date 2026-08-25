@@ -1,0 +1,14 @@
+ticker,company,theme,source,fear_narrative,catalyst,confidence,note
+MSTR,Strategy Inc,BTC财库折价+杠杆复苏,I-加密修复,卖BTC付优先股息=金库破坏叙事(可证伪:$1.4B现金+ATM覆盖$1.2B年息),BTC收复成本线$75,680+8月ETF净流入$463.8M+Q3财报,高,basic mNAV~0.7x(Trefis 6/26正文)/今日mNAV 1.03x/距ATH -77%/845K BTC成本$75,680
+ADBE,Adobe,AI颠覆恐惧错杀创意软件平台,I-估值修复,AI取代创意软件+CEO/CFO双真空(可证伪:GenStudio ARR+25%/Figma跌破IPO价=点工具压缩非平台颠覆),9/10盘后Q3财报(ARR≥$650M验证线),高,Fwd PE 10.5x vs 5年中位~25x(42%)/Q2收入$6.62B+12.7%/回购余$27B
+INTU,Intuit,AI颠覆恐惧错杀税务会计数据入口,I-估值修复,AI绕过税务软件(可证伪:HRB 8/11超预期印证类别健康/Direct File停用=监管红利),8/25盘后财报+9/17 Investor Day,高,Fwd PE 13.3x vs 中位30x(44%)/FY26指引+13-14%/裁员17%利润率杠杆
+CRCL,Circle Internet,Clarity Act恐惧+USDC机构化,I-加密修复,Clarity Act草案禁持有收益3/24单日-20%史上最差(可证伪:activity-based rewards仍允许/法案通过概率降至20%),9/16 Arc验证+OCC GENIUS细则+Circle Payments Network放量,中高,距ATH $159.47约-47%(未达-70%线)/PE50.8不便宜→估值项边缘/收入+37.2%/Arc预售$222M(a16z)
+CLSK,CleanSpark,非现金减值错杀+AI转型期权,I-加密修复,Q1'26 BTC按市值非现金损失$350M致抛售(≠经营恶化)+hashprice低迷,285MW AI站点advanced discussions签约即重估+2月难度降16-18%边际宽松,中,FY2025收入$766M净利$364M(净利率47.5%)/13,099 BTC/16.07J/TH效率
+WULF,TeraWulf,矿企AI HPC转型(Google背书),I-加密修复,挖矿经济性崩塌恐惧(但HPC合同已签$6.7B+Google backstop $3.2B持股14%),CB-5交付+Texas Abernathy $9.5B JV推进,中,Q2'25收入+34%YoY/510MW签约HPC/估值折价未直接量化
+NOW,ServiceNow,SaaS超卖修复,I-估值修复,市场对SaaS整体失望(oversold as market sours on SaaS),Q4财报7/28窗口(投资.com分析),低,仅snippet级证据待正文验证
+CRWD,CrowdStrike,SaaS安全超卖修复,I-估值修复,SaaS板块性抛售(software scare=ChatGPT发布以来最大软件相对抛售),FY26收入+22%至$4.81B已确认,低,Fool正文提及增长/估值折价待验证
+CRM,Salesforce,52周低蓝筹反弹,I-估值修复,AI颠覆SaaS叙事,Q2财报+Agentforce ARR验证,低,Tickeron 403仅snippet待验证
+MA,Mastercard,52周低蓝筹反弹,I-估值修复,稳定币替代支付网络叙事(与CRCL恐惧同源),季报+稳定币合作落地,低,Tickeron 403仅snippet待验证
+BMNR,Bitmine Immersion,ETH财库折价,I-加密修复,ETH疲弱+财库溢价坍塌,ETH ETF流入恢复,低,$33.65/-44.9%(3月)仅WarrenAI snippet(403未正文确认)
+COIN,Coinbase,USDC分销连带+ETF基础设施,I-加密修复,Clarity Act连带(3/24 -10%)+交易量疲软,法案细则明确+机构托管放量,低,CNBC正文确认连带下跌/基本面数字待验证
+META,Meta Platforms,AI Capex恐惧+广告周期,I-估值修复,AI资本开支回报质疑,季报+AI广告变现数据,中,本地quotes今日:Fwd PE 17.04/距52周高-31%

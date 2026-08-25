@@ -1,98 +1,144 @@
 ticker,company,gics_sector,source
-ENB,Enbridge,Energy,GICS组1-B1
-EPD,Enterprise Products Partners,Energy,GICS组1-B1
-MPLX,MPLX LP,Energy,GICS组1-B1
-KMI,Kinder Morgan,Energy,GICS组1-B1
-WMB,Williams Companies,Energy,GICS组1-B1
-ET,Energy Transfer,Energy,GICS组1-B1
-OKE,ONEOK,Energy,GICS组1-B1
-TLN,Talen Energy,Energy,GICS组1-B1
-CEG,Constellation Energy,Energy,GICS组1-B1
-BE,Bloom Energy,Energy,GICS组1-B1
-PLUG,Plug Power,Energy,GICS组1-B1
-FMC,FMC,Materials,GICS组2-B1
-CE,Celanese,Materials,GICS组2-B1
-DOW,Dow,Materials,GICS组2-B1
-LYB,LyondellBasell,Materials,GICS组2-B1
-EMN,Eastman Chemical,Materials,GICS组2-B1
-SMG,Scotts Miracle-Gro,Materials,GICS组2-B1
-ALB,Albemarle,Materials,GICS组2-B1
-IFF,International Flavors & Fragrances,Materials,GICS组2-B1
-MOS,Mosaic,Materials,GICS组2-B1
-LMT,Lockheed Martin,Capital Goods,GICS组3-B1
-RTX,RTX Corp,Capital Goods,GICS组3-B1
-NOC,Northrop Grumman,Capital Goods,GICS组3-B1
-GD,General Dynamics,Capital Goods,GICS组3-B1
-LHX,L3Harris Technologies,Capital Goods,GICS组3-B1
-LDOS,Leidos,Capital Goods,GICS组3-B1
-AVAV,AeroVironment,Capital Goods,GICS组3-B1
-BA,Boeing,Capital Goods,GICS组3-B1
-RDW,Redwire,Capital Goods,GICS组3-B1
-MTRN,Materion,Materials,GICS组3-B1
-ROL,Rollins,Commercial & Professional Services,GICS组4-B1
-BBSI,Barrett Business Services,Commercial & Professional Services,GICS组4-B1
-PESI,Perma-Fix Environmental Services,Commercial & Professional Services,GICS组4-B1
-VCIG,VCI Global,Commercial & Professional Services,GICS组4-B1
-UNP,Union Pacific,Transportation,GICS组5-B1
-NSC,Norfolk Southern,Transportation,GICS组5-B1
-ODFL,Old Dominion Freight Line,Transportation,GICS组5-B1
-UPS,UPS,Transportation,GICS组5-B1
-KEX,Kirby,Transportation,GICS组5-B1
-CNI,Canadian National Railway,Transportation,GICS组5-B1
-JBHT,J.B. Hunt,Transportation,GICS组5-B1
-WAB,Wabtec,Capital Goods,GICS组5-B1
-GNTX,Gentex,Automobiles & Components,GICS组6-B1
-GM,General Motors,Automobiles & Components,GICS组6-B1
-F,Ford,Automobiles & Components,GICS组6-B1
-RIVN,Rivian,Automobiles & Components,GICS组6-B1
-NIO,NIO,Automobiles & Components,GICS组6-B1
-TSLA,Tesla,Automobiles & Components,GICS组6-B1
-RL,Ralph Lauren,Consumer Durables & Apparel,GICS组7-B1
-LVMUY,LVMH ADR,Consumer Durables & Apparel,GICS组7-B1
-ADNT,Adient,Automobiles & Components,GICS组7-B1
-KMX,CarMax,Retailing,GICS组7-B1
-SE,Sea Ltd,Retailing,GICS组7-B1
-BBWI,Bath & Body Works,Consumer Staples,GICS组7-B1
-DKNG,DraftKings,Consumer Services,GICS组7-B1
-FLUT,Flutter Entertainment,Consumer Services,GICS组7-B1
-TNL,Travel + Leisure,Consumer Services,GICS组8-B1
-NCLH,Norwegian Cruise Line,Consumer Services,GICS组8-B1
-RCL,Royal Caribbean,Consumer Services,GICS组8-B1
-TJX,TJX Companies,Retailing,GICS组9-B1
-KSS,Kohls,Retailing,GICS组9-B1
-AMZN,Amazon,Retailing,GICS组9-B1
-BOOT,Boot Barn,Retailing,GICS组9-B1
-GPS,GAP,Retailing,GICS组9-B1
-ROST,Ross Stores,Retailing,GICS组9-B1
-VVV,Valvoline,Retailing,GICS组9-B1
-COST,Costco,Consumer Staples,GICS组9-B1
-SBUX,Starbucks,Consumer Services,GICS组9-B1
-AMT,American Tower,Telecommunication Services,GICS组10-B1
-AD,Array Digital Infrastructure,Telecommunication Services,GICS组10-B1
-TMUS,T-Mobile US,Telecommunication Services,GICS组10-B1
-T,AT&T,Telecommunication Services,GICS组10-B1
-BCE,BCE,Telecommunication Services,GICS组10-B1
-DOX,Amdocs,Information Technology,GICS组10-B1
-NFLX,Netflix,Media & Entertainment,GICS组11-B1
-DIS,Disney,Media & Entertainment,GICS组11-B1
-TTD,The Trade Desk,Media & Entertainment,GICS组11-B1
-PINS,Pinterest,Media & Entertainment,GICS组11-B1
-RDDT,Reddit,Media & Entertainment,GICS组11-B1
-OMC,Omnicom,Media & Entertainment,GICS组11-B1
-CHTR,Charter Communications,Media & Entertainment,GICS组11-B1
-NTES,NetEase,Media & Entertainment,GICS组11-B1
-TME,Tencent Music,Media & Entertainment,GICS组11-B1
-MGM,MGM Resorts,Consumer Services,GICS组11-B1
-TU,Telus,Telecommunication Services,GICS组11-B1
-RCI,Rogers Communications,Telecommunication Services,GICS组11-B1
-WFC,Wells Fargo,Banks,GICS组12-B1
-BAC,Bank of America,Banks,GICS组12-B1
-JPM,JPMorgan Chase,Banks,GICS组12-B1
-GS,Goldman Sachs,Banks,GICS组12-B1
-RF,Regions Financial,Banks,GICS组12-B1
-CFG,Citizens Financial,Banks,GICS组12-B1
-TFC,Truist,Banks,GICS组12-B1
-COLB,Columbia Banking System,Banks,GICS组12-B1
-NU,Nu Holdings,Banks,GICS组12-B1
-NWG,NatWest Group ADR,Banks,GICS组12-B1
-BNS,Bank of Nova Scotia,Banks,GICS组12-B1
+DHT,DHT Holdings,Energy,B-GICS1
+ENB,Enbridge,Energy,B-GICS1
+WMB,Williams Cos,Energy,B-GICS1
+LNG,Cheniere Energy,Energy,B-GICS1;B-GICS2
+EPD,Enterprise Products Partners,Energy,B-GICS1
+TRGP,Targa Resources,Energy,B-GICS1
+OKE,ONEOK,Energy,B-GICS1;B-AI赛道31
+KMI,Kinder Morgan,Energy,B-GICS1;B-GICS2,[已验证]市值$68.9B;TTM收入+12.5%/EPS+27.2%;数据中心+LNG驱动天然气需求;Q2 beat/raise;股息3.85%;分析师目标价+15.8%
+EXE,Expand Energy,Energy,B-GICS2
+GPRE,Green Plains,Materials,B-GICS3
+SQM,Chemical & Mining Co of Chile,Materials,B-GICS3
+KRO,Kronos Worldwide,Materials,B-GICS3
+UAN,CVR Partners,Materials,B-GICS3
+MP,MP Materials,Materials,B-GICS3
+ALB,Albemarle,Materials,B-GICS3;B-GICS4
+LAC,Lithium Americas,Materials,B-GICS3;B-GICS4
+DOW,Dow Inc,Materials,B-GICS3
+HII,Huntington Ingalls,Industrials,B-GICS5
+IEX,IDEX,Industrials,B-GICS5
+HWM,Howmet Aerospace,Industrials,B-GICS5
+GD,General Dynamics,Industrials,B-GICS5
+NOC,Northrop Grumman,Industrials,B-GICS5
+GE,GE Aerospace,Industrials,B-GICS5
+RTX,RTX Corp,Industrials,B-GICS5
+LMT,Lockheed Martin,Industrials,B-GICS5
+AVAV,AeroVironment,Industrials,B-GICS5
+TDY,Teledyne Technologies,Industrials,B-GICS5
+AAR,AAR Corp,Industrials,B-GICS5
+CDRE,Cadre Holdings,Industrials,B-GICS6,[已验证]Q2收入$207.1M(+32%)/adj EBITDA+56%;积压订单$355M(年初$166M);上调FY26指引$749-769M;目标价$47.5(+39%)
+KRMN,Karman Holdings,Industrials,B-GICS6
+ONDS,Ondas Holdings,Industrials,B-GICS6
+PWR,Quanta Services,Industrials,B-GICS7
+HUBB,Hubbell,Industrials,B-GICS7
+NVT,nVent Electric,Industrials,B-GICS7
+RCMT,RCM Technologies,Industrials,B-GICS8
+HQI,HireQuest,Industrials,B-GICS8
+PEGA,Pegasystems,Industrials,B-GICS8
+WCN,Waste Connections,Industrials,B-GICS8
+ZIP,ZipRecruiter,Industrials,B-GICS8
+JOBY,Joby Aviation,Industrials,B-GICS9
+CP,Canadian Pacific Kansas City,Industrials,B-GICS9
+CSX,CSX Corp,Industrials,B-GICS9;B-GICS10
+LUV,Southwest Airlines,Industrials,B-GICS9
+UBER,Uber Technologies,Industrials,B-GICS9
+RAIL,FreightCar America,Industrials,B-GICS10
+TSLA,Tesla,Consumer Discretionary,B-GICS11
+GM,General Motors,Consumer Discretionary,B-GICS11
+STRT,Strattec Security,Consumer Discretionary,B-GICS11
+GTX,Garrett Motion,Consumer Discretionary,B-GICS11
+REVG,REV Group,Consumer Discretionary,B-GICS11
+AZO,AutoZone,Consumer Discretionary,B-GICS11
+ORLY,O'Reilly Automotive,Consumer Discretionary,B-GICS11
+RH,RH,Consumer Discretionary,B-GICS12
+RACE,Ferrari,Consumer Discretionary,B-GICS12
+HLT,Hilton Worldwide,Consumer Discretionary,B-GICS13
+H,Hyatt Hotels,Consumer Discretionary,B-GICS13
+CCL,Carnival,Consumer Discretionary,B-GICS13;B-GICS14
+NCLH,Norwegian Cruise Line,Consumer Discretionary,B-GICS13
+TNL,Travel + Leisure,Consumer Discretionary,B-GICS14
+COST,Costco,Consumer Discretionary,B-GICS15;B-GICS16
+ROST,Ross Stores,Consumer Discretionary,B-GICS15
+DG,Dollar General,Consumer Discretionary,B-GICS15;B-GICS16
+BURL,Burlington Stores,Consumer Discretionary,B-GICS15
+BABA,Alibaba,Consumer Discretionary,B-GICS15
+AMZN,Amazon,Consumer Discretionary,B-GICS15
+MELI,MercadoLibre,Consumer Discretionary,B-GICS15
+WRBY,Warby Parker,Consumer Discretionary,B-GICS15
+WMT,Walmart,Consumer Discretionary,B-GICS15
+TJX,TJX Companies,Consumer Discretionary,B-GICS15
+JD,JD.com,Consumer Discretionary,B-GICS15
+SE,Sea Ltd,Consumer Discretionary,B-GICS16
+SVV,Savers Value Village,Consumer Discretionary,B-GICS16
+BOOT,Boot Barn,Consumer Discretionary,B-GICS16
+AMT,American Tower,Communication Services,B-GICS17
+SKM,SK Telecom,Communication Services,B-GICS17
+TIMB,TIM SA,Communication Services,B-GICS17
+USM,US Cellular,Communication Services,B-GICS17
+RCI,Rogers Communications,Communication Services,B-GICS17
+VZ,Verizon,Communication Services,B-GICS17
+T,AT&T,Communication Services,B-GICS17
+TMUS,T-Mobile US,Communication Services,B-GICS17
+QCOM,Qualcomm,Communication Services,B-GICS17
+CCI,Crown Castle,Communication Services,B-GICS17
+PHI,PLDT,Communication Services,B-GICS17
+KT,KT Corp,Communication Services,B-GICS17
+NFLX,Netflix,Communication Services,B-GICS18
+TTD,The Trade Desk,Communication Services,B-GICS18
+CHTR,Charter Communications,Communication Services,B-GICS18
+CAG,Conagra Brands,Consumer Staples,B-GICS19
+INGR,Ingredion,Consumer Staples,B-GICS19
+SENEA,Seneca Foods,Consumer Staples,B-GICS19
+ACI,Albertsons,Consumer Staples,B-GICS19
+ATO,Atmos Energy,Consumer Staples,B-GICS20
+PEP,PepsiCo,Consumer Staples,B-GICS20
+CLX,Clorox,Consumer Staples,B-GICS20
+EL,Estee Lauder,Consumer Staples,B-GICS21
+HELE,Helen of Troy,Consumer Staples,B-GICS21
+NUS,Nu Skin,Consumer Staples,B-GICS21
+KVUE,Kenvue,Consumer Staples,B-GICS21
+IPAR,Inter Parfums,Consumer Staples,B-GICS21
+COTY,Coty,Consumer Staples,B-GICS21
+ELF,e.l.f. Beauty,Consumer Staples,B-GICS21
+ULTA,Ulta Beauty,Consumer Staples,B-GICS21
+FMS,Fresenius Medical Care,Health Care,B-GICS22
+IART,Integra LifeSciences,Health Care,B-GICS22
+STE,STERIS,Health Care,B-GICS22
+INMD,InMode,Health Care,B-GICS22
+CNMD,Conmed,Health Care,B-GICS22
+ABT,Abbott Laboratories,Health Care,B-GICS22
+GEHC,GE HealthCare,Health Care,B-GICS22
+ISRG,Intuitive Surgical,Health Care,B-GICS22
+ALGN,Align Technology,Health Care,B-GICS22
+EW,Edwards Lifesciences,Health Care,B-GICS22
+BSX,Boston Scientific,Health Care,B-GICS22
+JNJ,Johnson & Johnson,Health Care,B-GICS22
+MDT,Medtronic,Health Care,B-GICS20
+BIO,Bio-Rad Laboratories,Health Care,B-GICS24
+CTKB,Cytek Biosciences,Health Care,B-GICS24
+CYRX,Cryoport,Health Care,B-GICS24
+NTLA,Intellia Therapeutics,Health Care,B-GICS24
+NVO,Novo Nordisk,Health Care,B-GICS24
+MRK,Merck & Co,Health Care,B-GICS24
+HRMY,Harmony Biosciences,Health Care,B-GICS24
+EXEL,Exelixis,Health Care,B-GICS24
+CAT,Caterpillar,Industrials,B-GICS20
+SPGI,S&P Global,Financials,B-GICS20
+BNS,Bank of Nova Scotia,Financials,B-GICS26
+NU,Nu Holdings,Financials,B-GICS26
+RF,Regions Financial,Financials,B-GICS26
+NWG,NatWest Group,Financials,B-GICS26
+PNC,PNC Financial,Financials,B-GICS26
+BNY,Bank of New York Mellon,Financials,B-GICS26
+MU,Micron Technology,Information Technology,AI赛道28,[已验证]HBM3E 2026售罄价格双位数上涨;HBM4放量中Micron份额追赶;HBM4 2026产能绑定合同售罄
+TSM,TSMC,Information Technology,AI赛道29,[已验证]CoWoS 2026供不应求交期52-78周;产能年增66%至120-130k WPM;2026资本开支$52-56B
+AMKR,Amkor Technology,Information Technology,AI赛道29,[已验证]2026年6月与TSMC签10年CoWoS长约;资本开支$2.5-3B设备采购+40%YoY;亚利桑那基地
+BE,Bloom Energy,Utilities,AI赛道31
+VRT,Vertiv Holdings,Information Technology,AI赛道32
+TT,Trane Technologies,Industrials,AI赛道32
+JCI,Johnson Controls,Industrials,AI赛道32
+AAON,AAON Inc,Industrials,AI赛道32
+CRWV,CoreWeave,Information Technology,AI赛道33,[已验证]合同积压$99.4B(2026年3月);96%收入来自take-or-pay长约;FY26指引$12-13B(+~150%);风险:微软占收入67%+债务$21.4B
+IREN,Iris Energy,Information Technology,AI赛道33
+GOOGL,Alphabet,Communication Services,AI赛道33

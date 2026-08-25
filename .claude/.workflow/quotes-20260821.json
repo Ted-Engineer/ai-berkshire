@@ -1,0 +1,110 @@
+{
+ "BABA": {
+  "ticker": "BABA",
+  "Market Cap": "297.75B +7.5%",
+  "Revenue (ttm)": "153.84B +4.4%",
+  "Net Income": "10.79B -49.7%",
+  "EPS": "4.38 -51.8%",
+  "Shares Out": "2.28B",
+  "PE Ratio": "29.79",
+  "Forward PE": "16.16",
+  "Dividend": "$1.05 (0.80%)",
+  "52-Week Range": "91.99 - 192.67",
+  "Price Target": "190.58 (+46.01%)"
+ },
+ "MSFT": {
+  "ticker": "MSFT",
+  "Market Cap": "3.57T -5.7%",
+  "Revenue (ttm)": "331.84B +17.8%",
+  "Net Income": "133.75B +31.3%",
+  "EPS": "17.95 +31.6%",
+  "Shares Out": "7.43B",
+  "PE Ratio": "26.81",
+  "Forward PE": "24.41",
+  "Dividend": "$3.64 (0.76%)",
+  "52-Week Range": "349.20 - 553.72",
+  "Price Target": "569.56 (+18.38%)"
+ },
+ "META": {
+  "ticker": "META",
+  "Market Cap": "1.39T -26.3%",
+  "Revenue (ttm)": "228.25B +27.7%",
+  "Net Income": "68.10B -4.8%",
+  "EPS": "26.54 -3.7%",
+  "Shares Out": "2.55B",
+  "PE Ratio": "20.57",
+  "Forward PE": "17.04",
+  "Dividend": "$2.10 (0.38%)",
+  "52-Week Range": "520.26 - 790.80",
+  "Price Target": "754.14 (+38.16%)"
+ },
+ "TSM": {
+  "ticker": "TSM",
+  "Market Cap": "1.95T +91.1%",
+  "Revenue (ttm)": "139.57B +30.6%",
+  "Net Income": "69.68B +53.4%",
+  "EPS": "13.44 +53.4%",
+  "Shares Out": "25.93B",
+  "PE Ratio": "27.96",
+  "Forward PE": "19.26",
+  "Dividend": "$3.22 (0.77%)",
+  "52-Week Range": "223.70 - 479.00",
+  "Price Target": "554.45 (+33.28%)"
+ },
+ "BRK-B": {
+  "ticker": "BRK-B",
+  "error": "HTTP Error 404: Not Found"
+ },
+ "INTU": {
+  "ticker": "INTU",
+  "Market Cap": "98.98B -49.4%",
+  "Revenue (ttm)": "20.93B +15.1%",
+  "Net Income": "4.58B +32.2%",
+  "EPS": "16.35 +33.6%",
+  "Shares Out": "273.54M",
+  "PE Ratio": "22.13",
+  "Forward PE": "13.55",
+  "Dividend": "$4.80 (1.33%)",
+  "52-Week Range": "252.84 - 705.10",
+  "Price Target": "446.02 (+23.25%)"
+ },
+ "APLD": {
+  "ticker": "APLD",
+  "Market Cap": "8.35B +108.2%",
+  "Revenue (ttm)": "611.31M +167.5%",
+  "Net Income": "-250.26M",
+  "EPS": "-0.91",
+  "Shares Out": "291.47M",
+  "PE Ratio": "n/a",
+  "Forward PE": "n/a",
+  "Dividend": "n/a",
+  "52-Week Range": "13.16 - 50.73",
+  "Price Target": "74.23 (+159.09%)"
+ },
+ "ADBE": {
+  "ticker": "ADBE",
+  "Market Cap": "108.21B -28.6%",
+  "Revenue (ttm)": "25.20B +11.5%",
+  "Net Income": "7.23B +5.2%",
+  "EPS": "17.48 +11.9%",
+  "Shares Out": "397.50M",
+  "PE Ratio": "15.57",
+  "Forward PE": "10.50",
+  "Dividend": "n/a",
+  "52-Week Range": "190.12 - 370.86",
+  "Price Target": "270.61 (-0.59%)"
+ },
+ "CRCL": {
+  "ticker": "CRCL",
+  "Market Cap": "21.24B -32.1%",
+  "Revenue (ttm)": "2.91B +37.2%",
+  "Net Income": "451.28M",
+  "EPS": "1.80",
+  "Shares Out": "253.88M",
+  "PE Ratio": "46.46",
+  "Forward PE": "62.91",
+  "Dividend": "n/a",
+  "52-Week Range": "49.90 - 159.47",
+  "Price Target": "101.07 (+20.81%)"
+ }
+}

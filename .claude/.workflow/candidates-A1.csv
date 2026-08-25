@@ -1,0 +1,110 @@
+ticker,company,gics_sector,source
+ET,Energy Transfer LP,Energy,B-GICS1价值
+ENB,Enbridge Inc,Energy,B-GICS1价值
+OKE,ONEOK Inc,Energy,B-GICS1价值
+LNG,Cheniere Energy,Energy,B-GICS1价值
+CQP,Cheniere Energy Partners,Energy,B-GICS1价值
+VG,Venture Global Inc,Energy,B-GICS1成长
+DHT,DHT Holdings,Energy,B-GICS1价值
+ARLP,Alliance Resource Partners,Energy,B-GICS1价值
+GPRE,Green Plains Inc,Energy,B-GICS1成长
+DOW,Dow Inc,Materials,B-GICS2价值
+SQM,Sociedad Quimica y Minera de Chile,Materials,B-GICS2成长
+KRO,Kronos Worldwide,Materials,B-GICS2成长
+UAN,CVR Partners,Materials,B-GICS2价值
+MP,MP Materials,Materials,B-GICS2成长
+ALB,Albemarle Corp,Materials,B-GICS2成长
+LAR,Lithium Americas,Materials,B-GICS2成长
+NEM,Newmont Corp,Materials,B-GICS2价值
+GOLD,Barrick Gold,Materials,B-GICS2价值
+AEM,Agnico Eagle Mines,Materials,B-GICS2价值
+WPM,Wheaton Precious Metals,Materials,B-GICS2价值
+FNV,Franco-Nevada Corp,Materials,B-GICS2价值
+RGLD,Royal Gold,Materials,B-GICS2价值
+GE,GE Aerospace,Industrials,B-GICS3成长
+RTX,RTX Corp,Industrials,B-GICS3价值
+BA,Boeing,Industrials,B-GICS3价值
+LMT,Lockheed Martin,Industrials,B-GICS3价值
+CAT,Caterpillar,Industrials,B-GICS3价值
+HII,Huntington Ingalls Industries,Industrials,B-GICS3价值
+IEX,IDEX Corp,Industrials,B-GICS3价值
+NOC,Northrop Grumman,Industrials,B-GICS3价值
+BWXT,BWX Technologies,Industrials,B-GICS3成长
+BAESY,BAE Systems,Industrials,B-GICS3价值
+RNMBY,Rheinmetall AG,Industrials,B-GICS3成长
+KRMN,Karman Holdings,Industrials,B-GICS3成长
+ONDS,Ondas Holdings,Industrials,B-GICS3成长
+NPK,NPK International,Industrials,B-GICS3价值
+SPCE,Virgin Galactic,Industrials,B-GICS3成长
+RDW,Redwire Corp,Industrials,B-GICS3成长
+AIRI,Air Industries Group,Industrials,B-GICS3成长
+BE,Bloom Energy,Industrials,B-GICS3成长
+WM,Waste Management,Industrials,B-GICS3价值
+CLH,Clean Harbors,Industrials,B-GICS3价值
+UPS,United Parcel Service,Industrials,B-GICS3价值
+CP,Canadian Pacific Kansas City,Industrials,B-GICS3价值
+CSX,CSX Corp,Industrials,B-GICS3价值
+UNP,Union Pacific Corp,Industrials,B-GICS3价值
+FDX,FedEx Corp,Industrials,B-GICS3价值
+JBHT,JB Hunt Transport Services,Industrials,B-GICS3价值
+LUV,Southwest Airlines,Industrials,B-GICS3价值
+UBER,Uber Technologies,Consumer Discretionary,B-GICS4成长
+JOBY,Joby Aviation,Consumer Discretionary,B-GICS4成长
+BLBD,Blue Bird Corp,Consumer Discretionary,B-GICS4成长
+TSLA,Tesla Inc,Consumer Discretionary,B-GICS4成长
+GM,General Motors,Consumer Discretionary,B-GICS4价值
+F,Ford Motor Co,Consumer Discretionary,B-GICS4价值
+RIVN,Rivian Automotive,Consumer Discretionary,B-GICS4成长
+BWA,BorgWarner Inc,Consumer Discretionary,B-GICS4价值
+AZO,AutoZone Inc,Consumer Discretionary,B-GICS4价值
+ORLY,O'Reilly Automotive,Consumer Discretionary,B-GICS4价值
+RH,RH,Consumer Discretionary,B-GICS4成长
+RACE,Ferrari NV,Consumer Discretionary,B-GICS4成长
+LVMUY,LVMH Moet Hennessy Louis Vuitton,Consumer Discretionary,B-GICS4价值
+KMX,CarMax Inc,Consumer Discretionary,B-GICS4价值
+WRBY,Warby Parker Inc,Consumer Discretionary,B-GICS4成长
+HLT,Hilton Worldwide Holdings,Consumer Discretionary,B-GICS4价值
+H,Hyatt Hotels Corp,Consumer Discretionary,B-GICS4成长
+CCL,Carnival Corp,Consumer Discretionary,B-GICS4价值
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,B-GICS4价值
+TNL,Travel + Leisure Co,Consumer Discretionary,B-GICS4价值
+AMZN,Amazon.com Inc,Consumer Discretionary,B-GICS4成长
+MELI,MercadoLibre Inc,Consumer Discretionary,B-GICS4成长
+TGT,Target Corp,Consumer Discretionary,B-GICS4价值
+TJX,TJX Companies,Consumer Discretionary,B-GICS4价值
+ROST,Ross Stores,Consumer Discretionary,B-GICS4价值
+DG,Dollar General Corp,Consumer Discretionary,B-GICS4价值
+BURL,Burlington Stores,Consumer Discretionary,B-GICS4成长
+SVV,Savers Value Village,Consumer Discretionary,B-GICS4成长
+PDD,PDD Holdings Inc,Consumer Discretionary,B-主题13中国消费
+JD,JD.com Inc,Consumer Discretionary,B-主题13中国消费
+VZ,Verizon Communications,Communication Services,B-GICS5价值
+T,AT&T Inc,Communication Services,B-GICS5价值
+TMUS,T-Mobile US Inc,Communication Services,B-GICS5成长
+AMT,American Tower Corp,Communication Services,B-GICS5价值
+CCI,Crown Castle Inc,Communication Services,B-GICS5价值
+SKM,SK Telecom Co,Communication Services,B-GICS5价值
+TIMB,TIM SA,Communication Services,B-GICS5价值
+USM,United States Cellular Corp,Communication Services,B-GICS5价值
+RCI,Rogers Communications,Communication Services,B-GICS5价值
+TU,Telus Corp,Communication Services,B-GICS5价值
+PHI,PLDT Inc,Communication Services,B-GICS5价值
+KT,KT Corp,Communication Services,B-GICS5价值
+NFLX,Netflix Inc,Communication Services,B-GICS5成长
+DIS,Walt Disney Co,Communication Services,B-GICS5价值
+SPOT,Spotify Technology,Communication Services,B-GICS5成长
+GOOGL,Alphabet Inc,Communication Services,B-GICS5成长
+ROKU,Roku Inc,Communication Services,B-GICS5成长
+TTD,The Trade Desk Inc,Communication Services,B-GICS5成长
+CHTR,Charter Communications,Communication Services,B-GICS5价值
+WMT,Walmart Inc,Consumer Staples,B-GICS6价值
+COST,Costco Wholesale Corp,Consumer Staples,B-GICS6价值
+SFM,Sprouts Farmers Market,Consumer Staples,B-GICS6成长
+ACI,Albertsons Companies,Consumer Staples,B-GICS6价值
+MO,Altria Group Inc,Consumer Staples,B-GICS6价值
+PM,Philip Morris International,Consumer Staples,B-GICS6价值
+MNST,Monster Beverage Corp,Consumer Staples,B-GICS6成长
+MDLZ,Mondelez International,Consumer Staples,B-GICS6价值
+PEP,PepsiCo Inc,Consumer Staples,B-GICS6价值
+TPB,Turning Point Brands,Consumer Staples,B-GICS6成长
+CLX,Clorox Co,Consumer Staples,B-GICS6价值

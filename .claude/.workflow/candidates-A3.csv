@@ -1,0 +1,125 @@
+ticker,company,gics_sector,source
+CRWV,CoreWeave,Information Technology,B-AI赛道4
+NBIS,Nebius Group,Information Technology,B-AI赛道4
+APLD,Applied Digital,Information Technology,B-AI赛道4
+IREN,Iren,Information Technology,B-AI赛道4
+MRVL,Marvell Technology,Information Technology,B-AI赛道4
+ALAB,Astera Labs,Information Technology,B-AI赛道4
+AVGO,Broadcom,Information Technology,B-AI赛道4
+NVDA,NVIDIA,Information Technology,B-AI赛道4
+FN,Fabrinet,Information Technology,B-AI赛道4
+LITE,Lumentum Holdings,Information Technology,B-AI赛道4
+COHR,Coherent,Information Technology,B-AI赛道4
+CRDO,Credo Technology Group,Information Technology,B-AI赛道4
+CIEN,Ciena,Information Technology,B-AI赛道4
+AAOI,Applied Optoelectronics,Information Technology,B-AI赛道4
+MU,Micron Technology,Information Technology,B-AI赛道4
+SSNLF,Samsung Electronics (GDR),Information Technology,B-AI赛道4
+SNDK,Sandisk,Information Technology,B-AI赛道4
+WDC,Western Digital,Information Technology,B-AI赛道4
+STX,Seagate Technology,Information Technology,B-AI赛道4
+ASX,ASE Technology Holding,Information Technology,B-AI赛道4
+ONTO,Onto Innovation,Information Technology,B-AI赛道4
+BESI,BE Semiconductor Industries,Information Technology,B-AI赛道4
+AMKR,Amkor Technology,Information Technology,B-AI赛道4
+TSM,Taiwan Semiconductor Manufacturing,Information Technology,B-AI赛道4
+ASML,ASML Holding,Information Technology,B-AI赛道4
+AMAT,Applied Materials,Information Technology,B-AI赛道4
+LRCX,Lam Research,Information Technology,B-AI赛道4
+KLAC,KLA,Information Technology,B-AI赛道4
+MKSI,MKS Instruments,Information Technology,B-AI赛道4
+PLAB,Photronics,Information Technology,B-AI赛道4
+VST,Vistra,Utilities,B-AI赛道4
+CEG,Constellation Energy,Utilities,B-AI赛道4
+TLN,Talen Energy,Utilities,B-AI赛道4
+NRG,NRG Energy,Utilities,B-AI赛道4
+AEP,American Electric Power,Utilities,B-AI赛道4
+SO,Southern Company,Utilities,B-AI赛道4
+D,Dominion Energy,Utilities,B-AI赛道4
+DUK,Duke Energy,Utilities,B-AI赛道4
+BE,Bloom Energy,Industrials,B-AI赛道4
+GEV,GE Vernova,Industrials,B-AI赛道4
+ETN,Eaton,Industrials,B-AI赛道4
+VRT,Vertiv Holdings,Industrials,B-AI赛道4
+POWL,Powell Industries,Industrials,B-AI赛道4
+AZZ,AZZ,Industrials,B-AI赛道4
+HUBB,Hubbell,Industrials,B-AI赛道4
+PWR,Quanta Services,Industrials,B-AI赛道4
+EME,EMCOR Group,Industrials,B-AI赛道4
+TT,Trane Technologies,Industrials,B-AI赛道4
+JCI,Johnson Controls,Industrials,B-AI赛道4
+AAON,AAON,Industrials,B-AI赛道4
+SMCI,Super Micro Computer,Information Technology,B-AI赛道4
+MOD,Modine Manufacturing,Industrials,B-AI赛道4
+EQIX,Equinix,Real Estate,B-AI赛道4
+DLR,Digital Realty Trust,Real Estate,B-AI赛道4
+NOW,ServiceNow,Information Technology,B-AI赛道4
+CRM,Salesforce,Information Technology,B-AI赛道4
+PLTR,Palantir Technologies,Information Technology,B-AI赛道4
+GTLB,GitLab,Information Technology,B-AI赛道4
+MSFT,Microsoft,Information Technology,B-AI赛道4
+GOOGL,Alphabet,Communication Services,B-AI赛道4;D5
+TER,Teradyne,Information Technology,B-AI赛道4
+ISRG,Intuitive Surgical,Health Care,B-AI赛道4
+UBER,Uber Technologies,Industrials,B-AI赛道4
+CORZ,Core Scientific,Financials,B-AI赛道4
+HUT,Hut 8,Financials,B-AI赛道4
+BTDR,Bitdeer Technologies,Financials,B-AI赛道4
+CIFR,Cipher Mining,Financials,B-AI赛道4
+BTBT,Bit Digital,Financials,B-AI赛道4
+WULF,TeraWulf,Financials,B-AI赛道4
+RIOT,Riot Platforms,Financials,B-AI赛道4
+MSTR,Strategy,Information Technology,B-AI赛道4
+QCOM,Qualcomm,Information Technology,B-AI赛道4
+AMD,Advanced Micro Devices,Information Technology,B-AI赛道4
+DELL,Dell Technologies,Information Technology,B-AI赛道4
+HPQ,HP,Information Technology,B-AI赛道4
+AAPL,Apple,Information Technology,B-AI赛道4
+CNXC,Concentrix,Information Technology,B-AI赛道4
+TIXT,Telus International,Information Technology,B-AI赛道4
+LLY,Eli Lilly,Health Care,D1-量化
+AXTI,AXT,Information Technology,D1-量化
+NET,Cloudflare,Information Technology,D1-量化
+COST,Costco Wholesale,Consumer Staples,D1-量化
+APP,AppLovin,Information Technology,D1-量化
+FIX,Comfort Systems USA,Industrials,D1-量化
+ADSK,Autodesk,Information Technology,D1-量化
+ABBV,AbbVie,Health Care,D1-量化
+ENB,Enbridge,Energy,D1-量化
+O,Realty Income,Real Estate,D1-量化
+CLX,Clorox,Consumer Staples,D1-量化
+VZ,Verizon Communications,Communication Services,D1-量化
+KHC,Kraft Heinz,Consumer Staples,D1-量化
+ET,Energy Transfer,Energy,D1-量化
+DOC,Healthpeak Properties,Real Estate,D1-量化
+LNT,Alliant Energy,Utilities,D1-量化
+MDLZ,Mondelez International,Consumer Staples,D1-量化
+MAA,Mid-America Apartment Communities,Real Estate,D1-量化
+BIP,Brookfield Infrastructure Partners,Utilities,D1-量化
+FDX,FedEx,Industrials,D3-分拆
+WAT,Waters,Health Care,D3-分拆
+MDT,Medtronic,Health Care,D3-分拆
+KBR,KBR,Industrials,D3-分拆
+MBGL,MBGL,Unknown,D3-分拆
+HONA,Hona,Unknown,D3-分拆
+ANAB,AnaptysBio,Health Care,D3-分拆
+APTV,Aptiv,Consumer Discretionary,D3-分拆
+VGNT,VGNT,Unknown,D3-分拆
+SPGI,S&P Global,Financials,D3-分拆
+HLNE,Hamilton Lane,Financials,D4
+BSX,Boston Scientific,Health Care,D4
+GIS,General Mills,Consumer Staples,D4
+GPC,Genuine Parts,Consumer Discretionary,D4
+LEN,Lennar,Consumer Discretionary,D4
+BBW,Build-A-Bear Workshop,Consumer Discretionary,D4
+ABT,Abbott Laboratories,Health Care,D4
+CB,Chubb,Financials,D5
+ADBE,Adobe,Information Technology,D6-财报催化
+RH,RH,Consumer Discretionary,D6-财报催化
+KR,Kroger,Consumer Staples,D6-财报催化
+AMZN,Amazon.com,Consumer Discretionary,D6-财报催化
+KGS,Kodiak Gas Services,Energy,D6-财报催化
+ATI,ATI,Materials,D6-财报催化
+META,Meta Platforms,Communication Services,D6-财报催化
+UPS,United Parcel Service,Industrials,D6-财报催化
+ORCL,Oracle,Information Technology,D6-财报催化

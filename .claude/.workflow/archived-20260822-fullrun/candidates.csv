@@ -1,0 +1,440 @@
+ticker,company,gics_sector,source
+CRWV,CoreWeave,AI云/Neocloud,B-ai;B-nonai;H-爆发股;A-watchlist($95-100);F-watchlist($95-100小仓 checklist5/6);AI赛道33,[已验证]合同积压$99.4B(2026年3月);96%收入来自take-or-pay长约;FY26指引$12-13B(+~150%);风险:微软占收入67%+债务$21.4B;G-META生态
+NBIS,Nebius Group,AI云/Neocloud,B-ai;H-爆发股;A-watchlist($198);F-watchlist($198 checklist4/6);D2
+IREN,IREN,AI云/Neocloud,B-ai;B-gics;E-加密缺口;AI赛道33;B-GICS7;D2;H-爆发股(灰色)-①最近季增速约44%<100%;E-加密修复
+APLD,Applied Digital,AI云/Neocloud,B-ai;H-爆发股
+AVGO,Broadcom,定制ASIC,B-ai;B-nonai;E-AI硬件缺口;B-GICS6;D1
+MRVL,Marvell Technology,定制ASIC,B-ai;B-gics;E-AI硬件缺口;B-GICS7
+NVDA,NVIDIA,定制ASIC,B-ai;B-nonai;A-watchlist(≤$180);F-watchlist(≤$180);B-GICS9;G-META生态
+ARM,Arm Holdings,定制ASIC,B-ai;G-TSM生态
+CRDO,Credo Technology,AI网络/光模块,B-ai;H-爆发股;E-AI硬件缺口;F-watchlist($150-180灰色);B-GICS7;D2;H-爆发股(灰色)-⑤无官方backlog披露 ⑥覆盖度高
+ALAB,Astera Labs,AI网络/光模块,B-ai;H-爆发股;A-待执行GTC($265-275);A-待执行项(GTC$265-275×10止损周收<$230)
+COHR,Coherent,AI网络/光模块,B-ai;A-watchlist($260-290);F-watchlist($260-290);拦截-①增速34%<100%;E-AI硬件
+LITE,Lumentum,AI网络/光模块,B-ai;H-爆发股(灰色);E-AI硬件
+MU,Micron Technology,HBM/存储,B-ai;B-gics;A-待执行GTC($880-900/$820-850);A-待执行项(GTC$880-900×6+$820-850×6止损$780);AI赛道28,[已验证]HBM3E 2026售罄价格双位数上涨;HBM4放量中Micron份额追赶;HBM4 2026产能绑定合同售罄;B-GICS8;B-GICS9;拦截-①增速57%<100% ③市值远超$80B;E-AI硬件
+SNDK,Sandisk,HBM/存储,B-ai;B-GICS9;拦截-③市值$229.7B>$80B;E-AI硬件
+WDC,Western Digital,HBM/存储,B-ai;B-gics;B-GICS6;B-GICS7
+STX,Seagate Technology,HBM/存储,B-ai;B-GICS7;E-AI硬件
+TSM,台积电,先进封装,B-ai;A-加仓GTC($390×15在场);AI赛道29,[已验证]CoWoS 2026供不应求交期52-78周;产能年增66%至120-130k WPM;2026资本开支$52-56B;B-GICS8
+ASX,日月光ASE,先进封装,B-ai
+AMKR,Amkor Technology,先进封装,B-ai;F-watchlist($48-54 checklist5/6);AI赛道29,[已验证]2026年6月与TSMC签10年CoWoS长约;资本开支$2.5-3B设备采购+40%YoY;亚利桑那基地
+ONTO,Onto Innovation,先进封装,B-ai
+ASML,ASML Holding,半导体设备,B-ai;B-nonai;E-AI硬件缺口;G-TSM生态
+AMAT,Applied Materials,半导体设备,B-ai;B-gics;B-nonai;A-watchlist($410-440);F-watchlist(首仓$410-440灰色偏❌);B-GICS8;G-TSM生态
+KLAC,KLA Corp,半导体设备,B-ai;E-AI硬件缺口;B-GICS8;G-TSM生态
+LRCX,Lam Research,半导体设备,B-ai;B-gics;B-nonai;F-watchlist($220-260);B-GICS8
+VST,Vistra,AI电力,B-ai;E-AI硬件缺口(IPP cap6%);F-watchlist(IPP同因子6%上限);B-GICS10
+CEG,Constellation Energy,AI电力,B-ai;A-watchlist($258);F-watchlist(首仓$260-285);B-GICS10;E-AI硬件
+GEV,GE Vernova,AI电力,B-ai;B-gics;B-nonai;F-watchlist($650-750);NA-18;E-AI硬件
+TLN,Talen Energy,AI电力,B-ai;A-watchlist(≤$345);F-watchlist(≤$345分批);E-AI硬件
+ETN,Eaton,电网设备,B-ai;B-nonai;E-AI硬件缺口;NA-18
+HUBB,Hubbell,电网设备,B-ai;B-nonai;F-watchlist($430-470);B-GICS7;NA-18;E-AI硬件
+NVT,nVent Electric,电网设备,B-ai;B-GICS7
+POWL,Powell Industries,电网设备,B-ai;E-AI硬件
+VRT,Vertiv,AI散热/液冷,B-ai;B-nonai;E-AI硬件缺口;F-watchlist($180-200);AI赛道32;D7-estimate revision;拦截-①增速24%<100% ③市值$100.5B>$80B;G-MSFT生态
+TT,Trane Technologies,AI散热/液冷,B-ai;AI赛道32
+AAON,AAON,AI散热/液冷,B-ai;AI赛道32
+MOD,Modine Manufacturing,AI散热/液冷,B-ai
+DLR,Digital Realty,数据中心REIT/E&C,B-ai;B-gics;B-GICS11;D7
+EQIX,Equinix,数据中心REIT/E&C,B-ai;B-gics;B-GICS11
+PWR,Quanta Services,数据中心REIT/E&C,B-ai;B-nonai;E-AI硬件缺口;B-GICS7;NA-18
+EME,EMCOR Group,数据中心REIT/E&C,B-ai
+CRM,Salesforce,AI Agent应用,B-ai;I-估值修复
+NOW,ServiceNow,AI Agent应用,B-ai;I-估值修复;B-GICS5
+PLTR,Palantir,AI Agent应用,B-ai;G-MSFT生态(AI软件)
+PATH,UiPath,AI Agent应用,B-ai
+MSFT,Microsoft,基础模型生态,B-ai;D9-Ackman 13F
+GOOGL,Alphabet,基础模型生态,B-ai;B-nonai;A-GOOCL换仓触发(≤$295);A-换仓观察(≤$295触发卖META买GOOGL);AI赛道33;D8-Berkshire 13F +83%
+AMZN,Amazon,基础模型生态,B-ai;B-nonai;B-GICS15;D9-Ackman 13F;G-ADBE生态
+ORCL,Oracle,基础模型生态,B-ai;B-nonai;G-APLD生态(PF2疑似Oracle)
+TSLA,Tesla,人形机器人,B-ai;B-GICS11
+TKR,Timken,人形机器人,B-ai
+CGNX,Cognex,人形机器人,B-ai
+ALGM,Allegro MicroSystems,人形机器人,B-ai
+UBER,Uber Technologies,Robotaxi,B-ai;B-GICS9;D9-Ackman 13F core
+BIDU,Baidu,Robotaxi,B-ai;G-BABA生态(中国AI);NA-13
+PONY,Pony.ai,Robotaxi,B-ai
+WRD,WeRide,Robotaxi,B-ai
+CORZ,Core Scientific,矿企转AI,B-ai;G-APLD生态(DC同业);E-加密修复
+CIFR,Cipher Mining,矿企转AI,B-ai;G-APLD生态(DC同业);E-加密修复
+WULF,TeraWulf,矿企转AI,B-ai;I-加密修复;G-APLD生态(DC同业)
+HUT,Hut 8,矿企转AI,B-ai;E-加密缺口;E-加密修复
+AMD,AMD,端侧AI,B-ai;B-nonai;E-AI硬件缺口;B-GICS9
+QCOM,Qualcomm,端侧AI,B-ai;G-TSM生态;B-GICS17
+DELL,Dell Technologies,端侧AI,B-ai;B-gics;B-nonai;B-GICS6;B-GICS7;G-MSFT生态
+HPQ,HP Inc,端侧AI,B-ai
+INOD,Innodata,AI数据,B-ai
+CNXC,Concentrix,AI数据,B-ai
+RDDT,Reddit,AI数据,B-ai
+GETY,Getty Images,AI数据,B-ai
+GILD,Gilead Sciences,D1量化,B-ai
+VLO,Valero Energy,D1量化,B-ai
+DINO,HF Sinclair,D1量化,B-ai
+AXTI,AXT Inc,D1量化,B-ai
+FAST,Fastenal,D1量化,B-ai
+GD,General Dynamics,D1量化,B-ai;B-GICS5;NA-17
+UNH,UnitedHealth,D1量化,B-ai;NA-20;D7
+FDX,FedEx,D3事件,B-ai;B-gics;D3-spinoff FDXF
+MDT,Medtronic,D3事件,B-ai;B-GICS20
+HON,Honeywell,D3事件,B-ai
+KBR,KBR,D3事件,B-ai;D3-spinoff
+WAT,Waters Corp,D3事件,B-ai
+ELAN,Elanco Animal Health,D4技术面,B-ai
+ARES,Ares Management,D4技术面,B-ai
+DHI,D.R. Horton,D5聪明钱,B-ai
+CVX,Chevron,D5聪明钱,B-ai
+BN,Brookfield Corp,D5聪明钱,B-ai;D9-Ackman 13F core
+HHH,Howard Hughes,D5聪明钱,B-ai;D9-Ackman 13F
+DGX,Quest Diagnostics,D6财报,B-ai
+CVS,CVS Health,D6财报,B-ai
+DE,Deere & Company,D6财报,B-ai
+BMNR,Bitmine Immersion,D6财报,B-ai;I-加密修复
+ATI,ATI Inc,D6财报,B-ai
+KGS,Kodiak Gas Services,D6财报,B-ai
+EPD,Enterprise Products Partners,Energy,B-gics;B-GICS1
+WMB,Williams Companies,Energy,B-gics;B-GICS1
+TRGP,Targa Resources,Energy,B-gics;B-GICS1
+BE,Bloom Energy,Energy,B-gics;AI赛道31
+FANG,Diamondback Energy,Energy,B-gics
+SQM,Sociedad Quimica y Minera,Materials,B-gics;B-GICS3
+MP,MP Materials,Materials,B-gics;B-GICS3
+ALB,Albemarle,Materials,B-gics;B-GICS3;B-GICS4
+LAC,Lithium Americas,Materials,B-gics;B-GICS3;B-GICS4
+TXT,Textron,Capital Goods,B-gics
+HWM,Howmet Aerospace,Capital Goods,B-gics;B-GICS5;NA-17
+TDG,TransDigm Group,Capital Goods,B-gics
+CDRE,Cadre Holdings,Capital Goods,B-gics;B-GICS6,[已验证]Q2收入$207.1M(+32%)/adj EBITDA+56%;积压订单$355M(年初$166M);上调FY26指引$749-769M;目标价$47.5(+39%)
+KRMN,Karman Holdings,Capital Goods,B-gics;B-GICS6
+WM,Waste Management,Commercial Services,B-gics
+RSG,Republic Services,Commercial Services,B-gics
+CLH,Clean Harbors,Commercial Services,B-gics
+GFL,GFL Environmental,Commercial Services,B-gics
+UPST,Upstart Holdings,Commercial Services,B-gics
+JBHT,J.B. Hunt Transport,Transportation,B-gics
+JOBY,Joby Aviation,Transportation,B-gics;B-GICS9
+CSX,CSX Corp,Transportation,B-gics;B-GICS9;B-GICS10
+GM,General Motors,Automobiles,B-gics;B-GICS11
+AZO,AutoZone,Automobiles,B-gics;B-GICS11
+ORLY,O'Reilly Automotive,Automobiles,B-gics;B-GICS11
+RIVN,Rivian Automotive,Automobiles,B-gics
+BWA,BorgWarner,Automobiles,B-gics
+RH,RH,Consumer Durables,B-gics;B-GICS12
+RACE,Ferrari,Consumer Durables,B-gics;B-GICS12
+LVMUY,LVMH ADR,Consumer Durables,B-gics
+CROX,Crocs,Consumer Durables,B-gics
+HLT,Hilton Worldwide,Consumer Services,B-gics;B-GICS13
+H,Hyatt Hotels,Consumer Services,B-gics;B-GICS13
+NCLH,Norwegian Cruise Line,Consumer Services,B-gics;B-GICS13
+CCL,Carnival,Consumer Services,B-gics;B-GICS13;B-GICS14
+TNL,Travel + Leisure,Consumer Services,B-gics;B-GICS14
+DG,Dollar General,Retailing,B-gics;B-GICS15;B-GICS16
+ROST,Ross Stores,Retailing,B-gics;B-GICS15
+BURL,Burlington Stores,Retailing,B-gics;B-GICS15
+SVV,Savers Value Village,Retailing,B-gics;B-GICS16
+BOOT,Boot Barn,Retailing,B-gics;B-GICS16
+VZ,Verizon,Telecom,B-gics;B-GICS17
+T,AT&T,Telecom,B-gics;B-GICS17
+TMUS,T-Mobile US,Telecom,B-gics;F-watchlist($170-180);B-GICS17
+CHTR,Charter Communications,Telecom,B-gics;B-GICS18
+RCI,Rogers Communications,Telecom,B-gics;B-GICS17
+NFLX,Netflix,Media & Entertainment,B-gics;G-META生态;B-GICS18
+DIS,Walt Disney,Media & Entertainment,B-gics
+TTD,The Trade Desk,Media & Entertainment,B-gics;B-GICS18
+ACI,Albertsons,Staples Retail,B-gics;B-GICS19
+CASY,Casey's General Stores,Staples Retail,B-gics
+DLTR,Dollar Tree,Staples Retail,B-gics
+MO,Altria Group,Food Beverage Tobacco,B-gics
+PM,Philip Morris,Food Beverage Tobacco,B-gics
+PEP,PepsiCo,Food Beverage Tobacco,B-gics;B-GICS20
+CAG,Conagra Brands,Food Beverage Tobacco,B-gics;B-GICS19
+INGR,Ingredion,Food Beverage Tobacco,B-gics;B-GICS19
+EL,Estee Lauder,Household Products,B-gics;B-GICS21
+KVUE,Kenvue,Household Products,B-gics;B-GICS21
+ELF,e.l.f. Beauty,Household Products,B-gics;B-GICS21
+IPAR,Interparfums,Household Products,B-gics;B-GICS21
+CLX,Clorox,Household Products,B-gics;B-GICS20
+INMD,InMode,Health Equipment & Services,B-gics;B-GICS22
+CNMD,Conmed,Health Equipment & Services,B-gics;B-GICS22
+IART,Integra LifeSciences,Health Equipment & Services,B-gics;B-GICS22
+STE,STERIS,Health Equipment & Services,B-gics;B-GICS22
+GEHC,GE HealthCare,Health Equipment & Services,B-gics;B-GICS22
+HRMY,Harmony Biosciences,Pharma & Biotech,B-gics;B-GICS24
+EXEL,Exelixis,Pharma & Biotech,B-gics;F-watchlist($45-48 PDUFA催化);B-GICS24
+ADMA,ADMA Biologics,Pharma & Biotech,B-gics
+ARGX,Argenx,Pharma & Biotech,B-gics
+INSM,Insmed,Pharma & Biotech,B-gics
+NU,Nu Holdings,Banks,B-gics;B-GICS26
+RF,Regions Financial,Banks,B-gics;B-GICS26
+ZION,Zions Bancorp,Banks,B-gics
+CFG,Citizens Financial,Banks,B-gics
+BAC,Bank of America,Banks,B-gics
+DLO,dLocal,Diversified Financials,B-gics
+AIG,American International Group,Insurance,B-gics;B-GICS1
+AFG,American Financial Group,Insurance,B-gics;B-GICS1
+ACT,Enact Holdings,Insurance,B-gics;B-GICS1
+PCOR,Procore Technologies,Software,B-gics
+INTU,Intuit,Software,B-gics;I-估值修复
+CRWD,CrowdStrike,Software,B-gics;I-估值修复;B-GICS5
+SNOW,Snowflake,Software,B-gics;G-MSFT生态
+DDOG,Datadog,Software,B-gics;G-MSFT生态
+INTC,Intel,Semiconductors,B-gics;B-GICS8;D6
+BEP,Brookfield Renewable,Utilities,B-gics
+AGX,Argan,Utilities,B-gics;B-GICS10
+EXE,Expand Energy,Utilities,B-gics;B-GICS2
+WELL,Welltower,Real Estate,B-gics
+O,Realty Income,Real Estate,B-gics;B-GICS12
+CCI,Crown Castle,Real Estate,B-gics;B-GICS17
+AMT,American Tower,Transportation-Logistics+Wireless,B-gics;B-GICS17
+UPS,United Parcel Service,Transportation-Logistics+Wireless,B-gics;D3;D7
+TCOM,Trip.com Group,中国消费,B-nonai
+YUMC,Yum China Holdings,中国消费,B-nonai
+PDD,PDD Holdings,中国电商,B-nonai;G-BABA生态;NA-13;NA-14
+JD,JD.com,中国电商,B-nonai;G-BABA生态;B-GICS15;NA-13;NA-14
+VIPS,Vipshop Holdings,中国电商,B-nonai
+NEM,Newmont Corporation,黄金,B-nonai;NA-15
+GOLD,Barrick Mining,黄金,B-nonai;NA-15
+AEM,Agnico Eagle Mines,黄金,B-nonai;NA-15
+FNV,Franco-Nevada,黄金royalty,B-nonai;E-非AI对冲缺口;NA-15;NA-16
+WPM,Wheaton Precious Metals,黄金royalty,B-nonai;E-非AI对冲缺口;NA-16
+RGLD,Royal Gold,黄金royalty,B-nonai;NA-16;E-非AI对冲
+RTX,RTX Corporation,防务,B-nonai;B-GICS5;NA-17
+NOC,Northrop Grumman,防务,B-nonai;E-非AI对冲缺口;B-GICS5;NA-17
+LMT,Lockheed Martin,防务,B-nonai;E-非AI对冲缺口;B-GICS5;NA-17
+WST,West Pharmaceutical Services,GLP-1供应链,B-nonai
+TMO,Thermo Fisher Scientific,GLP-1供应链,B-nonai
+STVN,Stevanato Group,GLP-1供应链,B-nonai
+MKL,Markel Group,保险,B-nonai
+ACGL,Arch Capital Group,保险,B-nonai
+RNR,RenaissanceRe Holdings,保险,B-nonai;B-GICS2;NA-15hedge
+ACMR,ACM Research,BABA生态链,B-nonai
+GDS,GDS Holdings,BABA生态链,B-nonai;G-BABA生态
+SMCI,Super Micro Computer,MSFT生态链,B-nonai;B-GICS7;G-MSFT生态
+ENTG,Entegris Inc.,TSM生态链,B-nonai
+DAL,Delta Air Lines,BRK生态链,B-nonai;F-watchlist(≤$75);D8-Berkshire new position
+LEN,Lennar Corporation,BRK生态链,B-nonai
+DVA,DaVita Inc.,BRK生态链,B-nonai
+SHOP,Shopify Inc.,INTU生态链,B-nonai;G-INTU生态
+IBM,IBM Corporation,ADBE生态链,B-nonai
+V,Visa Inc.,CRCL生态链,B-nonai;E-加密修复
+MA,Mastercard Inc.,CRCL生态链,B-nonai;I-估值修复;E-加密修复
+BLK,BlackRock Inc.,CRCL生态链,B-nonai
+COIN,Coinbase Global,CRCL生态链,B-nonai;I-加密修复;E-加密缺口;G-CRCL生态
+MSTR,Strategy Inc,BTC财库折价+杠杆复苏,I-加密修复;A-MSTR观察仓($88);A-观察仓($88触发)
+ADBE,Adobe,AI颠覆恐惧错杀创意软件平台,I-估值修复
+CRCL,Circle Internet,Clarity Act恐惧+USDC机构化,I-加密修复
+CLSK,CleanSpark,非现金减值错杀+AI转型期权,I-加密修复;E-加密缺口
+META,Meta Platforms,AI Capex恐惧+广告周期,I-估值修复
+ANET,Arista Networks,InfoTech-NetEquip,E-AI硬件缺口;F-watchlist($125-145);B-GICS6
+PSU,Piedmont Lithium,Materials,E-AI硬件缺口
+NRG,NRG Energy,Utilities-IPP,E-AI硬件缺口(IPP cap6%);F-watchlist(首仓$118-128 checklist6/6✅)
+GLD,SPDR Gold Shares ETF,Commodities-Gold,E-非AI对冲缺口
+PGR,Progressive,Financials-Insurance,E-非AI对冲缺口
+ALL,Allstate,Financials-Insurance,E-非AI对冲缺口;B-GICS2
+TRV,Travelers,Financials-Insurance,E-非AI对冲缺口;B-GICS2
+PG,Procter & Gamble,Cons-Staples,E-非AI对冲缺口
+KO,Coca-Cola,Cons-Staples,E-非AI对冲缺口
+RIOT,Riot Platforms,FinTech-Crypto-Mining,E-加密缺口;F-watchlist(右侧三条件触发);E-加密修复
+MARA,MARA Holdings,FinTech-Crypto-Mining,E-加密缺口
+MPWR,Monolithic Power,InfoTech-Analog,G-TSM生态
+HILO,Hyperscale Data,InfoTech-DC,G-APLD生态
+PINS,Pinterest,Comm-Interactive,G-META生态
+SPOT,Spotify,Comm-Interactive,G-META生态
+TCEHY,Tencent,Comm-Interactive,G-BABA生态;NA-13
+PYPL,PayPal,FinTech-Payments,G-CRCL生态(稳定币竞争)
+SOFI,SoFi,FinTech,G-CRCL生态
+HOOD,Robinhood,FinTech,G-CRCL生态;E-加密修复
+JNJ,Johnson & Johnson,HealthCare-Pharma,B-GICS补充扫描(本次执行搜索发现);B-GICS22;E-非AI对冲
+LLY,Eli Lilly,HealthCare-Pharma,B-GICS补充扫描(本次执行搜索发现);NA-19
+NVO,Novo Nordisk,HealthCare-Pharma,B-GICS补充扫描(本次执行搜索发现);B-GICS24;NA-19
+VRTX,Vertex Pharmaceuticals,HealthCare-Biotech,B-GICS补充扫描(本次执行搜索发现)
+ISRG,Intuitive Surgical,HealthCare-MedDevice,B-GICS补充扫描(本次执行搜索发现);B-GICS22;NA-20
+ABT,Abbott Labs,HealthCare-MedDevice,B-GICS补充扫描(本次执行搜索发现);B-GICS22
+HCA,HCA Healthcare,HealthCare-Facilities,B-GICS补充扫描(本次执行搜索发现);NA-20
+TMDS,TransMedics Group,HealthCare-MedDevice,B-GICS补充扫描(本次执行搜索发现)
+FMS,Fresenius Medical,HealthCare-MedDevice,B-GICS补充扫描(本次执行搜索发现);B-GICS22
+REGN,Regeneron,HealthCare-Biotech,B-GICS补充扫描(本次执行搜索发现)
+AMGN,Amgen,HealthCare-Biotech,B-GICS补充扫描(本次执行搜索发现);NA-20
+PFE,Pfizer,HealthCare-Pharma,B-GICS补充扫描(本次执行搜索发现)
+MRK,Merck,HealthCare-Pharma,B-GICS补充扫描(本次执行搜索发现);B-GICS24
+JPM,JPMorgan Chase,Financials-Banks,B-GICS补充扫描(本次执行搜索发现)
+WFC,Wells Fargo,Financials-Banks,B-GICS补充扫描(本次执行搜索发现)
+GS,Goldman Sachs,Financials-Capital Mkts,B-GICS补充扫描(本次执行搜索发现)
+MS,Morgan Stanley,Financials-Capital Mkts,B-GICS补充扫描(本次执行搜索发现)
+SCHW,Charles Schwab,Financials-Brokers,B-GICS补充扫描(本次执行搜索发现)
+AXP,American Express,Financials-Payments,B-GICS补充扫描(本次执行搜索发现)
+CAT,Caterpillar,Industrials-Machinery,B-GICS补充扫描(本次执行搜索发现);B-GICS20
+GE,GE Aerospace,Industrials-Aerospace,B-GICS补充扫描(本次执行搜索发现);B-GICS5
+BA,Boeing,Industrials-Aerospace,B-GICS补充扫描(本次执行搜索发现)
+UNP,Union Pacific,Industrials-Rail,B-GICS补充扫描(本次执行搜索发现)
+LIN,Linde plc,Materials-Chemicals,B-GICS补充扫描(本次执行搜索发现)
+SHW,Sherwin-Williams,Materials-Chemicals,B-GICS补充扫描(本次执行搜索发现)
+FCX,Freeport-McMoRan,Materials-Copper,B-GICS补充扫描(本次执行搜索发现)
+DOW,Dow Inc,Materials-Chemicals,B-GICS补充扫描(本次执行搜索发现);B-GICS3
+APD,Air Products,Materials-Chemicals,B-GICS补充扫描(本次执行搜索发现)
+ECL,Ecolab,Materials-Chemicals,B-GICS补充扫描(本次执行搜索发现);G-META生态
+XOM,Exxon Mobil,Energy-Integrated,B-GICS补充扫描(本次执行搜索发现)
+COP,ConocoPhillips,Energy-E&P,B-GICS补充扫描(本次执行搜索发现)
+SLB,Schlumberger,Energy-Services,B-GICS补充扫描(本次执行搜索发现)
+BP,BP plc,Energy-Integrated,B-GICS补充扫描(本次执行搜索发现)
+NEE,NextEra Energy,Utilities-Regulated,B-GICS补充扫描(本次执行搜索发现);B-GICS10
+DUK,Duke Energy,Utilities-Regulated,B-GICS补充扫描(本次执行搜索发现)
+SO,Southern Company,Utilities-Regulated,B-GICS补充扫描(本次执行搜索发现);B-GICS10
+AEP,American Electric Power,Utilities-Regulated,B-GICS补充扫描(本次执行搜索发现)
+D,Dominion Energy,Utilities-Regulated,B-GICS补充扫描(本次执行搜索发现);B-GICS10
+EXC,Exelon,Utilities-Regulated,B-GICS补充扫描(本次执行搜索发现);B-GICS10
+PLD,Prologis,REIT-Industrial,B-GICS补充扫描(本次执行搜索发现)
+SPG,Simon Property Group,REIT-Retail,B-GICS补充扫描(本次执行搜索发现);B-GICS12
+COST,Costco,Cons-Staples,B-GICS补充扫描(本次执行搜索发现);B-GICS15;B-GICS16
+WMT,Walmart,Cons-Staples,B-GICS补充扫描(本次执行搜索发现);B-GICS15
+MDLZ,Mondelez,Cons-Staples,B-GICS补充扫描(本次执行搜索发现)
+CL,Colgate-Palmolive,Cons-Staples,B-GICS补充扫描(本次执行搜索发现)
+HD,Home Depot,Cons-Discretionary-Retail,B-GICS补充扫描(本次执行搜索发现)
+LOW,Lowe's,Cons-Discretionary-Retail,B-GICS补充扫描(本次执行搜索发现)
+SBUX,Starbucks,Cons-Discretionary-Restaurant,B-GICS补充扫描(本次执行搜索发现)
+NKE,Nike,Cons-Discretionary-Apparel,B-GICS补充扫描(本次执行搜索发现)
+DPZ,Domino's Pizza,Cons-Discretionary-Restaurant,B-GICS补充扫描(本次执行搜索发现)
+MCD,McDonald's,Cons-Discretionary-Restaurant,B-GICS补充扫描(本次执行搜索发现)
+BKNG,Booking Holdings,Cons-Discretionary-Travel,B-GICS补充扫描(本次执行搜索发现)
+ABNB,Airbnb,Cons-Discretionary-Travel,B-GICS补充扫描(本次执行搜索发现)
+TJX,TJX Companies,Cons-Discretionary-Retail,B-GICS补充扫描(本次执行搜索发现);B-GICS15
+CMCSA,Comcast,Comm-Cable,B-GICS补充扫描(本次执行搜索发现)
+EA,Electronic Arts,Comm-Gaming,B-GICS补充扫描(本次执行搜索发现)
+TTWO,Take-Two Interactive,Comm-Gaming,B-GICS补充扫描(本次执行搜索发现)
+TXN,Texas Instruments,InfoTech-Semis-Analog,B-GICS补充扫描(本次执行搜索发现)
+ADI,Analog Devices,InfoTech-Semis-Analog,B-GICS补充扫描(本次执行搜索发现);D7-earnings beat;D10-mover
+NXPI,NXP Semiconductors,InfoTech-Semis-Auto,B-GICS补充扫描(本次执行搜索发现)
+ON,ON Semiconductor,InfoTech-Semis-Auto,B-GICS补充扫描(本次执行搜索发现);B-GICS9;D7
+TER,Teradyne,InfoTech-Semis-Test,B-GICS补充扫描(本次执行搜索发现)
+IONS,IonQ,InfoTech-Quantum,B-GICS补充扫描(本次执行搜索发现)
+RGTI,Rigetti Computing,InfoTech-Quantum,B-GICS补充扫描(本次执行搜索发现)
+SOUN,SoundHound AI,InfoTech-AIVoice,B-GICS补充扫描(本次执行搜索发现)
+AI,C3.ai,InfoTech-AISoftware,B-GICS补充扫描(本次执行搜索发现)
+BBAI,BigBear.ai,InfoTech-AISoftware,B-GICS补充扫描(本次执行搜索发现)
+MDB,MongoDB,InfoTech-Software,B-GICS补充扫描(本次执行搜索发现)
+NET,Cloudflare,InfoTech-Software,B-GICS补充扫描(本次执行搜索发现)
+PANW,Palo Alto Networks,InfoTech-Cybersecurity,B-GICS补充扫描(本次执行搜索发现);B-GICS5
+ZS,Zscaler,InfoTech-Cybersecurity,B-GICS补充扫描(本次执行搜索发现);B-GICS5
+FTNT,Fortinet,InfoTech-Cybersecurity,B-GICS补充扫描(本次执行搜索发现);B-GICS4
+WDAY,Workday,InfoTech-Software,B-GICS补充扫描(本次执行搜索发现);I-估值修复
+TEAM,Atlassian,InfoTech-Software,B-GICS补充扫描(本次执行搜索发现)
+BRK.B,Berkshire Hathaway,Insurance,A-加仓GTC($488×30在场四大师建议$492×20+$488×10)
+FN,Fabrinet,Optical Assembly,F-watchlist($400-442双重验证通过);D7-earnings beat;D10-mover;E-AI硬件
+LEU,Centrus Energy,Nuclear Fuel,F-watchlist($110-150 2/6);E-AI硬件
+MELI,MercadoLibre,China/EM Consumer,F-watchlist($1400-1500);B-GICS15
+DHT,DHT Holdings,Energy,B-GICS1
+ENB,Enbridge,Energy,B-GICS1
+LNG,Cheniere Energy,Energy,B-GICS1;B-GICS2
+OKE,ONEOK,Energy,B-GICS1;B-AI赛道31
+KMI,Kinder Morgan,Energy,B-GICS1;B-GICS2,[已验证]市值$68.9B;TTM收入+12.5%/EPS+27.2%;数据中心+LNG驱动天然气需求;Q2 beat/raise;股息3.85%;分析师目标价+15.8%
+GPRE,Green Plains,Materials,B-GICS3
+KRO,Kronos Worldwide,Materials,B-GICS3
+UAN,CVR Partners,Materials,B-GICS3
+HII,Huntington Ingalls,Industrials,B-GICS5
+IEX,IDEX,Industrials,B-GICS5
+AVAV,AeroVironment,Industrials,B-GICS5
+TDY,Teledyne Technologies,Industrials,B-GICS5
+AAR,AAR Corp,Industrials,B-GICS5
+ONDS,Ondas Holdings,Industrials,B-GICS6
+RCMT,RCM Technologies,Industrials,B-GICS8
+HQI,HireQuest,Industrials,B-GICS8
+PEGA,Pegasystems,Industrials,B-GICS8
+WCN,Waste Connections,Industrials,B-GICS8
+ZIP,ZipRecruiter,Industrials,B-GICS8
+CP,Canadian Pacific Kansas City,Industrials,B-GICS9
+LUV,Southwest Airlines,Industrials,B-GICS9
+RAIL,FreightCar America,Industrials,B-GICS10
+STRT,Strattec Security,Consumer Discretionary,B-GICS11
+GTX,Garrett Motion,Consumer Discretionary,B-GICS11
+REVG,REV Group,Consumer Discretionary,B-GICS11
+BABA,Alibaba,Consumer Discretionary,B-GICS15;NA-14
+WRBY,Warby Parker,Consumer Discretionary,B-GICS15
+SE,Sea Ltd,Consumer Discretionary,B-GICS16
+SKM,SK Telecom,Communication Services,B-GICS17
+TIMB,TIM SA,Communication Services,B-GICS17
+USM,US Cellular,Communication Services,B-GICS17
+PHI,PLDT,Communication Services,B-GICS17
+KT,KT Corp,Communication Services,B-GICS17
+SENEA,Seneca Foods,Consumer Staples,B-GICS19
+ATO,Atmos Energy,Consumer Staples,B-GICS20
+HELE,Helen of Troy,Consumer Staples,B-GICS21
+NUS,Nu Skin,Consumer Staples,B-GICS21
+COTY,Coty,Consumer Staples,B-GICS21
+ULTA,Ulta Beauty,Consumer Staples,B-GICS21
+ALGN,Align Technology,Health Care,B-GICS22
+EW,Edwards Lifesciences,Health Care,B-GICS22
+BSX,Boston Scientific,Health Care,B-GICS22;NA-20
+BIO,Bio-Rad Laboratories,Health Care,B-GICS24
+CTKB,Cytek Biosciences,Health Care,B-GICS24
+CYRX,Cryoport,Health Care,B-GICS24
+NTLA,Intellia Therapeutics,Health Care,B-GICS24
+SPGI,S&P Global,Financials,B-GICS20
+BNS,Bank of Nova Scotia,Financials,B-GICS26
+NWG,NatWest Group,Financials,B-GICS26
+PNC,PNC Financial,Financials,B-GICS26
+BNY,Bank of New York Mellon,Financials,B-GICS26
+JCI,Johnson Controls,Industrials,AI赛道32
+MRSH,Marsh & McLennan,Financials-Insurance Broker,B-GICS1
+CRD.A,Crawford & Company,Financials-Insurance Services,B-GICS1
+AJG,Arthur J. Gallagher,Financials-Insurance Broker,B-GICS1
+BRO,Brown & Brown,Financials-Insurance Broker,B-GICS1
+CINF,Cincinnati Financial,Financials-Insurance,B-GICS2
+HIG,The Hartford,Financials-Insurance,B-GICS2
+IGIC,International General Insurance,Financials-Specialty Insurance,B-GICS3
+KNSL,Kinsale Capital Group,Financials-Specialty Insurance,B-GICS3;E-非AI对冲
+RLI,RLI Corp,Financials-Specialty Insurance,B-GICS3
+SIGI,Selective Insurance Group,Financials-Specialty Insurance,B-GICS3;E-非AI对冲
+EG,Everest Group,Financials-Reinsurance,B-GICS3
+OKTA,Okta,IT-Software/Cybersecurity,B-GICS4
+S,SentinelOne,IT-Software/Cybersecurity,B-GICS4
+CYBR,CyberArk Software,IT-Software/Cybersecurity,B-GICS4
+CVLT,Commvault Systems,IT-Software/Cybersecurity,B-GICS4
+RBRK,Rubrik,IT-Software/Cybersecurity,B-GICS5
+NTAP,NetApp,IT-Storage,B-GICS6
+PCG,PG&E Corp,Utilities,B-GICS10
+NGG,National Grid (ADR),Utilities,B-GICS10
+RFI,Cohen & Steers REIT Fund,Real Estate-REIT CEF,B-GICS12
+VICI,VICI Properties,Real Estate-Gaming REIT,B-GICS12
+BILI,Bilibili,Communication Services-China,NA-14
+FUTU,Futu Holdings,Financials-China Brokerage,NA-14
+NTES,NetEase,Communication Services-China Gaming,NA-13
+LI,Li Auto,Consumer Discretionary-China EV,NA-13
+GDX,VanEck Gold Miners ETF,Materials-Gold Mining ETF,NA-15
+LHX,L3Harris Technologies,Industrials-Defense,NA-17
+BAESY,BAE Systems (ADR),Industrials-Defense,NA-17
+RNMBY,Rheinmetall (ADR),Industrials-Defense,NA-17
+FLNC,Fluence Energy,Industrials-Energy Storage,NA-18
+ICLR,ICON plc,Health Care-CRO/CDMO,NA-19
+LGND,Ligand Pharmaceuticals,Health Care-GLP-1 Peptide CDMO,NA-19
+RMD,ResMed,Health Care-Medical Devices,NA-20
+ABBV,AbbVie,Health Care-Biopharma,NA-20
+ELV,Elevance Health,Health Care-Managed Care,NA-20
+KR,Kroger,Consumer Staples-Grocery,D3;D7
+MTDR,Matador Resources,Energy-Oil & Gas E&P,D1;D6
+GRC,Gorman-Rupp,Industrials-Industrial Machinery,D1;D7
+ASTS,AST SpaceMobile,Communication Services-Satellite,D2
+CTVA,Corteva,Materials-AgriChem,D3-spinoff Vylor
+MSGS,Madison Square Garden Sports,Communication Services-Sports,D3-spinoff
+ANAB,AnaptysBio,Health Care-Biotech,D3-spinoff Atrium
+WBD,Warner Bros Discovery,Communication Services-Media,D4-activist
+MRNA,Moderna,Health Care-Biotech,D5-52wk low
+BDX,Becton Dickinson,Health Care-Medical Devices,D5-52wk low
+M,Macy's,Consumer Discretionary-Retail,D8-Berkshire new position
+JKHY,Jack Henry & Associates,IT-FinTech SaaS,D7-earnings beat
+AS,Amer Sports,Consumer Discretionary-Sporting Goods,D10-mover
+BTDR,Bitdeer Technologies,Crypto-Bitcoin Mining,D9-Druckenmiller top pick Q2 2026
+AAOI,Applied Optoelectronics,Information Technology (光互连),拦截-①增速86%<100%;E-AI硬件
+CBRS,Cerebras Systems,Information Technology (AI推理芯片),拦截-①增速约76%<100% ③市值约$86B>$80B
+SKYT,SkyWater Technology,Information Technology (特种半导体制造),拦截-③市值约$1.3B<$3B
+RR,Richtech Robotics,Information Technology (机器人),拦截-①增速约30%<100% ③市值$0.36B<$3B
+DOCU,DocuSign,Information Technology,I-估值修复
+XYZ,Block,Financials (SMB金融科技),G-INTU生态
+ABBNY,ABB Ltd ADR,Industrials (电力设备/变压器),G-APLD生态
+CCJ,Cameco,Energy (铀),E-AI硬件
+UUUU,Energy Fuels,Energy (铀),E-AI硬件
+SMR,NuScale Power,Utilities (SMR小型堆),E-AI硬件
+OKLO,Oklo,Utilities (SMR小型堆),E-AI硬件
+CIEN,Ciena,Information Technology (光网络),E-AI硬件
+3037.TW,Unimicron Technology,Information Technology (ABF载板),E-AI硬件
+4062.T,Ibiden,Information Technology (ABF载板),E-AI硬件
+WRB,W.R. Berkley,Financials (P&C保险),E-非AI对冲
+FISV,Fiserv,Financials (稳定币发行),E-加密修复

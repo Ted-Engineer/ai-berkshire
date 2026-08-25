@@ -1,0 +1,200 @@
+# search-log run 2026-08-20 (UTC time | tool | query)
+03:51 | open-websearch(ddg) | biggest stock movers today August 19 2026
+03:51 | open-websearch(ddg) | stocks surge earnings beat today August 19 2026
+03:51 | open-websearch(ddg) | CBOE VIX index today level
+03:51 | open-websearch(ddg) | S&P 500 percent above 200 day moving average
+03:51 | open-websearch(ddg) | CNN fear greed index today
+03:51 | open-websearch(ddg) | IPO market this week first day pops August 2026
+03:58 | gnews | AI capex guidance 2026 hyperscaler raise
+03:58 | gnews | AI infrastructure bottleneck shortage 2026
+03:58 | gnews | CoWoS HBM supply shortage sold out
+03:58 | gnews | TSMC monthly revenue July record
+03:58 | gnews | IPP power purchase agreement data center
+03:58 | gnews | AI ARR SaaS agentic software growth
+03:58 | gnews | Copilot enterprise adoption AI software valuation
+03:58 | gnews | Meta Google free cash flow capex squeeze
+03:58 | gnews | bitcoin ETF flows weekly
+03:58 | gnews | crypto fear greed index
+03:58 | gnews | stablecoin regulation legislation crypto
+04:03 | cnn-api | fear and greed index direct
+04:03 | alternative.me | crypto fear greed index
+04:03 | yahoo-api | GSPC/DJI/IXIC/MRNA/MRVL/EL quotes
+04:03 | webfetch | CNBC 8-19 market live updates full text
+04:03 | gnews | AI capex guidance 2026 hyperscaler raise (body via CNBC)
+05:12 | gnews | undervalued energy oil gas pipeline midstream stocks 2026
+05:12 | gnews | natural gas pipeline LNG capacity expansion stocks earnings
+05:12 | gnews | undervalued chemical metals mining specialty materials stocks 2026
+05:12 | gnews | lithium uranium copper miners production growth 2026
+05:12 | gnews | undervalued industrial machinery defense aerospace manufacturing stocks 2026
+05:12 | gnews | defense stocks record backlog order growth 2026
+05:12 | gnews | electrical equipment grid capex beneficiary stocks 2026
+05:12 | gnews | undervalued business services waste environmental stocks 2026
+05:12 | gnews | staffing payroll stocks hiring recovery 2026
+05:12 | gnews | undervalued airline railroad trucking logistics shipping stocks 2026
+05:12 | gnews | shipping railroad stocks earnings recovery momentum 2026
+05:12 | gnews | undervalued auto EV auto parts dealer stocks 2026
+05:12 | gnews | auto supplier content per vehicle increase stocks 2026
+05:12 | gnews | undervalued consumer electronics household appliance luxury apparel stocks 2026
+05:12 | gnews | luxury brand pricing power revenue growth 2026
+05:12 | gnews | undervalued restaurant hotel casino cruise travel stocks 2026
+05:12 | gnews | cruise stocks earnings beat record bookings 2026
+05:13 | gnews | undervalued ecommerce grocery discount retail stocks 2026
+05:13 | gnews | off-price discount retail traffic growth stocks 2026
+05:13 | gnews | undervalued telecom wireless tower stocks 2026
+05:13 | gnews | telecom stocks FCF dividend 5G monetization 2026
+05:13 | gnews | undervalued streaming media gaming advertising stocks 2026
+05:13 | gnews | streaming gaming stocks subscriber growth profitability 2026
+05:13 | gnews | undervalued grocery drug store food distribution stocks 2026
+05:13 | gnews | food beverage dividend aristocrats pricing power 2026
+05:13 | gnews | undervalued household personal care beauty products stocks 2026
+05:13 | gnews | beauty personal care emerging market growth stocks 2026
+05:13 | gnews | undervalued medical device hospital health IT services stocks 2026
+05:13 | gnews | medical device new product cycle FDA approvals 2026
+05:13 | gnews | undervalued pharma biotech life science tools stocks 2026
+05:13 | gnews | biotech pipeline catalysts FDA approvals 2026
+05:13 | gnews | undervalued bank regional bank money center stocks 2026
+05:13 | gnews | regional bank merger acquisition targets 2026
+05:13 | gnews | undervalued fintech payment asset manager exchange stocks 2026
+05:13 | gnews | fintech transaction volume TPV growth 2026
+05:14 | gnews | undervalued insurance P&C reinsurance broker stocks 2026
+05:14 | gnews | specialty niche insurer high ROE 2026
+05:14 | gnews | data center REIT FFO growth 2026
+05:14 | gnews | utility data center power demand growth nuclear stocks 2026
+05:14 | gnews | undervalued software SaaS enterprise cloud cybersecurity stocks 2026
+05:14 | gnews | SaaS net revenue retention 120% AI agent ARR growth 2026
+05:14 | gnews | undervalued tech hardware server storage networking stocks 2026
+05:14 | gnews | server storage networking AI demand revenue surge 2026
+05:14 | gnews | undervalued semiconductor foundry memory equipment stocks 2026
+05:14 | gnews | HBM memory shortage beneficiary stocks 2026
+05:14 | gnews | REIT dividend yield discount to NAV stocks 2026
+05:14 | gnews | AI cloud GPU rental neocloud providers 2026
+05:14 | gnews | neocloud contract backlog billion deal wins 2026
+05:14 | gnews | custom AI ASIC accelerator design win stocks 2026
+05:14 | gnews | 800G 1.6T optical module demand growth 2026
+05:14 | gnews | AI cluster networking switch CPO stocks 2026
+05:14 | gnews | HBM4 capacity sold out memory stocks 2026
+05:14 | gnews | advanced packaging CoWoS capacity expansion suppliers 2026
+05:15 | gnews | WFE wafer fab equipment spending record 2026
+05:15 | gnews | ASML AMAT KLAC backlog book-to-bill 2026
+05:15 | gnews | data center power gigawatt pipeline IPP stocks 2026
+05:15 | gnews | nuclear SMR fuel uranium enrichment demand 2026
+05:15 | gnews | transformer lead time shortage grid equipment stocks 2026
+05:15 | gnews | electrification switchgear demand surge stocks 2026
+05:15 | gnews | liquid cooling rack power density AI stocks 2026
+05:15 | gnews | Vertiv earnings AI backlog growth 2026
+05:15 | gnews | data center construction E&C backlog stocks 2026
+05:15 | gnews | AI agent enterprise deployment ARR growth 2026
+05:15 | gnews | Palantir Salesforce ServiceNow AI revenue disclosure 2026
+05:15 | gnews | foundation model API token revenue growth OpenAI Anthropic 2026
+05:15 | gnews | humanoid robot production ramp 2026 stocks
+05:15 | gnews | robot actuator reducer sensor suppliers stocks 2026
+05:16 | gnews | robotaxi commercial fleet expansion 2026 Waymo Tesla
+05:16 | gnews | autonomous driving regulatory approval milestone 2026
+05:16 | gnews | bitcoin miner AI pivot HPC hosting 2026
+05:16 | gnews | crypto mining data center conversion capacity stocks
+05:16 | gnews | AI PC AI phone NPU upgrade cycle stocks 2026
+05:16 | gnews | on-device AI qualcomm mediatek design win 2026
+05:16 | gnews | AI data labeling synthetic data public companies 2026
+05:16 | gnews | aging population healthcare demand senior living stocks 2026
+05:16 | gnews | defense electronics ammunition capacity NATO rearmament 2026
+05:16 | gnews | grid modernization energy storage battery demand growth 2026
+05:16 | gnews | reshoring US manufacturing factory automation stocks 2026
+05:16 | gnews | rate cut beneficiaries REIT utilities duration assets 2026
+05:16 | gnews | GLP-1 supply chain contract manufacturing obesity drug 2026
+05:16 | gnews | water infrastructure replacement cycle pipe pump stocks 2026
+05:17 | gnews | sports betting iGaming legalization expansion stocks 2026
+05:17 | gnews | pet economy veterinary pet food premiumization stocks 2026
+05:17 | gnews | insurance hard market pricing cycle reinsurance 2026
+05:17 | gnews | China consumer stimulus recovery stocks 2026
+05:17 | gnews | Chinese ecommerce valuation re-rating catalysts 2026
+05:17 | gnews | gold miners real rates tail hedge stocks 2026
+05:17 | gnews | precious metals royalty central bank buying momentum 2026
+05:17 | gnews | recent spin-off stocks 2026 value unlock
+05:17 | gnews | activist investor targets 2026 campaign
+05:17 | gnews | stocks near 52 week low strong fundamentals 2026
+05:17 | gnews | insider buying cluster 2026 stocks
+05:17 | gnews | Berkshire Hathaway portfolio changes 2026 Q2 13F
+05:17 | gnews | top hedge fund new positions 13F 2026 Q2
+05:17 | gnews | biggest earnings movers this week August 2026
+05:18 | gnews(H-source) | revenue growth over 100% stocks 2026 earnings
+05:18 | gnews(H-source) | triple digit revenue growth AI stocks quarterly
+05:18 | gnews(H-source) | fastest growing companies revenue 2026 stock
+05:18 | gnews(H-source) | 500% revenue growth stock 2026
+05:18 | gnews(H-source) | revenue doubled year over year stocks 2026
+05:18 | gnews(H-source) | EBITDA positive first time 2026 stock AI
+05:18 | gnews(H-source) | profitability inflection point stocks 2026
+05:18 | gnews(H-source) | breakeven quarter AI company stock 2026
+05:18 | gnews(H-source) | backlog billion dollars AI stocks 2026
+05:18 | gnews(H-source) | contract wins billion AI infrastructure 2026
+05:18 | gnews(H-source) | pure play AI cloud stock 2026
+05:18 | gnews(H-source) | AI networking only company stock 2026
+05:18 | gnews(H-source) | HBM memory pure play stocks 2026
+05:18 | gnews(H-source) | optical interconnect AI pure play stock
+05:18 | gnews(H-source) | humanoid robot pure play stock 2026
+05:18 | gnews(H-source) | undercovered AI stocks institutional ownership low
+05:18 | gnews(H-source) | small cap AI stocks analyst coverage few
+05:18 | gnews(H-source) | recent IPO AI stocks 2025 2026 revenue growth
+05:18 | gnews(H-source) | hidden AI stocks not owned by hedge funds
+05:18 | gnews(H-source) | AI stocks Wall Street hasn't discovered yet 2026
+05:19 | gnews(I-source) | quality stocks historically low PE 2026
+05:19 | gnews(I-source) | oversold SaaS stocks strong fundamentals
+05:19 | gnews(I-source) | beaten down tech stocks high margin catalyst
+05:19 | gnews(I-source) | stocks 52 week low strong FCF moat
+05:19 | gnews(I-source) | fear driven sellover quality companies 2026
+05:19 | gnews(I-source) | crypto exchange stocks oversold revenue growth 2026
+05:19 | gnews(I-source) | stablecoin issuer stocks regulation catalyst USDC
+05:19 | gnews(I-source) | bitcoin mining stocks low valuation hashrate record 2026
+05:19 | gnews(I-source) | crypto miner AI HPC pivot data center conversion
+05:19 | gnews(I-source) | bitcoin proxy stocks discount NAV MSTR
+05:19 | gnews(I-source) | crypto payment fintech stocks undervalued TPV growth
+05:19 | gnews(I-source) | DeFi protocol revenue stocks tokenization 2026
+05:19 | gnews(I-source) | real world asset tokenization stocks blockchain 2026
+05:19 | gnews(I-source) | blockchain infrastructure stocks Layer1 Layer2 revenue
+05:19 | gnews(I-source) | crypto custody compliance stocks institutional 2026
+05:19 | gnews(I-source) | bitcoin ethereum ETF flows beneficiary stocks
+05:19 | gnews(I-source) | crypto regulation SEC legislation stocks catalyst 2026
+05:19 | gnews(I-source) | crypto mining hardware ASIC stocks revenue growth
+05:19 | gnews(I-source) | blockchain gaming NFT stocks revenue recovery 2026
+05:19 | gnews(I-source) | crypto stocks bear market bottom strong balance sheet
+05:20 | gnews(G/D7) | Alibaba cloud AI suppliers compute partners 2026
+05:20 | gnews(G/D7) | who provides AI compute to Microsoft Azure suppliers
+05:20 | gnews(G/D7) | Meta AI infrastructure suppliers power data center partners
+05:20 | gnews(G/D7) | TSMC suppliers equipment materials beneficiaries
+05:20 | gnews(G/D7) | Adobe partners ecosystem integration AI 2026
+05:20 | gnews(G/D7) | Intuit partners banks fintech ecosystem 2026
+05:20 | gnews(G/D7) | Applied Digital suppliers power construction partners
+05:20 | gnews(G/D7) | PayPal partners stablecoin ecosystem banks 2026
+05:20 | gnews(G/D7) | Circle USDC distribution partners banks 2026
+05:20 | gnews(G/D7) | Berkshire Hathaway top holdings suppliers ecosystem
+05:20 | gnews(G/D7) | Progressive insurance reinsurance partners suppliers
+05:21 | finviz | D1 value screen fPE<15 ROE>20
+05:21 | finviz | D1 growth screen salesQoQ>50
+05:21 | finviz | D1 income screen PE<20 div>305:21 | yahoo-screener | D1 predefined 6 screens
+05:22 | yahoo-trending | D4 trending tickers US/HK/CN
+05:22 | gnews | Berkshire Hathaway doubled down undervalued retail stock
+05:22 | gnews | 5 spin-off stocks reward patient investors 2026
+05:22 | gnews | Magnificent 7 ETF record low valuation buys
+05:22 | gnews | 3 oversold software stocks buy the dip
+05:22 | gnews | Fabrinet record revenue AI optical 2026
+05:22 | gnews | SanDisk 42 billion backlog memory valuation
+05:22 | gnews | Riot Platforms Anthropic 9 billion compute deal details
+05:25 | gnews | best bank stocks JPMorgan Goldman Sachs 2026 buy
+05:25 | gnews | best REITs 2026 real estate outperforms
+05:25 | gnews | European defense stocks Rheinmetall Rolls-Royce 2026
+05:25 | gnews | China tech stocks Tencent Alibaba PDD JD earnings August 2026
+05:25 | gnews | best healthcare stocks hospitals insurers 2026
+05:25 | gnews | consumer staples best stocks Costco Walmart 2026
+05:25 | gnews | airline stocks best 2026 capacity discipline
+05:25 | gnews | copper mining stocks Freeport Southern Copper 2026
+05:25 | gnews | uranium stocks Cameco Sprott 2026
+05:25 | gnews | semiconductor equipment stocks Tokyo Electron ASM 2026
+05:26 | gnews | oil services stocks Schlumberger Halliburton 2026
+05:26 | gnews | homebuilder stocks Lennar DR Horton 2026
+05:26 | gnews | best mid cap stocks 2026 quality growth
+05:26 | gnews | crypto adjacent stocks Galaxy Digital CleanSpark Hut 8 2026
+05:27 | gnews(D-bottleneck) | AI memory boom bust Micron SK Hynix SanDisk plunge
+05:28 | gnews(D-bottleneck) | optical interconnect bottleneck AI data center laser shortage
+05:28 | gnews(D-bottleneck) | CoWoS supply demand gap narrowing TrendForce
+05:28 | gnews(D-bottleneck) | transformer shortage grid lead time 2026 data center
+05:28 | gnews(D-bottleneck) | power bottleneck AI data center 2026 PJM ERCOT queue
+05:36 | gnews | BABA earnings check

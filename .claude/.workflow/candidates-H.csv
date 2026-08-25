@@ -1,0 +1,18 @@
+ticker,company,gics_sector,source
+NBIS,"Nebius Group N.V. | Q2收入$582M +454% YoY, Adj EBITDA $236M连续转正, Meta $27B+MSFT大单, 市值$59.6B",Information Technology (AI Cloud基础设施),H-爆发股
+CRWV,"CoreWeave Inc | Q2收入$2.575B +112% YoY, Adj EBITDA $1.16B, backlog $104B=市值2.1x, 市值$48.5B",Information Technology (AI Cloud基础设施),H-爆发股
+APLD,"Applied Digital Corp | FYQ4收入$240M +533% YoY, Adj EBITDA转正放量, 租约backlog约$36B, 市值$7.9B",Information Technology (AI数据中心开发/租赁),H-爆发股
+ALAB,"Astera Labs Inc | Q2收入$392M +104% YoY +27% QoQ, GAAP盈利, AI服务器连接≈100%, 市值$49.4B",Information Technology (AI连接芯片),H-爆发股
+CRDO,"Credo Technology | FQ3收入$404M约+200% YoY, GAAP盈利, AI连接>90%, 市值$43.0B",Information Technology (AI网络连接),H-爆发股(灰色)-④无官方backlog披露(指引/design-win替代可见性)
+LITE,"Lumentum Holdings | FQ4收入$1.01B约+88% YoY (FY26 +83%), GAAP盈利, 光互连纯正, 市值$77.7B贴近上限",Information Technology (光互连),H-爆发股(灰色)-①增速约88%差12%<20%阈值
+AAOI,"Applied Optoelectronics | Q2收入$192M +86% YoY创纪录, 首次non-GAAP转正$0.06, 市值$10.6B",Information Technology (光互连),H-爆发股(灰色)-①增速86%差14%<20%阈值
+IREN,"IREN Limited | Q3 FY26收入$145M约+44% YoY, NVDA $3.4B+MSFT $9.7B合同, 市值$9.4B",Information Technology (AI Cloud/电力),拦截-①总增速约44%差距>20%(AI Cloud分部+94% QoQ拐点明确但整体不达标)
+CBRS,"Cerebras Systems | Q2收入$180M不及预期($194M), 整体YoY约75%, 推理云分部近4倍, 市值$46.6B",Information Technology (AI推理芯片),拦截-①整体增速<100%且Q2环比下滑 客户集中G42 86%
+SOUN,"SoundHound AI | Q2收入$61.9M +45%, Adj EBITDA -$9.6M仍亏, 市值$3.25B",Information Technology (AI语音软件),拦截-①增速45%<100% ②EBITDA未转正
+WULF,"TeraWulf Inc | Q2收入$44.8M -5.9% YoY, Fluidstack $3.7B+$9.5B JV长约待确认, 市值$7.8B",Information Technology (AI托管/电力),拦截-①收入尚未放量(合同backlog极强但当期增速为负)
+MU,"Micron Technology | 收入+57%, 市值远超$80B",Information Technology (HBM/存储),拦截-①增速57%<100% ③市值远超$80B
+SNDK,"SanDisk Corp | NAND纯play但市值$229B+",Information Technology (NAND存储),拦截-③市值>$80B
+VRT,"Vertiv Holdings | 增速24%, 市值$100B+",Industrials (数据中心电力/散热),拦截-①增速<100% ③市值>$80B
+COHR,"Coherent Corp | 增速约34%",Information Technology (光互连),拦截-①增速<100%
+SKYT,"SkyWater Technology | 市值约$1.3B",Information Technology (特种半导体制造),拦截-③市值<$3B
+RR,"Richtech Robotics | 增速约30%, 市值$0.36B",Information Technology (机器人),拦截-①增速<100% ③市值<$3B
