@@ -101,7 +101,7 @@ def check_stage_3():
         v.append("search-log.txt 不存在")
     
     # MCP used标记
-    if not (WF / "mcp-open-websearch.used").exists() and not (WF / "builtin-websearch.used").exists():
+    if not (WF / "mcp-ddg-search.used").exists() and not (WF / "builtin-websearch.used").exists():
         w.append("未找到搜索工具.used标记")
     
     # 来源H和I的.done

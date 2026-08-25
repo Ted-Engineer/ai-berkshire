@@ -52,12 +52,13 @@ if ! ls "${WORKFLOW_DIR}"/bottleneck-hunter-*.done >/dev/null 2>&1; then
   missing+=("/bottleneck-hunter（瓶颈扫描）")
 fi
 
-# 5. 搜索工具必须使用过（接受回退链任一：mcp__web-search / kepler / web-search-prime / 内置WebSearch）
-if [ ! -f "${WORKFLOW_DIR}/mcp-web-search.used" ] \
+# 5. 搜索工具必须使用过（接受回退链任一：ddg-search / mcp__web-search / kepler / web-search-prime / 内置WebSearch）
+if [ ! -f "${WORKFLOW_DIR}/mcp-ddg-search.used" ] \
+   && [ ! -f "${WORKFLOW_DIR}/mcp-web-search.used" ] \
    && [ ! -f "${WORKFLOW_DIR}/mcp-kepler-search.used" ] \
    && [ ! -f "${WORKFLOW_DIR}/mcp-web-search-prime.used" ] \
    && [ ! -f "${WORKFLOW_DIR}/builtin-websearch.used" ]; then
-  missing+=("搜索工具（必须至少使用一次：mcp__web-search__search或回退链kepler/web-search-prime/内置WebSearch，并写入对应.used标记）")
+  missing+=("搜索工具（必须至少使用一次：ddg-search MCP或回退链mcp__web-search/kepler/web-search-prime/内置WebSearch，并写入对应.used标记）")
 fi
 
 # 6. 候选股票数量检查（≥300下限，350理想）

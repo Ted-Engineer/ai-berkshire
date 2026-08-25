@@ -12,6 +12,9 @@ timestamp=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 
 # 根据工具名创建对应标记
 case "$tool_name" in
+  *ddg-search*search*)
+    echo "{\"tool\":\"$tool_name\",\"timestamp\":\"$timestamp\"}" > "$WORKFLOW_DIR/mcp-ddg-search.used"
+    ;;
   *web-search__search*)
     echo "{\"tool\":\"$tool_name\",\"timestamp\":\"$timestamp\"}" > "$WORKFLOW_DIR/mcp-web-search.used"
     ;;
