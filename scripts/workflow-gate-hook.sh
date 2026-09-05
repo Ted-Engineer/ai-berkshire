@@ -2,7 +2,8 @@
 # Stop hook — Agent尝试停止时，检查所有必需skill是否已执行
 # 如果缺失，阻止停止并注入具体反馈
 
-WORKFLOW_DIR="F:/ai-berkshire/.claude/.workflow"
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")/.." && pwd)"
+WORKFLOW_DIR="${REPO_ROOT}/.claude/.workflow"
 ACTIVE_FILE="${WORKFLOW_DIR}/active"
 
 # 如果没有活跃工作流，直接放行
@@ -14,7 +15,7 @@ fi
 # 如果今天已有定稿的portfolio-action报告，说明本轮工作流已完成
 # （workflow-cleanup-hook.sh在报告写入时按完成语义删除.done标记和active；
 #  若用户随后重新激活工作流，active会重建但标记已清，此处避免对已完成工作重复拦截）
-TODAY_REPORT="F:/ai-berkshire/reports/portfolio-action-$(date +%Y%m%d).md"
+TODAY_REPORT="${REPO_ROOT}/reports/portfolio-action-$(date +%Y%m%d).md"
 if [ -f "$TODAY_REPORT" ]; then
   echo '{}'
   exit 0
@@ -96,12 +97,12 @@ else
   fi
 fi
 
-# 8. 搜索总量检查（≥80次，防止AI/非AI关键词片面性——2026-08-13用户反馈）
+# 8. 搜索总量检查（≥120次，与 search-matrix.md「搜索总量硬指标」一致——防止AI/非AI关键词片面性）
 SEARCH_LOG="${WORKFLOW_DIR}/search-log.txt"
 if [ -f "$SEARCH_LOG" ]; then
   search_count=$(wc -l < "$SEARCH_LOG" 2>/dev/null || echo 0)
-  if [ "$search_count" -lt 80 ]; then
-    missing+=("搜索总量不足：当前${search_count}次，要求≥80次。构成：GICS 25组×2视角=50 + AI赛道17×2=34 + 非AI主题≥8 + 7维补充。搜索词自动记录于search-log.txt，按prompt.md「搜索总量硬指标」补齐")
+  if [ "$search_count" -lt 120 ]; then
+    missing+=("搜索总量不足：当前${search_count}次，要求≥120次。构成：GICS 25组×2视角=50 + AI赛道17×2=34 + 非AI主题≥8 + 7维补充 + 来源H≥20 + 来源I≥20。搜索词自动记录于search-log.txt，按 config/search-matrix.md「搜索总量硬指标」补齐")
   fi
 else
   missing+=("搜索日志不存在（.claude/.workflow/search-log.txt）。每次MCP/WebSearch调用会自动追加一行；若无任何搜索记录说明未联网扫描")

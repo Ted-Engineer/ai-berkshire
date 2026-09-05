@@ -2,7 +2,7 @@
 # PostToolUse hook on Skill — 自动记录每次skill调用到 .claude/.workflow/
 # 每次Agent调用Skill工具后触发，写标记文件
 
-WORKFLOW_DIR="F:/ai-berkshire/.claude/.workflow"
+WORKFLOW_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")/.." && pwd)/.claude/.workflow"
 
 input=$(cat)
 skill_name=$(echo "$input" | jq -r '.tool_input.skill // ""' 2>/dev/null)

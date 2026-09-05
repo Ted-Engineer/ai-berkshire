@@ -2,7 +2,7 @@
 # PostToolUse hook on search tools — 追踪搜索工具使用 + 记录每次搜索词到search-log.txt
 # gate hook 依据 search-log.txt 行数验证搜索总量是否达标
 
-WORKFLOW_DIR="F:/ai-berkshire/.claude/.workflow"
+WORKFLOW_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")/.." && pwd)/.claude/.workflow"
 mkdir -p "$WORKFLOW_DIR"
 
 input=$(cat)

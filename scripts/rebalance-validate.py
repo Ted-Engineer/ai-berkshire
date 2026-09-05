@@ -7,9 +7,19 @@ portfolio-rebalance 执行质量验证脚本（harness）
 检查 .claude/.workflow/ 目录状态 + reports/ 输出，判定执行是否合规。
 输出 JSON: {"stage": N, "pass": bool, "violations": [...], "warnings": [...]}
 """
-import sys, os, json, glob, re
+import sys, os, json, glob
 from pathlib import Path
 from datetime import datetime
+
+def _force_utf8_stdio():
+    """Windows GBK 控制台下 verdict 字符串里的 ✅/🔴 会抛 UnicodeEncodeError。"""
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(encoding='utf-8', errors='replace')
+        except Exception:
+            pass
+
+_force_utf8_stdio()
 
 REPO = Path(__file__).resolve().parent.parent
 WF = REPO / ".claude" / ".workflow"
@@ -36,9 +46,10 @@ def check_stage_0():
     if not (WF / "active").exists():
         v.append(".claude/.workflow/active 不存在（workflow未激活）")
     # 温度文件（搜索当天或最近）
-    temp_files = glob.glob(str(WF / "market-temperature-*.txt"))
+    temp_files = (glob.glob(str(WF / "market-temperature-*.txt"))
+                  + glob.glob(str(WF / "step0-temperatures-*.md")))
     if not temp_files:
-        w.append("未找到 market-temperature-*.txt（市场温度未判定？）")
+        w.append("未找到 market-temperature-*.txt / step0-temperatures-*.md（市场温度未判定？）")
     # candidates.csv存在
     if not (WF / "candidates.csv").exists():
         w.append("candidates.csv 不存在")
@@ -53,28 +64,31 @@ def check_stage_1():
     return v, w
 
 def check_stage_2():
-    """持仓分析：逐只验证4个Agent"""
-    v, w = []  , []
-    # 找所有当天的.done文件
+    """持仓分析：逐只验证4个Agent的产出证据。
+
+    skill-tracker-hook 写入的 .done 文件只含 {skill,args,timestamp}，
+    不含 Agent ID，因此证据检查看 reports/ 下的四维产出文件：
+    reports/investment-team-batch/<date>/{TICKER}-{business,financial,industry,risk}.md
+    或旧版 reports/{TICKER}/0[1-4]-*.md。
+    """
+    v, w = [], []
     done_files = glob.glob(str(WF / f"investment-team-*-{today()}.done"))
     if not done_files:
-        # 也尝试不带-r2后缀
         done_files = glob.glob(str(WF / "investment-team-*.done"))
     if not done_files:
         v.append("未找到任何 investment-team-*.done 文件")
         return v, w
-    
+
     for f in done_files:
-        content = read_file(f)
-        ticker = Path(f).stem.split("-")[2] if len(Path(f).stem.split("-")) > 2 else "?"
-        # 检查是否记录了4个Agent
-        agent_ids = re.findall(r'Agent\s*(?:ID)?[:\s]*(\S+)', content)
-        if "4个独立Agent" not in content and len(agent_ids) < 4:
-            # 宽松检查：如果内容提到4个视角也算
-            if "段永平" in content and "巴菲特" in content and "芒格" in content and "李录" in content:
-                w.append(f"{ticker}: .done文件未明确记录4个Agent ID（但提及四视角）")
-            else:
-                v.append(f"{ticker}: 未检测到4个独立Agent执行证据（退化违规！）")
+        stem_parts = Path(f).stem.split("-")
+        ticker = stem_parts[2] if len(stem_parts) > 2 and stem_parts[2] else ""
+        if not ticker or not ticker.isascii():
+            w.append(f"{Path(f).stem}: .done 文件名中无法解析出 ticker，跳过产出检查")
+            continue
+        dim_files = (glob.glob(str(REPORTS / "investment-team-batch" / "*" / f"{ticker}-*.md"))
+                     + glob.glob(str(REPORTS / ticker / "0[1-4]-*.md")))
+        if len(dim_files) < 4:
+            v.append(f"{ticker}: 四维产出文件不足4个（找到{len(dim_files)}个，退化违规！）")
     return v, w
 
 def check_stage_3():
@@ -100,9 +114,9 @@ def check_stage_3():
     else:
         v.append("search-log.txt 不存在")
     
-    # MCP used标记
-    if not (WF / "mcp-ddg-search.used").exists() and not (WF / "builtin-websearch.used").exists():
-        w.append("未找到搜索工具.used标记")
+    # 搜索工具 used 标记（search-tracker-hook 写入的任意 *.used）
+    if not glob.glob(str(WF / "*.used")):
+        w.append("未找到搜索工具 *.used 标记")
     
     # 来源H和I的.done
     h_done = glob.glob(str(WF / "*爆发*")) + glob.glob(str(WF / "*sourceH*"))
@@ -114,9 +128,14 @@ def check_stage_3():
     return v, w
 
 def check_stage_4():
-    """冒泡排序：检查是否有Top 2输出"""
+    """冒泡排序：终选评分须统一来自 /investment-team 框架并标注来源"""
     v, w = [], []
-    # 通常在报告中体现，此处只做轻量检查
+    reports = sorted(glob.glob(str(REPORTS / "portfolio-action-*.md")))
+    if not reports:
+        return v, w  # stage 5 会报缺失
+    content = read_file(reports[-1])
+    if "investment-team" not in content:
+        w.append("最终报告未标注评分来源'基于/investment-team'（冒泡排序终选须统一使用四大师框架评分）")
     return v, w
 
 def check_stage_5():

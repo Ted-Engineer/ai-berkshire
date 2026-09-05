@@ -18,7 +18,7 @@
 #   2) 手动模式（默认）：逐票打印应粘贴的命令，人工回车推进下一只——
 #      适配 GUI 交互式会话，同样享受断点续跑（今日已有报告的票自动跳过）。
 #
-# 断点续跑：reports/*/最终报告-*<TICKER>*-<今天日期>.md 已存在则跳过，
+# 断点续跑：reports/{公司}/最终报告-{YYYYMMDD}.md 已存在（ticker 目录或文件名含 ticker）则跳过，
 #           FORCE=1 可强制重跑。日志在 reports/investment-team-batch/<日期>/。
 # =============================================================================
 set -uo pipefail
@@ -36,8 +36,12 @@ DEFAULT_TICKERS=(META BABA MSFT ADBE AVGO BRK.B INTU TSM PYPL VST NRG)
 
 # -----------------------------------------------------------------------------
 report_exists() {  # 今日已有该票的最终报告 → 0
-  local t="$1"
-  compgen -G "reports/*/最终报告-*${t}*-${TODAY}.md" > /dev/null
+  local t="$1" f
+  compgen -G "reports/${t}/最终报告-${TODAY}.md" > /dev/null && return 0
+  for f in reports/*/最终报告-${TODAY}.md; do
+    [[ -f "$f" ]] && grep -ql "$t" "$f" && return 0
+  done
+  return 1
 }
 
 usage() {
@@ -62,7 +66,7 @@ if [[ "$MODE" == "list" ]]; then
   echo "=== /investment-team 今日进度（${TODAY}）==="
   for t in "${TICKERS[@]}"; do
     if report_exists "$t"; then
-      echo "  [x] $t  → $(compgen -G "reports/*/最终报告-*${t}*-${TODAY}.md" | head -1)"
+      echo "  [x] $t  → $(ls reports/${t}/最终报告-${TODAY}.md 2>/dev/null | head -1 || echo 已有今日报告)"
     else
       echo "  [ ] $t"
     fi

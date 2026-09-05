@@ -7,7 +7,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/learnings-digest.sh",
+              "command": "bash scripts/learnings-digest.sh",
               "timeout": 10,
               "statusMessage": "注入 .learnings/ 知识库摘要…"
             }
@@ -17,7 +17,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/workflow-session-cleanup.sh",
+              "command": "bash scripts/workflow-session-cleanup.sh",
               "timeout": 5
             }
           ]
@@ -28,7 +28,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/skill-enforcement-hook.sh",
+              "command": "bash scripts/skill-enforcement-hook.sh",
               "timeout": 10,
               "statusMessage": "Skill enforcement check..."
             }
@@ -41,7 +41,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/skill-tracker-hook.sh",
+              "command": "bash scripts/skill-tracker-hook.sh",
               "timeout": 5,
               "statusMessage": "Recording skill execution..."
             }
@@ -52,7 +52,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/workflow-cleanup-hook.sh",
+              "command": "bash scripts/workflow-cleanup-hook.sh",
               "timeout": 5
             }
           ]
@@ -62,7 +62,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/search-tracker-hook.sh",
+              "command": "bash scripts/search-tracker-hook.sh",
               "timeout": 5
             }
           ]
@@ -73,7 +73,7 @@
           "hooks": [
             {
               "type": "command",
-              "command": "bash /Users/liuyucheng/IdeaProjects/ai-berkshire/scripts/workflow-gate-hook.sh",
+              "command": "bash scripts/workflow-gate-hook.sh",
               "timeout": 10,
               "statusMessage": "Workflow gate check..."
             }

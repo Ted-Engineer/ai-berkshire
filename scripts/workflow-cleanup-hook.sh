@@ -2,7 +2,7 @@
 # PostToolUse hook on Write — 当portfolio-action报告写入后，清理工作流状态
 # 同时也在SessionStart时清理上次遗留的状态
 
-WORKFLOW_DIR="F:/ai-berkshire/.claude/.workflow"
+WORKFLOW_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")/.." && pwd)/.claude/.workflow"
 
 input=$(cat)
 file_path=$(echo "$input" | jq -r '.tool_input.file_path // ""' 2>/dev/null)

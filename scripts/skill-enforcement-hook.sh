@@ -8,7 +8,7 @@ prompt=$(echo "$input" | jq -r '.prompt // ""' 2>/dev/null)
 # 检测投资研究相关关键词
 if echo "$prompt" | grep -qiE 'prompt\.md|持仓|调仓|投资研究|portfolio|investment.*research|stock.*analysis'; then
   # 激活工作流（创建active标记，供Stop hook检查）
-  WORKFLOW_DIR="F:/ai-berkshire/.claude/.workflow"
+  WORKFLOW_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")/.." && pwd)/.claude/.workflow"
   mkdir -p "$WORKFLOW_DIR"
   if [ ! -f "$WORKFLOW_DIR/active" ]; then
     echo "{\"activated\":\"$(date -u +%Y-%m-%dT%H:%M:%SZ)\",\"trigger\":\"$(echo "$prompt" | head -c 50 | tr -cd '[:alnum:]_-')\"}" > "$WORKFLOW_DIR/active"
