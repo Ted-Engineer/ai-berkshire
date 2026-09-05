@@ -47,19 +47,21 @@ data/          — 临时数据缓存
 
 | 工具 | 用途 | 关键子命令 |
 |------|------|-----------|
-| `financial_rigor.py` | 精确十进制算术 + 估值验证 | `verify-market-cap` / `verify-valuation` / `three-scenario` / `cross-validate` |
-| `report_audit.py` | 报告数据抽检工具 | `extract`（15% 抽样） / `verdict`（准出/打回判决） |
+| `financial_rigor.py` | 精确十进制算术 + 估值验证（❌ 时退出码 1，供脚本判定） | `verify-market-cap` / `verify-valuation` / `three-scenario` / `cross-validate` |
+| `report_audit.py` | 报告数据抽检工具（空结果=打回，打回退出码 1） | `extract`（15% 抽样） / `verdict`（准出/打回判决） |
+| `terminal_value.py` | 十年折现终值估值 + 三条硬约束准出（C1/C2/C3） | `pe` / `irr` / `audit` |
+| `indep_audit.py` | SEC EDGAR 独立复核（核验值直接来自 SEC，不来自写报告的模型） | `--claims claims.json` |
 | `realtime_fetch.py` | 实时行情（基于 yfinance） | 批量获取 PE/市值/财务指标 |
-| `fetch_quotes.py` | 行情拉取（Yahoo Finance v8 + SSL verify=False） | 用于绕过 yfinance SSL 问题 |
+| `fetch_quotes.py` | 行情拉取（Yahoo Finance v8 + SSL verify=False，参数为单个逗号分隔列表） | 用于绕过 yfinance SSL 问题 |
 | `twstock_data.py` | 台股专用（FinMind 数据源） | `quote` / `valuation` / `financials` / `revenue` |
-| `ashare_data.py` | A 股数据获取 | — |
-| `xueqiu_scraper.py` | 雪球数据爬虫 | — |
+| `ashare_data.py` | A 股数据获取（腾讯行情+东方财富） | `quote` / `financials` / `valuation` / `search` |
+| `xueqiu_scraper.py` | 雪球数据爬虫（需 playwright） | — |
 | `morningstar_fair_value.py` | Morningstar 公允价值 | — |
 | `momentum_backtest.py` / `_v2.py` | 动量回测 | — |
 | `stock_screener.py` | 股票筛选器 | — |
-| `star_history_chart.py` | 历史 K 线图 | — |
+| `star_history_chart.py` | GitHub star 历史图生成（README 展示用，非投资工具） | — |
 
-**注意**：`tools/` 工具**零外部依赖**（仅 Python stdlib），除 `realtime_fetch.py` 需要 `yfinance`。
+**注意**：核心校验工具（`financial_rigor.py` / `report_audit.py` / `terminal_value.py`）零外部依赖（仅 Python stdlib）。联网取数工具需 `requests`；`realtime_fetch.py` 需 `yfinance`；`xueqiu_scraper.py` 需 `playwright`。
 
 ### `skills/` 核心 Skill
 
@@ -89,11 +91,13 @@ python scripts/sync-codex-skills.py        # 同步 codex-skills/
 python scripts/sync-trae-skills.py         # 同步 .trae/skills/（TRAE 项目级 skill）
 python scripts/sync-dsh-skills.py          # 同步 .dsh/skills/（DSH 项目级 skill，rank 100）
 python scripts/sync-zcode-skills.py        # 同步 .zcode/skills/（ZCode 工作区级 skill）
+python scripts/sync-qoder-skills.py        # 同步 .qoder/plugins/ai-berkshire-investment/skills/
 python scripts/sync-codex-prompts.py       # 同步 codex-prompts/（可选）
 python scripts/sync-codex-skills.py --check  # 仅检查不写入
 python scripts/sync-trae-skills.py --check   # 仅检查 TRAE skill 不写入
 python scripts/sync-dsh-skills.py --check    # 仅检查 DSH skill 不写入
 python scripts/sync-zcode-skills.py --check  # 仅检查 ZCode skill 不写入
+python scripts/sync-qoder-skills.py --check  # 仅检查 Qoder plugin skill 不写入
 ```
 
 ---
@@ -119,7 +123,7 @@ reports/
 
 | Skill | 文件命名格式 | 示例 |
 |------|---------|------|
-| /investment-team | `{公司名}/` 目录内含4个视角+最终报告 | `reports/拼多多/最终报告.md` |
+| /investment-team | `{公司名}/` 目录内含4个视角+最终报告（`最终报告-{YYYYMMDD}.md`） | `reports/拼多多/最终报告-20260904.md` |
 | /investment-research | `{公司名}-research-{YYYYMMDD}.md` | `reports/腾讯/腾讯-research-20260408.md` |
 | /investment-checklist | `{公司名}-checklist-{YYYYMMDD}.md` | `reports/腾讯/腾讯-checklist-20260408.md` |
 | /industry-research | `{行业名}-industry-{YYYYMMDD}.md`（根目录） | `reports/核电-industry-20260409.md` |
@@ -154,10 +158,12 @@ python scripts/sync-codex-skills.py         # 同步到 codex-skills/
 python scripts/sync-trae-skills.py          # 同步到 .trae/skills/（TRAE 项目级 skill）
 python scripts/sync-dsh-skills.py           # 同步到 .dsh/skills/（DSH 项目级 skill，rank 100）
 python scripts/sync-zcode-skills.py         # 同步到 .zcode/skills/（ZCode 工作区级 skill）
+python scripts/sync-qoder-skills.py         # 同步到 .qoder/plugins/ai-berkshire-investment/skills/
 python scripts/sync-codex-skills.py --check # 仅检查
 python scripts/sync-trae-skills.py --check  # 仅检查 TRAE skill
 python scripts/sync-dsh-skills.py --check   # 仅检查 DSH skill
 python scripts/sync-zcode-skills.py --check # 仅检查 ZCode skill
+python scripts/sync-qoder-skills.py --check # 仅检查 Qoder plugin skill
 ```
 
 ### 工具验证

@@ -76,11 +76,15 @@
   4. 资产负债表健康度：现金储备、负债率、流动性
   5. 估值分析：PE/PS/PB/EV等，与历史及同业对比
   6. 安全边际评估：内在价值 vs 当前股价
-  7. **金融严谨性验证（必须使用Bash调用工具，禁止心算）**：
-     - 市值验算：`python3 tools/financial_rigor.py verify-market-cap --price {价格} --shares {股本} --reported {报告市值} --currency {币种}`
-     - 估值验算：`python3 tools/financial_rigor.py verify-valuation --price {价格} --eps {EPS} --bvps {每股净资产}`
-     - 关键数据交叉验证：`python3 tools/financial_rigor.py cross-validate --field {字段} --values '{JSON}' --unit {单位}`
-     - 三情景估值：`python3 tools/financial_rigor.py three-scenario --price {价格} --eps {EPS} --shares {股本亿} --growth {乐观} {中性} {悲观} --pe {乐观PE} {中性PE} {悲观PE}`
+  7. **⚠️ 成长型公司判定与替代框架**：
+     - 先判定：收入增速>50% + CapEx/收入>30% + 未稳定盈利 = 成长型
+     - 成长型公司**必须额外评估**：PS vs 同业、PS/增速比、合同积压(RPO/backlog)、毛利率趋势、现金跑道（现金/烧钱率）、客户质量（头部客户是否签约）、Rule of 40（增速+利润率）
+     - 成长型公司 FCF 为负不算红旗——但须回答"盈利拐点何时到来？现金跑道够不够烧到那天？"
+  8. **金融严谨性验证（必须使用Bash调用工具，禁止心算）**：
+     - 市值验算：`python tools/financial_rigor.py verify-market-cap --price {价格} --shares {股本} --reported {报告市值} --currency {币种}`
+     - 估值验算：`python tools/financial_rigor.py verify-valuation --price {价格} --eps {EPS} --bvps {每股净资产}`
+     - 关键数据交叉验证：`python tools/financial_rigor.py cross-validate --field {字段} --values '{JSON}' --unit {单位}`
+     - 三情景估值：`python tools/financial_rigor.py three-scenario --price {价格} --eps {EPS} --shares {股本亿} --growth {乐观} {中性} {悲观} --pe {乐观PE} {中性PE} {悲观PE}`
      - 将工具输出结果直接嵌入报告中作为验证记录
 
 #### 任务3：行业与竞争分析
@@ -128,7 +132,7 @@
 
 **研究方法**：
 - 使用 WebSearch 搜索最新公开信息（财报、行业报告、新闻）
-- **财务数据必须来自两个独立来源**，按 `skills/financial-data.md` 规范执行（美股：macrotrends+stockanalysis；港股：aastocks+macrotrends；A股：东方财富+巨潮资讯），两源误差>1%须标记
+- **财务数据必须来自两个独立来源**，按 `skills/financial-data.md` 规范执行（美股：macrotrends+stockanalysis；港股：aastocks+macrotrends；A股：东方财富+巨潮资讯；台股：FinMind `tools/twstock_data.py`+Goodinfo），两源误差>1%须标记
 - 确保数据准确，关键数据标注来源
 - 分析要深入，不流于表面
 - **联网失败禁止伪装**：若 WebSearch 被拦截/不可用，禁止用训练知识冒充联网结果。必须在报告顶部醒目标注「⚠️ 本报告未能联网，基于训练知识（截止日期 X），置信度降级」，并如实告知 team-lead，由其决定是否中止研究
@@ -194,19 +198,19 @@
 
 ### 第八步：保存报告
 
-将完整最终报告写入 `~/{公司名}投资研究报告_{日期}.md`（日期格式 YYYYMMDD）。
+将完整最终报告写入 `reports/{公司名}/最终报告-{YYYYMMDD}.md`（中文公司名建目录，美股 ticker 亦可作目录名，如 `reports/META/最终报告-20260904.md`）。
 
 ### 第九步：数据抽检（准出流程）
 
 ```bash
 # Step 1 — 提取抽检清单（15%随机抽样）
-python3 tools/report_audit.py extract \
+python tools/report_audit.py extract \
   --report <报告文件路径>
 
 # Step 2 — 对清单每项从可靠信源取数（参见 skills/financial-data.md）
 
 # Step 3 — 输出准出/打回判决
-python3 tools/report_audit.py verdict \
+python tools/report_audit.py verdict \
   --results '<填好的JSON>' \
   --report <报告文件名>
 ```

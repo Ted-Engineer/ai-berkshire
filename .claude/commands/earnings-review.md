@@ -38,7 +38,7 @@
 3. **管理层致股东信**（如有年报）：完整阅读
 4. **投资者日/分析师日材料**（如近期有）
 
-如果无法获取完整原文，按 `skills/financial-data.md` 规范使用标准数据源拼凑（美股：macrotrends+stockanalysis；港股：aastocks+macrotrends；A股：东方财富+巨潮资讯），但必须标注"非原始财报，来自第三方汇总"，且关键数据两源误差>1%须标记。
+如果无法获取完整原文，按 `skills/financial-data.md` 规范使用标准数据源拼凑（美股：macrotrends+stockanalysis；港股：aastocks+macrotrends；A股：东方财富+巨潮资讯；台股：FinMind `tools/twstock_data.py`+Goodinfo），但必须标注"非原始财报，来自第三方汇总"，且关键数据两源误差>1%须标记。
 
 ### 第二步：核心财务数据提取与验证
 
@@ -79,15 +79,15 @@
 
 ```bash
 # 收入和净利润交叉验证（至少2个来源）
-python3 tools/financial_rigor.py cross-validate \
-  --metric "revenue" --values 108.3e9 107.9e9 --sources "公司财报" "Yahoo Finance"
+python tools/financial_rigor.py cross-validate \
+  --field "revenue" --values '{"公司财报": 108.3e9, "Yahoo Finance": 107.9e9}' --unit USD
 
 # 市值校验
-python3 tools/financial_rigor.py verify-market-cap \
+python tools/financial_rigor.py verify-market-cap \
   --price 101 --shares 1.488e9 --reported 1.44e11 --currency USD
 
 # 估值指标验算
-python3 tools/financial_rigor.py verify-valuation \
+python tools/financial_rigor.py verify-valuation \
   --price 101 --eps 9.6 --bvps 26.5 --fcf-per-share 10.2
 ```
 
@@ -196,13 +196,13 @@ python3 tools/financial_rigor.py verify-valuation \
 
 ```bash
 # Step 1 — 提取抽检清单
-python3 tools/report_audit.py extract \
+python tools/report_audit.py extract \
   --report reports/{公司名}-earnings-{期间}.md
 
 # Step 2 — 对清单每项从可靠信源取数（参见 skills/financial-data.md）
 
 # Step 3 — 输出准出/打回判决
-python3 tools/report_audit.py verdict \
+python tools/report_audit.py verdict \
   --results '<填好的JSON>' \
   --report {报告文件名}
 ```

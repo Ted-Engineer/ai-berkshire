@@ -12,10 +12,12 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
   marked and no same-named `skills/*.md` source exists.
 - `codex-prompts/*.md`: generated Codex custom prompts for slash-command
   style entry points. These are a compatibility layer; skills remain preferred.
-- `config/*.md`: tunable parameters for research skills (portfolio target
-  allocation in `portfolio-targets.md`, candidate search matrix in
-  `search-matrix.md`). `skills/portfolio-rebalance.md` reads these at runtime;
-  adjust values here instead of editing the skill.
+- `config/*.md`: tunable parameters for research skills. Consumers:
+  `portfolio-targets.md` + `search-matrix.md` are read by
+  `skills/portfolio-rebalance.md` (fresh read every run); `watchlist.md`
+  (price triggers) is written by `investment-checklist` and read by
+  `daily-brief`; `catalysts.md` (date triggers) is read by `daily-brief`
+  and `portfolio-review`. Adjust values here instead of editing skills.
 - `.trae/skills/*/SKILL.md`: TRAE project-level skills. Generated from
   `skills/*.md`; do not edit manually.
 - `.dsh/skills/*/SKILL.md`: DSH (DeepSeek Harness) project-level skills.
@@ -36,8 +38,8 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
 - `.zcode/config.json`: ZCode workspace hooks. Registers the same
   `scripts/*.sh` hook programs Claude Code uses (skill enforcement, skill and
   search trackers, workflow gate, learnings digest) with
-  `hooks.enabled: true`. Hook commands use absolute checkout paths; update
-  them when the repo moves.
+  `hooks.enabled: true`. Hook commands use repo-relative paths; the scripts
+  derive the repo root from their own location.
 - `tools/*.py`: shared financial validation and data tools used by all systems.
 - `reports/`: research outputs. Do not rewrite unrelated reports while changing
   tooling or skills.
