@@ -1,0 +1,81 @@
+# dsh-market log export
+dsh-market: 1.31.1
+platform: win32 x64
+node: v24.18.1
+profile: desktop
+
+## profile state
+dependencies (10):
+  @hytime/dsh-thinking-effort: 0.1.8
+  @kenz1117/dsh-ui-usage-billing: 1.0.2
+  @liustack/modsearch: 5.9.1
+  @nanmicoder/dsh-agent-teams: 0.1.13
+  dsh-builtin-browser: 0.1.20
+  dsh-client-auto-continue: 0.8.1
+  dsh-context: 0.33.1
+  dsh-dream-skin: 0.4.15
+  dsh-mnemon: 0.3.2
+  dshmarket: 1.31.1
+bundles (12):
+  @deepseek-ai/dsh-base: NOT RESOLVED — the next start fails here
+  @deepseek-ai/dsh-web-app: NOT RESOLVED — the next start fails here
+  @nanmicoder/dsh-agent-teams: ok
+  dsh-context: ok
+  @liustack/modsearch: ok
+  dsh-dream-skin: ok
+  dsh-mnemon: ok
+  @kenz1117/dsh-ui-usage-billing: ok
+  dsh-client-auto-continue: ok
+  dshmarket: ok
+  @hytime/dsh-thinking-effort: ok
+  dsh-builtin-browser: ok
+errors:
+  bundle @deepseek-ai/dsh-base: bundle package is not installed — the profile will fail to boot
+  bundle @deepseek-ai/dsh-web-app: bundle package is not installed — the profile will fail to boot
+
+## events this session
+2026-08-28T12:49:29.864Z [info] toggle: @kenz1117/dsh-ui-usage-billing -> off: fiber=false
+2026-08-28T12:49:29.864Z [info] boot: plugin kept off: @kenz1117/dsh-ui-usage-billing
+2026-08-28T12:49:29.864Z [info] toggle: @nanmicoder/dsh-agent-teams -> off: fiber=false
+2026-08-28T12:49:29.864Z [info] boot: plugin kept off: @nanmicoder/dsh-agent-teams
+2026-08-28T12:49:29.864Z [info] toggle: @liustack/modsearch -> off: fiber=false
+2026-08-28T12:49:29.864Z [info] boot: plugin kept off: @liustack/modsearch
+2026-08-28T12:49:29.864Z [info] toggle: dsh-client-auto-continue -> off: fiber=false
+2026-08-28T12:49:29.864Z [info] boot: plugin kept off: dsh-client-auto-continue
+2026-08-28T12:49:29.864Z [info] toggle: dsh-builtin-browser: no loader entry matched
+2026-08-28T12:49:29.864Z [info] toggle: dsh-context -> off: fiber=false
+2026-08-28T12:49:29.865Z [info] boot: plugin kept off: dsh-context
+2026-08-28T12:49:29.865Z [info] toggle: dsh-dream-skin -> off: fiber=false
+2026-08-28T12:49:29.865Z [info] boot: plugin kept off: dsh-dream-skin
+2026-08-28T12:49:29.865Z [info] toggle: dsh-mnemon -> off: fiber=false
+2026-08-28T12:49:29.865Z [info] boot: plugin kept off: dsh-mnemon
+2026-08-28T12:49:29.865Z [info] toggle: @hytime/dsh-thinking-effort -> off: fiber=false
+2026-08-28T12:49:29.865Z [info] boot: plugin kept off: @hytime/dsh-thinking-effort
+2026-08-28T12:49:39.402Z [info] install: desktop install boundary needs an exact version: dshmarket@latest -> dshmarket@1.35.0
+2026-08-28T12:49:41.844Z [info] update: dshmarket: previous build rematerialized (dshmarket)
+2026-08-28T12:49:41.845Z [error] update: dshmarket: trial validation failed — bundle package is not installed — the profile will fail to boot; previous build restored
+2026-08-28T12:49:41.845Z [error] update: dshmarket -> dshmarket@latest exit=0 err=ageNames":[]}{"time":1787921380552,"hostname":"DESKTOP-JNG8UI1","pid":56588,"level":"debug","name":"pnpm","msg":"updating workspace state"}{"time":1787921380560,"hostname":"DESKTOP-JNG8UI1","pid":56588,"level":"debug","name":"pnpm:execution-time","startedAt":1787921379821,"endedAt":1787921380560}
+2026-08-28T12:49:47.831Z [info] install: desktop install boundary needs an exact version: @kenz1117/dsh-ui-usage-billing@latest -> @kenz1117/dsh-ui-usage-billing@1.0.8
+2026-08-28T12:49:50.012Z [info] update: @kenz1117/dsh-ui-usage-billing: previous build rematerialized (@kenz1117/dsh-ui-usage-billing)
+2026-08-28T12:49:50.012Z [error] update: @kenz1117/dsh-ui-usage-billing: trial validation failed — bundle package is not installed — the profile will fail to boot; previous build restored
+2026-08-28T12:49:50.012Z [error] update: @kenz1117/dsh-ui-usage-billing -> @kenz1117/dsh-ui-usage-billing@latest exit=0 err=ageNames":[]}{"time":1787921388887,"hostname":"DESKTOP-JNG8UI1","pid":14080,"level":"debug","name":"pnpm","msg":"updating workspace state"}{"time":1787921388893,"hostname":"DESKTOP-JNG8UI1","pid":14080,"level":"debug","name":"pnpm:execution-time","startedAt":1787921388258,"endedAt":1787921388893}
+2026-08-28T12:49:50.545Z [info] install: desktop install boundary needs an exact version: @liustack/modsearch@latest -> @liustack/modsearch@5.10.0
+2026-08-28T12:49:52.797Z [info] update: @liustack/modsearch: previous build rematerialized (@liustack/modsearch)
+2026-08-28T12:49:52.797Z [error] update: @liustack/modsearch: trial validation failed — bundle package is not installed — the profile will fail to boot; previous build restored
+2026-08-28T12:49:52.797Z [error] update: @liustack/modsearch -> @liustack/modsearch@latest exit=0 err=ageNames":[]}{"time":1787921391717,"hostname":"DESKTOP-JNG8UI1","pid":88396,"level":"debug","name":"pnpm","msg":"updating workspace state"}{"time":1787921391724,"hostname":"DESKTOP-JNG8UI1","pid":88396,"level":"debug","name":"pnpm:execution-time","startedAt":1787921391073,"endedAt":1787921391724}
+2026-08-28T12:49:53.307Z [info] install: desktop install boundary needs an exact version: @nanmicoder/dsh-agent-teams@latest -> @nanmicoder/dsh-agent-teams@0.1.14
+2026-08-28T12:49:55.135Z [info] update: @nanmicoder/dsh-agent-teams: previous build rematerialized (@nanmicoder/dsh-agent-teams)
+2026-08-28T12:49:55.135Z [error] update: @nanmicoder/dsh-agent-teams: trial validation failed — bundle package is not installed — the profile will fail to boot; previous build restored
+2026-08-28T12:49:55.135Z [error] update: @nanmicoder/dsh-agent-teams -> @nanmicoder/dsh-agent-teams@latest exit=0 err=ageNames":[]}{"time":1787921394164,"hostname":"DESKTOP-JNG8UI1","pid":52420,"level":"debug","name":"pnpm","msg":"updating workspace state"}{"time":1787921394171,"hostname":"DESKTOP-JNG8UI1","pid":52420,"level":"debug","name":"pnpm:execution-time","startedAt":1787921393624,"endedAt":1787921394171}
+2026-08-28T12:49:55.507Z [info] install: desktop install boundary needs an exact version: dsh-context@latest -> dsh-context@0.36.0
+2026-08-28T12:49:57.208Z [info] update: dsh-context: previous build rematerialized (dsh-context)
+2026-08-28T12:49:57.208Z [error] update: dsh-context: trial validation failed — bundle package is not installed — the profile will fail to boot; previous build restored
+2026-08-28T12:49:57.208Z [error] update: dsh-context -> dsh-context@latest exit=0 err=ageNames":[]}{"time":1787921396298,"hostname":"DESKTOP-JNG8UI1","pid":95560,"level":"debug","name":"pnpm","msg":"updating workspace state"}{"time":1787921396306,"hostname":"DESKTOP-JNG8UI1","pid":95560,"level":"debug","name":"pnpm:execution-time","startedAt":1787921395821,"endedAt":1787921396306}
+2026-08-28T12:49:57.648Z [info] install: desktop install boundary needs an exact version: dsh-dream-skin@latest -> dsh-dream-skin@8.28.0
+2026-08-28T12:49:59.315Z [info] update: dsh-dream-skin: previous build rematerialized (dsh-dream-skin)
+2026-08-28T12:49:59.315Z [error] update: dsh-dream-skin: trial validation failed — bundle package is not installed — the profile will fail to boot; previous build restored
+2026-08-28T12:49:59.316Z [error] update: dsh-dream-skin -> dsh-dream-skin@latest exit=0 err=ageNames":[]}{"time":1787921398446,"hostname":"DESKTOP-JNG8UI1","pid":40244,"level":"debug","name":"pnpm","msg":"updating workspace state"}{"time":1787921398452,"hostname":"DESKTOP-JNG8UI1","pid":40244,"level":"debug","name":"pnpm:execution-time","startedAt":1787921397955,"endedAt":1787921398452}
+2026-08-28T12:49:59.739Z [info] install: desktop install boundary needs an exact version: dsh-mnemon@latest -> dsh-mnemon@0.3.5
+2026-08-28T12:50:02.501Z [info] update: dsh-mnemon: previous build rematerialized (dsh-mnemon)
+2026-08-28T12:50:02.501Z [error] update: dsh-mnemon: trial validation failed — bundle package is not installed — the profile will fail to boot; previous build restored
+2026-08-28T12:50:02.501Z [error] update: dsh-mnemon -> dsh-mnemon@latest exit=0 err=ageNames":[]}{"time":1787921401277,"hostname":"DESKTOP-JNG8UI1","pid":78780,"level":"debug","name":"pnpm","msg":"updating workspace state"}{"time":1787921401286,"hostname":"DESKTOP-JNG8UI1","pid":78780,"level":"debug","name":"pnpm:execution-time","startedAt":1787921400044,"endedAt":1787921401286}
