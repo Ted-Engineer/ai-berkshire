@@ -208,16 +208,14 @@ def cmd_valuation(code: str):
     print(f"  52周最高:   {high_52w}")
     print(f"  52周最低:   {low_52w}")
 
-    # 市值验算
+    # 市值参考（诚实标注：腾讯行情只提供总市值，无独立总股本来源，
+    # 用 cap/price 反推再回乘 cap 是循环论证，这里不做伪校验）
     try:
         p = Decimal(price)
         cap = Decimal(market_cap_yi) * Decimal("1e8")
         shares = cap / p
-        print(f"\n  推算总股本: {_fmt_yi(float(shares))}股")
-        calc_cap = p * shares
-        reported_cap = Decimal(market_cap_yi) * Decimal("1e8")
-        diff = abs(calc_cap - reported_cap) / reported_cap * 100
-        print(f"  市值验算:   ✅ 一致（推算法，偏差 {float(diff):.1f}%）")
+        print(f"\n  推算总股本: {_fmt_yi(float(shares))}股（= 总市值/当前价，非独立来源，仅供参考）")
+        print(f"  市值校验:   ⚠️ 无独立总股本来源，跳过交叉验证")
     except Exception:
         pass
 

@@ -27,10 +27,7 @@ import math
 import os
 import re
 import sys
-from decimal import Decimal, Context, ROUND_HALF_EVEN
 from random import Random
-
-_CTX = Context(prec=28, rounding=ROUND_HALF_EVEN)
 
 # ---------------------------------------------------------------------------
 # 数据点提取：从 Markdown 报告中识别财务数字
@@ -43,31 +40,6 @@ _CTX = Context(prec=28, rounding=ROUND_HALF_EVEN)
 # 导致核验时报告值与信源值符号相反、偏差 200%，产生假打回。
 # 符号位涵盖 ASCII 正负号、Unicode 减号(U+2212)、en-dash(U+2013)、全角正负号。
 _SIGN = r'[+\-−–－＋]?'
-
-_PATTERNS = [
-    # 百分比
-    (r'(' + _SIGN + r'[\d,，\.]+)\s*%',                        '%',    'percent'),
-    # 亿元/亿美元/亿港元
-    (r'(' + _SIGN + r'[\d,，\.]+)\s*亿(元|美元|港元|RMB|USD|HKD)?', '亿',    'hundred_million'),
-    # 倍数 PE/PB/PS
-    (r'(' + _SIGN + r'[\d,，\.]+)\s*[xX倍]',                   'x',    'multiple'),
-    # 万亿
-    (r'(' + _SIGN + r'[\d,，\.]+)\s*万亿',                      '万亿', 'trillion'),
-    # 美元绝对值（B/T）
-    (r'\$\s*(' + _SIGN + r'[\d,，\.]+)\s*([BMT亿])',             '$',    'usd_abs'),
-    # 纯整数（如市值、收入、用户数等，出现在表格 | 里）
-    (r'\|\s*[~约]?\$?(' + _SIGN + r'[\d,，\.]+)\s*\|',          '',     'table_num'),
-]
-
-_LABEL_RE = re.compile(
-    r'(?P<label>[^\|\n：:]{2,25})[：:\s]+[~约]?\$?(?P<num>' + _SIGN + r'[\d,，\.]+)'
-    r'\s*(?P<unit>亿[元美港]?元?|万亿|[xX倍]|%|[BMT])?'
-)
-
-_TABLE_ROW_RE = re.compile(
-    r'\|\s*(?P<label>[^|]{1,40})\s*\|\s*[~约]?\$?(?P<num>' + _SIGN + r'[\d,，\.]+)'
-    r'\s*(?P<unit>亿[元美港]?元?|万亿|[xX倍]|%|[BMT])?\s*\|'
-)
 
 
 def _clean_num(s: str) -> float:
@@ -380,13 +352,17 @@ def render_verdict(results: list, report_name: str = "") -> dict:
     print(f'  抽检总数: {total}  |  通过: {GREEN}{pass_count}{RESET}  |  警告: {YELLOW}{warn_count}{RESET}  |  不通过: {RED}{fail_count}{RESET}')
     print()
 
-    if fail_count == 0:
+    if fail_count == 0 and total > 0:
         print(f'{BOLD}{GREEN}【准出】所有抽检数据通过，报告可发布。{RESET}')
         verdict = 'PASS'
     else:
-        print(f'{BOLD}{RED}【打回】{fail_count} 个数据点核验不通过，报告需修正后重审。{RESET}')
+        if total == 0:
+            print(f'{BOLD}{RED}【打回】抽检结果为空：没有任何数据点提供核验值。空结果 ≠ 通过。{RESET}')
+        else:
+            print(f'{BOLD}{RED}【打回】{fail_count} 个数据点核验不通过，报告需修正后重审。{RESET}')
         print()
-        print(f'{BOLD}打回原因：{RESET}')
+        if fail_items:
+            print(f'{BOLD}打回原因：{RESET}')
         for fi in fail_items:
             print(f'  ❌ 第 {fi["line_number"]} 行 | {fi["label"]}')
             print(f'     报告值：{fi["reported"]} {fi["unit"]}')

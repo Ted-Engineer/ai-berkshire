@@ -54,12 +54,29 @@ class TestGbkConsoleSurvival(unittest.TestCase):
                      '--shares', '500000000', '--reported', '40.00',
                      '--currency', 'CNY'])
         self.assertEqual(
-            proc.returncode, 0,
-            "偏差超标告警路径在 GBK 控制台崩溃了：\n"
+            proc.returncode, 1,
+            "偏差超标必须以非零退出码结束（供 CI/hook 判定）：\n"
             + proc.stderr.decode('utf-8', 'replace')[-800:])
         self.assertNotIn(b'UnicodeEncodeError', proc.stderr)
         self.assertIn('❌', proc.stdout.decode('utf-8', 'replace'),
                       "告警符号应当被输出（哪怕替换字符），而非静默退出")
+
+    def test_reported_zero_rejected(self):
+        """reported<=0 不得被当作偏差 0% 通过。"""
+        proc = _run(['verify-market-cap', '--price', '8.00',
+                     '--shares', '500000000', '--reported', '0',
+                     '--currency', 'CNY'])
+        self.assertEqual(proc.returncode, 1)
+
+    def test_cross_validate_inconsistent_exits_nonzero(self):
+        proc = _run(['cross-validate', '--field', '营收',
+                     '--values', '{"甲":100,"乙":120}',
+                     '--unit', '亿'])
+        self.assertEqual(proc.returncode, 1)
+        proc = _run(['cross-validate', '--field', '营收',
+                     '--values', '{"甲":100,"乙":101}',
+                     '--unit', '亿'])
+        self.assertEqual(proc.returncode, 0)
 
     def test_warn_path_prints_warning_sign(self):
         """偏差 1%~5%，打印 ⚠️（U+26A0 U+FE0F，含变体选择符）。"""

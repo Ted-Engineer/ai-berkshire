@@ -171,5 +171,33 @@ class TestGbkStdoutSurvival(unittest.TestCase):
             sys.stdout = orig
 
 
+class TestEmptyVerdictRejected(unittest.TestCase):
+    """空核验结果不得准出：空 JSON ≠ 通过（防门禁空转）。"""
+
+    def _verdict(self, results_json):
+        return subprocess.run(
+            [sys.executable, os.path.join(_TOOLS, 'report_audit.py'),
+             'verdict', '--results', results_json, '--report', 'test'],
+            capture_output=True)
+
+    def test_empty_array_fails(self):
+        proc = self._verdict('[]')
+        self.assertEqual(proc.returncode, 1)
+        self.assertIn('【打回】', proc.stdout.decode('utf-8', 'replace'))
+
+    def test_all_skipped_fails(self):
+        """fetched_value 全为 None（全跳过）也不得准出。"""
+        proc = self._verdict(
+            '[{"id":1,"label":"营收","reported_value":100,"unit":"亿",'
+            '"fetched_value":null,"fetched_source":""}]')
+        self.assertEqual(proc.returncode, 1)
+
+    def test_normal_pass_still_passes(self):
+        proc = self._verdict(
+            '[{"id":1,"label":"营收","reported_value":100,"unit":"亿",'
+            '"fetched_value":100,"fetched_source":"macrotrends"}]')
+        self.assertEqual(proc.returncode, 0)
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=2)

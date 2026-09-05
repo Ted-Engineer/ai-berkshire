@@ -13,13 +13,16 @@ Usage (called automatically by Skills, no manual execution needed):
     python3 tools/financial_rigor.py cross-validate --field revenue --values '{"年报": 7518, "Yahoo": 7500, "StockAnalysis": 7520}' --unit 亿
     python3 tools/financial_rigor.py benford --values '[1234, 2345, 3456, ...]'
     python3 tools/financial_rigor.py calc --expr '510 * 9.11e9'
+
+退出码（供 CI / hook / 脚本判定）：
+    0 = 通过或仅警告；1 = ❌（市值偏差>5%、交叉验证不一致、reported<=0、表达式非法）
 """
 
 import argparse
 import json
 import math
 import sys
-from decimal import Decimal, Context, ROUND_HALF_EVEN, InvalidOperation
+from decimal import Decimal, Context, ROUND_HALF_EVEN
 
 # ---------------------------------------------------------------------------
 # Exact Decimal Engine (no floating-point drift)
@@ -77,8 +80,12 @@ def verify_market_cap(price, shares, reported_cap, currency=""):
     s = exact(shares)
     r = exact(reported_cap)
 
+    if r <= 0:
+        print(f"  ❌ 报告市值必须为正数（当前为 {r}），无法验算")
+        return False
+
     calculated = _CTX.multiply(p, s)
-    deviation = abs(float(calculated - r) / float(r)) * 100 if r != 0 else 0
+    deviation = abs(float(calculated - r) / float(r)) * 100
 
     print("=" * 60)
     print("市值验算 (Market Cap Verification)")
@@ -196,9 +203,13 @@ def cross_validate(field_name, source_values: dict, unit="", tolerance_pct=2.0):
     print(f"  参考中位数: {fmt_number(exact(median))} {unit}")
     print()
 
+    if median <= 0:
+        print(f"  ❌ 参考中位数 ≤ 0（{fmt_number(exact(median))} {unit}），无法交叉验证")
+        return {"consensus": median, "all_consistent": False}
+
     all_ok = True
     for src, val in values.items():
-        dev = abs(float(val) - median) / median * 100 if median != 0 else 0
+        dev = abs(float(val) - median) / median * 100
         status = "✅" if dev <= tolerance_pct else "❌"
         if dev > tolerance_pct:
             all_ok = False
@@ -213,7 +224,7 @@ def cross_validate(field_name, source_values: dict, unit="", tolerance_pct=2.0):
 
     # Consensus value
     consensus = median
-    print(f"\n  共识值 (加权中位数): {fmt_number(exact(consensus))} {unit}")
+    print(f"\n  共识值 (中位数): {fmt_number(exact(consensus))} {unit}")
     return {"consensus": consensus, "all_consistent": all_ok}
 
 
@@ -351,10 +362,12 @@ def three_scenario_valuation(current_price, current_eps, shares_billion,
 
     print(f"  当前股价: {p} {currency}")
     print(f"  当前EPS:  {eps}")
+    print(f"  总股本:   {shares}亿股")
+    print(f"  当前市值: {fmt_number(_CTX.multiply(p, shares))}{currency}（股价×亿股=亿{currency}）")
     print(f"  预测期:   {years}年")
     print()
-    print(f"  {'情景':12} {'年增速':>8} {'目标PE':>8} {'目标EPS':>10} {'目标股价':>10} {'涨跌幅':>8}")
-    print(f"  {'-'*12} {'-'*8} {'-'*8} {'-'*10} {'-'*10} {'-'*8}")
+    print(f"  {'情景':12} {'年增速':>8} {'目标PE':>8} {'目标EPS':>10} {'目标股价':>10} {'目标市值(亿)':>12} {'涨跌幅':>8}")
+    print(f"  {'-'*12} {'-'*8} {'-'*8} {'-'*10} {'-'*10} {'-'*12} {'-'*8}")
 
     for name, growth, pe in scenarios:
         g = exact(growth)
@@ -364,10 +377,11 @@ def three_scenario_valuation(current_price, current_eps, shares_billion,
         for _ in range(years):
             future_eps = _CTX.multiply(future_eps, _CTX.add(Decimal("1"), g))
         target_price = _CTX.multiply(future_eps, target_pe)
+        target_mc = _CTX.multiply(target_price, shares)
         change = float(target_price - p) / float(p) * 100
 
         print(f"  {name:12} {float(g)*100:>7.0f}% {float(target_pe):>7.0f}x "
-              f"{float(future_eps):>10.2f} {float(target_price):>9.1f} {change:>+7.1f}%")
+              f"{float(future_eps):>10.2f} {float(target_price):>9.1f} {float(target_mc):>12.1f} {change:>+7.1f}%")
 
     print()
     print("  ✅ 所有计算使用精确十进制, 结果可审计复现")
@@ -439,18 +453,21 @@ Examples:
     args = parser.parse_args()
 
     if args.command == "verify-market-cap":
-        verify_market_cap(args.price, args.shares, args.reported, args.currency)
+        ok = verify_market_cap(args.price, args.shares, args.reported, args.currency)
+        sys.exit(0 if ok else 1)
     elif args.command == "verify-valuation":
         verify_valuation(args.price, args.eps, args.bvps, args.fcf_per_share,
                         args.dividend, args.revenue_per_share)
     elif args.command == "cross-validate":
         values = json.loads(args.values)
-        cross_validate(args.field, values, args.unit, args.tolerance)
+        result = cross_validate(args.field, values, args.unit, args.tolerance)
+        sys.exit(0 if result["all_consistent"] else 1)
     elif args.command == "benford":
         values = json.loads(args.values)
         benford_check(values)
     elif args.command == "calc":
-        exact_calc(args.expr)
+        result = exact_calc(args.expr)
+        sys.exit(0 if result is not None else 1)
     elif args.command == "three-scenario":
         three_scenario_valuation(
             args.price, args.eps, args.shares,
