@@ -31,10 +31,11 @@ validation tools. Keep compatibility with Claude Code, Codex, TRAE, DSH
   project-level plugin skills. Generated from `skills/*.md`; do not edit
   manually. Qoder discovers these via `.qoder/plugins/` (enabled in
   `.qoder/settings.json`).
-- `.qoder/skills/*/SKILL.md`: Qoder project-level standalone skills.
-  Web search uses the ddg-search MCP (fixed params: `max_results=20`,
-  `region="us-en"`); the former open-websearch MCP was removed on
-  2026-08-20.
+- `.qoder/skills/*/SKILL.md`: Qoder project-level standalone skills
+  (e.g. `repo-health-audit`, the repo engineering-health audit workflow).
+  Hand-written, Qoder-only. Web search uses the ddg-search MCP (fixed
+  params: `max_results=20`, `region="us-en"`); the former open-websearch
+  MCP was removed on 2026-08-20.
 - `.zcode/config.json`: ZCode workspace hooks. Registers the same
   `scripts/*.sh` hook programs Claude Code uses (skill enforcement, skill and
   search trackers, workflow gate, learnings digest) with
