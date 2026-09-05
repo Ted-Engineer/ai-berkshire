@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
-"""Generate Qoder project-level plugin skills from AI Berkshire canonical sources.
+"""Generate Qoder skills from AI Berkshire canonical sources.
 
 Canonical source: skills/*.md
-Output:          .qoder/plugins/ai-berkshire-investment/skills/<name>/SKILL.md
+Outputs:
+  .qoder/skills/<name>/SKILL.md                                   (discovery path)
+  .qoder/plugins/ai-berkshire-investment/skills/<name>/SKILL.md   (plugin mirror)
 
-Qoder discovers project-level plugin skills via .qoder/plugins/<plugin>/skills/
-(enabled in .qoder/settings.json). This mirrors scripts/sync-codex-skills.py,
-scripts/sync-trae-skills.py, scripts/sync-dsh-skills.py, and
-scripts/sync-zcode-skills.py so Claude Code, Codex, TRAE, DSH, ZCode, and Qoder
-users share one canonical workflow defined in skills/*.md.
+.qoder/skills/ 是 Qoder 实际发现项目级技能的路径（实测无需注册即出现在技能列表）。
+插件镜像保留给 plugin 打包/hook 场景；两处内容一致，均从 skills/*.md 生成，勿手改。
+This mirrors the codex/trae/dsh/zcode generators so all runtimes share one
+canonical workflow defined in skills/*.md.
+
+Note: .qoder/skills/ may also contain hand-written Qoder-only skills (e.g.
+repo-health-audit); this script only writes its own 22 and never touches them.
 
 Usage:
   python3 scripts/sync-qoder-skills.py          # generate/update
@@ -23,7 +27,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CLAUDE_SKILLS = ROOT / "skills"
+QODER_STANDALONE_SKILLS = ROOT / ".qoder" / "skills"
 QODER_PLUGIN_SKILLS = ROOT / ".qoder" / "plugins" / "ai-berkshire-investment" / "skills"
+OUTPUT_ROOTS = [QODER_STANDALONE_SKILLS, QODER_PLUGIN_SKILLS]
 
 # ---------------------------------------------------------------------------
 # Per-skill Chinese descriptions (what + when-to-invoke).
@@ -154,7 +160,8 @@ def main() -> None:
         raise SystemExit(f"Unknown argument(s): {', '.join(unknown_args)}")
 
     if not check:
-        QODER_PLUGIN_SKILLS.mkdir(parents=True, exist_ok=True)
+        for out_root in OUTPUT_ROOTS:
+            out_root.mkdir(parents=True, exist_ok=True)
 
     count = 0
     stale: list[str] = []
@@ -165,33 +172,34 @@ def main() -> None:
         # Strip existing frontmatter (if any, e.g. news-pulse.md)
         _, body = split_frontmatter(source_text)
 
-        target_dir = QODER_PLUGIN_SKILLS / name
-        target = target_dir / "SKILL.md"
         content = (
             qoder_frontmatter(name)
             + body.rstrip()
             + "\n"
         )
 
-        if check:
-            if not target.exists() or target.read_text(encoding="utf-8") != content:
-                stale.append(str(target.relative_to(ROOT)))
-        else:
-            target_dir.mkdir(parents=True, exist_ok=True)
-            target.write_text(content, encoding="utf-8")
+        for out_root in OUTPUT_ROOTS:
+            target_dir = out_root / name
+            target = target_dir / "SKILL.md"
+            if check:
+                if not target.exists() or target.read_text(encoding="utf-8") != content:
+                    stale.append(str(target.relative_to(ROOT)))
+            else:
+                target_dir.mkdir(parents=True, exist_ok=True)
+                target.write_text(content, encoding="utf-8")
 
         count += 1
 
     if check:
         if stale:
-            print("Qoder plugin skills are out of date:")
+            print("Qoder skills are out of date:")
             for path in stale:
                 print(f"  {path}")
             raise SystemExit(1)
-        print(f"Checked {count} Qoder plugin skills in {QODER_PLUGIN_SKILLS.relative_to(ROOT)}")
+        print(f"Checked {count} Qoder skills in .qoder/skills + plugin mirror")
         return
 
-    print(f"Generated {count} Qoder plugin skills in {QODER_PLUGIN_SKILLS.relative_to(ROOT)}")
+    print(f"Generated {count} Qoder skills in .qoder/skills + plugin mirror")
 
 
 if __name__ == "__main__":

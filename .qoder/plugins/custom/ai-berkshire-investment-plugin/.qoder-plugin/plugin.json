@@ -9,5 +9,28 @@
   "keywords": ["qoder-plugin", "skill", "investment", "value-investing"],
   "category": "developer-tools",
   "tags": ["skill", "investment"],
-  "skills": "./skills/"
+  "skills": [
+    "./skills/bottleneck-hunter",
+    "./skills/daily-brief",
+    "./skills/deep-company-series",
+    "./skills/dyp-ask",
+    "./skills/earnings-review",
+    "./skills/earnings-team",
+    "./skills/financial-data",
+    "./skills/income-investment",
+    "./skills/industry-funnel",
+    "./skills/industry-research",
+    "./skills/investment-checklist",
+    "./skills/investment-research",
+    "./skills/investment-team",
+    "./skills/management-deep-dive",
+    "./skills/news-pulse",
+    "./skills/portfolio-rebalance",
+    "./skills/portfolio-review",
+    "./skills/private-company-research",
+    "./skills/quality-screen",
+    "./skills/thesis-drift",
+    "./skills/thesis-tracker",
+    "./skills/wechat-article"
+  ]
 }

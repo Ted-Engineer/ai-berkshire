@@ -91,13 +91,13 @@ python scripts/sync-codex-skills.py        # 同步 codex-skills/
 python scripts/sync-trae-skills.py         # 同步 .trae/skills/（TRAE 项目级 skill）
 python scripts/sync-dsh-skills.py          # 同步 .dsh/skills/（DSH 项目级 skill，rank 100）
 python scripts/sync-zcode-skills.py        # 同步 .zcode/skills/（ZCode 工作区级 skill）
-python scripts/sync-qoder-skills.py        # 同步 .qoder/plugins/ai-berkshire-investment/skills/
+python scripts/sync-qoder-skills.py        # 同步 .qoder/skills/（发现路径）+ .qoder/plugins 镜像
 python scripts/sync-codex-prompts.py       # 同步 codex-prompts/（可选）
 python scripts/sync-codex-skills.py --check  # 仅检查不写入
 python scripts/sync-trae-skills.py --check   # 仅检查 TRAE skill 不写入
 python scripts/sync-dsh-skills.py --check    # 仅检查 DSH skill 不写入
 python scripts/sync-zcode-skills.py --check  # 仅检查 ZCode skill 不写入
-python scripts/sync-qoder-skills.py --check  # 仅检查 Qoder plugin skill 不写入
+python scripts/sync-qoder-skills.py --check  # 仅检查 Qoder skill 不写入
 ```
 
 ---
@@ -158,12 +158,12 @@ python scripts/sync-codex-skills.py         # 同步到 codex-skills/
 python scripts/sync-trae-skills.py          # 同步到 .trae/skills/（TRAE 项目级 skill）
 python scripts/sync-dsh-skills.py           # 同步到 .dsh/skills/（DSH 项目级 skill，rank 100）
 python scripts/sync-zcode-skills.py         # 同步到 .zcode/skills/（ZCode 工作区级 skill）
-python scripts/sync-qoder-skills.py         # 同步到 .qoder/plugins/ai-berkshire-investment/skills/
+python scripts/sync-qoder-skills.py         # 同步到 .qoder/skills/ + .qoder/plugins 镜像
 python scripts/sync-codex-skills.py --check # 仅检查
 python scripts/sync-trae-skills.py --check  # 仅检查 TRAE skill
 python scripts/sync-dsh-skills.py --check   # 仅检查 DSH skill
 python scripts/sync-zcode-skills.py --check # 仅检查 ZCode skill
-python scripts/sync-qoder-skills.py --check # 仅检查 Qoder plugin skill
+python scripts/sync-qoder-skills.py --check # 仅检查 Qoder skill
 ```
 
 ### 工具验证
