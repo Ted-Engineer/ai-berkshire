@@ -1,6 +1,6 @@
 ---
 name: thesis-drift
-description: "AI Berkshire skill: 投资论文漂移检测：分清事实变化与措辞变化. Source: skills/thesis-drift.md."
+description: "投资论文漂移检测:区分事实变化与措辞变化,判定论文是否仍有效。当用户想检查对某公司的投资论文是否仍然成立时调用。"
 ---
 
 ## Codex adapter note

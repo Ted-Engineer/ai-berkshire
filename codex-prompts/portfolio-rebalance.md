@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 组合调仓：全流程调仓研究与操作信号."
+description: "组合调仓全流程:持仓重研+行业分布体检+全市场候选扫描(300只)+双重准入验证,产出操作信号。当用户想做周期性调仓决策、生成买卖方案时调用(全量/lite/子集三种模式)。"
 argument-hint: $ARGUMENTS
 ---
 

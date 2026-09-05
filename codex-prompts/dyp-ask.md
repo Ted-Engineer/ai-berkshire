@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 段永平问答：以他的方式思考."
+description: "段永平问答:扮演段永平(大道至简)本人,用他的思想体系回答投资问题。当用户想以段永平视角讨论投资决策、生意模式时调用。"
 argument-hint: $ARGUMENTS
 ---
 

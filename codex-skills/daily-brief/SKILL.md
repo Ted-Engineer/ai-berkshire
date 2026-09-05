@@ -1,6 +1,6 @@
 ---
 name: daily-brief
-description: "AI Berkshire skill: 每日投研简报：行情+新闻+组合监控+操作信号. Source: skills/daily-brief.md."
+description: "每日投研简报:行情+新闻+组合监控+操作信号,无参数时自动读取 portfolio-latest.md。当用户想做每日投研工作流、早间简报时调用。"
 ---
 
 ## Codex adapter note

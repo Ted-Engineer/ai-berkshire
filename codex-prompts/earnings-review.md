@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 财报精读：一手资料深度解读."
+description: "财报精读:从一手资料(10-K/10-Q/年报PDF)深度解读财报。当用户想精读一家公司最新季报/年报时调用。"
 argument-hint: $ARGUMENTS
 ---
 

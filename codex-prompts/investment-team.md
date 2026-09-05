@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 投研团队：四角色并行分析框架."
+description: "投研团队:四角色(段永平/巴菲特/芒格/李录)并行分析框架,产出综合研究报告。当用户想用多Agent并行协作方式深度分析一家公司时调用。"
 argument-hint: $ARGUMENTS
 ---
 

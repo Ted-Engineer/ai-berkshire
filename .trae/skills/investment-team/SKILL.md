@@ -12,7 +12,7 @@ This skill is generated from `skills/investment-team.md` so Claude Code, Codex, 
   - `Bash` / shell commands → TRAE `RunCommand` (PowerShell).
   - `TeamCreate` / `TaskCreate` / `TaskUpdate` → TRAE `Task` tool (subagent types: general_purpose_task, Explore, Plan).
   - `WebSearch` permission pre-check (`.claude/settings.local.json`) → **Not needed in TRAE**: WebSearch is always available, no permission white-list required.
-  - `python tools/xxx.py` → TRAE can use `python tools/xxx.py` or `python tools/xxx.py` from the repository root. Run commands from the repo root (f:\ai-berkshire) with `RunCommand`.
+  - `python tools/xxx.py` → run from the repository root (the checkout containing this skill) with `RunCommand`.
   - `Read` / `Write` / `SearchReplace` / `Glob` / `Grep` → Same tools available in TRAE.
   - `WebFetch` / `WebSearch` → Same tools available in TRAE.
   - `Skill` tool → Same in TRAE (for invoking other AI Berkshire skills).

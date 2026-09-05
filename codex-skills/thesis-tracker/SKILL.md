@@ -1,6 +1,6 @@
 ---
 name: thesis-tracker
-description: "AI Berkshire skill: 投资论文追踪：买入后的纪律系统. Source: skills/thesis-tracker.md."
+description: "投资论文追踪:买入后的纪律维护系统,持续跟踪核心论据是否被破坏。当用户想持续监控已持有公司的核心投资逻辑时调用。"
 ---
 
 ## Codex adapter note

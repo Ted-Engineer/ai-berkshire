@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 巴菲特价值投资买入前 Checklist."
+description: "巴菲特价值投资买入前Checklist:六关筛选框架(生意模式/护城河/管理层/财务/估值/安全边际)。当用户想按巴菲特标准验证一家公司是否值得买入时调用。"
 argument-hint: $ARGUMENTS
 ---
 

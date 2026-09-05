@@ -7,6 +7,11 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+# 共享 per-skill 中文描述（what + when-to-invoke），单一事实源。
+from _skill_descriptions import SKILL_DESCRIPTIONS as DSH_DESCRIPTIONS
+
 
 ROOT = Path(__file__).resolve().parents[1]
 CLAUDE_SKILLS = ROOT / "skills"
@@ -36,29 +41,18 @@ def yaml_quote(value: str) -> str:
 
 def metadata_for(name: str, source_name: str, source_text: str) -> str:
     existing, body = split_frontmatter(source_text)
-    if existing:
-        has_name = re.search(r"(?m)^name:\s*", existing) is not None
-        has_description = re.search(r"(?m)^description:\s*", existing) is not None
-        lines = []
-        if not has_name:
-            lines.append(f"name: {name}")
-        if not has_description:
-            title = first_heading(body, name)
-            lines.append(
-                "description: "
-                + yaml_quote(f"AI Berkshire skill: {title}. Source: skills/{source_name}.")
-            )
-        lines.append(existing.rstrip())
-        return "---\n" + "\n".join(lines) + "\n---\n\n"
+    title = first_heading(body if existing else source_text, name)
+    description = DSH_DESCRIPTIONS.get(name) or f"AI Berkshire skill: {title}. Source: skills/{source_name}."
 
-    title = first_heading(source_text, name)
-    description = f"AI Berkshire skill: {title}. Source: skills/{source_name}."
-    return (
-        "---\n"
-        f"name: {name}\n"
-        f"description: {yaml_quote(description)}\n"
-        "---\n\n"
-    )
+    # 统一输出 name + description（dict 优先），源文件自带的其他 frontmatter 键原样保留
+    lines = [f"name: {name}", "description: " + yaml_quote(description)]
+    if existing:
+        for line in existing.rstrip().splitlines():
+            if re.match(r"^name:\s*", line) or re.match(r"^description:\s*", line):
+                continue
+            if line.strip():
+                lines.append(line)
+    return "---\n" + "\n".join(lines) + "\n---\n\n"
 
 
 def codex_body(name: str, source_name: str, source_text: str) -> str:

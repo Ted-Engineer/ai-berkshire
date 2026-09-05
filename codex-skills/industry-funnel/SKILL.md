@@ -1,6 +1,6 @@
 ---
 name: industry-funnel
-description: "AI Berkshire skill: 行业漏斗筛选：从全市场到 3 家的价值投资精选流程. Source: skills/industry-funnel.md."
+description: "行业漏斗筛选:从全市场到3家终选标的的价值投资精选流程。当用户想对某个行业/方向执行漏斗式筛选、从海量标的缩小到核心候选时调用。"
 ---
 
 ## Codex adapter note

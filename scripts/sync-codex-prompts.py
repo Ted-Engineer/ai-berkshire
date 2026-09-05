@@ -10,6 +10,11 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+# 共享 per-skill 中文描述，与各运行时保持一致（单一事实源）
+from _skill_descriptions import SKILL_DESCRIPTIONS as DSH_DESCRIPTIONS
+
 
 ROOT = Path(__file__).resolve().parents[1]
 CLAUDE_SKILLS = ROOT / "skills"
@@ -42,7 +47,7 @@ def prompt_for(source: Path) -> str:
     source_text = source.read_text(encoding="utf-8")
     _, body = split_frontmatter(source_text)
     title = first_heading(body, name)
-    description = f"AI Berkshire slash entry for {title}."
+    description = DSH_DESCRIPTIONS.get(name) or f"AI Berkshire slash entry for {title}."
     return (
         "---\n"
         f"description: {yaml_quote(description)}\n"

@@ -1,6 +1,6 @@
 ---
 name: private-company-research
-description: "AI Berkshire skill: 未上市公司研究：多Agent并行深度研究框架. Source: skills/private-company-research.md."
+description: "未上市公司研究:多Agent并行深度研究框架,专为未上市/Pre-IPO公司设计。当用户想研究蚂蚁集团、小红书、SpaceX等未上市公司的投资价值时调用。"
 ---
 
 ## Codex adapter note

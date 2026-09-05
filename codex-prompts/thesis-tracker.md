@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 投资论文追踪：买入后的纪律系统."
+description: "投资论文追踪:买入后的纪律维护系统,持续跟踪核心论据是否被破坏。当用户想持续监控已持有公司的核心投资逻辑时调用。"
 argument-hint: $ARGUMENTS
 ---
 

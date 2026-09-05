@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for 管理层纵深研究：买股票就是买人."
+description: "管理层纵深研究:评估管理层能力、诚信、资本配置记录与激励机制。当用户想评估一家公司「人」的层面——管理层质量时调用。"
 argument-hint: $ARGUMENTS
 ---
 

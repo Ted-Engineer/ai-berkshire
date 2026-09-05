@@ -1,6 +1,6 @@
 ---
 name: portfolio-review
-description: "AI Berkshire skill: 组合管理：从\"研究公司\"到\"管理组合\". Source: skills/portfolio-review.md."
+description: "组合管理:从「研究公司」到「管理组合」——审视持仓结构、集中度风险、再平衡方案。当用户想评估当前投资组合的健康状况、是否需要调仓时调用。"
 ---
 
 ## Codex adapter note
