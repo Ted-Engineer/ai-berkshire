@@ -270,7 +270,7 @@ python3 tools/terminal_value.py irr \
 1. 所有分析必须有数据支撑，附数据来源
 2. 使用 Markdown 表格呈现关键数据
 3. 每个模块末尾必须有对应大师的"追问"
-4. 最终将完整报告写入 `~/[公司名]投资研究报告.md`
+4. 最终将完整报告写入 `reports/{公司名}/{公司名}-research-{YYYYMMDD}.md`
 5. 结论要明确，不回避给出买入/观望/回避的建议
 6. 估值部分必须给出具体的价格区间
 7. **报告开头**必须包含"信息丰富度评级"（A/B/C）和"AI研究局限性声明"
@@ -317,3 +317,17 @@ python3 tools/terminal_value.py audit \
 - **【打回】**（退出码 1）→ 修正后重跑，直到准出
 
 **这一步不能跳过的原因**：第七步的 audit 是在算数之前做的，而写报告的过程中经常会回头调 g 或 r。**准出前的最后一次 audit 才是对报告负责的那一次。**
+
+**Step 5 — 独立复核（美股标的建议执行，防自我验证）：**
+
+`report_audit.py` 的 `fetched_value` 由写报告的同一个模型回填，存在"自己验自己"的缺口。
+美股标的关键年度数据（收入/净利/EPS/回购/SBC）可用 `tools/indep_audit.py` 直接从
+SEC EDGAR XBRL 原始事实独立复核：
+
+```bash
+# 1) 把报告中的关键声称值写成 claims 文件（label/ticker/tag/value/scale，标签参考工具头部注释）
+# 2) 跑独立复核（退出码 0 = 无 FAIL）
+python tools/indep_audit.py --claims /tmp/claims-{公司}.json
+```
+
+有 FAIL（偏差 > 2%）→ 与 report_audit 打回同等处理：修正后重跑。

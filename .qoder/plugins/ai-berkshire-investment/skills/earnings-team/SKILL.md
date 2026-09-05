@@ -114,7 +114,7 @@ description: "财报精读团队:四大师并行解读财报,编辑润色,读者
 
    ```bash
    python tools/financial_rigor.py cross-validate \
-     --metric "revenue" --values {值1} {值2} --sources "来源1" "来源2"
+     --field "revenue" --values '{"来源1": 值1, "来源2": 值2}' --unit USD
    ```
 
 2. **现金流分析（最重要）**

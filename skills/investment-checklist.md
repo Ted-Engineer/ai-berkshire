@@ -288,7 +288,7 @@ python tools/financial_rigor.py three-scenario \
 
 **触发价登记**：凡结论为"等价格/触发价买入/触发价加仓"的标的，须同步登记到 `config/watchlist.md`（标的、触发价区间、研究日期、一句话理由），供 daily-brief 每日扫描。漏登=下次踏空无人提醒（8-13 NBIS教训）。
 
-将完整报告写入 `~/巴菲特Checklist-[公司名或"多公司对比"].md`
+将完整报告写入 `reports/{公司名}/{公司名}-checklist-{YYYYMMDD}.md`（多公司对比写入 `reports/多公司对比-checklist-{YYYYMMDD}.md`）
 
 ## 输出格式要求
 
