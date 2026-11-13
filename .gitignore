@@ -41,3 +41,4 @@ reports/portfolio-latest.md
 
 # 阅读站点构建产物（由 tools/build_site.py 生成）
 site/
+dist/

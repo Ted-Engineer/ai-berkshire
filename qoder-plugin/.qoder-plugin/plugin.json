@@ -1,0 +1,7 @@
+{
+  "name": "ai-berkshire",
+  "version": "0.1.0",
+  "description": "AI Berkshire 投研框架：四大师+战术双模式 23 个投研 skills，捆绑精确算术、SEC 独立审计、实时行情与流程门禁工具",
+  "author": { "name": "Ted-Engineer" },
+  "keywords": ["qoder-plugin", "investment-research", "ai-berkshire"]
+}

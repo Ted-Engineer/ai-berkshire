@@ -24,6 +24,9 @@ validation tools. Keep compatibility with Claude Code, Codex, and Qoder users.
 - `scripts/install-qoder-skills.sh` / `scripts/install-qoder-skills.bat`:
   regenerates `codex-skills/` and installs every package into Qoder
   (`~/.qoder/skills/<name>/SKILL.md`).
+- `qoder-plugin/`: Qoder plugin source (manifest + README; `skills/`,
+  `tools/`, `scripts/` are assembled). Build and package with
+  `scripts/build-qoder-plugin.sh` → `dist/ai-berkshire-plugin-<version>.zip`.
 
 ## Compatibility Rules
 
