@@ -1,7 +1,7 @@
-# AI Berkshire Codex Guide
+# AI Berkshire Codex/Qoder Guide
 
 This repository contains investment research workflows, reports, and shared
-validation tools. Keep compatibility with both Claude Code and Codex users.
+validation tools. Keep compatibility with Claude Code, Codex, and Qoder users.
 
 ## Project Layout
 
@@ -21,6 +21,9 @@ validation tools. Keep compatibility with both Claude Code and Codex users.
   installs generated Codex slash prompts locally.
 - `scripts/install-claude-commands.sh` / `scripts/install-claude-commands.bat`:
   installs Claude Code commands locally.
+- `scripts/install-qoder-skills.sh` / `scripts/install-qoder-skills.bat`:
+  regenerates `codex-skills/` and installs every package into Qoder
+  (`~/.qoder/skills/<name>/SKILL.md`).
 
 ## Compatibility Rules
 
@@ -36,8 +39,17 @@ validation tools. Keep compatibility with both Claude Code and Codex users.
   intentionally adopting the workflow for Claude Code too.
 - Keep tool paths compatible with the documented checkout path:
   `~/ai-berkshire/tools/...`
+- Qoder users: run `scripts/install-qoder-skills.sh` (or `.bat`) after any
+  `skills/` change. Qoder consumes the same generated packages as Codex
+  (`codex-skills/*/SKILL.md` → `~/.qoder/skills/<name>/SKILL.md`) and loads
+  them in new chat sessions. On hosts without a `python3` alias (common on
+  Windows), the install scripts and skill commands fall back to `python`.
+- Qoder behaves like the Codex runtime for these skills: the generated
+  adapter note maps Claude-only surfaces (Task/Agent/WebSearch) onto the
+  closest Qoder capability (subagents, web search, shell, file edits), and
+  `$ARGUMENTS` is the user's request in the current Qoder thread.
 - Keep `CLAUDE.md` for Claude Code behavior and this `AGENTS.md` for Codex
-  behavior.
+  and Qoder behavior.
 
 ## Research Quality Rules
 
