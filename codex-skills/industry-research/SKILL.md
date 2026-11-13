@@ -1,6 +1,6 @@
 ---
 name: industry-research
-description: "AI Berkshire skill: 行业投资研究：产业链全景扫描 + 四大师个股分析框架. Source: skills/industry-research.md."
+description: "行业投资研究:产业链全景扫描,结合四大师视角进行个股分析。当用户想系统化研究一个行业的上中下游全貌时调用。"
 ---
 
 ## Codex adapter note
@@ -259,7 +259,7 @@ This skill is generated from `skills/industry-research.md` so Claude Code and Co
 3. 产业链全景图用代码块的文本图表示
 4. 每个环节至少分析2-3家头部公司
 5. 全球公司扫描要尽可能完整（A股/港股/美股/国际）
-6. 最终将完整报告写入 `~/[行业名]产业链投资研究报告.md`
+6. 最终将完整报告写入 `reports/{行业名}-industry-{YYYYMMDD}.md`
 7. 结论要明确，给出具体的标的、仓位和价格区间建议
 8. 每个分析模块末尾有对应大师的"追问"
 
@@ -269,13 +269,13 @@ This skill is generated from `skills/industry-research.md` so Claude Code and Co
 
 ```bash
 # Step 1 — 提取抽检清单（15%随机抽样）
-python3 tools/report_audit.py extract \
+python tools/report_audit.py extract \
   --report <报告文件路径>
 
 # Step 2 — 对清单每项从可靠信源取数（参见 skills/financial-data.md）
 
 # Step 3 — 输出准出/打回判决
-python3 tools/report_audit.py verdict \
+python tools/report_audit.py verdict \
   --results '<填好的JSON>' \
   --report <报告文件名>
 ```

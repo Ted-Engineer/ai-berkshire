@@ -1,6 +1,6 @@
 ---
 name: investment-research
-description: "AI Berkshire skill: 投资研究：巴菲特-芒格-段永平-李录 四大师综合分析框架. Source: skills/investment-research.md."
+description: "投资研究:巴菲特-芒格-段永平-李录四大师综合分析框架。当用户想对一家公司进行全套投资研究时调用。"
 ---
 
 ## Codex adapter note
@@ -82,20 +82,20 @@ This skill is generated from `skills/investment-research.md` so Claude Code and 
 
 Step 1 — 市值验算（精确十进制，非浮点）：
 ```bash
-python3 tools/financial_rigor.py verify-market-cap \
+python tools/financial_rigor.py verify-market-cap \
   --price {股价} --shares {总股本} --reported {报告市值} --currency {币种}
 ```
 
 Step 2 — 关键数据多源交叉验证：
 ```bash
-python3 tools/financial_rigor.py cross-validate \
+python tools/financial_rigor.py cross-validate \
   --field {字段名} --values '{"来源1": 数值, "来源2": 数值}' --unit {单位}
 ```
 对收入、净利润、现金储备分别执行。
 
 Step 3 — 估值指标精确验算（PE/PB/ROE/FCF Yield 等）：
 ```bash
-python3 tools/financial_rigor.py verify-valuation \
+python tools/financial_rigor.py verify-valuation \
   --price {股价} --eps {EPS} --bvps {每股净资产} --fcf-per-share {每股FCF} --dividend {每股股息}
 ```
 
@@ -177,7 +177,7 @@ python3 tools/financial_rigor.py verify-valuation \
 - 反向DCF：当前股价隐含了什么增长预期？
 - 三情景估值 —— **必须通过工具精确计算，禁止心算**：
 ```bash
-python3 tools/financial_rigor.py three-scenario \
+python tools/financial_rigor.py three-scenario \
   --price {股价} --eps {EPS} --shares {总股本亿} \
   --growth {乐观增速} {中性增速} {悲观增速} \
   --pe {乐观PE} {中性PE} {悲观PE} --years 3 --currency {币种}
@@ -219,7 +219,7 @@ $$PE_{终值} = \frac{1 - g/ROIC}{r - g}$$
 **Step 2 — 三条硬约束准出检查（不通过不许把估值写进报告）：**
 
 ```bash
-python3 tools/terminal_value.py audit \
+python tools/terminal_value.py audit \
   --currency {CNY|USD|HKD} --r {资本成本} --roic {稳态ROIC} \
   --g {悲观g},{基准g},{乐观g} --rf {无风险利率} --beta 1.0 \
   --discrete-risks "{风险名}:{情景|尾部档|概率|未建模},..."
@@ -241,10 +241,10 @@ python3 tools/terminal_value.py audit \
 
 ```bash
 # 单点退出 PE，打印完整算式（留存率/分子/分母全部展开，便于报告引用）
-python3 tools/terminal_value.py pe --roic {ROIC} --g {g} --r {r}
+python tools/terminal_value.py pe --roic {ROIC} --g {g} --r {r}
 
 # 从零算 IRR
-python3 tools/terminal_value.py irr \
+python tools/terminal_value.py irr \
   --profit {终值年利润} --mcap {今日市值} --pe {退出PE} \
   --years 10 --payout {股息率-稀释率}
 ```
@@ -257,18 +257,18 @@ python3 tools/terminal_value.py irr \
 2. **r±2pp 敏感性与结论是否翻转（硬约束，写买入/持有/回避之前必须跑）**：
    ```bash
    # 内置预设公司（腾讯/阿里巴巴/拼多多/贵州茅台/泡泡玛特/美团/MiniMax）
-   python3 tools/terminal_value.py flip \
+   python tools/terminal_value.py flip \
      --name {预设公司名} --r {基准r} --delta 0.02 \
      --currency {CNY|USD|HKD} --g-shift {币种平移} --rf {无风险利率}
 
    # 新公司：内联参数（字段含义同下方 --config）
-   python3 tools/terminal_value.py flip \
+   python tools/terminal_value.py flip \
      --name {公司名} --roic {稳态ROIC} --g {悲观g},{基准g},{乐观g} \
      --p {悲观概率},{基准概率},{乐观概率} --irr10={悲观},{基准},{乐观} --k {股息率-稀释率} \
      --r {基准r} --delta 0.02 --currency {CNY|USD|HKD} --g-shift {币种平移} --rf {无风险利率}
 
    # 新公司：或写成 JSON 传 --config（多家公司可写在同一文件，--name 取其中的键）
-   python3 tools/terminal_value.py flip --config {配置.json} --name {公司名} \
+   python tools/terminal_value.py flip --config {配置.json} --name {公司名} \
      --r {基准r} --delta 0.02 --currency {CNY|USD|HKD} --g-shift {币种平移} --rf {无风险利率}
    ```
    `--config` 文件格式（与内置预设字段一致，`k` 可省略，默认 0）：
@@ -346,7 +346,7 @@ python3 tools/terminal_value.py irr \
 1. 所有分析必须有数据支撑，附数据来源
 2. 使用 Markdown 表格呈现关键数据
 3. 每个模块末尾必须有对应大师的"追问"
-4. 最终将完整报告写入 `~/[公司名]投资研究报告.md`
+4. 最终将完整报告写入 `reports/{公司名}/{公司名}-research-{YYYYMMDD}.md`
 5. 结论要明确，不回避给出买入/观望/回避的建议
 6. 估值部分必须给出具体的价格区间
 7. **报告开头**必须包含"信息丰富度评级"（A/B/C）和"AI研究局限性声明"
@@ -359,7 +359,7 @@ python3 tools/terminal_value.py irr \
 
 **Step 1 — 提取抽检清单（15%随机抽样）：**
 ```bash
-python3 tools/report_audit.py extract \
+python tools/report_audit.py extract \
   --report <报告文件路径>
 ```
 输出 JSON 模板，每项含 `fetched_value`（待填）。
@@ -371,7 +371,7 @@ python3 tools/report_audit.py extract \
 
 **Step 3 — 输出判决：**
 ```bash
-python3 tools/report_audit.py verdict \
+python tools/report_audit.py verdict \
   --results '<填好的JSON>' \
   --report <报告文件名>
 ```
@@ -384,7 +384,7 @@ python3 tools/report_audit.py verdict \
 如果报告里出现了十年期 IRR 或终值倍数，把最终定稿用的参数再跑一遍 audit，确认写进报告的数字与准出时的一致：
 
 ```bash
-python3 tools/terminal_value.py audit \
+python tools/terminal_value.py audit \
   --currency {币种} --r {r} --roic {ROIC} --g {三档g} --rf {无风险利率} \
   --beta {β} --discrete-risks "{风险归属清单}"
 ```
@@ -393,3 +393,17 @@ python3 tools/terminal_value.py audit \
 - **【打回】**（退出码 1）→ 修正后重跑，直到准出
 
 **这一步不能跳过的原因**：第七步的 audit 是在算数之前做的，而写报告的过程中经常会回头调 g 或 r。**准出前的最后一次 audit 才是对报告负责的那一次。**
+
+**Step 5 — 独立复核（美股标的建议执行，防自我验证）：**
+
+`report_audit.py` 的 `fetched_value` 由写报告的同一个模型回填，存在"自己验自己"的缺口。
+美股标的关键年度数据（收入/净利/EPS/回购/SBC）可用 `tools/indep_audit.py` 直接从
+SEC EDGAR XBRL 原始事实独立复核：
+
+```bash
+# 1) 把报告中的关键声称值写成 claims 文件（label/ticker/tag/value/scale，标签参考工具头部注释）
+# 2) 跑独立复核（退出码 0 = 无 FAIL）
+python tools/indep_audit.py --claims /tmp/claims-{公司}.json
+```
+
+有 FAIL（偏差 > 2%）→ 与 report_audit 打回同等处理：修正后重跑。
